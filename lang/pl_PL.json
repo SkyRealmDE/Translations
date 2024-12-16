@@ -4,13 +4,9 @@
     "menu.disconnect": ":skull_and_krzyżówki: Jestem zmęczony graniem",
     "connect.transferring": "Przenoszenie do innej instancji...",
     "skyrealm.transfer": "Zostaniesz przeniesiony do innej instancji...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s dołączył.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s dołączył.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "Witaj świat, %s!",
+    "skyrealm.messages.link.open": "Kliknij, aby otworzyć link",
+    "skyrealm.messages.command.run": "Kliknij, aby uruchomić polecenie"
 }
