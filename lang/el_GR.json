@@ -1,7 +1,7 @@
 {
     "deathScreen.quit.confirm": "Είστε βέβαιοι ότι θέλετε να σταματήσετε μετά από αυτό?",
-    "deathScreen.respawn": "Προσπαθήστε ξανά",
-    "menu.disconnect": "☠️ Έχω κουραστεί να παίζω",
-    "connect.transferring": "Μεταφορά σε άλλη περίπτωση...",
-    "skyrealm.transfer": "Θα μεταφερθείτε σε άλλη περίπτωση..."
+    "deathScreen.respawn": "Try again",
+    "menu.disconnect": "☠ I'm tired of playing",
+    "connect.transferring": "Transferring to another instance...",
+    "skyrealm.transfer": "You will be transferred to another instance..."
 }
