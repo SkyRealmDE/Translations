@@ -37,8 +37,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           # Einen Tag-Name generieren, z.B. mit der Build-Nummer
-          git tag "release-${{ github.run_number }}"
-          git push origin "release-${{ github.run_number }}"
+          TAG="v1.0.${{ github.run_number }}"
+          git tag $TAG
+          git push origin $TAG
 
       # Create a release. We're using the commit SHA as a tag. 
       # You might prefer a more meaningful tag_name in a real scenario.
