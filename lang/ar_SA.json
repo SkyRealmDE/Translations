@@ -1,7 +1,7 @@
 {
     "deathScreen.quit.confirm": "هل أنت متأكد أنك تريد الإقلاع عن التدخين بعد ذلك؟",
-    "deathScreen.respawn": "حاول مرة أخرى",
-    "menu.disconnect": "☠️ أنا متعب من اللعب",
-    "connect.transferring": "جارٍ الانتقال إلى حالة أخرى...",
-    "skyrealm.transfer": "سيتم نقلك إلى حالة أخرى..."
+    "deathScreen.respawn": "Try again",
+    "menu.disconnect": "☠ I'm tired of playing",
+    "connect.transferring": "Transferring to another instance...",
+    "skyrealm.transfer": "You will be transferred to another instance..."
 }
