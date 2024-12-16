@@ -3,5 +3,14 @@
     "deathScreen.respawn": "もう一度やり直してください",
     "menu.disconnect": "☠️ 遊ぶのに疲れた",
     "connect.transferring": "別のインスタンスに転送中...",
-    "skyrealm.transfer": "別のインスタンスに転送されます..."
+    "skyrealm.transfer": "別のインスタンスに転送されます...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s が参加しました。",
+            "quit": "%s quit."
+        },
+        "commands": {
+            "helloworld": "Hello world, %s!"
+        }
+    }
 }
