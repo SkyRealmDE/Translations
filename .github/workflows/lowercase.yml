@@ -49,8 +49,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.sha }}
-          release_name: "Build for commit ${{ github.sha }}"
+          tag_name: $TAG
+          release_name: "Build $TAG"
 
       # Upload the zipped file as a release asset
       - name: Upload Release Asset
