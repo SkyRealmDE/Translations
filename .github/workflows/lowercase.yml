@@ -1,0 +1,24 @@
+name: Lowercase
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Convert filenames in /lang to lowercase
+        run: |
+          for file in lang/*; do
+            # Extract just the filename, convert to lowercase
+            lowercase=$(basename "$file" | tr '[:upper:]' '[:lower:]')
+            if [ "$file" != "lang/$lowercase" ]; then
+              mv "$file" "lang/$lowercase"
+            fi
+          done
