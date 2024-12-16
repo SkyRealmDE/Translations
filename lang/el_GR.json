@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ Έχω κουραστεί να παίζω",
     "connect.transferring": "Μεταφορά σε άλλη περίπτωση...",
     "skyrealm.transfer": "Θα μεταφερθείτε σε άλλη περίπτωση...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s joined.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "Εντάχθηκε %s.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "Γεια σας, %s!",
+    "skyrealm.messages.link.open": "Κλικ για άνοιγμα συνδέσμου",
+    "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής"
 }
