@@ -7,6 +7,10 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
 
+
+permissions:
+  contents: write   # Allows pushing back to the repository
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,3 +26,12 @@ jobs:
               mv "$file" "lang/$lowercase"
             fi
           done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          # Only commit if there are changes
+          git diff --quiet --cached || git commit -m "Convert all /lang filenames to lowercase"
+          git push origin HEAD:${{ github.ref }}
