@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ ik ben het spelen moe",
     "connect.transferring": "Overdragen naar een andere instantie...",
     "skyrealm.transfer": "U wordt overgedragen aan een andere instantie...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s kwam binnen.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s kwam binnen.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "Hallo wereld, %s!",
+    "skyrealm.messages.link.open": "Klik om de link te openen",
+    "skyrealm.messages.command.run": "Klik om opdracht uit te voeren"
 }
