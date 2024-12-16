@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ Olen väsynyt pelaa",
     "connect.transferring": "Siirretään toiseen instanssiin...",
     "skyrealm.transfer": "Sinut siirretään toiseen instanssiin...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s joined.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s liittyi.",
+    "skyrealm.lobby.quit": "%s lopetti.",
+    "skyrealm.commands.helloworld": "Hei maailma, %s!",
+    "skyrealm.messages.link.open": "Avaa linkki napsauttamalla",
+    "skyrealm.messages.command.run": "Suorita komento napsauttamalla"
 }
