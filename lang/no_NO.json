@@ -3,5 +3,14 @@
     "deathScreen.respawn": "Prøv igjen",
     "menu.disconnect": ":skull_and_crossbons: Jeg er leket av",
     "connect.transferring": "Overfører til en annen forekomst...",
-    "skyrealm.transfer": "Du vil bli overført til en annen instans..."
+    "skyrealm.transfer": "Du vil bli overført til en annen instans...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s joined.",
+            "quit": "%s quit."
+        },
+        "commands": {
+            "helloworld": "Hello world, %s!"
+        }
+    }
 }

@@ -3,5 +3,14 @@
     "deathScreen.respawn": "Erneut versuchen",
     "menu.disconnect": "☠ Ich hab kein Bock mehr",
     "connect.transferring": "Übertragung in eine andere Instanz...",
-    "skyrealm.transfer": "Sie werden auf eine andere Instanz übertragen..."
+    "skyrealm.transfer": "Sie werden auf eine andere Instanz übertragen...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s ist beigetreten.",
+            "quit": "%s hat uns verlassen."
+        },
+        "commands": {
+            "helloworld": "Hallo Welt, %s!"
+        }
+    }
 }

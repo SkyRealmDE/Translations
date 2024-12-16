@@ -3,5 +3,14 @@
     "deathScreen.respawn": "再试一次",
     "menu.disconnect": ":skull_and_crossbon: 我已经厌倦了游戏",
     "connect.transferring": "正在传输到另一个实例...",
-    "skyrealm.transfer": "您将被转移到另一个实例..."
+    "skyrealm.transfer": "您将被转移到另一个实例...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s 已加入。",
+            "quit": "%s quit."
+        },
+        "commands": {
+            "helloworld": "Hello world, %s!"
+        }
+    }
 }

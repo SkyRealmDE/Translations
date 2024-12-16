@@ -3,5 +3,14 @@
     "deathScreen.respawn": "Zkuste to znovu",
     "menu.disconnect": "☠️ Už jsem unaven hrát",
     "connect.transferring": "Přenesení do jiné instance...",
-    "skyrealm.transfer": "Budete převedeni do jiné instance..."
+    "skyrealm.transfer": "Budete převedeni do jiné instance...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s joined.",
+            "quit": "%s quit."
+        },
+        "commands": {
+            "helloworld": "Hello world, %s!"
+        }
+    }
 }
