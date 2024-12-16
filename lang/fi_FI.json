@@ -1,7 +1,7 @@
 {
     "deathScreen.quit.confirm": "Oletko varma, että haluat lopettaa sen jälkeen?",
-    "deathScreen.respawn": "Yritä uudelleen",
-    "menu.disconnect": "☠️ Olen väsynyt pelaa",
-    "connect.transferring": "Siirretään toiseen instanssiin...",
-    "skyrealm.transfer": "Sinut siirretään toiseen instanssiin..."
+    "deathScreen.respawn": "Try again",
+    "menu.disconnect": "☠ I'm tired of playing",
+    "connect.transferring": "Transferring to another instance...",
+    "skyrealm.transfer": "You will be transferred to another instance..."
 }
