@@ -3,5 +3,14 @@
     "deathScreen.respawn": "Încercați din nou",
     "menu.disconnect": "☠️ M-am săturat să joc",
     "connect.transferring": "Se transferă într-o altă instanță...",
-    "skyrealm.transfer": "Vei fi transferat într-o altă instanță..."
+    "skyrealm.transfer": "Vei fi transferat într-o altă instanță...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s joined.",
+            "quit": "%s ieşire."
+        },
+        "commands": {
+            "helloworld": "Bună ziua lumea, %s!"
+        }
+    }
 }
