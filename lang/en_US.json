@@ -4,13 +4,7 @@
     "menu.disconnect": "☠ I'm tired of playing",
     "connect.transferring": "Transferring to another instance...",
     "skyrealm.transfer": "You will be transferred to another instance...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s joined.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s joined.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "Hello world, %s!"
 }
