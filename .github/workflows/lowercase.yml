@@ -25,11 +25,25 @@ jobs:
             fi
           done
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          # Only commit if there are changes
-          git diff --quiet --cached || git commit -m "Convert all /lang filenames to lowercase"
-          git push origin HEAD:${{ github.ref }}
+      # Zip the /lang directory into a file called lang_files.zip
+      - name: Create a ZIP of the lang files
+        run: zip -r lang_files.zip lang
+
+      # Create a release. We're using the commit SHA as a tag. 
+      # You might prefer a more meaningful tag_name in a real scenario.
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: ${{ github.sha }}
+          release_name: "Build for commit ${{ github.sha }}"
+          draft: true   # Optionally create as a draft. Remove if you want it published right away.
+
+      # Upload the zipped file as a release asset
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./lang_files.zip
+          asset_name: lang_files.zip
+          asset_content_type: application/zip
