@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ أنا متعب من اللعب",
     "connect.transferring": "جارٍ الانتقال إلى حالة أخرى...",
     "skyrealm.transfer": "سيتم نقلك إلى حالة أخرى...",
-    "skyrealm": {
-        "lobby": {
-            "join": "انضم %s.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "مرحبًا بالعالم، %s!"
-        }
-    }
+    "skyrealm.lobby.join": "انضم %s.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "مرحبًا بالعالم، %s!",
+    "skyrealm.messages.link.open": "انقر لفتح الرابط",
+    "skyrealm.messages.command.run": "انقر لتشغيل الأمر"
 }
