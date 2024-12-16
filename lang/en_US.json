@@ -6,5 +6,7 @@
     "skyrealm.transfer": "You will be transferred to another instance...",
     "skyrealm.lobby.join": "%s joined.",
     "skyrealm.lobby.quit": "%s quit.",
-    "skyrealm.commands.helloworld": "Hello world, %s!"
+    "skyrealm.commands.helloworld": "Hello world, %s!",
+    "skyrealm.messages.link.open": "Click to open link",
+    "skyrealm.messages.command.run": "Click to run command"
 }
