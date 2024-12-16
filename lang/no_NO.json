@@ -4,13 +4,9 @@
     "menu.disconnect": ":skull_and_crossbons: Jeg er leket av",
     "connect.transferring": "Overfører til en annen forekomst...",
     "skyrealm.transfer": "Du vil bli overført til en annen instans...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s joined.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s ble med.",
+    "skyrealm.lobby.quit": "%s quit.",
+    "skyrealm.commands.helloworld": "Hallo, %s!",
+    "skyrealm.messages.link.open": "Klikk for å åpne kobling",
+    "skyrealm.messages.command.run": "Klikk for å kjøre kommando"
 }
