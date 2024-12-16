@@ -1,7 +1,7 @@
 {
-    "deathScreen.quit.confirm": "Certusne es te post hoc desinere velle?",
-    "deathScreen.respawn": "Iterum conare",
-    "menu.disconnect": "☠ Me taedet ludere",
-    "connect.transferring": "Ad aliam instantiam transfertur...",
-    "skyrealm.transfer": "Ad aliam instantiam transferēris..."
+    "deathScreen.quit.confirm": "Are you sure you want to quit after that?",
+    "deathScreen.respawn": "Try again",
+    "menu.disconnect": "☠ I'm tired of playing",
+    "connect.transferring": "Transferring to another instance...",
+    "skyrealm.transfer": "You will be transferred to another instance..."
 }
