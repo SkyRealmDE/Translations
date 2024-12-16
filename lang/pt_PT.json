@@ -3,5 +3,14 @@
     "deathScreen.respawn": "Tente novamente",
     "menu.disconnect": "☠️ Estou cansado de jogar",
     "connect.transferring": "Transferindo para outra instância...",
-    "skyrealm.transfer": "Você será transferido para outra instância..."
+    "skyrealm.transfer": "Você será transferido para outra instância...",
+    "skyrealm": {
+        "lobby": {
+            "join": "%s juntou-se.",
+            "quit": "%s quit."
+        },
+        "commands": {
+            "helloworld": "Hello world, %s!"
+        }
+    }
 }
