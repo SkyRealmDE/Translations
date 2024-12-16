@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ Jag är trött på att spela",
     "connect.transferring": "Överför till en annan instans...",
     "skyrealm.transfer": "Du kommer att överföras till en annan instans...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s gick med.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s gick med.",
+    "skyrealm.lobby.quit": "%s avslutade.",
+    "skyrealm.commands.helloworld": "Hej världen, %s!",
+    "skyrealm.messages.link.open": "Klicka för att öppna länk",
+    "skyrealm.messages.command.run": "Klicka för att köra kommandot"
 }

@@ -4,13 +4,9 @@
     "menu.disconnect": "☠ Ich hab kein Bock mehr",
     "connect.transferring": "Übertragung in eine andere Instanz...",
     "skyrealm.transfer": "Sie werden auf eine andere Instanz übertragen...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s ist beigetreten.",
-            "quit": "%s hat uns verlassen."
-        },
-        "commands": {
-            "helloworld": "Hallo Welt, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s ist beigetreten.",
+    "skyrealm.lobby.quit": "%s hat uns verlassen.",
+    "skyrealm.commands.helloworld": "Hallo Welt, %s!",
+    "skyrealm.messages.link.open": "Zum Öffnen des Links klicken",
+    "skyrealm.messages.command.run": "Klicke zum Ausführen des Befehls"
 }

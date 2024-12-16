@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ Už jsem unaven hrát",
     "connect.transferring": "Přenesení do jiné instance...",
     "skyrealm.transfer": "Budete převedeni do jiné instance...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s joined.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s se připojil.",
+    "skyrealm.lobby.quit": "%s skončil.",
+    "skyrealm.commands.helloworld": "Dobrý den, svět %s!",
+    "skyrealm.messages.link.open": "Kliknutím otevřete odkaz",
+    "skyrealm.messages.command.run": "Kliknutím spustíte příkaz"
 }

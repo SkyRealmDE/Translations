@@ -4,13 +4,9 @@
     "menu.disconnect": "☠️ Sono stanco di giocare",
     "connect.transferring": "Trasferimento in un'altra istanza...",
     "skyrealm.transfer": "Sarai trasferito in un'altra istanza...",
-    "skyrealm": {
-        "lobby": {
-            "join": "%s ha aderito.",
-            "quit": "%s quit."
-        },
-        "commands": {
-            "helloworld": "Hello world, %s!"
-        }
-    }
+    "skyrealm.lobby.join": "%s ha aderito.",
+    "skyrealm.lobby.quit": "%s ha abbandonato.",
+    "skyrealm.commands.helloworld": "Ciao mondo, %s!",
+    "skyrealm.messages.link.open": "Fare clic per aprire il collegamento",
+    "skyrealm.messages.command.run": "Fare clic per eseguire il comando"
 }
