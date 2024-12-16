@@ -29,17 +29,6 @@ jobs:
       - name: Create a ZIP of the lang files
         run: zip -r lang_files.zip lang
 
-      # Erstellt einen neuen Tag mit Hilfe der Build-Nummer oder einem anderen eindeutigen Wert
-      - name: Create Git Tag
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          # Einen Tag-Name generieren, z.B. mit der Build-Nummer
-          TAG="release-${{ github.run_number }}"
-          git tag $TAG
-          git push origin $TAG
 
       # Create a release. We're using the commit SHA as a tag. 
       # You might prefer a more meaningful tag_name in a real scenario.
@@ -50,7 +39,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: "release-${{ github.run_number }}"
-          release_name: "Build $TAG"
+          release_name: "Release-${{ github.run_number }}"
 
       # Upload the zipped file as a release asset
       - name: Upload Release Asset
