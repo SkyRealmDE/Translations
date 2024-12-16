@@ -1,7 +1,7 @@
 {
-    "deathScreen.quit.confirm": "Bist du sicher, dass du hiernach beenden möchtest?",
-    "deathScreen.respawn": "Erneut versuchen",
-    "menu.disconnect": "☠️ Ich bin müde vom spielen",
-    "connect.transferring": "Übertragung in eine andere Instanz...",
-    "skyrealm.transfer": "Du wirst auf eine andere Instanz geleitet..."
+    "deathScreen.quit.confirm": "Bist du sicher, dass du danach beenden möchtest?",
+    "deathScreen.respawn": "Try again",
+    "menu.disconnect": "☠ I'm tired of playing",
+    "connect.transferring": "Transferring to another instance...",
+    "skyrealm.transfer": "You will be transferred to another instance..."
 }
