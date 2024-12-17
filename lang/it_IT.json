@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Riprova",
     "menu.disconnect": "☠️ Sono stanco di giocare",
     "connect.transferring": "Trasferimento in un'altra istanza...",
-    "skyrealm.transfer": "Sarai trasferito in un'altra istanza...",
-    "skyrealm.lobby.join": "%s ha aderito.",
-    "skyrealm.lobby.quit": "%s ha abbandonato.",
-    "skyrealm.commands.helloworld": "Ciao mondo, %s!",
     "skyrealm.messages.link.open": "Fare clic per aprire il collegamento",
-    "skyrealm.messages.command.run": "Fare clic per eseguire il comando",
-    "skyrealm.cloud.no_servers": "Nessun server trovato.",
-    "skyrealm.cloud.available_servers": "Server attualmente disponibili: <green><bold>%s"
+    "skyrealm.messages.command.run": "Fare clic per eseguire il comando"
 }

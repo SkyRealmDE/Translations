@@ -1,0 +1,6 @@
+{
+    "skyrealm.cloud.no_servers": "Серверы не найдены.",
+    "skyrealm.cloud.no_lobbies": "Лобби серверы не найдены.",
+    "skyrealm.cloud.available_servers": "Доступные серверы: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+}

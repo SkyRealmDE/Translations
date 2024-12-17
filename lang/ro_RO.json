@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Încercați din nou",
     "menu.disconnect": "☠️ M-am săturat să joc",
     "connect.transferring": "Se transferă într-o altă instanță...",
-    "skyrealm.transfer": "Vei fi transferat într-o altă instanță...",
-    "skyrealm.lobby.join": "%s s-a alăturat.",
-    "skyrealm.lobby.quit": "%s ieşire.",
-    "skyrealm.commands.helloworld": "Bună ziua lumea, %s!",
     "skyrealm.messages.link.open": "Click pentru a deschide link-ul",
-    "skyrealm.messages.command.run": "Click pentru a rula comanda",
-    "skyrealm.cloud.no_servers": "Niciun server găsit.",
-    "skyrealm.cloud.available_servers": "Servere disponibile în prezent: <green><bold>%s"
+    "skyrealm.messages.command.run": "Click pentru a rula comanda"
 }

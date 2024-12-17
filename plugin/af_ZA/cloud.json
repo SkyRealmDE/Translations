@@ -1,0 +1,6 @@
+{
+    "skyrealm.cloud.no_servers": "Geen bedieners gevind nie.",
+    "skyrealm.cloud.no_lobbies": "Geen lobby bedieners gevind nie.",
+    "skyrealm.cloud.available_servers": "Huidig beskikbare bedieners: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+}

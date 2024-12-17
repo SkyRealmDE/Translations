@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Спробуйте ще раз",
     "menu.disconnect": "☠️ Я втомилася грати",
     "connect.transferring": "Передача до іншого екземпляру...",
-    "skyrealm.transfer": "Ви будете переміщені в інший екземпляр...",
-    "skyrealm.lobby.join": "%s приєднався.",
-    "skyrealm.lobby.quit": "%s звільнено.",
-    "skyrealm.commands.helloworld": "Доброго світу, %s!",
     "skyrealm.messages.link.open": "Натисніть, щоб відкрити посилання",
-    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду",
-    "skyrealm.cloud.no_servers": "Сервери не знайдені.",
-    "skyrealm.cloud.available_servers": "На даний час доступні сервери: <green><bold>%s"
+    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду"
 }

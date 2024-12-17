@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Försök igen",
     "menu.disconnect": "☠️ Jag är trött på att spela",
     "connect.transferring": "Överför till en annan instans...",
-    "skyrealm.transfer": "Du kommer att överföras till en annan instans...",
-    "skyrealm.lobby.join": "%s gick med.",
-    "skyrealm.lobby.quit": "%s avslutade.",
-    "skyrealm.commands.helloworld": "Hej världen, %s!",
     "skyrealm.messages.link.open": "Klicka för att öppna länk",
-    "skyrealm.messages.command.run": "Klicka för att köra kommandot",
-    "skyrealm.cloud.no_servers": "Inga servrar hittades.",
-    "skyrealm.cloud.available_servers": "För närvarande tillgängliga servrar: <green><bold>%s"
+    "skyrealm.messages.command.run": "Klicka för att köra kommandot"
 }
