@@ -3,12 +3,6 @@
     "deathScreen.respawn": "もう一度やり直してください",
     "menu.disconnect": "☠️ 遊ぶのに疲れた",
     "connect.transferring": "別のインスタンスに転送中...",
-    "skyrealm.transfer": "別のインスタンスに転送されます...",
-    "skyrealm.lobby.join": "%s が参加しました。",
-    "skyrealm.lobby.quit": "%s quit.",
-    "skyrealm.commands.helloworld": "ハローワールド、 %s！",
     "skyrealm.messages.link.open": "クリックしてリンクを開く",
-    "skyrealm.messages.command.run": "クリックしてコマンドを実行",
-    "skyrealm.cloud.no_servers": "サーバーが見つかりません。",
-    "skyrealm.cloud.available_servers": "現在利用可能なサーバー: <green><bold>%s"
+    "skyrealm.messages.command.run": "クリックしてコマンドを実行"
 }
