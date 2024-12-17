@@ -1,0 +1,4 @@
+{
+    "skyrealm.cloud.no_servers": "Palvelimia ei löytynyt.",
+    "skyrealm.cloud.available_servers": "Currently available servers: <green><bold>%count%"
+}
