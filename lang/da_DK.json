@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Prøv igen",
     "menu.disconnect": "☠️ Jeg er træt af at spille",
     "connect.transferring": "Overfører til en anden instans...",
-    "skyrealm.transfer": "Du vil blive overført til en anden instans...",
-    "skyrealm.lobby.join": "%s tilsluttede.",
-    "skyrealm.lobby.quit": "%s afslutte.",
-    "skyrealm.commands.helloworld": "Hej verden, %s!",
     "skyrealm.messages.link.open": "Klik for at åbne link",
-    "skyrealm.messages.command.run": "Klik for at køre kommando",
-    "skyrealm.cloud.no_servers": "Ingen servere fundet.",
-    "skyrealm.cloud.available_servers": "Tilgængelige servere: <green><bold>%s"
+    "skyrealm.messages.command.run": "Klik for at køre kommando"
 }
