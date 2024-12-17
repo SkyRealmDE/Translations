@@ -1,4 +1,6 @@
 {
     "skyrealm.cloud.no_servers": "Ingen servere funnet.",
-    "skyrealm.cloud.available_servers": "For øyeblikket tilgjengelige servere: <green><bold>%count%"
+    "skyrealm.cloud.no_lobbies": "Ingen lobby servere funnet.",
+    "skyrealm.cloud.available_servers": "For øyeblikket tilgjengelige servere: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "– %server% > <color:yellow>%players%"
 }
