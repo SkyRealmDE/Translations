@@ -2,4 +2,4 @@ files:
   - source: /lang/en_US.json
     translation: /lang/%locale_with_underscore%.json
   - source: /plugin/en_US/*.json
-    translation: /plugin/%locale_with_underscore%/%original_file_name%.json
+    translation: /plugin/%locale_with_underscore%/%original_file_name%
