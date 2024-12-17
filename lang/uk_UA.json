@@ -8,5 +8,7 @@
     "skyrealm.lobby.quit": "%s звільнено.",
     "skyrealm.commands.helloworld": "Доброго світу, %s!",
     "skyrealm.messages.link.open": "Натисніть, щоб відкрити посилання",
-    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду"
+    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду",
+    "skyrealm.cloud.no_servers": "Сервери не знайдені.",
+    "skyrealm.cloud,available_servers": "На даний час доступні сервери: <green><bold>%s"
 }
