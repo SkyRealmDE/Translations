@@ -3,12 +3,6 @@
     "deathScreen.respawn": "Προσπαθήστε ξανά",
     "menu.disconnect": "☠️ Έχω κουραστεί να παίζω",
     "connect.transferring": "Μεταφορά σε άλλη περίπτωση...",
-    "skyrealm.transfer": "Θα μεταφερθείτε σε άλλη περίπτωση...",
-    "skyrealm.lobby.join": "Εντάχθηκε %s.",
-    "skyrealm.lobby.quit": "%s quit.",
-    "skyrealm.commands.helloworld": "Γεια σας, %s!",
     "skyrealm.messages.link.open": "Κλικ για άνοιγμα συνδέσμου",
-    "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής",
-    "skyrealm.cloud.no_servers": "Δεν βρέθηκαν διακομιστές.",
-    "skyrealm.cloud.available_servers": "Τρέχοντες διαθέσιμοι διακομιστές: <green><bold>%s"
+    "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής"
 }
