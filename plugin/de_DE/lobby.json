@@ -1,4 +1,4 @@
 {
-    "skyrealm.lobby.join": "%name% beigetreten.",
-    "skyrealm.lobby.quit": "%name% beenden."
+    "skyrealm.lobby.join": "%name% ist dem Server beigetreten.",
+    "skyrealm.lobby.quit": "%name% hat uns verlassen."
 }
