@@ -1,0 +1,4 @@
+{
+    "skyrealm.cloud.no_servers": "Δεν βρέθηκαν διακομιστές.",
+    "skyrealm.cloud.available_servers": "Τρέχοντες διαθέσιμοι διακομιστές: <green><bold>%count%"
+}
