@@ -1,0 +1,4 @@
+{
+    "skyrealm.cloud.no_servers": "Сервери не знайдені.",
+    "skyrealm.cloud.available_servers": "На даний час доступні сервери: <green><bold>%count%"
+}
