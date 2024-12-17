@@ -8,5 +8,7 @@
     "skyrealm.lobby.quit": "%s quit.",
     "skyrealm.commands.helloworld": "Hello world, %s!",
     "skyrealm.messages.link.open": "Click to open link",
-    "skyrealm.messages.command.run": "Click to run command"
+    "skyrealm.messages.command.run": "Click to run command",
+    "skyrealm.cloud.no_servers": "No servers found.",
+    "skyrealm.cloud,available_servers": "Currently available servers: <green><bold>%s"
 }
