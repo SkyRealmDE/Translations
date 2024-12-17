@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Klik om de link te openen",
     "skyrealm.messages.command.run": "Klik om opdracht uit te voeren",
     "skyrealm.cloud.no_servers": "Geen servers gevonden.",
-    "skyrealm.cloud,available_servers": "Momenteel beschikbare servers: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Momenteel beschikbare servers: <green><bold>%s"
 }

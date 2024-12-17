@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "点击打开链接",
     "skyrealm.messages.command.run": "点击运行命令",
     "skyrealm.cloud.no_servers": "未找到服务器。",
-    "skyrealm.cloud,available_servers": "当前可用的服务器： <green><bold>%s"
+    "skyrealm.cloud.available_servers": "当前可用的服务器： <green><bold>%s"
 }

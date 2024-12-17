@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Нажмите, чтобы открыть ссылку",
     "skyrealm.messages.command.run": "Нажмите, чтобы запустить команду",
     "skyrealm.cloud.no_servers": "Серверы не найдены.",
-    "skyrealm.cloud,available_servers": "Доступные серверы: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Доступные серверы: <green><bold>%s"
 }

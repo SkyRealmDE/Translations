@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Klikk for å åpne kobling",
     "skyrealm.messages.command.run": "Klikk for å kjøre kommando",
     "skyrealm.cloud.no_servers": "Ingen servere funnet.",
-    "skyrealm.cloud,available_servers": "Tilgjengelige servere: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Tilgjengelige servere: <green><bold>%s"
 }

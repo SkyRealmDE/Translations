@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Avaa linkki napsauttamalla",
     "skyrealm.messages.command.run": "Suorita komento napsauttamalla",
     "skyrealm.cloud.no_servers": "Palvelimia ei löytynyt.",
-    "skyrealm.cloud,available_servers": "Tällä hetkellä saatavilla olevat palvelimet: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Tällä hetkellä saatavilla olevat palvelimet: <green><bold>%s"
 }

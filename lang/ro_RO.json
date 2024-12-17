@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Click pentru a deschide link-ul",
     "skyrealm.messages.command.run": "Click pentru a rula comanda",
     "skyrealm.cloud.no_servers": "Niciun server găsit.",
-    "skyrealm.cloud,available_servers": "Servere disponibile în prezent: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Servere disponibile în prezent: <green><bold>%s"
 }

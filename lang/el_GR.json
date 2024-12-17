@@ -10,5 +10,5 @@
     "skyrealm.messages.link.open": "Κλικ για άνοιγμα συνδέσμου",
     "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής",
     "skyrealm.cloud.no_servers": "Δεν βρέθηκαν διακομιστές.",
-    "skyrealm.cloud,available_servers": "Τρέχοντες διαθέσιμοι διακομιστές: <green><bold>%s"
+    "skyrealm.cloud.available_servers": "Τρέχοντες διαθέσιμοι διακομιστές: <green><bold>%s"
 }
