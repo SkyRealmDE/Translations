@@ -8,5 +8,7 @@
     "skyrealm.lobby.quit": "%s salir.",
     "skyrealm.commands.helloworld": "¡Hola mundo, %s!",
     "skyrealm.messages.link.open": "Haga clic para abrir el enlace",
-    "skyrealm.messages.command.run": "Haga clic para ejecutar el comando"
+    "skyrealm.messages.command.run": "Haga clic para ejecutar el comando",
+    "skyrealm.cloud.no_servers": "No se encontraron servidores.",
+    "skyrealm.cloud,available_servers": "Servidores disponibles actualmente: <green><bold>%s"
 }
