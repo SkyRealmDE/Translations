@@ -3,12 +3,6 @@
     "deathScreen.respawn": "حاول مرة أخرى",
     "menu.disconnect": "☠️ أنا متعب من اللعب",
     "connect.transferring": "جارٍ الانتقال إلى حالة أخرى...",
-    "skyrealm.transfer": "سيتم نقلك إلى حالة أخرى...",
-    "skyrealm.lobby.join": "انضم %s.",
-    "skyrealm.lobby.quit": "%s quit.",
-    "skyrealm.commands.helloworld": "مرحبًا بالعالم، %s!",
     "skyrealm.messages.link.open": "انقر لفتح الرابط",
-    "skyrealm.messages.command.run": "انقر لتشغيل الأمر",
-    "skyrealm.cloud.no_servers": "لا توجد خوادم.",
-    "skyrealm.cloud.available_servers": "الخوادم المتاحة حالياً: <green><bold>%s"
+    "skyrealm.messages.command.run": "انقر لتشغيل الأمر"
 }
