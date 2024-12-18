@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% se připojil.",
-    "skyrealm.lobby.quit": "%name% skončil."
+    "skyrealm.lobby.quit": "%name% skončil.",
+    "skyrealm.lobby.buildmode.enabled": "Stavební režim povolen.",
+    "skyrealm.lobby.buildmode.disabled": "Stavební režim zakázán."
 }
