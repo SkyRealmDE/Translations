@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% s-a alăturat.",
-    "skyrealm.lobby.quit": "%name% renunţare."
+    "skyrealm.lobby.quit": "%name% renunţare.",
+    "skyrealm.lobby.buildmode.enabled": "Modul de compilare activat.",
+    "skyrealm.lobby.buildmode.disabled": "Modul de compilare dezactivat."
 }
