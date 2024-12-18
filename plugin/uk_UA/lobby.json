@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "Приєднався %name%.",
-    "skyrealm.lobby.quit": "Вихід %name%."
+    "skyrealm.lobby.quit": "Вихід %name%.",
+    "skyrealm.lobby.buildmode.enabled": "Режим збірки увімкнено.",
+    "skyrealm.lobby.buildmode.disabled": "Режим збірки вимкнено."
 }
