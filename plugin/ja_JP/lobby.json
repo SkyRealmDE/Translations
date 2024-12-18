@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% が参加しました。",
-    "skyrealm.lobby.quit": "%name% quit."
+    "skyrealm.lobby.quit": "%name% quit.",
+    "skyrealm.lobby.buildmode.enabled": "ビルドモードが有効です。",
+    "skyrealm.lobby.buildmode.disabled": "ビルドモードを無効にしました。"
 }

@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% è entrato.",
-    "skyrealm.lobby.quit": "%name% uscire."
+    "skyrealm.lobby.quit": "%name% uscire.",
+    "skyrealm.lobby.buildmode.enabled": "Modalità build attivata.",
+    "skyrealm.lobby.buildmode.disabled": "Modalità build disabilitata."
 }

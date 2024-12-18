@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% joined.",
-    "skyrealm.lobby.quit": "%name% quit."
+    "skyrealm.lobby.quit": "%name% quit.",
+    "skyrealm.lobby.buildmode.enabled": "Bou-modus geaktiveer.",
+    "skyrealm.lobby.buildmode.disabled": "Bou-modus gedeaktiveer."
 }

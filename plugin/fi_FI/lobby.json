@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% liittynyt.",
-    "skyrealm.lobby.quit": "%name% lopetettu."
+    "skyrealm.lobby.quit": "%name% lopetettu.",
+    "skyrealm.lobby.buildmode.enabled": "Koontitila otettu käyttöön.",
+    "skyrealm.lobby.buildmode.disabled": "Koontitila ei ole käytössä."
 }

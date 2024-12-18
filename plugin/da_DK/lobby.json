@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% tilsluttet.",
-    "skyrealm.lobby.quit": "%name% afslut."
+    "skyrealm.lobby.quit": "%name% afslut.",
+    "skyrealm.lobby.buildmode.enabled": "Byg tilstand aktiveret.",
+    "skyrealm.lobby.buildmode.disabled": "Byg tilstand deaktiveret."
 }

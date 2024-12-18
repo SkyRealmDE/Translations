@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% joined.",
-    "skyrealm.lobby.quit": "%name% quit."
+    "skyrealm.lobby.quit": "%name% quit.",
+    "skyrealm.lobby.buildmode.enabled": "تم تمكين وضع البناء.",
+    "skyrealm.lobby.buildmode.disabled": "وضع البناء معطل."
 }
