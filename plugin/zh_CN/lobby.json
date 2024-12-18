@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% joined.",
-    "skyrealm.lobby.quit": "%name% quit."
+    "skyrealm.lobby.quit": "%name% quit.",
+    "skyrealm.lobby.buildmode.enabled": "已启用构建模式。",
+    "skyrealm.lobby.buildmode.disabled": "构建模式已禁用。"
 }
