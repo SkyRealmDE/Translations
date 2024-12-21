@@ -1,6 +1,6 @@
 {
     "skyrealm.general.transfer": "Θα μεταφερθείτε σε άλλη περίπτωση...",
-    "skyrealm.general.tablist.footer.slogan": "Build your own kingdom in SkyRealm!",
-    "skyrealm.general.kicked-no-reason": "You have been kicked from the server.",
-    "skyrealm.general.kicked": "You have been kicked from the server for %reason%"
+    "skyrealm.general.tablist.footer.slogan": "Φτιάξτε το δικό σας βασίλειο στο SkyRealm!",
+    "skyrealm.general.kicked-no-reason": "Έχετε εκδιωχθεί από το διακομιστή.",
+    "skyrealm.general.kicked": "Έχετε διώξει από το διακομιστή για το %reason%"
 }
