@@ -1,3 +1,6 @@
 {
-    "skyrealm.general.transfer": "Sarai trasferito in un'altra istanza..."
+    "skyrealm.general.transfer": "Sarai trasferito in un'altra istanza...",
+    "skyrealm.general.tablist.footer.slogan": "Build your own kingdom in SkyRealm!",
+    "skyrealm.general.kicked-no-reason": "You have been kicked from the server.",
+    "skyrealm.general.kicked": "You have been kicked from the server for %reason%"
 }
