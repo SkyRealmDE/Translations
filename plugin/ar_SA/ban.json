@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "القرصنة",
+    "skyrealm.ban.hacking.description": "استخدام برمجيات الطرف الثالث للحصول على امتيازات أو مزايا",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>You have been banned for hacking</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.glitch_usage.name": "قماش",
+    "skyrealm.ban.glitch_usage.description": "استخدام ألواح ماينكرافت للحصول على مزايا",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>You have been banned for using minecraft glitches</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.bug_abuse.name": "إساءة استعمال الأخطاء",
+    "skyrealm.ban.bug_abuse.description": "استخدام الأخطاء للحصول على امتيازات أو مزايا",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>You have been banned for abusing bugs in our system</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.language.name": "اللغة",
+    "skyrealm.ban.language.description": "الدردشة بطريقة غير ملائمة",
+    "skyrealm.ban.language.reason": "<color:#ff7675>You have been banned for using inappropriate language</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.behavior.name": "السلوك",
+    "skyrealm.ban.behavior.description": "التصرف بطريقة غير ملائمة",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>You have been banned for behaving in a inappropriate way</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>You have been banned for griefing</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!"
+}
