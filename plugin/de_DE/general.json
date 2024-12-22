@@ -1,6 +1,7 @@
 {
     "skyrealm.general.transfer": "Du wirst auf eine andere Instanz übertragen...",
-    "skyrealm.general.tablist.footer.slogan": "Baue dein eigenes Königreich in SkyRealm!",
+    "skyrealm.general.tablist.footer.slogan": "Baue dein eigenes Königreich im SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "Du bist derzeit auf %server%",
     "skyrealm.general.kicked-no-reason": "Du wurdest vom Server gekickt.",
     "skyrealm.general.kicked": "Du wurdest für %reason% vom Server gekickt"
 }
