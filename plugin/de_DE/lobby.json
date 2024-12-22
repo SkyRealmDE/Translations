@@ -1,4 +1,6 @@
 {
     "skyrealm.lobby.join": "%name% ist dem Server beigetreten.",
-    "skyrealm.lobby.quit": "%name% hat uns verlassen."
+    "skyrealm.lobby.quit": "%name% hat uns verlassen.",
+    "skyrealm.lobby.buildmode.enabled": "Baumodus aktiviert.",
+    "skyrealm.lobby.buildmode.disabled": "Baumodus deaktiviert."
 }

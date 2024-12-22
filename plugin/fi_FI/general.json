@@ -1,3 +1,7 @@
 {
-    "skyrealm.general.transfer": "Sinut siirretään toiseen instanssiin..."
+    "skyrealm.general.transfer": "Sinut siirretään toiseen instanssiin...",
+    "skyrealm.general.tablist.footer.slogan": "Rakenna oma valtakuntasi SkyRealmissa!",
+    "skyrealm.general.tablist.footer.current_server": "You are currently on %server%",
+    "skyrealm.general.kicked-no-reason": "Sinut on potkittu palvelimelta.",
+    "skyrealm.general.kicked": "Sinut on potkittu palvelimelta kohteelle %reason%"
 }

@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "Hacking",
+    "skyrealm.ban.hacking.description": "Usando softwares de terceiros para ganhar privilégios ou vantagens",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>You have been banned for hacking</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.glitch_usage.name": "Brilhantes",
+    "skyrealm.ban.glitch_usage.description": "Usando erros de minecraft para ganhar vantagens",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>You have been banned for using minecraft glitches</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.bug_abuse.name": "Abuso de bugs",
+    "skyrealm.ban.bug_abuse.description": "Usar bugs para ganhar privilégios ou vantagens",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>You have been banned for abusing bugs in our system</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.language.name": "IDIOMA",
+    "skyrealm.ban.language.description": "Conversando de forma inapropriada",
+    "skyrealm.ban.language.reason": "<color:#ff7675>You have been banned for using inappropriate language</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.behavior.name": "Comportamento",
+    "skyrealm.ban.behavior.description": "Comporta-se de forma inapropriada",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>You have been banned for behaving in a inappropriate way</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>You have been banned for griefing</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, please write us a message!"
+}

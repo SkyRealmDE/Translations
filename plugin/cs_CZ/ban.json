@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "Hacking",
+    "skyrealm.ban.hacking.description": "Použití softwaru třetích stran k získání privilegií nebo výhod",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>Byli jste zabanováni kvůli hackování</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že je tento zákaz nespravedlivý nebo špatný, prosím, napište nám zprávu!",
+    "skyrealm.ban.glitch_usage.name": "Glitky",
+    "skyrealm.ban.glitch_usage.description": "Pomocí minecraft glitches k získání výhod",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>Byli jste zabanováni, že používáte vozovky glitches</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že tento zákaz je nespravedlivý nebo špatný, prosím, napište nám zprávu!",
+    "skyrealm.ban.bug_abuse.name": "Zneužití chyb",
+    "skyrealm.ban.bug_abuse.description": "Použití chyb k získání oprávnění nebo výhod",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Byli jste zabanováni kvůli zneužití chyb v našem systému</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že je tento zákaz nespravedlivý nebo špatný, prosím, napište nám zprávu!",
+    "skyrealm.ban.language.name": "Jazyk",
+    "skyrealm.ban.language.description": "Nevhodným způsobem se chatuje",
+    "skyrealm.ban.language.reason": "<color:#ff7675>Byl jste zakázán používání nevhodného jazyka</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že je tento zákaz nespravedlivý nebo špatný, prosím, napište nám zprávu!",
+    "skyrealm.ban.behavior.name": "Chování",
+    "skyrealm.ban.behavior.description": "Chování nevhodným způsobem",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>Byli jste zakázáni chovat se nevhodným způsobem</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že je tento zákaz nespravedlivý nebo špatný, prosím, napište nám zprávu!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>Byli jste zabanováni kvůli griefu</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Trvání: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Pokud se domníváte, že je tento zákaz nespravedlivý nebo špatný, prosím, napište nám zprávu!"
+}

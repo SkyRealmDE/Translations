@@ -1,3 +1,7 @@
 {
-    "skyrealm.general.transfer": "U wordt overgedragen aan een andere instantie..."
+    "skyrealm.general.transfer": "U wordt overgedragen aan een andere instantie...",
+    "skyrealm.general.tablist.footer.slogan": "Bouw je eigen koninkrijk in SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "U bent momenteel op %server%",
+    "skyrealm.general.kicked-no-reason": "Je bent uit de server gezet.",
+    "skyrealm.general.kicked": "Je bent uit de server gezet voor %reason%"
 }

@@ -1,3 +1,7 @@
 {
-    "skyrealm.general.transfer": "Serás transferido a otra instancia..."
+    "skyrealm.general.transfer": "Serás transferido a otra instancia...",
+    "skyrealm.general.tablist.footer.slogan": "¡Construye tu propio reino en SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "Actualmente estás en %server%",
+    "skyrealm.general.kicked-no-reason": "Has sido expulsado del servidor.",
+    "skyrealm.general.kicked": "Has sido expulsado del servidor por %reason%"
 }

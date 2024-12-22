@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "Hacking",
+    "skyrealm.ban.hacking.description": "Korzystanie z oprogramowania firm trzecich w celu uzyskania przywilejów lub korzyści",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>Zostałeś zbanowany na hakowanie</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten zakaz jest nieuczciwy lub zły, napisz do nas wiadomość!",
+    "skyrealm.ban.glitch_usage.name": "Błyszczące",
+    "skyrealm.ban.glitch_usage.description": "Używanie miotaczy rzemieślniczych aby zdobyć przewagę",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>Zostałeś zbanowany za używanie glitchów minecraft</color>\n \n<color:#dfe6e9>Banhash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten ban jest niesprawiedliwy lub zły, napisz do nas wiadomość!",
+    "skyrealm.ban.bug_abuse.name": "Nadużywanie błędów",
+    "skyrealm.ban.bug_abuse.description": "Używanie błędów do uzyskiwania przywilejów lub zalet",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Zostałeś zbanowany z powodu nadużywania błędów w naszym systemie</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten zakaz jest nieuczciwy lub zły, napisz do nas wiadomość!",
+    "skyrealm.ban.language.name": "Język",
+    "skyrealm.ban.language.description": "Czatowanie w niewłaściwy sposób",
+    "skyrealm.ban.language.reason": "<color:#ff7675>Zostałeś zbanowany za używanie niewłaściwego języka</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten zakaz jest nieuczciwy lub zły, napisz do nas wiadomość!",
+    "skyrealm.ban.behavior.name": "Zachowanie",
+    "skyrealm.ban.behavior.description": "Zachowanie w nieodpowiedni sposób",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>Zostałeś zbanowany z powodu zachowania się w niewłaściwy sposób</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten zakaz jest nieuczciwy lub zły, napisz do nas wiadomość!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>Zostałeś zbanowany za griefing</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Czas trwania: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Jeśli uważasz, że ten zakaz jest nieuczciwy lub zły, napisz do nas wiadomość!"
+}
