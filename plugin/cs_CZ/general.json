@@ -1,6 +1,7 @@
 {
     "skyrealm.general.transfer": "Budete převedeni do jiné instance...",
     "skyrealm.general.tablist.footer.slogan": "Vytvoř si vlastní království ve SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "Momentálně jste na %server%",
     "skyrealm.general.kicked-no-reason": "Byl jsi vyhozen ze serveru.",
     "skyrealm.general.kicked": "Byl jsi vyhozen ze serveru pro %reason%"
 }
