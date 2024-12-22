@@ -1,6 +1,7 @@
 {
     "skyrealm.general.transfer": "Du kommer att överföras till en annan instans...",
     "skyrealm.general.tablist.footer.slogan": "Bygg ditt eget rike i SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "Du är för närvarande på %server%",
     "skyrealm.general.kicked-no-reason": "Du har sparkats från servern.",
     "skyrealm.general.kicked": "Du har sparkats från servern för %reason%"
 }
