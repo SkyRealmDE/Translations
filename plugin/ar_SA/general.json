@@ -1,6 +1,7 @@
 {
     "skyrealm.general.transfer": "سيتم نقلك إلى حالة أخرى...",
     "skyrealm.general.tablist.footer.slogan": "قم ببناء مملكتك الخاصة في SkyRealm!",
+    "skyrealm.general.tablist.footer.current_server": "أنت حاليا على %server%",
     "skyrealm.general.kicked-no-reason": "لقد تم طردك من الخادم.",
     "skyrealm.general.kicked": "لقد تم طردك من الخادم لـ %reason%"
 }
