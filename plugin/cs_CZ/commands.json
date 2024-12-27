@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Ahoj svět, %name%!"
+    "skyrealm.commands.helloworld": "Ahoj svět, %name%!",
+    "skyrealm.commands.onlinetime.total": "Jste již online od <color:#74b9ff>%total%</color> celkem.",
+    "skyrealm.commands.onlinetime.current": "Na této realitě: <color:#74b9ff>%servertime%</color>"
 }
