@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Bună lumea, %name%!"
+    "skyrealm.commands.helloworld": "Bună lumea, %name%!",
+    "skyrealm.commands.onlinetime.total": "You are already online since <color:#74b9ff>%total%</color> in total.",
+    "skyrealm.commands.onlinetime.current": "Pe acest domeniu: <color:#74b9ff>%servertime%</color>"
 }
