@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "مرحبًا بالعالم، %name%!"
+    "skyrealm.commands.helloworld": "مرحبًا بالعالم، %name%!",
+    "skyrealm.commands.onlinetime.total": "أنت متصل بالفعل منذ <color:#74b9ff>%total%</color> إجمالاً.",
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
 }
