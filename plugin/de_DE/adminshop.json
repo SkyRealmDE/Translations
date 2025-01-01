@@ -1,9 +1,9 @@
 {
-    "adminshop.error.not-enough-coins": "You do not have enough coins to buy %amount%x %item%. You need %finalPrice% coins.",
-    "adminshop.success.buy-item": "You have bought %amount%x %item% for %finalPrice% coins.",
-    "adminshop.error.not-enough-items": "You do not have enough items to sell %amount%x %item%.",
-    "adminshop.success.sell-item": "You have sold %amount%x %item% for %finalPrice% coins.",
-    "adminshop.buy-one": "Buy one",
+    "adminshop.error.not-enough-coins": "Du hast nicht genug Münzen, um %amount%x %item% zu kaufen. Dir fehlen %finalPrice% Münzen.",
+    "adminshop.success.buy-item": "Du hast %amount%x %item% für %finalPrice% Münzen gekauft.",
+    "adminshop.error.not-enough-items": "Du hast nicht genügend Items, um %amount%x %item% zu verkaufen.",
+    "adminshop.success.sell-item": "Du hast %amount%x %item% für %finalPrice% Münzen verkauft.",
+    "adminshop.buy-one": "Kauf eins",
     "adminshop.sell-one": "Verkaufen",
-    "adminshop.buy-or-sell-stack": "Buy or sell stack"
+    "adminshop.buy-or-sell-stack": "Kaufe oder verkaufe Stackweise"
 }
