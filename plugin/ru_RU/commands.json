@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Здравствуйте, мир, %name%!"
+    "skyrealm.commands.helloworld": "Здравствуйте, мир, %name%!",
+    "skyrealm.commands.onlinetime.total": "Вы уже в сети с момента <color:#74b9ff>%total%</color> в общей сложности.",
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
 }

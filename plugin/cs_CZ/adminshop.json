@@ -1,0 +1,9 @@
+{
+    "adminshop.error.not-enough-coins": "Nemáš dostatek mincí, abys mohl koupit %amount%x %item%. Potřebuješ %finalPrice% mince.",
+    "adminshop.success.buy-item": "You have bought %amount%x %item% for %finalPrice% coins.",
+    "adminshop.error.not-enough-items": "You do not have enough items to sell %amount%x %item%.",
+    "adminshop.success.sell-item": "You have sold %amount%x %item% for %finalPrice% coins.",
+    "adminshop.buy-one": "Buy one",
+    "adminshop.sell-one": "Prodávat",
+    "adminshop.buy-or-sell-stack": "Buy or sell stack"
+}

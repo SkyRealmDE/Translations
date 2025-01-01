@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Hello world, %name%!"
+    "skyrealm.commands.helloworld": "Hello world, %name%!",
+    "skyrealm.commands.onlinetime.total": "既に <color:#74b9ff>%total%</color> からオンラインになっています。",
+    "skyrealm.commands.onlinetime.current": "この領域で: <color:#74b9ff>%servertime%</color>"
 }

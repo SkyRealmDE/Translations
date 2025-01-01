@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Hello world, %name%!"
+    "skyrealm.commands.helloworld": "Hello world, %name%!",
+    "skyrealm.commands.onlinetime.total": "Είστε ήδη συνδεδεμένοι από το <color:#74b9ff>%total%</color> συνολικά.",
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
 }

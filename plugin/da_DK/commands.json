@@ -1,3 +1,5 @@
 {
-    "skyrealm.commands.helloworld": "Hej verden, %name%!"
+    "skyrealm.commands.helloworld": "Hej verden, %name%!",
+    "skyrealm.commands.onlinetime.total": "Du er allerede online siden <color:#74b9ff>%total%</color> i alt.",
+    "skyrealm.commands.onlinetime.current": "På dette realm: <color:#74b9ff>%servertime%</color>"
 }
