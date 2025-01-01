@@ -1,20 +1,20 @@
 {
     "skyrealm.ban.hacking.name": "Hacken",
-    "skyrealm.ban.hacking.description": "Benutze Software von Drittanbietern, um Privilegien oder Vorteile zu erhalten",
-    "skyrealm.ban.hacking.reason": "<color:#ff7675>Du wurdest für Hacking gebannt</color>\n \n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für ungerecht oder falsch hältst, schreibe uns bitte eine Nachricht!",
+    "skyrealm.ban.hacking.description": "Nutzung von Software von Drittanbietern, um Privilegien oder Vorteile zu erhalten",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>Du wurdest für Hacking gebannt</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für ungerecht oder falsch hältst, schreibe uns bitte eine Nachricht!",
     "skyrealm.ban.glitch_usage.name": "Spielfehler ausnutzen",
     "skyrealm.ban.glitch_usage.description": "Minecraft Spielfehler verwenden, um Vorteile zu erhalten",
     "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>Du wurdest gebannt, weil du Minecraft-Fehler ausgenutzt hast</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für ungerecht oder falsch hältst, schreibe uns bitte eine Nachricht!",
-    "skyrealm.ban.bug_abuse.name": "Fehler Missbrauch",
+    "skyrealm.ban.bug_abuse.name": "Fehlermissbrauch",
     "skyrealm.ban.bug_abuse.description": "Fehler verwenden, um Privilegien oder Vorteile zu erhalten",
-    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Du wurdest gebannt, weil du Fehler in unserem System</color>\n \n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für unfair oder falsch haltest, bitte schreiben Sie uns eine Nachricht!",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Du wurdest gebannt, weil du Fehler in unserem System</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für unfair oder falsch hältst, bitte schreiben Sie uns eine Nachricht!",
     "skyrealm.ban.language.name": "Sprache",
     "skyrealm.ban.language.description": "Chatten auf unangemessene Weise",
-    "skyrealm.ban.language.reason": "<color:#ff7675>Du wurdest gesperrt, weil du unpassende Sprache verwendet hastformat@@1\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für unfair oder falsch haltest, bitte schreiben Sie uns eine Nachricht!",
+    "skyrealm.ban.language.reason": "<color:#ff7675>Du wurdest gesperrt, weil du unpassende Sprache verwendet hastformat@@1\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für unfair oder falsch hältst, bitte schreibe uns eine Nachricht!",
     "skyrealm.ban.behavior.name": "Verhalten",
     "skyrealm.ban.behavior.description": "Unangemessenes Verhalten",
-    "skyrealm.ban.behavior.reason": "<color:#ff7675>Du wurdest gebannt, weil du dich auf unangemessene Weise</color>\n \n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du dieses Verbot für unfair oder falsch hält, bitte schreiben Sie uns eine Nachricht!",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>Du wurdest gebannt, weil du dich auf unangemessene Weise</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du dieses Verbot für unfair oder falsch hält, bitte schreiben Sie uns eine Nachricht!",
     "skyrealm.ban.griefing.name": "Griefing",
     "skyrealm.ban.griefing.description": "Griefing",
-    "skyrealm.ban.griefing.reason": "<color:#ff7675>Du wurdest wegen Trauern</color>\n \n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für ungerecht oder falsch haltest, bitte schreiben Sie uns eine Nachricht!"
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>Du wurdest wegen Griefing gebannt</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color></color>\n<color:#dfe6e9>Dauer: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Wenn du diesen Bann für ungerecht oder falsch hältst, bitte schreiben Sie uns eine Nachricht!"
 }
