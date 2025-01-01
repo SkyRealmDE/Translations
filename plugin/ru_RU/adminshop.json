@@ -1,0 +1,9 @@
+{
+    "adminshop.error.not-enough-coins": "У вас недостаточно монет для покупки %amount%x %item%. Вам нужны монеты %finalPrice%.",
+    "adminshop.success.buy-item": "Вы купили %amount%x %item% за %finalPrice% монет.",
+    "adminshop.error.not-enough-items": "У вас недостаточно предметов для продажи %aмонтирования%x %item%.",
+    "adminshop.success.sell-item": "Вы продали маунт %a%x %item% для монет %finalPrice%.",
+    "adminshop.buy-one": "Купить",
+    "adminshop.sell-one": "Продать один",
+    "adminshop.buy-or-sell-stack": "Купить или продать стек"
+}
