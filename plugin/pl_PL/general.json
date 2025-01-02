@@ -3,5 +3,6 @@
     "skyrealm.general.tablist.footer.slogan": "Zbuduj swoje własne królestwo w SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Jesteś obecnie na %server%",
     "skyrealm.general.kicked-no-reason": "Zostałeś wyrzucony z serwera.",
-    "skyrealm.general.kicked": "Zostałeś wyrzucony z serwera dla %reason%"
+    "skyrealm.general.kicked": "Zostałeś wyrzucony z serwera dla %reason%",
+    "skyrealm.general.coins": "Masz %coins%"
 }
