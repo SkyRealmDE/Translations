@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "Momentálně jste na %server%",
     "skyrealm.general.kicked-no-reason": "Byl jsi vyhozen ze serveru.",
     "skyrealm.general.kicked": "Byl jsi vyhozen ze serveru pro %reason%",
-    "skyrealm.general.coins": "Máte %coins%"
+    "skyrealm.general.coins": "Máte %coins% <white> <unk>",
+    "skyrealm.general.other.coins": "%player% má %coins% <white> <unk>",
+    "skyrealm.general.coins.modify": "Upravili jste své mince %amount% <white> <unk>",
+    "skyrealm.general.coins.modify.other": "Upravili jste %player%mince o %amount% <white> <unk>",
+    "skyrealm.general.xp": "Máte %xp% XP",
+    "skyrealm.general.other.xp": "%player% má %xp% XP",
+    "skyrealm.general.xp.modify": "Upravili jste své XP %amount%",
+    "skyrealm.general.xp.modify.other": "Upravili jste XP %player%o %amount%"
 }
