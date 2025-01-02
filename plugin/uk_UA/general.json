@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "You are currently on %server%",
     "skyrealm.general.kicked-no-reason": "Вас було вигнано з сервера.",
     "skyrealm.general.kicked": "You have been kicked from the server for %reason%",
-    "skyrealm.general.coins": "You have %coins%"
+    "skyrealm.general.coins": "У вас %coins% <white>",
+    "skyrealm.general.other.coins": "%player% has %coins% <white>",
+    "skyrealm.general.coins.modify": "Ви змінили свої Монети від %amount% <white>",
+    "skyrealm.general.coins.modify.other": "Ви змінили %player%монети %amount% <white>",
+    "skyrealm.general.xp": "У вас %xp% XP",
+    "skyrealm.general.other.xp": "%player% має %xp% XP",
+    "skyrealm.general.xp.modify": "Ви змінили ваш XP від %amount%",
+    "skyrealm.general.xp.modify.other": "Ви змінили %player%XP від %amount%"
 }
