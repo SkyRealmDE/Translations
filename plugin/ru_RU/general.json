@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "В настоящее время вы используете %server%",
     "skyrealm.general.kicked-no-reason": "Вы были выгнаны с сервера.",
     "skyrealm.general.kicked": "Вы были выгнаны с сервера для %reason%",
-    "skyrealm.general.coins": "У вас есть %coins%"
+    "skyrealm.general.coins": "У вас есть %coins% <white> <unk>",
+    "skyrealm.general.other.coins": "%player% имеет %coins% <white> <unk>",
+    "skyrealm.general.coins.modify": "Вы изменили ваши монеты от %amount% <white> <unk>",
+    "skyrealm.general.coins.modify.other": "Вы изменили монеты %player%от %amount% <white>",
+    "skyrealm.general.xp": "У вас есть %xp% XP",
+    "skyrealm.general.other.xp": "У %player% есть %xp% XP",
+    "skyrealm.general.xp.modify": "Вы изменили свой XP от %amount%",
+    "skyrealm.general.xp.modify.other": "Вы изменили опыт %player%от %amount%"
 }
