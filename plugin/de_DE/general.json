@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "Du bist derzeit auf %server%",
     "skyrealm.general.kicked-no-reason": "Du wurdest vom Server gekickt.",
     "skyrealm.general.kicked": "Du wurdest für %reason% vom Server gekickt",
-    "skyrealm.general.coins": "Sie haben %coins%"
+    "skyrealm.general.coins": "Sie haben %coins% <white> <unk>",
+    "skyrealm.general.other.coins": "%player% hat %coins% <white> <unk>",
+    "skyrealm.general.coins.modify": "Du hast deine Münzen von %amount% <white> <unk>",
+    "skyrealm.general.coins.modify.other": "Sie haben %player%'s Münzen von %amount% <white> <unk>",
+    "skyrealm.general.xp": "Sie haben %xp% XP",
+    "skyrealm.general.other.xp": "%player% hat %xp% XP",
+    "skyrealm.general.xp.modify": "Sie haben Ihr XP von %amount% geändert",
+    "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert"
 }
