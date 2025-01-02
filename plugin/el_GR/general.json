@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "Είστε σε %server%",
     "skyrealm.general.kicked-no-reason": "Έχετε εκδιωχθεί από το διακομιστή.",
     "skyrealm.general.kicked": "Έχετε διώξει από το διακομιστή για το %reason%",
-    "skyrealm.general.coins": "You have %coins%"
+    "skyrealm.general.coins": "You have %coins% <white>",
+    "skyrealm.general.other.coins": "%player% has %coins% <white>",
+    "skyrealm.general.coins.modify": "Τροποποιήσατε τα Νομίσματα σας από %amount% <white>;",
+    "skyrealm.general.coins.modify.other": "Τροποποιήσατε τα νομίσματα %player%από %amount% <white>;",
+    "skyrealm.general.xp": "You have %xp% XP",
+    "skyrealm.general.other.xp": "%player% has %xp% XP",
+    "skyrealm.general.xp.modify": "Τροποποιήσατε το XP σας από τον %amount%",
+    "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%"
 }
