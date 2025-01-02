@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "Ești în prezent pe %server%",
     "skyrealm.general.kicked-no-reason": "Ai fost dat afară de pe server.",
     "skyrealm.general.kicked": "Ai fost dat afară de pe server pentru %reason%",
-    "skyrealm.general.coins": "Aveți %coins%"
+    "skyrealm.general.coins": "Aveți %coins% <white>",
+    "skyrealm.general.other.coins": "%player% has %coins% <white>",
+    "skyrealm.general.coins.modify": "Ți-ai modificat monedele de %amount% <white>",
+    "skyrealm.general.coins.modify.other": "You modified %player%'s Coins by %amount% <white>",
+    "skyrealm.general.xp": "Aveți %xp% XP",
+    "skyrealm.general.other.xp": "%player% are %xp% XP",
+    "skyrealm.general.xp.modify": "Ți-ai modificat XP cu %amount%",
+    "skyrealm.general.xp.modify.other": "Ai modificat XP lui %player%cu %amount%"
 }
