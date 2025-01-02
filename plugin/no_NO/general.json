@@ -4,5 +4,12 @@
     "skyrealm.general.tablist.footer.current_server": "Du er nå på %server%",
     "skyrealm.general.kicked-no-reason": "Du har blitt sparket fra tjeneren.",
     "skyrealm.general.kicked": "Du har blitt sparket ut av serveren for %reason%",
-    "skyrealm.general.coins": "Du har %coins%"
+    "skyrealm.general.coins": "You have %coins% <white>",
+    "skyrealm.general.other.coins": "%player% har %coins% <white>°",
+    "skyrealm.general.coins.modify": "Du endret dine mynter av %amount% <white>″",
+    "skyrealm.general.coins.modify.other": "Du endret %player%sine mynter av %amount% <white>",
+    "skyrealm.general.xp": "Du har %xp% XP",
+    "skyrealm.general.other.xp": "%player% har %xp% XP",
+    "skyrealm.general.xp.modify": "Du endret din XP av %amount%",
+    "skyrealm.general.xp.modify.other": "Du endret %player%sin XP av %amount%"
 }
