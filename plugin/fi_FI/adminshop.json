@@ -3,7 +3,7 @@
     "adminshop.success.buy-item": "You have bought %amount%x %item% for %finalPrice% coins.",
     "adminshop.error.not-enough-items": "You do not have enough items to sell %amount%x %item%.",
     "adminshop.success.sell-item": "You have sold %amount%x %item% for %finalPrice% coins.",
-    "adminshop.buy-one": "Buy one",
+    "adminshop.buy-one": "Osta yksi",
     "adminshop.sell-one": "Myy yksi",
-    "adminshop.buy-or-sell-stack": "Buy or sell stack"
+    "adminshop.buy-or-sell-stack": "Osta tai myy pino"
 }
