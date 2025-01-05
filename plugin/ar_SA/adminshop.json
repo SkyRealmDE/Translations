@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "لقد قمت ببيع %aالمبلغ%x %item% للعملات %finalPrice%.",
     "adminshop.buy-one": "شراء واحد",
     "adminshop.sell-one": "بيع واحد",
-    "adminshop.buy-or-sell-stack": "شراء أو بيع تكدس"
+    "adminshop.buy-or-sell-stack": "شراء أو بيع تكدس",
+    "adminshop.drop-to-sell-all": "إسقاط لبيع الكل"
 }
