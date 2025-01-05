@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Έχετε πουλήσει %amount%x %item% για %finalPrice% νομίσματα.",
     "adminshop.buy-one": "Αγοράστε ένα",
     "adminshop.sell-one": "Πώληση ενός",
-    "adminshop.buy-or-sell-stack": "Αγορά ή πώληση στοίβας"
+    "adminshop.buy-or-sell-stack": "Αγορά ή πώληση στοίβας",
+    "adminshop.drop-to-sell-all": "Πτώση για πώληση όλων"
 }
