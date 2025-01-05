@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Vous avez vendu des montures %a%x %item% pour des pièces %finalPrice%.",
     "adminshop.buy-one": "Achetez-en un",
     "adminshop.sell-one": "Vendez un",
-    "adminshop.buy-or-sell-stack": "Acheter ou vendre une pile"
+    "adminshop.buy-or-sell-stack": "Acheter ou vendre une pile",
+    "adminshop.drop-to-sell-all": "Déposer pour tout vendre"
 }
