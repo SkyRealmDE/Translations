@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Ați vândut Suma %a%x %item% pentru %finalPrice% monede.",
     "adminshop.buy-one": "Cumpără unul",
     "adminshop.sell-one": "Vinde unul",
-    "adminshop.buy-or-sell-stack": "Cumpără sau vinde stivă"
+    "adminshop.buy-or-sell-stack": "Cumpără sau vinde stivă",
+    "adminshop.drop-to-sell-all": "Trage pentru a vinde toate"
 }
