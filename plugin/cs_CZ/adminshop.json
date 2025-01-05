@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Prodal jsi %amontáž%x %item% pro %finalPrice% mince.",
     "adminshop.buy-one": "Koupit jeden",
     "adminshop.sell-one": "Prodávat",
-    "adminshop.buy-or-sell-stack": "Koupit nebo prodat zásobník"
+    "adminshop.buy-or-sell-stack": "Koupit nebo prodat zásobník",
+    "adminshop.drop-to-sell-all": "Přetažením prodat vše"
 }
