@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Du har solgt %amount%x %item% for %finalPrice% mynter.",
     "adminshop.buy-one": "Kjøp en",
     "adminshop.sell-one": "Selg en",
-    "adminshop.buy-or-sell-stack": "Kjøp eller selg stabel"
+    "adminshop.buy-or-sell-stack": "Kjøp eller selg stabel",
+    "adminshop.drop-to-sell-all": "Slipp for å selge alle"
 }
