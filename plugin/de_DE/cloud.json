@@ -2,5 +2,6 @@
     "skyrealm.cloud.no_servers": "Keine Server gefunden.",
     "skyrealm.cloud.no_lobbies": "Keine Lobby-Server gefunden.",
     "skyrealm.cloud.available_servers": "Derzeit verfügbare Server: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spieler auf Servern</gray>"
 }
