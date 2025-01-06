@@ -2,5 +2,6 @@
     "skyrealm.cloud.no_servers": "Δεν βρέθηκαν διακομιστές.",
     "skyrealm.cloud.no_lobbies": "Δεν βρέθηκαν διακομιστές λόμπι",
     "skyrealm.cloud.available_servers": "Τρέχοντες διαθέσιμοι διακομιστές: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Παίκτες στους διακομιστές</gray>"
 }
