@@ -1,5 +1,14 @@
 {
     "skyrealm.commands.helloworld": "مرحبًا بالعالم، %name%!",
     "skyrealm.commands.onlinetime.total": "أنت متصل بالفعل منذ <color:#74b9ff>%total%</color> إجمالاً.",
-    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
+    "commands.invite.success": "<green>تم إرسال الدعوة بنجاح إلى <yellow>%player%</yellow></green>",
+    "commands.invite.list-incoming.no-pending-invites": "<dark_gray>ليس لديك حاليا دعوات معلقة.</dark_gray>",
+    "commands.invite.list-outgoing.header": "<gold>دعوات صادرة</gold>",
+    "commands.invite.list-realm.entry": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white>)</gray>",
+    "commands.invite.list-realm.entry.member": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <yellow>الأعضاء:</yellow> <white>%user%</white>",
+    "commands.invite.list-incoming.header": "<gold>دعوات واردة</gold>",
+    "commands.invite.list.entry": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT؟</click></green>",
+    "commands.invite.accept.success": "<green>لقد قبلت الدعوة إلى عالم <yellow>%realm%</yellow> (المعرف: <white>%realmId%</white>مع الدور <white>%role%</white>.</green>",
+    "commands.invite.updated-role": "<gold>تحديث الدور:</gold> <gray>%player%</gray> تغير من <yellow>%oldrole%</yellow> إلى <yellow>%role%</yellow>"
 }
