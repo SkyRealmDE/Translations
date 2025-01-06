@@ -1,5 +1,14 @@
 {
     "skyrealm.commands.helloworld": "Hello world, %name%!",
     "skyrealm.commands.onlinetime.total": "You are already online since <color:#74b9ff>%total%</color> in total.",
-    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
+    "commands.invite.success": "<green>Invite sent successfully to <yellow>%player%</yellow>!</green>",
+    "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
+    "commands.invite.list-outgoing.header": "<gold>Outgoing Invites</gold>",
+    "commands.invite.list-realm.entry": "<gray>领域: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray>",
+    "commands.invite.list-realm.entry.member": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <yellow>Member:</yellow> <white>%user%</white>",
+    "commands.invite.list-incoming.header": "<gold>传入邀请</gold>",
+    "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
+    "commands.invite.accept.success": "<green>You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
+    "commands.invite.updated-role": "<gold>Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>."
 }
