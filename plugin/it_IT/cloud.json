@@ -3,5 +3,11 @@
     "skyrealm.cloud.no_lobbies": "Nessun server della lobby trovato.",
     "skyrealm.cloud.available_servers": "Server attualmente disponibili: <green><bold>%count%",
     "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
-    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Giocatori sui server</gray>"
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Giocatori sui server</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Abuse</dark_gray>",
+    "skyrealm.report.success": "<green>Hai segnalato con successo <yellow>%reported%</yellow> per <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> ha segnalato <gray>%reported%</gray> per <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>Il server per il regno <yellow>%realm%</yellow> è in coda per iniziare.</gray>",
+    "skyrealm.success.start-realm.success": "<green>Successo! Realm <yellow>%realm%</yellow> sta iniziando.</green>",
+    "skyrealm.server.transferring": "<gray>Trasferendoti nel regno <yellow>%realm%</yellow>...</gray>"
 }
