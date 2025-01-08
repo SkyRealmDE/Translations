@@ -3,5 +3,11 @@
     "skyrealm.cloud.no_lobbies": "Geen lobby servers gevonden.",
     "skyrealm.cloud.available_servers": "Momenteel beschikbare servers: <green><bold>%count%",
     "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
-    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spelers op servers</gray>"
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spelers op servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Misbruik</dark_gray>",
+    "skyrealm.report.success": "<green>Je hebt met succes gerapporteerd <yellow>%reported%</yellow> voor <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Rapportmelding:</red> <gray>%reporter%</gray> gerapporteerd <gray>%reported%</gray> voor <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>De server voor realm <yellow>%realm%</yellow> staat in de wachtrij om te starten.</gray>",
+    "skyrealm.success.start-realm.success": "<green>Succes! Realm <yellow>%realm%</yellow> is nu gestart.</green>",
+    "skyrealm.server.transferring": "<gray>Je wordt overgebracht naar realm <yellow>%realm%</yellow>...</gray>"
 }
