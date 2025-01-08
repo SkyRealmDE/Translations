@@ -3,5 +3,11 @@
     "skyrealm.cloud.no_lobbies": "Nenalezeny žádné lobby servery.",
     "skyrealm.cloud.available_servers": "Aktuálně dostupné servery: <green><bold>%count%",
     "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
-    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Hráči na serverech</gray>"
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Hráči na serverech</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Chyba</dark_gray>",
+    "skyrealm.report.success": "<green>Úspěšně jste nahlásili <yellow>%reported%</yellow> pro <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Oznámení sestavy:</red> <gray>%reporter%</gray> nahlásil <gray>%reported%</gray> pro <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>Server pro říši <yellow>%realm%</yellow> je zařazen do fronty.</gray>",
+    "skyrealm.success.start-realm.success": "<green>Úspěch! Realm <yellow>%realm%</yellow> nyní začíná.</green>",
+    "skyrealm.server.transferring": "<gray>Přenáší vás do říše <yellow>%realm%</yellow>...</gray>"
 }
