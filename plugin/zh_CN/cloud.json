@@ -6,7 +6,7 @@
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm：服务器上的玩家</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>错误滥用</dark_gray>",
     "skyrealm.report.success": "You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
-    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.report.notify.message": "报告通知：</red> <gray>%reporter%</gray> 报告了 <gray>%reported%</gray> <white>%reason%</white>",
     "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
     "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
     "skyrealm.server.transferring": "Transferring you to realm <yellow>%realm%</yellow>...",
