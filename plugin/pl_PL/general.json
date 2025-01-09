@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "Masz %xp% XP",
     "skyrealm.general.other.xp": "%player% ma %xp% XP",
     "skyrealm.general.xp.modify": "Zmodyfikowałeś swoje doświadczenie przez %amount%",
-    "skyrealm.general.xp.modify.other": "Zmodyfikowałeś PD %player%przez %amount%"
+    "skyrealm.general.xp.modify.other": "Zmodyfikowałeś PD %player%przez %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
