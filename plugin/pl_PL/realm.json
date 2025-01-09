@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "Twoje ulepszenie jest gotowe w %time%!",
     "generator.upgrade.general.success": "Twój generator został zaktualizowany do poziomu %level%.",
-    "generator.upgrade.luck.success": "Ulepszyłeś swój generator szczęścia do poziomu %level%."
+    "generator.upgrade.luck.success": "Ulepszyłeś swój generator szczęścia do poziomu %level%.",
+    "realm.upgrade.success": "Twój świat Realms został rozszerzony do poziomu %level%.",
+    "skyrealm.error.not-enough-coins": "Masz monety %coins% , ale potrzebujesz monet %price% , aby ukończyć tę czynność.",
+    "generator.upgrade.ore.success": "Twój poziom rudy generatora został zaktualizowany do %level%."
 }
