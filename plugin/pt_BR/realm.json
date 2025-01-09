@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Sua atualização está pronta em %time%!"
+    "realm.size.upgrade.text": "Sua atualização está pronta em %time%!",
+    "generator.upgrade.general.success": "Seu gerador foi atualizado para o nível %level%.",
+    "generator.upgrade.luck.success": "Você melhorou sua sorte de gerador para o nível %level%."
 }
