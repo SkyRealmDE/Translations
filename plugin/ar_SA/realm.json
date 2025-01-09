@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "الترقية الخاصة بك جاهزة في %time%!",
     "generator.upgrade.general.success": "تم ترقية المولد الخاص بك إلى المستوى %level%.",
-    "generator.upgrade.luck.success": "لقد قمت بترقية الحظ للمولد الخاص بك إلى المستوى %level%."
+    "generator.upgrade.luck.success": "لقد قمت بترقية الحظ للمولد الخاص بك إلى المستوى %level%.",
+    "realm.upgrade.success": "تم ترقية عالمك إلى المستوى %level%.",
+    "skyrealm.error.not-enough-coins": "لديك عملات %coins% ، لكنك بحاجة إلى عملات %price% لإكمال هذا الإجراء.",
+    "generator.upgrade.ore.success": "تم ترقية مستوى خام المولدات الخاصة بك إلى %level%."
 }
