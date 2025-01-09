@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Upgradarea dvs. este gata în %time%!"
+    "realm.size.upgrade.text": "Upgradarea dvs. este gata în %time%!",
+    "generator.upgrade.general.success": "Generatorul tău a fost actualizat la nivelul %level%.",
+    "generator.upgrade.luck.success": "Ai upgradat norocul generatorului tău la nivelul %level%."
 }
