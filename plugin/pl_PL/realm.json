@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Twoje ulepszenie jest gotowe w %time%!"
+    "realm.size.upgrade.text": "Twoje ulepszenie jest gotowe w %time%!",
+    "generator.upgrade.general.success": "Twój generator został zaktualizowany do poziomu %level%.",
+    "generator.upgrade.luck.success": "Ulepszyłeś swój generator szczęścia do poziomu %level%."
 }
