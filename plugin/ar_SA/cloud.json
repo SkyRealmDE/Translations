@@ -5,9 +5,11 @@
     "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>إساءة استعمال الأخطاء</dark_gray>",
-    "skyrealm.report.success": "<green>لقد أبلغت بنجاح <yellow>%reported%</yellow> ل <yellow>%reason%</yellow>.</green>",
-    "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
-    "skyrealm.server.queued": "<gray>الخادم للمجال <yellow>%realm%</yellow> في قائمة الانتظار للبدء.</gray>",
-    "skyrealm.success.start-realm.success": "<green>نجح! المجال <yellow>%realm%</yellow> بدأ الآن.</green>",
-    "skyrealm.server.transferring": "<gray>Transferring you to realm <yellow>%realm%</yellow>...</gray>"
+    "skyrealm.report.success": "تم الإبلاغ بنجاح عن <yellow>%reported%</yellow> لـ <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
+    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.server.transferring": "ينقلك إلى العالم <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "جاري توصيلك إلى المحور...",
+    "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن."
 }
