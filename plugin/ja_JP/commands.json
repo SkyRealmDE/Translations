@@ -2,13 +2,14 @@
     "skyrealm.commands.helloworld": "Hello world, %name%!",
     "skyrealm.commands.onlinetime.total": "既に <color:#74b9ff>%total%</color> からオンラインになっています。",
     "skyrealm.commands.onlinetime.current": "この領域で: <color:#74b9ff>%servertime%</color>",
-    "commands.invite.success": "<green> <yellow>%player%</yellow>に招待が送信されました!</green>",
+    "commands.invite.success": "Invite sent successfully to <yellow>%player%</yellow>!",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>現在保留中の招待状はありません。</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>送信招待</gold>",
     "commands.invite.list-realm.entry": "<gray>領域: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray>",
     "commands.invite.list-realm.entry.member": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <yellow>Member:</yellow> <white>%user%</white>",
     "commands.invite.list-incoming.header": "<gold>招待状</gold>",
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
-    "commands.invite.accept.success": "<green>レルム <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) のロール <white>%role%</white>.</green>",
-    "commands.invite.updated-role": "<gold>ロールの更新:</gold> <gray>%player%</gray> が <yellow>%oldrole%</yellow> から <yellow>%role%</yellow> に変更されました。"
+    "commands.invite.accept.success": "You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
+    "commands.invite.updated-role": "Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
 }
