@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "あなたのアップグレードは %time%で準備ができています！",
     "generator.upgrade.general.success": "ジェネレーターはレベル %level%にアップグレードされました。",
-    "generator.upgrade.luck.success": "ジェネレーター運をレベル %level%にアップグレードしました。"
+    "generator.upgrade.luck.success": "ジェネレーター運をレベル %level%にアップグレードしました。",
+    "realm.upgrade.success": "Realm がレベル %level% にアップグレードされました。",
+    "skyrealm.error.not-enough-coins": "%coins% コインがありますが、この操作を完了するには %price% コインが必要です。",
+    "generator.upgrade.ore.success": "ジェネレーター鉱石レベルが %level%にアップグレードされました。"
 }
