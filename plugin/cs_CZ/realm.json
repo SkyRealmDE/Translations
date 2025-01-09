@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Váš upgrade je připraven v %time%!"
+    "realm.size.upgrade.text": "Váš upgrade je připraven v %time%!",
+    "generator.upgrade.general.success": "Váš generátor byl povýšen na úroveň %level%.",
+    "generator.upgrade.luck.success": "Aktualizovali jste váš generátor štěstí na úroveň %level%."
 }
