@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "Ваше обновление готово в %time%!",
     "generator.upgrade.general.success": "Ваш генератор был улучшен до уровня %level%.",
-    "generator.upgrade.luck.success": "You have upgraded your generator luck to level %level%."
+    "generator.upgrade.luck.success": "You have upgraded your generator luck to level %level%.",
+    "realm.upgrade.success": "Ваш реалм был улучшен до %level% уровня.",
+    "skyrealm.error.not-enough-coins": "У вас есть %coins% монеты, но для завершения этого действия вам нужны монеты %price%.",
+    "generator.upgrade.ore.success": "Ваш уровень руды генератора был повышен до %level%."
 }
