@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "%xp% XPがあります",
     "skyrealm.general.other.xp": "%player% には %xp% XP があります",
     "skyrealm.general.xp.modify": "あなたは %amount%によってXPを変更しました",
-    "skyrealm.general.xp.modify.other": "あなたは %player%のXPを %amount%によって変更しました"
+    "skyrealm.general.xp.modify.other": "あなたは %player%のXPを %amount%によって変更しました",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
