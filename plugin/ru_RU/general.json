@@ -8,7 +8,7 @@
     "skyrealm.general.other.coins": "%player% имеет %coins% <white> <unk>",
     "skyrealm.general.coins.modify": "Вы изменили ваши монеты от %amount% <white> <unk>",
     "skyrealm.general.coins.modify.other": "Вы изменили монеты %player%от %amount% <white>",
-    "skyrealm.general.xp": "У вас есть %xp% XP",
+    "skyrealm.general.xp": "You have <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Level:</color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
     "skyrealm.general.other.xp": "У %player% есть %xp% XP",
     "skyrealm.general.xp.modify": "Вы изменили свой XP от %amount%",
     "skyrealm.general.xp.modify.other": "Вы изменили опыт %player%от %amount%",
