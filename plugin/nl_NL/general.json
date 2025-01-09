@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "Je hebt %xp% XP",
     "skyrealm.general.other.xp": "%player% heeft %xp% XP",
     "skyrealm.general.xp.modify": "Je hebt je XP gewijzigd door %amount%",
-    "skyrealm.general.xp.modify.other": "Je hebt %player%'s XP gewijzigd door %amount%"
+    "skyrealm.general.xp.modify.other": "Je hebt %player%'s XP gewijzigd door %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
