@@ -9,7 +9,7 @@
     "commands.invite.list-realm.entry.member": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <yellow>الأعضاء:</yellow> <white>%user%</white>",
     "commands.invite.list-incoming.header": "<gold>دعوات واردة</gold>",
     "commands.invite.list.entry": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT؟</click></green>",
-    "commands.invite.accept.success": "لقد قبلت الدعوة إلى عالم <yellow>%realm%</yellow> (المعرف: <white>%realmId%</white>مع الدور <white>%role%</white>.</green>",
+    "commands.invite.accept.success": "لقد قبلت الدعوة إلى عالم <yellow>%realm%</yellow> (المعرف: <white>%realmId%</white>مع الدور <white>%role%</white>.",
     "commands.invite.updated-role": "تحديث الدورة:</gold> <gray>%player%</gray> تغير من <yellow>%oldrole%</yellow> إلى <yellow>%role%</yellow>",
-    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!</green>"
+    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!"
 }
