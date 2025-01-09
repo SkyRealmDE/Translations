@@ -6,9 +6,9 @@
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Jogadores nos Servidores</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>abuso de insetos</dark_gray>",
     "skyrealm.report.success": "Você reportou com sucesso <yellow>%reported%</yellow> para <yellow>%reason%</yellow>.</green>",
-    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
-    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
-    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.report.notify.message": "Notificação:</red> <gray>%reporter%</gray> relatou <gray>%reported%</gray> para <white>%reason%</white>.",
+    "skyrealm.server.queued": "O servidor para realm <yellow>%realm%</yellow> está na fila para começar.",
+    "skyrealm.success.start-realm.success": "Sucesso! Realm <yellow>%realm%</yellow> está iniciando.",
     "skyrealm.server.transferring": "Transferindo você para o Realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Conectando você ao hub...",
     "skyrealm.server.running": "O servidor do realm %realm% está sendo executado."
