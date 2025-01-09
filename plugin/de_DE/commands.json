@@ -9,7 +9,7 @@
     "commands.invite.list-realm.entry.member": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <yellow>Mitglied:</yellow> <white>%user%</white>",
     "commands.invite.list-incoming.header": "<gold>eingehende Einladungen</gold>",
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
-    "commands.invite.accept.success": "Du hast die Einladung angenommen <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) mit Rolle <white>%role%</white>.</green>",
+    "commands.invite.accept.success": "Du hast die Einladung angenommen <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) mit Rolle <white>%role%</white>.",
     "commands.invite.updated-role": "Rollenupdate:</gold> <gray>%player%</gray> geändert von <yellow>%oldrole%</yellow> auf <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Dein Gegenstand wurde erfolgreich repariert!</green>"
+    "skyrealm.command.repair.success": "Dein Gegenstand wurde erfolgreich repariert!"
 }
