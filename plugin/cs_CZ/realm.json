@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "Váš upgrade je připraven v %time%!",
     "generator.upgrade.general.success": "Váš generátor byl povýšen na úroveň %level%.",
-    "generator.upgrade.luck.success": "Aktualizovali jste váš generátor štěstí na úroveň %level%."
+    "generator.upgrade.luck.success": "Aktualizovali jste váš generátor štěstí na úroveň %level%.",
+    "realm.upgrade.success": "Vaše říše byla vylepšena na úroveň %level%.",
+    "skyrealm.error.not-enough-coins": "Máš %coins% mince, ale k dokončení této akce potřebuješ %price% mince.",
+    "generator.upgrade.ore.success": "Úroveň tvé generátorové rudy byla vylepšena na %level%."
 }
