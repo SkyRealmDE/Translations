@@ -6,9 +6,9 @@
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spillere på servere</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>Fejlmisbrug</dark_gray>",
     "skyrealm.report.success": "Du har anmeldt <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
-    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
-    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
-    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.report.notify.message": "Rapport Notification:</red> <gray>%reporter%</gray> rapporterede <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "Serveren for realm <yellow>%realm%</yellow> er i kø til at starte.",
+    "skyrealm.success.start-realm.success": "Succes! Realm <yellow>%realm%</yellow> er nu i gang.",
     "skyrealm.server.transferring": "Overfører dig til realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Forbinder dig til hub...",
     "skyrealm.server.running": "Server til realm %realm% kører nu."
