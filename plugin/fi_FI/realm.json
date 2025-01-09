@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Päivityksesi on valmis %time% -versiossa!"
+    "realm.size.upgrade.text": "Päivityksesi on valmis %time% -versiossa!",
+    "generator.upgrade.general.success": "Generaattorisi on päivitetty tasolle %level%.",
+    "generator.upgrade.luck.success": "Olet päivittänyt generaattori onnea tasolle %level%."
 }
