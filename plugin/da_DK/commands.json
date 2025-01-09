@@ -2,13 +2,14 @@
     "skyrealm.commands.helloworld": "Hej verden, %name%!",
     "skyrealm.commands.onlinetime.total": "Du er allerede online siden <color:#74b9ff>%total%</color> i alt.",
     "skyrealm.commands.onlinetime.current": "På dette realm: <color:#74b9ff>%servertime%</color>",
-    "commands.invite.success": "<green>Inviter sendt succesfuldt til <yellow>%player%</yellow>!</green>",
+    "commands.invite.success": "Invite sent successfully to <yellow>%player%</yellow>!",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Du har i øjeblikket ingen ventende invitationer.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Udgående Invitationer</gold>",
     "commands.invite.list-realm.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray>",
     "commands.invite.list-realm.entry.member": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray></dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray></dark_gray> <yellow>Medlem:</yellow> <white>%user%</white>",
     "commands.invite.list-incoming.header": "<gold>Indgående Invitationer</gold>",
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray></dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
-    "commands.invite.accept.success": "<green>Du har accepteret invitationen til realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) med rolle <white>%role%</white>.</green>",
-    "commands.invite.updated-role": "<gold>Rolle opdatering:</gold> <gray>%player%</gray> ændret fra <yellow>%oldrole%</yellow> til <yellow>%role%</yellow>."
+    "commands.invite.accept.success": "You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
+    "commands.invite.updated-role": "Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
 }
