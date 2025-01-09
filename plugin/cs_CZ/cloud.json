@@ -6,9 +6,9 @@
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Hráči na serverech</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>Chyba</dark_gray>",
     "skyrealm.report.success": "Úspěšně jste nahlásili <yellow>%reported%</yellow> pro <yellow>%reason%</yellow>.</green>",
-    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
-    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
-    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.report.notify.message": "Oznámení oznámení:</red> <gray>%reporter%</gray> nahlásilo <gray>%reported%</gray> pro <white>%reason%</white>.",
+    "skyrealm.server.queued": "Server pro říši <yellow>%realm%</yellow> je zařazen do fronty.",
+    "skyrealm.success.start-realm.success": "Úspěch! Realm <yellow>%realm%</yellow> nyní začíná.",
     "skyrealm.server.transferring": "Přenáší vás do říše <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Připojování k centrum...",
     "skyrealm.server.running": "Server pro říši %realm% je nyní spuštěn."
