@@ -5,9 +5,11 @@
     "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
     "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spieler auf Servern</gray>",
     "skyrealm.report.bug_abuse.name": "<dark_gray>Fehler Missbrauch</dark_gray>",
-    "skyrealm.report.success": "<green>Sie haben erfolgreich <yellow>%reported%</yellow> für <yellow>%reason%</yellow>gemeldet.</green>",
-    "skyrealm.report.notify.message": "<red>Meldungsmitteilung:</red> <gray>%reporter%</gray> gemeldet <gray>%reported%</gray> für <white>%reason%</white>.",
-    "skyrealm.server.queued": "<gray>Der Server für Realm <yellow>%realm%</yellow> wird in der Warteschlange gestartet.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Erfolg! Realm <yellow>%realm%</yellow> startet jetzt.</green>",
-    "skyrealm.server.transferring": "<gray>Übertragung auf Realm <yellow>%realm%</yellow>...</gray>"
+    "skyrealm.report.success": "Sie haben erfolgreich <yellow>%reported%</yellow> für <yellow>%reason%</yellow>gemeldet.</green>",
+    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
+    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.server.transferring": "Übertragung auf Realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Verbinde dich mit dem Hub...",
+    "skyrealm.server.running": "Server für Realm %realm% läuft jetzt."
 }
