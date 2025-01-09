@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "Din oppgradering er klar i %time%!",
     "generator.upgrade.general.success": "Generatoren ble oppgradert til nivå %level%.",
-    "generator.upgrade.luck.success": "Du har oppgradert din generator lykke til nivå %level%."
+    "generator.upgrade.luck.success": "Du har oppgradert din generator lykke til nivå %level%.",
+    "realm.upgrade.success": "Din realm er blitt oppgradert til nivå %level%.",
+    "skyrealm.error.not-enough-coins": "Du har %coins% mynter, men du trenger %price% mynter for å fullføre denne handlingen.",
+    "generator.upgrade.ore.success": "Ditt generatornivå har blitt oppgradert til %level%."
 }
