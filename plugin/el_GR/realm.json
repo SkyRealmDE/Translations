@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "Η αναβάθμιση σας είναι έτοιμη στο %time%!",
     "generator.upgrade.general.success": "Η γεννήτρια σας αναβαθμίστηκε σε επίπεδο %level%.",
-    "generator.upgrade.luck.success": "Έχετε αναβαθμίσει την τύχη της γεννήτριας σας στο επίπεδο %level%."
+    "generator.upgrade.luck.success": "Έχετε αναβαθμίσει την τύχη της γεννήτριας σας στο επίπεδο %level%.",
+    "realm.upgrade.success": "Το βασίλειό σας έχει αναβαθμιστεί σε επίπεδο %level%.",
+    "skyrealm.error.not-enough-coins": "Έχετε %coins% νομίσματα, αλλά χρειάζεστε %price% νομίσματα για να ολοκληρώσετε αυτήν την ενέργεια.",
+    "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%."
 }
