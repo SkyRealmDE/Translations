@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "あなたのアップグレードは %time%で準備ができています！"
+    "realm.size.upgrade.text": "あなたのアップグレードは %time%で準備ができています！",
+    "generator.upgrade.general.success": "ジェネレーターはレベル %level%にアップグレードされました。",
+    "generator.upgrade.luck.success": "ジェネレーター運をレベル %level%にアップグレードしました。"
 }
