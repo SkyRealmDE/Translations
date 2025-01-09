@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Din opgradering er klar i %time%!"
+    "realm.size.upgrade.text": "Din opgradering er klar i %time%!",
+    "generator.upgrade.general.success": "Din generator blev opgraderet til niveau %level%.",
+    "generator.upgrade.luck.success": "Du har opgraderet din generator held til niveau %level%."
 }
