@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "You have %xp% XP",
     "skyrealm.general.other.xp": "%player% has %xp% XP",
     "skyrealm.general.xp.modify": "Τροποποιήσατε το XP σας από τον %amount%",
-    "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%"
+    "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
