@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "لديك %xp% XP",
     "skyrealm.general.other.xp": "%player% لديه %xp% XP",
     "skyrealm.general.xp.modify": "لقد قمت بتعديل XP الخاص بك ب %amount%",
-    "skyrealm.general.xp.modify.other": "قمت بتعديل XP الخاص ب %player%بواسطة %amount%"
+    "skyrealm.general.xp.modify.other": "قمت بتعديل XP الخاص ب %player%بواسطة %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
