@@ -1,3 +1,5 @@
 {
-    "realm.size.upgrade.text": "Η αναβάθμιση σας είναι έτοιμη στο %time%!"
+    "realm.size.upgrade.text": "Η αναβάθμιση σας είναι έτοιμη στο %time%!",
+    "generator.upgrade.general.success": "Η γεννήτρια σας αναβαθμίστηκε σε επίπεδο %level%.",
+    "generator.upgrade.luck.success": "Έχετε αναβαθμίσει την τύχη της γεννήτριας σας στο επίπεδο %level%."
 }
