@@ -1,5 +1,8 @@
 {
     "realm.size.upgrade.text": "¡Tu actualización está lista en %time%!",
     "generator.upgrade.general.success": "Tu generador ha sido mejorado al nivel %level%.",
-    "generator.upgrade.luck.success": "Has mejorado tu suerte de generador al nivel %level%."
+    "generator.upgrade.luck.success": "Has mejorado tu suerte de generador al nivel %level%.",
+    "realm.upgrade.success": "Tu reino ha sido mejorado al nivel %level%.",
+    "skyrealm.error.not-enough-coins": "Tienes monedas %coins% , pero necesitas monedas %price% para completar esta acción.",
+    "generator.upgrade.ore.success": "El nivel del mineral de tu generador ha sido mejorado a %level%."
 }
