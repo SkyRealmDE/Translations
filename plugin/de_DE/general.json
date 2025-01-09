@@ -8,9 +8,9 @@
     "skyrealm.general.other.coins": "%player% hat %coins% <white> <unk>",
     "skyrealm.general.coins.modify": "Du hast deine Münzen von %amount% <white> <unk>",
     "skyrealm.general.coins.modify.other": "Sie haben %player%'s Münzen von %amount% <white> <unk>",
-    "skyrealm.general.xp": "Sie haben %xp% XP",
+    "skyrealm.general.xp": "Sie haben <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Level:</color> </color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
     "skyrealm.general.other.xp": "%player% hat %xp% XP",
     "skyrealm.general.xp.modify": "Sie haben Ihr XP von %amount% geändert",
     "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert",
-    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
+    "skyrealm.error.cooldown": "Sie müssen <yellow>%cooldown%</yellow> warten, bevor Sie diesen Befehl erneut verwenden können."
 }
