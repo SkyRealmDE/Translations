@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "Sie haben %xp% XP",
     "skyrealm.general.other.xp": "%player% hat %xp% XP",
     "skyrealm.general.xp.modify": "Sie haben Ihr XP von %amount% geändert",
-    "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert"
+    "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
