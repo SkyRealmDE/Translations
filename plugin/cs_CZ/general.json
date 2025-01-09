@@ -11,5 +11,6 @@
     "skyrealm.general.xp": "Máte %xp% XP",
     "skyrealm.general.other.xp": "%player% má %xp% XP",
     "skyrealm.general.xp.modify": "Upravili jste své XP %amount%",
-    "skyrealm.general.xp.modify.other": "Upravili jste XP %player%o %amount%"
+    "skyrealm.general.xp.modify.other": "Upravili jste XP %player%o %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
 }
