@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Du har uppgraderat din generator lycka till nivå %level%.",
     "realm.upgrade.success": "Ditt Realm har uppgraderats till nivå %level%.",
     "skyrealm.error.not-enough-coins": "Du har %coins% mynt, men du behöver %price% mynt för att slutföra denna åtgärd.",
-    "generator.upgrade.ore.success": "Din generator malmnivå har uppgraderats till %level%."
+    "generator.upgrade.ore.success": "Din generator malmnivå har uppgraderats till %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Nuvarande banksaldo:</color> <color:#FFD700>%money%</color> <unk>"
 }
