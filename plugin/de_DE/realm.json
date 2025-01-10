@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Sie haben Ihren Generator Glück auf Level %level% erhöht.",
     "realm.upgrade.success": "Dein Realm wurde auf Level %level% aktualisiert.",
     "skyrealm.error.not-enough-coins": "Sie haben %coins% Münzen, aber Sie benötigen %price% Münzen, um diese Aktion abzuschließen.",
-    "generator.upgrade.ore.success": "Ihr Generatorerz Level wurde auf %level% aktualisiert."
+    "generator.upgrade.ore.success": "Ihr Generatorerz Level wurde auf %level% aktualisiert.",
+    "realm.bank.lore": "<color:#CAD3C8>Aktuelles Bankguthaben:</color> <color:#FFD700>%money%</color> <unk>"
 }
