@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Aktualizovali jste váš generátor štěstí na úroveň %level%.",
     "realm.upgrade.success": "Vaše říše byla vylepšena na úroveň %level%.",
     "skyrealm.error.not-enough-coins": "Máš %coins% mince, ale k dokončení této akce potřebuješ %price% mince.",
-    "generator.upgrade.ore.success": "Úroveň tvé generátorové rudy byla vylepšena na %level%."
+    "generator.upgrade.ore.success": "Úroveň tvé generátorové rudy byla vylepšena na %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Aktuální zůstatek banky:</color> <color:#FFD700>%money%</color> <unk>"
 }
