@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Hai potenziato la fortuna del tuo generatore al livello %level%.",
     "realm.upgrade.success": "Il tuo regno è stato aggiornato al livello %level%.",
     "skyrealm.error.not-enough-coins": "Hai monete %coins% , ma hai bisogno di monete %price% per completare questa azione.",
-    "generator.upgrade.ore.success": "Il tuo livello di minerale generatore è stato aggiornato a %level%."
+    "generator.upgrade.ore.success": "Il tuo livello di minerale generatore è stato aggiornato a %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Saldo corrente delle banche:</color> <color:#FFD700>%money%</color> <unk>"
 }
