@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Ai upgradat norocul generatorului tău la nivelul %level%.",
     "realm.upgrade.success": "Tărâmul tău a fost actualizat la nivelul %level%.",
     "skyrealm.error.not-enough-coins": "Aveți %coins% monede, dar aveți nevoie de %price% monede pentru a finaliza această acțiune.",
-    "generator.upgrade.ore.success": "Nivelul de minereu al generatorului tău a fost actualizat la %level%."
+    "generator.upgrade.ore.success": "Nivelul de minereu al generatorului tău a fost actualizat la %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Soldul bancar curent:</color> <color:#FFD700>%money%</color>"
 }
