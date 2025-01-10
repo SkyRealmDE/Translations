@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "ジェネレーター運をレベル %level%にアップグレードしました。",
     "realm.upgrade.success": "Realm がレベル %level% にアップグレードされました。",
     "skyrealm.error.not-enough-coins": "%coins% コインがありますが、この操作を完了するには %price% コインが必要です。",
-    "generator.upgrade.ore.success": "ジェネレーター鉱石レベルが %level%にアップグレードされました。"
+    "generator.upgrade.ore.success": "ジェネレーター鉱石レベルが %level%にアップグレードされました。",
+    "realm.bank.lore": "<color:#CAD3C8>現在の銀行残高:</color> <color:#FFD700>%money%</color> <unk>"
 }
