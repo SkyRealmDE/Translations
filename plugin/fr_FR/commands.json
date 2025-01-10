@@ -1,5 +1,15 @@
 {
     "skyrealm.commands.helloworld": "Bonjour le monde, %name%!",
     "skyrealm.commands.onlinetime.total": "Vous êtes déjà en ligne depuis <color:#74b9ff>%total%</color> au total.",
-    "skyrealm.commands.onlinetime.current": "Sur ce royaume : <color:#74b9ff>%servertime%</color>"
+    "skyrealm.commands.onlinetime.current": "Sur ce royaume : <color:#74b9ff>%servertime%</color>",
+    "commands.invite.success": "Invitation envoyée avec succès à <yellow>%player%</yellow>!",
+    "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
+    "commands.invite.list-outgoing.header": "<gold>Invitation sortante</gold>",
+    "commands.invite.list-realm.entry": "<gray>Domaine : <aqua>%realm%</aqua> (ID : <white>%realmId%</white>)</gray>",
+    "commands.invite.list-realm.entry.member": "<gray>Domaine : <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> Rôle <yellow>:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <yellow>Membre :</yellow> <white>%user%</white>",
+    "commands.invite.list-incoming.header": "<gold>Incoming Invites</gold>",
+    "commands.invite.list.entry": "<gray>Domaine : <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> Rôle <yellow>:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT ?</click></green>",
+    "commands.invite.accept.success": "Vous avez accepté l'invitation au royaume <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) avec le rôle <white>%role%</white>.",
+    "commands.invite.updated-role": "Mise à jour du rôle :</gold> <gray>%player%</gray> changé de <yellow>%oldrole%</yellow> à <yellow>%role%</yellow>.",
+    "skyrealm.command.repair.success": "Votre article a été réparé avec succès !"
 }

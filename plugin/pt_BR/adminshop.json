@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Você vendeu montaria %a%x %item% para moedas %finalPrice%.",
     "adminshop.buy-one": "Comprar um",
     "adminshop.sell-one": "Vender uma",
-    "adminshop.buy-or-sell-stack": "Comprar ou vender pilha"
+    "adminshop.buy-or-sell-stack": "Comprar ou vender pilha",
+    "adminshop.drop-to-sell-all": "Solte para vender tudo"
 }

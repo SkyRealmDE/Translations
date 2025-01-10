@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "You have sold %amount%x %item% for %finalPrice% coins.",
     "adminshop.buy-one": "Buy one",
     "adminshop.sell-one": "Sell one",
-    "adminshop.buy-or-sell-stack": "Buy or sell stack"
+    "adminshop.buy-or-sell-stack": "Buy or sell stack",
+    "adminshop.drop-to-sell-all": "Drop to sell all"
 }

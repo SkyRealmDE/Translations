@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Вы продали маунт %a%x %item% для монет %finalPrice%.",
     "adminshop.buy-one": "Купить",
     "adminshop.sell-one": "Продать один",
-    "adminshop.buy-or-sell-stack": "Купить или продать стек"
+    "adminshop.buy-or-sell-stack": "Купить или продать стек",
+    "adminshop.drop-to-sell-all": "Отпустите, чтобы продать все"
 }

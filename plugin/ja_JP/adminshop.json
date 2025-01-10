@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "%amount%x %item% for %finalPrice% coins.",
     "adminshop.buy-one": "1つ購入",
     "adminshop.sell-one": "1つを販売",
-    "adminshop.buy-or-sell-stack": "スタックを購入または販売"
+    "adminshop.buy-or-sell-stack": "スタックを購入または販売",
+    "adminshop.drop-to-sell-all": "ドロップしてすべてを販売"
 }

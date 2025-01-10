@@ -5,5 +5,6 @@
     "adminshop.success.sell-item": "Je hebt %amount%x %item% verkocht voor %finalPrice% munten.",
     "adminshop.buy-one": "Koop een",
     "adminshop.sell-one": "Verkoop één",
-    "adminshop.buy-or-sell-stack": "Stack kopen of verkopen"
+    "adminshop.buy-or-sell-stack": "Stack kopen of verkopen",
+    "adminshop.drop-to-sell-all": "Drop om alles te verkopen"
 }
