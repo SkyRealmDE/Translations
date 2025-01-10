@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Έχετε αναβαθμίσει την τύχη της γεννήτριας σας στο επίπεδο %level%.",
     "realm.upgrade.success": "Το βασίλειό σας έχει αναβαθμιστεί σε επίπεδο %level%.",
     "skyrealm.error.not-enough-coins": "Έχετε %coins% νομίσματα, αλλά χρειάζεστε %price% νομίσματα για να ολοκληρώσετε αυτήν την ενέργεια.",
-    "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%."
+    "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Τρέχον τραπεζικό υπόλοιπο:</color> <color:#FFD700>%money%</color>;"
 }
