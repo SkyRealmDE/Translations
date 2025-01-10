@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Olet päivittänyt generaattori onnea tasolle %level%.",
     "realm.upgrade.success": "Valtakuntasi on päivitetty tasolle %level%.",
     "skyrealm.error.not-enough-coins": "You have %coins% coins, but you need %price% coins to complete this action.",
-    "generator.upgrade.ore.success": "Generaattorin malmitaso on päivitetty arvoksi %level%."
+    "generator.upgrade.ore.success": "Generaattorin malmitaso on päivitetty arvoksi %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Current bank balance:</color> <color:#FFD700>%money%</color> "
 }
