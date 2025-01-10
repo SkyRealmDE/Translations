@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Ви покращили удачу генератора до рівня %level%.",
     "realm.upgrade.success": "Ваш реалм оновлено до рівня %level%.",
     "skyrealm.error.not-enough-coins": "You have %coins% coins, but you need %price% coins to complete this action.",
-    "generator.upgrade.ore.success": "Рівень вашої руди генератора був оновлений до %level%."
+    "generator.upgrade.ore.success": "Рівень вашої руди генератора був оновлений до %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Поточний банківський баланс:</color> <color:#FFD700>%money%</color>"
 }
