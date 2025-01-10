@@ -4,5 +4,6 @@
     "generator.upgrade.luck.success": "Vous avez amélioré votre générateur de chance au niveau %level%.",
     "realm.upgrade.success": "Votre royaume a été amélioré au niveau %level%.",
     "skyrealm.error.not-enough-coins": "Vous avez des pièces %coins% mais vous avez besoin de pièces %price% pour terminer cette action.",
-    "generator.upgrade.ore.success": "Le niveau de minerai de votre générateur a été amélioré vers %level%."
+    "generator.upgrade.ore.success": "Le niveau de minerai de votre générateur a été amélioré vers %level%.",
+    "realm.bank.lore": "<color:#CAD3C8>Solde bancaire actuel :</color> <color:#FFD700>%money%</color> <unk>"
 }
