@@ -6,8 +6,13 @@
     "skyrealm.error.not-enough-coins": "You have %coins% coins, but you need %price% coins to complete this action.",
     "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Current bank balance:</color> <color:#FFD700>%money%</color> <white>",
+
     "gui.back.name": "Back",
     "gui.back.lore": "Go back to the previous menu",
+    "gui.previous_page": "Previous Page",
+    "gui.previous_page.lore": "<color:#dfe6e9>Go to page</color> <color:#FFD700>%page%</color>",
+    "gui.next_page": "Next Page",
+    "gui.next_page.lore": "<color:#dfe6e9>Go to page</color> <color:#FFD700>%page%</color>",
   
     "realm.features.pvp.lore": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%state%</color>",
     "realm.features.pvp.enable": "<color:#a3e877>Enable PVP",
@@ -24,7 +29,7 @@
     "realm.features.keep_inventory.name": "Keep Inventory",
 
     "realm.features.biome.lore": "<color:#dfe6e9>Current biome:</color> <color:#FFD700>%biome%</color>",
-    "realm.features.biome.button": "Change biome",
+    "realm.features.biome.button": "<color:#fdcb6e>Change biome",
     "realm.features.biome.name": "Biome Settings",
 
     "realm.features.fire_tick.lore": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%state%</color>",
@@ -39,10 +44,6 @@
 
     "realm.biome.name": "Biome",
     "realm.biome.lore": "<color:#dfe6e9>Current biome:</color> <color:#FFD700>%biome%</color>",
-    "realm.biome.previous_page": "Previous Page",
-    "realm.biome.previous_page.lore": "<color:#dfe6e9>Go to page</color> <color:#FFD700>%page%</color>",
-    "realm.biome.next_page": "Next Page",
-    "realm.biome.next_page.lore": "<color:#dfe6e9>Go to page</color> <color:#FFD700>%page%</color>",
 
     "features.wanderingtrader.enabled": "Enabled wandering trader",
     "features.wanderingtrader.disabled": "Disabled wandering trader",
@@ -58,5 +59,15 @@
     
 
     "features.firetick.disabled": "Disabled fire tick",
-    "features.firetick.enabled": "Enabled fire tick"
-    }
+    "features.firetick.enabled": "Enabled fire tick",
+
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.new": "<color:#dfe6e9>Upgrading from</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>to</color> <color:#FFD700>%newLimit%</color>",
+    "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Requirements:</color>",
+    "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Player Level:</color> <color:#FFD700>%level%</color>",
+    "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
+
+    "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
+    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+}
