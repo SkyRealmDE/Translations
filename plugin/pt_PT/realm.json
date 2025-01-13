@@ -46,12 +46,12 @@
     "features.keepinventory.enabled": "Manter inventário ativado",
     "features.firetick.disabled": "Alerta de disparo desativado",
     "features.firetick.enabled": "Alerta de disparo habilitado",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Seu limite atual de entidade é:</color> <color:#FFD700>%limit%</color>",
-    "realm.entities.limit.lore.new": "<color:#dfe6e9>Evolua de</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>para</color> <color:#FFD700>%newLimit%</color>",
-    "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Requirements:</color>",
-    "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Nível do Jogador:</color> <color:#FFD700>%level%</color>",
-    "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
-    "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.lore.current": "<color:#94afc6>Limite atual: <color:#ffc56e>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.new": "<color:#94afc6>Novo limite: <color:#ff6b6b><st>%oldLimit%</st></color> <color:#1dd1a1><b>%newLimit%</b></color>",
+    "realm.entities.limit.lore.required.header": "<color:#94afc6><b>Requisitos:</b></color>",
+    "realm.entities.limit.lore.required.player_level": "<color:#94afc6>• Nível do Jogador:</color> <color:#FFD700>%level%</color>",
+    "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
+    "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>You have reached the maximum entity limit upgrade.</color>",
+    "realm.entities.limit.error.level": "Você deve ter pelo menos o nível <color:#FFD700>%level%</color> para melhorar o seu limite de entidade por <color:#FFD700>%entityLimit%</color>.>",
+    "realm.entities.limit.success": "Atualizado com sucesso <color:#FFD700>%entityLimit%</color> a um limite de <color:#FFD700>%limit%</color>."
 }
