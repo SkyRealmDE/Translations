@@ -46,12 +46,12 @@
     "features.keepinventory.enabled": "Behåll förrådet är aktiverat",
     "features.firetick.disabled": "Inaktiverad brandkår",
     "features.firetick.enabled": "Aktiverad brandkår",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Din nuvarande enhetsgräns är:</color> <color:#FFD700>%limit%</color>",
-    "realm.entities.limit.lore.new": "<color:#dfe6e9>uppgradering från</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>till</color> <color:#FFD700>%newLimit%</color>",
-    "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Requirements:</color>",
-    "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Spelarnivå:</color> <color:#FFD700>%level%</color>",
-    "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
-    "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.lore.current": "<color:#94afc6>Aktuell gräns: <color:#ffc56e>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.new": "<color:#94afc6>Ny gräns: <color:#ff6b6b><st>%oldLimit%</st></color> <color:#1dd1a1><b>%newLimit%</b></color>",
+    "realm.entities.limit.lore.required.header": "<color:#94afc6><b>Krav:</b></color>",
+    "realm.entities.limit.lore.required.player_level": "<color:#94afc6>• Spelarnivå:</color> <color:#FFD700>%level%</color>",
+    "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
+    "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Du har nått maxgränsen för entiteten.</color>",
+    "realm.entities.limit.error.level": "Du måste vara på minst nivå <color:#FFD700>%level%</color> för att uppgradera din enhetsgräns för <color:#FFD700>%entityLimit%</color>.>",
+    "realm.entities.limit.success": "Uppdaterade <color:#FFD700>%entityLimit%</color> till en gräns på <color:#FFD700>%limit%</color>."
 }
