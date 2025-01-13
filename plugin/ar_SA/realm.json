@@ -46,12 +46,12 @@
     "features.keepinventory.enabled": "الاحتفاظ بالمخزون مفعل",
     "features.firetick.disabled": "علامة النار المعطلة",
     "features.firetick.enabled": "تمكين علامة النار",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#FFD700>%limit%</color>",
-    "realm.entities.limit.lore.new": "<color:#dfe6e9>الترقية من</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>إلى</color> <color:#FFD700>%newLimit%</color>",
-    "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Requirements:</color>",
-    "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• مستوى اللاعب:</color> <color:#FFD700>%level%</color>",
-    "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
-    "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.lore.current": "<color:#94afc6>Current limit: <color:#ffc56e>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.new": "<color:#94afc6>New limit: <color:#ff6b6b><st>%oldLimit%</st></color> <color:#1dd1a1><b>%newLimit%</b></color>",
+    "realm.entities.limit.lore.required.header": "<color:#94afc6><b>المتطلبات:</b></color>",
+    "realm.entities.limit.lore.required.player_level": "<color:#94afc6>• مستوى اللاعب:</color> <color:#FFD700>%level%</color>",
+    "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
+    "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>لقد وصلت إلى الحد الأقصى لترقية الكيان.</color>",
+    "realm.entities.limit.error.level": "يجب أن تكون على الأقل مستوي <color:#FFD700>%level%</color> لترقية حد الكيان الخاص بك ل <color:#FFD700>%entityLimit%</color>.>",
+    "realm.entities.limit.success": "تم تحديث <color:#FFD700>%entityLimit%</color> بنجاح إلى حد <color:#FFD700>%limit%</color>."
 }
