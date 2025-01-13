@@ -46,12 +46,12 @@
     "features.keepinventory.enabled": "Διατήρηση αποθέματος ενεργοποιημένη",
     "features.firetick.disabled": "Απενεργοποιημένο σημάδι πυρκαγιάς",
     "features.firetick.enabled": "Ενεργοποιημένο σημάδι πυρκαγιάς",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Το τρέχον όριο οντότητας είναι:</color> <color:#FFD700>%limit%</color>",
-    "realm.entities.limit.lore.new": "<color:#dfe6e9>Αναβάθμιση από</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>σε</color> <color:#FFD700>%newLimit%</color>",
-    "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Requirements:</color>",
-    "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Επίπεδο Παίκτη:</color> <color:#FFD700>%level%</color>",
-    "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
-    "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.lore.current": "<color:#94afc6>Τρέχον όριο: <color:#ffc56e>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.new": "<color:#94afc6>Νέο όριο: <color:#ff6b6b><st>%oldLimit%</st></color> <color:#1dd1a1><b>%newLimit%</b></color>",
+    "realm.entities.limit.lore.required.header": "<color:#94afc6><b>Απαιτήσεις:</b></color>",
+    "realm.entities.limit.lore.required.player_level": "<color:#94afc6>• Επίπεδο Παίκτη:</color> <color:#FFD700>%level%</color>",
+    "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
+    "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Έχετε φτάσει το μέγιστο όριο οντότητας.</color>",
+    "realm.entities.limit.error.level": "Πρέπει να είστε τουλάχιστον το επίπεδο <color:#FFD700>%level%</color> για να αναβαθμίσετε το όριο οντότητας για <color:#FFD700>%entityLimit%</color>.>",
+    "realm.entities.limit.success": "Επιτυχής ενημέρωση <color:#FFD700>%entityLimit%</color> σε όριο <color:#FFD700>%limit%</color>."
 }
