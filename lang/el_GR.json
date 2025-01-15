@@ -4,5 +4,6 @@
     "menu.disconnect": "☠️ Έχω κουραστεί να παίζω",
     "connect.transferring": "Μεταφορά σε άλλη περίπτωση...",
     "skyrealm.messages.link.open": "Κλικ για άνοιγμα συνδέσμου",
-    "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής"
+    "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής",
+    "soundCategory.voice": "SkyRealm Music"
 }
