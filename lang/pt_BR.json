@@ -4,5 +4,6 @@
     "menu.disconnect": "☠️ Estou cansado de jogar",
     "connect.transferring": "Transferindo para outra instância...",
     "skyrealm.messages.link.open": "Clique para abrir o link",
-    "skyrealm.messages.command.run": "Clique para executar o comando"
+    "skyrealm.messages.command.run": "Clique para executar o comando",
+    "soundCategory.voice": "SkyRealm Music"
 }
