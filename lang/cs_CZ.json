@@ -4,5 +4,6 @@
     "menu.disconnect": "☠️ Už jsem unaven hrát",
     "connect.transferring": "Přenesení do jiné instance...",
     "skyrealm.messages.link.open": "Kliknutím otevřete odkaz",
-    "skyrealm.messages.command.run": "Kliknutím spustíte příkaz"
+    "skyrealm.messages.command.run": "Kliknutím spustíte příkaz",
+    "soundCategory.voice": "SkyRealm Music"
 }
