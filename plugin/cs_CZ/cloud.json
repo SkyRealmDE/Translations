@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Úspěch! Realm <yellow>%realm%</yellow> nyní začíná.",
     "skyrealm.server.transferring": "Přenáší vás do říše <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Připojování k centrum...",
-    "skyrealm.server.running": "Server pro říši %realm% je nyní spuštěn."
+    "skyrealm.server.running": "Server pro říši %realm% je nyní spuštěn.",
+    "skyrealm.friend.online": "Váš přítel %player% je nyní online.",
+    "skyrealm.friend.offline": "Váš přítel %player% je nyní offline."
 }
