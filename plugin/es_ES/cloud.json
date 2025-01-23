@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "¡Éxito! El Realm <yellow>%realm%</yellow> ya está empezando.",
     "skyrealm.server.transferring": "Transfiriéndote al reino <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Conectándote al hub...",
-    "skyrealm.server.running": "El servidor para el realm %realm% se está ejecutando."
+    "skyrealm.server.running": "El servidor para el realm %realm% se está ejecutando.",
+    "skyrealm.friend.online": "Tu amigo %player% está ahora conectado.",
+    "skyrealm.friend.offline": "Tu amigo %player% está ahora desconectado."
 }
