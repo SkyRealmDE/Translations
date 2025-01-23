@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9>Δεν είναι έτοιμο πλαίσιο για </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>Το κουτί σας δεν είναι ακόμα έτοιμο για την ημέρα:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daily Legendary Reward for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Μπορείτε να διεκδικήσετε μια θρυλική ανταμοιβή για την ημέρα:</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Μπορείτε να διεκδικήσετε μια θρυλική ανταμοιβή για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Μετάβαση στις ανταμοιβές"
 }
