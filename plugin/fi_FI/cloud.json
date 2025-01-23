@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
     "skyrealm.server.transferring": "Transferring you to realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Yhdistetään sinut keskukseen...",
-    "skyrealm.server.running": "Valtakunnan %realm% palvelin on nyt käynnissä."
+    "skyrealm.server.running": "Valtakunnan %realm% palvelin on nyt käynnissä.",
+    "skyrealm.friend.online": "Ystäväsi %player% on nyt verkossa.",
+    "skyrealm.friend.offline": "Ystäväsi %player% on nyt poissa käytöstä."
 }
