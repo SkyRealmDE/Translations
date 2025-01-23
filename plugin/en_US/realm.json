@@ -6,6 +6,8 @@
     "skyrealm.error.not-enough-coins": "You have %coins% coins, but you need %price% coins to complete this action.",
     "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Current bank balance:</color> <color:#FFD700>%money%</color> <white>",
+    "skyrealm.disabled": "<color:#FD7272>Disabled",
+    "skyrealm.enabled": "<color:#a3e877>Enabled",
 
     "gui.back.name": "Back",
     "gui.back.lore": "Go back to the previous menu",
