@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "成功! Realm <yellow>%realm%</yellow> を開始しました。",
     "skyrealm.server.transferring": "Realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "ハブに接続しています...",
-    "skyrealm.server.running": "Realm %realm% が起動中です。"
+    "skyrealm.server.running": "Realm %realm% が起動中です。",
+    "skyrealm.friend.online": "お友達の %player% がオンラインになりました。",
+    "skyrealm.friend.offline": "お友達の %player% がオフラインになりました。"
 }
