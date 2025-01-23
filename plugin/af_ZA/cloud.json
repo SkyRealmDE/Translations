@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
     "skyrealm.server.transferring": "Transferring you to realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Connecting you to the hub...",
-    "skyrealm.server.running": "Server for realm %realm% is now running."
+    "skyrealm.server.running": "Server for realm %realm% is now running.",
+    "skyrealm.friend.online": "Your friend %player% is now online.",
+    "skyrealm.friend.offline": "Your friend %player% is now offline."
 }
