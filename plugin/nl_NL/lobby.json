@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9>Niet klaar voor een </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>Je box is nog niet klaar voor dag:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Dagelijkse Legendarische Beloning voor </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Je kunt een legendarische beloning voor de dag claimen:</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Je kunt een legendarische beloning voor de dag claimen:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Ga naar Beloningen"
 }
