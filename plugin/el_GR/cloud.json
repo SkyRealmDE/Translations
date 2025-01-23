@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Επιτυχία! Ξεκινά τώρα το Realm <yellow>%realm%</yellow>.",
     "skyrealm.server.transferring": "Σας μεταφέρει στο realm <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Σύνδεση σας στον κόμβο...",
-    "skyrealm.server.running": "Ο διακομιστής για το realm %realm% εκτελείται τώρα."
+    "skyrealm.server.running": "Ο διακομιστής για το realm %realm% εκτελείται τώρα.",
+    "skyrealm.friend.online": "Ο φίλος σας %player% είναι τώρα online.",
+    "skyrealm.friend.offline": "Ο φίλος σας %player% είναι τώρα εκτός σύνδεσης."
 }
