@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Succes! Tărâmul <yellow>%realm%</yellow> începe acum.",
     "skyrealm.server.transferring": "Te transferi pe tărâmul <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Conectați-vă la hub...",
-    "skyrealm.server.running": "Serverul pentru tărâmul %realm% rulează acum."
+    "skyrealm.server.running": "Serverul pentru tărâmul %realm% rulează acum.",
+    "skyrealm.friend.online": "Prietenul tău %player% este acum online.",
+    "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat."
 }
