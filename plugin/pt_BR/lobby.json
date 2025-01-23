@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9>Não Pronta Caixa para </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>Sua caixa ainda não está pronta para o dia:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Recompensa Lendária por </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Você pode reivindicar uma recompensa lendária pelo dia:</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Você pode reivindicar uma recompensa lendária pelo dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Pular para Recompensas"
 }
