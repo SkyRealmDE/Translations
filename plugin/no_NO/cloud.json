@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "Suksess! Realm <yellow>%realm%</yellow> starter nå.",
     "skyrealm.server.transferring": "Overfører deg til realmen <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "Kobler deg til sentret...",
-    "skyrealm.server.running": "Serveren for realmen %realm% kjører nå."
+    "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",
+    "skyrealm.friend.online": "%player% er nå online.",
+    "skyrealm.friend.offline": "%player% er nå frakoblet."
 }
