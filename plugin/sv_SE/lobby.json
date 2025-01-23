@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9>Inte redo för </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>Din box är ännu inte klar för dagen:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daglig Legendarisk Belöning för </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Du kan få en legendarisk belöning för dagen:</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Du kan få en legendarisk belöning för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Hoppa till belöningar"
 }
