@@ -7,8 +7,8 @@
     "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Current bank balance:</color> <color:#FFD700>%money%</color> <white>",
 
-    "realm.settings.players.lore": "<color:#dfe6e9>Current max players:</color> <color:#FFD700>%players%</color>",
-    "realm.settings.roles.lore": "<color:#dfe6e9>Current available roles:</color> <color:#FFD700>%roles%</color>",
+    "realm.settings.players.lore": "<color:#dfe6e9>Current members:</color> <color:#FFD700>%players%</color>",
+    "realm.settings.roles.lore": "<color:#dfe6e9>Current roles:</color> <color:#FFD700>%roles%</color>",
 
     "skyrealm.disabled": "<color:#FD7272>Disabled",
     "skyrealm.enabled": "<color:#a3e877>Enabled",
