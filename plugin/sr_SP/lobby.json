@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9>Not Ready Box for </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>Your box is not yet ready for day:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daily Legendary Reward for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>You can claim a legendary reward for day:</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>You can claim a legendary reward for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Skip to Rewards"
 }
