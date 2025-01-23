@@ -16,5 +16,6 @@
     "mailman.display.not_ready_box": "<color:#dfe6e9> </color><bold><color:#FFD700>%day%</color></bold>",
     "mailman.lore.not_ready_box": "<color:#dfe6e9>あなたのボックスはまだ一日の準備ができていません:</color> <color:#FFD700>%day%</color>",
     "mailman.display.daily_legendary_reward": "<color:#dfe6e9>デイリーレジェンダリー報酬： </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>伝説の報酬を受け取ることができます：</color> <color:#FFD700>%day%</color>"
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>伝説の報酬を受け取ることができます：</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "報酬にスキップ"
 }
