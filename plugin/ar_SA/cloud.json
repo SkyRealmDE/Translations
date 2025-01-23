@@ -11,5 +11,7 @@
     "skyrealm.success.start-realm.success": "تم بنجاح! المجال <yellow>%realm%</yellow> بدأ الآن.",
     "skyrealm.server.transferring": "ينقلك إلى العالم <yellow>%realm%</yellow>...",
     "skyrealm.cloud.connecting_to_hub": "جاري توصيلك إلى المحور...",
-    "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن."
+    "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن.",
+    "skyrealm.friend.online": "صديقك %player% متصل الآن.",
+    "skyrealm.friend.offline": "صديقك %player% غير متصل الآن."
 }
