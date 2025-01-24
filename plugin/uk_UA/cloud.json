@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Підключення до хаб...",
     "skyrealm.server.running": "В даний час працює сервер для реалму %realm%.",
     "skyrealm.friend.online": "Твій друг %player% зараз в мережі.",
-    "skyrealm.friend.offline": "Ваш друг %player% в автономному режимі."
+    "skyrealm.friend.offline": "Ваш друг %player% в автономному режимі.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
 }
