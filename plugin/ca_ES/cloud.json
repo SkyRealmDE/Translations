@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Connecting you to the hub...",
     "skyrealm.server.running": "Server for realm %realm% is now running.",
     "skyrealm.friend.online": "Your friend %player% is now online.",
-    "skyrealm.friend.offline": "Your friend %player% is now offline."
+    "skyrealm.friend.offline": "Your friend %player% is now offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
 }
