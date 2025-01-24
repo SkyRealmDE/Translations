@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>لقد وصلت إلى الحد الأقصى لترقية الكيان.</color>",
     "realm.entities.limit.error.level": "يجب أن تكون على الأقل مستوي <color:#FFD700>%level%</color> لترقية حد الكيان الخاص بك ل <color:#FFD700>%entityLimit%</color>.>",
-    "realm.entities.limit.success": "تم تحديث <color:#FFD700>%entityLimit%</color> بنجاح إلى حد <color:#FFD700>%limit%</color>."
+    "realm.entities.limit.success": "تم تحديث <color:#FFD700>%entityLimit%</color> بنجاح إلى حد <color:#FFD700>%limit%</color>.",
+    "skyrealm.success.selected-realm": "لقد اخترت العالم: <color:#FFD700>%realm%</color>"
 }
