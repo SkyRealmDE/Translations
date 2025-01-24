@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Yhdistetään sinut keskukseen...",
     "skyrealm.server.running": "Valtakunnan %realm% palvelin on nyt käynnissä.",
     "skyrealm.friend.online": "Ystäväsi %player% on nyt verkossa.",
-    "skyrealm.friend.offline": "Ystäväsi %player% on nyt poissa käytöstä."
+    "skyrealm.friend.offline": "Ystäväsi %player% on nyt poissa käytöstä.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
 }
