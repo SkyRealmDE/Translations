@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Forbinder dig til hub...",
     "skyrealm.server.running": "Server til realm %realm% kører nu.",
     "skyrealm.friend.online": "Din ven %player% er nu online.",
-    "skyrealm.friend.offline": "Din ven %player% er nu offline."
+    "skyrealm.friend.offline": "Din ven %player% er nu offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Forbinder til server: </color><color:#FFD700>%server%</color>"
 }
