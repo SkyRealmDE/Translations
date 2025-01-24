@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Σύνδεση σας στον κόμβο...",
     "skyrealm.server.running": "Ο διακομιστής για το realm %realm% εκτελείται τώρα.",
     "skyrealm.friend.online": "Ο φίλος σας %player% είναι τώρα online.",
-    "skyrealm.friend.offline": "Ο φίλος σας %player% είναι τώρα εκτός σύνδεσης."
+    "skyrealm.friend.offline": "Ο φίλος σας %player% είναι τώρα εκτός σύνδεσης.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Σύνδεση στο διακομιστή: </color><color:#FFD700>%server%</color>"
 }
