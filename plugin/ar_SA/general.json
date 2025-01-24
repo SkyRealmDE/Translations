@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% لديه %xp% XP",
     "skyrealm.general.xp.modify": "لقد قمت بتعديل XP الخاص بك ب %amount%",
     "skyrealm.general.xp.modify.other": "قمت بتعديل XP الخاص ب %player%بواسطة %amount%",
-    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again.",
+    "badge.obtained": "لقد حصلت على الشارة: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "لقد تم منحك جهاز التجميل: <color:#FFD700>%cosmetic%</color>"
 }
