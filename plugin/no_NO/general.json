@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% har %xp% XP",
     "skyrealm.general.xp.modify": "Du endret din XP av %amount%",
     "skyrealm.general.xp.modify.other": "Du endret %player%sin XP av %amount%",
-    "skyrealm.error.cooldown": "Du må vente <yellow>%cooldown%</yellow> før du bruker denne kommandoen igjen."
+    "skyrealm.error.cooldown": "Du må vente <yellow>%cooldown%</yellow> før du bruker denne kommandoen igjen.",
+    "badge.obtained": "Du har skaffet distinksjonen: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Du har fått kosmetisken: <color:#FFD700>%cosmetic%</color>"
 }
