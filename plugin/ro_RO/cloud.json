@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Conectați-vă la hub...",
     "skyrealm.server.running": "Serverul pentru tărâmul %realm% rulează acum.",
     "skyrealm.friend.online": "Prietenul tău %player% este acum online.",
-    "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat."
+    "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Conectarea la server: </color><color:#FFD700>%server%</color>"
 }
