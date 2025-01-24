@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Connexion au hub...",
     "skyrealm.server.running": "Le serveur pour le royaume %realm% est en cours d'exécution.",
     "skyrealm.friend.online": "Votre ami %player% est maintenant en ligne.",
-    "skyrealm.friend.offline": "Votre ami %player% est maintenant hors ligne."
+    "skyrealm.friend.offline": "Votre ami %player% est maintenant hors ligne.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connexion au serveur : </color><color:#FFD700>%server%</color>"
 }
