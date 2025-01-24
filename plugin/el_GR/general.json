@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% has %xp% XP",
     "skyrealm.general.xp.modify": "Τροποποιήσατε το XP σας από τον %amount%",
     "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%",
-    "skyrealm.error.cooldown": "Πρέπει να περιμένετε <yellow>%cooldown%</yellow> πριν χρησιμοποιήσετε ξανά αυτήν την εντολή."
+    "skyrealm.error.cooldown": "Πρέπει να περιμένετε <yellow>%cooldown%</yellow> πριν χρησιμοποιήσετε ξανά αυτήν την εντολή.",
+    "badge.obtained": "Έχετε λάβει το έμβλημα: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Σας έχει δοθεί το καλλυντικό: <color:#FFD700>%cosmetic%</color>"
 }
