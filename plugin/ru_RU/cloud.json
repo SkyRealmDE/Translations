@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Подключение вас к хабу...",
     "skyrealm.server.running": "Сервер для Realm %realm% запущен.",
     "skyrealm.friend.online": "Ваш друг %player% теперь онлайн.",
-    "skyrealm.friend.offline": "Ваш друг %player% сейчас оффлайн."
+    "skyrealm.friend.offline": "Ваш друг %player% сейчас оффлайн.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Подключение к серверу: </color><color:#FFD700>%server%</color>"
 }
