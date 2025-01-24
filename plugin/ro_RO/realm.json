@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Ați atins limita maximă de entități.</color>",
     "realm.entities.limit.error.level": "Trebuie să aveți cel puțin nivelul <color:#FFD700>%level%</color> pentru a upgrada limita de entitate pentru <color:#FFD700>%entityLimit%</color>.>",
-    "realm.entities.limit.success": "Actualizare cu succes <color:#FFD700>%entityLimit%</color> până la limita de <color:#FFD700>%limit%</color>."
+    "realm.entities.limit.success": "Actualizare cu succes <color:#FFD700>%entityLimit%</color> până la limita de <color:#FFD700>%limit%</color>.",
+    "skyrealm.success.selected-realm": "Ați selectat un tărâm: <color:#FFD700>%realm%</color>"
 }
