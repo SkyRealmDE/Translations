@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% には %xp% XP があります",
     "skyrealm.general.xp.modify": "あなたは %amount%によってXPを変更しました",
     "skyrealm.general.xp.modify.other": "あなたは %player%のXPを %amount%によって変更しました",
-    "skyrealm.error.cooldown": "このコマンドを再度使用するには、 <yellow>%cooldown%</yellow> を待つ必要があります。"
+    "skyrealm.error.cooldown": "このコマンドを再度使用するには、 <yellow>%cooldown%</yellow> を待つ必要があります。",
+    "badge.obtained": "バッジを獲得しました: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "ボスは装飾品： <color:#FFD700>%cosmetic%</color>"
 }
