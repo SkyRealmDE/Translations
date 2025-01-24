@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Ви досягли максимального ліміту сутності.</color>",
     "realm.entities.limit.error.level": "You must be at least level <color:#FFD700>%level%</color> to upgrade your entity limit for <color:#FFD700>%entityLimit%</color>.>",
-    "realm.entities.limit.success": "Успішно оновлено <color:#FFD700>%entityLimit%</color> до обмеження <color:#FFD700>%limit%</color>."
+    "realm.entities.limit.success": "Успішно оновлено <color:#FFD700>%entityLimit%</color> до обмеження <color:#FFD700>%limit%</color>.",
+    "skyrealm.success.selected-realm": "You have selected realm: <color:#FFD700>%realm%</color>"
 }
