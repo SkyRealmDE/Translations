@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "正在连接到枢纽...",
     "skyrealm.server.running": "Server for realm %realm% is now running.",
     "skyrealm.friend.online": "Your friend %player% is now online.",
-    "skyrealm.friend.offline": "Your friend %player% is now offline."
+    "skyrealm.friend.offline": "Your friend %player% is now offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>正在连接到服务器： </color><color:#FFD700>%server%</color>"
 }
