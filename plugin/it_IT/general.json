@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% ha %xp% XP",
     "skyrealm.general.xp.modify": "Hai modificato il tuo XP di %amount%",
     "skyrealm.general.xp.modify.other": "Hai modificato l'XP di %player%di %amount%",
-    "skyrealm.error.cooldown": "Devi aspettare <yellow>%cooldown%</yellow> prima di utilizzare nuovamente questo comando."
+    "skyrealm.error.cooldown": "Devi aspettare <yellow>%cooldown%</yellow> prima di utilizzare nuovamente questo comando.",
+    "badge.obtained": "Hai ottenuto il badge: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Ti è stato dato il cosmetico: <color:#FFD700>%cosmetic%</color>"
 }
