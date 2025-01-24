@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% are %xp% XP",
     "skyrealm.general.xp.modify": "Ți-ai modificat XP cu %amount%",
     "skyrealm.general.xp.modify.other": "Ai modificat XP lui %player%cu %amount%",
-    "skyrealm.error.cooldown": "Trebuie să așteptați <yellow>%cooldown%</yellow> înainte de a utiliza această comandă din nou."
+    "skyrealm.error.cooldown": "Trebuie să așteptați <yellow>%cooldown%</yellow> înainte de a utiliza această comandă din nou.",
+    "badge.obtained": "Ați obținut insigna: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Vi s-a dat cosmeticul: <color:#FFD700>%cosmetic%</color>"
 }
