@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Collegandoti al mouse...",
     "skyrealm.server.running": "Il server per il realm %realm% è ora in esecuzione.",
     "skyrealm.friend.online": "Il tuo amico %player% è ora online.",
-    "skyrealm.friend.offline": "Il tuo amico %player% è ora offline."
+    "skyrealm.friend.offline": "Il tuo amico %player% è ora offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connessione al server: </color><color:#FFD700>%server%</color>"
 }
