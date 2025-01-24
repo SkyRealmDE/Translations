@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Hai raggiunto il limite massimo dell'entità.</color>",
     "realm.entities.limit.error.level": "Devi essere almeno il livello <color:#FFD700>%level%</color> per aggiornare il limite di entità per <color:#FFD700>%entityLimit%</color>.>",
-    "realm.entities.limit.success": "Hai aggiornato con successo <color:#FFD700>%entityLimit%</color> ad un limite di <color:#FFD700>%limit%</color>."
+    "realm.entities.limit.success": "Hai aggiornato con successo <color:#FFD700>%entityLimit%</color> ad un limite di <color:#FFD700>%limit%</color>.",
+    "skyrealm.success.selected-realm": "Hai selezionato il regno: <color:#FFD700>%realm%</color>"
 }
