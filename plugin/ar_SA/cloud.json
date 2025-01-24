@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "جاري توصيلك إلى المحور...",
     "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن.",
     "skyrealm.friend.online": "صديقك %player% متصل الآن.",
-    "skyrealm.friend.offline": "صديقك %player% غير متصل الآن."
+    "skyrealm.friend.offline": "صديقك %player% غير متصل الآن.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>الاتصال بالخادم: </color><color:#FFD700>%server%</color>"
 }
