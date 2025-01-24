@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% má %xp% XP",
     "skyrealm.general.xp.modify": "Upravili jste své XP %amount%",
     "skyrealm.general.xp.modify.other": "Upravili jste XP %player%o %amount%",
-    "skyrealm.error.cooldown": "Před použitím tohoto příkazu musíte počkat <yellow>%cooldown%</yellow>."
+    "skyrealm.error.cooldown": "Před použitím tohoto příkazu musíte počkat <yellow>%cooldown%</yellow>.",
+    "badge.obtained": "Získali jste odznak: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Dostali jste kosmetiku: <color:#FFD700>%cosmetic%</color>"
 }
