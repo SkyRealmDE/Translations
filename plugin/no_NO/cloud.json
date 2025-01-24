@@ -13,5 +13,6 @@
     "skyrealm.cloud.connecting_to_hub": "Kobler deg til sentret...",
     "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",
     "skyrealm.friend.online": "%player% er nå online.",
-    "skyrealm.friend.offline": "%player% er nå frakoblet."
+    "skyrealm.friend.offline": "%player% er nå frakoblet.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Kobler til server: </color><color:#FFD700>%server%</color>"
 }
