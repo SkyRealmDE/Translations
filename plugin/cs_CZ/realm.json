@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>Dosáhli jste maximálního limitu pro entitu.</color>",
     "realm.entities.limit.error.level": "Musíte být alespoň na úrovni <color:#FFD700>%level%</color> pro zvýšení limitu entity na <color:#FFD700>%entityLimit%</color>.>",
-    "realm.entities.limit.success": "Úspěšně aktualizováno <color:#FFD700>%entityLimit%</color> na limit <color:#FFD700>%limit%</color>."
+    "realm.entities.limit.success": "Úspěšně aktualizováno <color:#FFD700>%entityLimit%</color> na limit <color:#FFD700>%limit%</color>.",
+    "skyrealm.success.selected-realm": "Vybrali jste říši: <color:#FFD700>%realm%</color>"
 }
