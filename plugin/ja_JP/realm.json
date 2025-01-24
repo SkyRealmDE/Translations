@@ -71,5 +71,6 @@
     "realm.entities.limit.lore.required.coins": "<color:#94afc6>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#94afc6>エンティティの上限に達しました。</color>",
     "realm.entities.limit.error.level": "エンティティの上限を <color:#FFD700>%level%</color> <color:#FFD700>%entityLimit%</color> にする必要があります。>",
-    "realm.entities.limit.success": "<color:#FFD700>%entityLimit%</color> を <color:#FFD700>%limit%</color> の上限に更新しました。"
+    "realm.entities.limit.success": "<color:#FFD700>%entityLimit%</color> を <color:#FFD700>%limit%</color> の上限に更新しました。",
+    "skyrealm.success.selected-realm": "領域を選択しました： <color:#FFD700>%realm%</color>"
 }
