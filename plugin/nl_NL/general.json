@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% heeft %xp% XP",
     "skyrealm.general.xp.modify": "Je hebt je XP gewijzigd door %amount%",
     "skyrealm.general.xp.modify.other": "Je hebt %player%'s XP gewijzigd door %amount%",
-    "skyrealm.error.cooldown": "Je moet <yellow>%cooldown%</yellow> wachten om deze opdracht opnieuw te gebruiken."
+    "skyrealm.error.cooldown": "Je moet <yellow>%cooldown%</yellow> wachten om deze opdracht opnieuw te gebruiken.",
+    "badge.obtained": "Je hebt de badge gekregen: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Je hebt de cosmetica gekregen: <color:#FFD700>%cosmetic%</color>"
 }
