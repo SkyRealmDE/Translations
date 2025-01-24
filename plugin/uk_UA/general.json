@@ -12,5 +12,7 @@
     "skyrealm.general.other.xp": "%player% має %xp% XP",
     "skyrealm.general.xp.modify": "Ви змінили ваш XP від %amount%",
     "skyrealm.general.xp.modify.other": "Ви змінили %player%XP від %amount%",
-    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again."
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again.",
+    "badge.obtained": "Ви отримали значок: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Ви були надані косметичні: <color:#FFD700>%cosmetic%</color>"
 }
