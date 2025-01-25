@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% juntou-se.",
     "skyrealm.lobby.quit": "%name% saiu.",
     "skyrealm.lobby.buildmode.enabled": "Modo de construção ativado.",
-    "skyrealm.lobby.buildmode.disabled": "Modo de construção desativado."
+    "skyrealm.lobby.buildmode.disabled": "Modo de construção desativado.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Aberto Box para </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>You have already opened your box for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Caixa Perdida por </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Você perdeu sua caixa no dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Unopened Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Você tem uma caixa inaberta para o dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Recompensa Rara Diária para </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Você pode reivindicar um prêmio raro por dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Caixa Pronta para </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>Sua caixa está pronta para ser reivindicada pelo dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Não Pronta Caixa para </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>Sua caixa ainda não está pronta para o dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Recompensa Lendária por </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Você pode reivindicar uma recompensa lendária pelo dia:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Pular para Recompensas"
 }

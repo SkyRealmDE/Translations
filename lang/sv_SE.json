@@ -4,5 +4,6 @@
     "menu.disconnect": "☠️ Jag är trött på att spela",
     "connect.transferring": "Överför till en annan instans...",
     "skyrealm.messages.link.open": "Klicka för att öppna länk",
-    "skyrealm.messages.command.run": "Klicka för att köra kommandot"
+    "skyrealm.messages.command.run": "Klicka för att köra kommandot",
+    "soundCategory.voice": "SkyRealm Music"
 }

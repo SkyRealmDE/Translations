@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Серверы не найдены.",
     "skyrealm.cloud.no_lobbies": "Лобби серверы не найдены.",
     "skyrealm.cloud.available_servers": "Доступные серверы: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Игроки на серверах</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Abuse</dark_gray>",
+    "skyrealm.report.success": "You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Сообщить об уведомлении:</red> <gray>%reporter%</gray> сообщил <gray>%reported%</gray> для <white>%reason%</white>.",
+    "skyrealm.server.queued": "Сервер для Realm <yellow>%realm%</yellow> в очереди запущен.",
+    "skyrealm.success.start-realm.success": "Realm <yellow>%realm%</yellow> запущен.",
+    "skyrealm.server.transferring": "Перенос вас в Realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Подключение вас к хабу...",
+    "skyrealm.server.running": "Сервер для Realm %realm% запущен.",
+    "skyrealm.friend.online": "Ваш друг %player% теперь онлайн.",
+    "skyrealm.friend.offline": "Ваш друг %player% сейчас оффлайн.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Подключение к серверу: </color><color:#FFD700>%server%</color>"
 }

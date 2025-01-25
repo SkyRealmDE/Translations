@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Niciun server găsit.",
     "skyrealm.cloud.no_lobbies": "Nu s-au găsit servere de lobby.",
     "skyrealm.cloud.available_servers": "Servere disponibile în prezent: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Jucători pe serverele</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>eroare</dark_gray>",
+    "skyrealm.report.success": "Ați raportat cu succes <yellow>%reported%</yellow> pentru <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Notificare raport:</red> <gray>%reporter%</gray> a raportat <gray>%reported%</gray> pentru <white>%reason%</white>.",
+    "skyrealm.server.queued": "Serverul pentru tărâmul <yellow>%realm%</yellow> este în așteptare pentru a începe.",
+    "skyrealm.success.start-realm.success": "Succes! Tărâmul <yellow>%realm%</yellow> începe acum.",
+    "skyrealm.server.transferring": "Te transferi pe tărâmul <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Conectați-vă la hub...",
+    "skyrealm.server.running": "Serverul pentru tărâmul %realm% rulează acum.",
+    "skyrealm.friend.online": "Prietenul tău %player% este acum online.",
+    "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Conectarea la server: </color><color:#FFD700>%server%</color>"
 }

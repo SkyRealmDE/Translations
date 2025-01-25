@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Сервери не знайдені.",
     "skyrealm.cloud.no_lobbies": "Не знайдено лоббі серверів.",
     "skyrealm.cloud.available_servers": "На даний час доступні сервери: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Гравці на серверах</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Abuse</dark_gray>",
+    "skyrealm.report.success": "Ви успішно повідомили <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
+    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.server.transferring": "Transferring you to realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Підключення до хаб...",
+    "skyrealm.server.running": "В даний час працює сервер для реалму %realm%.",
+    "skyrealm.friend.online": "Твій друг %player% зараз в мережі.",
+    "skyrealm.friend.offline": "Ваш друг %player% в автономному режимі.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
 }

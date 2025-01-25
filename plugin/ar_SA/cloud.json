@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "لا توجد خوادم.",
     "skyrealm.cloud.no_lobbies": "لم يتم العثور على خوادم ردق.",
     "skyrealm.cloud.available_servers": "الخوادم المتاحة حاليا: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>إساءة استعمال الأخطاء</dark_gray>",
+    "skyrealm.report.success": "تم الإبلاغ بنجاح عن <yellow>%reported%</yellow> لـ <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "إشعار:</red> <gray>%reporter%</gray> أبلغ <gray>%reported%</gray> لـ <white>%reason%</white>",
+    "skyrealm.server.queued": "الخادم الخاص بالمجال <yellow>%realm%</yellow> في قائمة الانتظار للبدء.",
+    "skyrealm.success.start-realm.success": "تم بنجاح! المجال <yellow>%realm%</yellow> بدأ الآن.",
+    "skyrealm.server.transferring": "ينقلك إلى العالم <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "جاري توصيلك إلى المحور...",
+    "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن.",
+    "skyrealm.friend.online": "صديقك %player% متصل الآن.",
+    "skyrealm.friend.offline": "صديقك %player% غير متصل الآن.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>الاتصال بالخادم: </color><color:#FFD700>%server%</color>"
 }

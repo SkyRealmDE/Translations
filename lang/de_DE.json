@@ -4,5 +4,6 @@
     "menu.disconnect": "☠ Ich hab kein Bock mehr",
     "connect.transferring": "Übertragung in eine andere Instanz...",
     "skyrealm.messages.link.open": "Zum Öffnen des Links klicken",
-    "skyrealm.messages.command.run": "Klicke zum Ausführen des Befehls"
+    "skyrealm.messages.command.run": "Klicke zum Ausführen des Befehls",
+    "soundCategory.voice": "SkyRealm Music"
 }

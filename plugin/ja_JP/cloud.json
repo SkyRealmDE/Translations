@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "サーバーが見つかりません。",
     "skyrealm.cloud.no_lobbies": "ロビーサーバーが見つかりません。",
     "skyrealm.cloud.available_servers": "現在利用可能なサーバー: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>不具合</dark_gray>",
+    "skyrealm.report.success": "<yellow>%reported%</yellow> の <yellow>%reason%</yellow>の報告に成功しました。</green>",
+    "skyrealm.report.notify.message": "レポートの通知:</red> <gray>%reporter%</gray> が <gray>%reported%</gray> の <white>%reason%</white> を報告しました。",
+    "skyrealm.server.queued": "レルム <yellow>%realm%</yellow> のサーバーがキューに追加されました。",
+    "skyrealm.success.start-realm.success": "成功! Realm <yellow>%realm%</yellow> を開始しました。",
+    "skyrealm.server.transferring": "Realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "ハブに接続しています...",
+    "skyrealm.server.running": "Realm %realm% が起動中です。",
+    "skyrealm.friend.online": "お友達の %player% がオンラインになりました。",
+    "skyrealm.friend.offline": "お友達の %player% がオフラインになりました。",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>サーバーに接続中: </color><color:#FFD700>%server%</color>"
 }

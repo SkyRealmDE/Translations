@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Inga servrar hittades.",
     "skyrealm.cloud.no_lobbies": "Inga lobbyservrar hittades.",
     "skyrealm.cloud.available_servers": "För närvarande tillgängliga servrar: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spelare på servrar</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Missbruk</dark_gray>",
+    "skyrealm.report.success": "Du har framgångsrikt rapporterat <yellow>%reported%</yellow> för <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Rapportmeddelande:</red> <gray>%reporter%</gray> rapporterade <gray>%reported%</gray> för <white>%reason%</white>.",
+    "skyrealm.server.queued": "Servern för realm <yellow>%realm%</yellow> står i kö för att starta.",
+    "skyrealm.success.start-realm.success": "Framgång! Realm <yellow>%realm%</yellow> börjar nu.",
+    "skyrealm.server.transferring": "Överför dig till realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Ansluter dig till navet ...",
+    "skyrealm.server.running": "Server för realm %realm% körs nu.",
+    "skyrealm.friend.online": "Din vän %player% är nu online.",
+    "skyrealm.friend.offline": "Din vän %player% är nu offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Ansluter till server: </color><color:#FFD700>%server%</color>"
 }

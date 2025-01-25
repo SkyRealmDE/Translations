@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Geen servers gevonden.",
     "skyrealm.cloud.no_lobbies": "Geen lobby servers gevonden.",
     "skyrealm.cloud.available_servers": "Momenteel beschikbare servers: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spelers op servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Misbruik</dark_gray>",
+    "skyrealm.report.success": "Je hebt <yellow>%reported%</yellow> gerapporteerd voor <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Meldingsmelding:</red> <gray>%reporter%</gray> gerapporteerd <gray>%reported%</gray> voor <white>%reason%</white>.",
+    "skyrealm.server.queued": "De server voor realm <yellow>%realm%</yellow> staat in de wachtrij om te starten.",
+    "skyrealm.success.start-realm.success": "Gelukt! Realm <yellow>%realm%</yellow> is nu gestart.",
+    "skyrealm.server.transferring": "Overdragen naar realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Je wordt verbonden met de hub...",
+    "skyrealm.server.running": "Server voor realm %realm% is nu actief.",
+    "skyrealm.friend.online": "Uw vriend %player% is nu online.",
+    "skyrealm.friend.offline": "Je vriend %player% is nu offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Verbinden met server: </color><color:#FFD700>%server%</color>"
 }

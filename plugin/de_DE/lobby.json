@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% ist dem Server beigetreten.",
     "skyrealm.lobby.quit": "%name% hat uns verlassen.",
     "skyrealm.lobby.buildmode.enabled": "Baumodus aktiviert.",
-    "skyrealm.lobby.buildmode.disabled": "Baumodus deaktiviert."
+    "skyrealm.lobby.buildmode.disabled": "Baumodus deaktiviert.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Geöffnete Box für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>Sie haben Ihre Box bereits für den Tag geöffnet:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Verpasste Box für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Sie haben Ihre Box für den Tag verpasst:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Unbekannte Box für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Sie haben eine ungeöffnete Box für den Tag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Tägliche seltene Belohnung für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Du kannst eine seltene Belohnung für den Tag beanspruchen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Bereite Box für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>Ihre Box kann für den Tag abgeholt werden:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Nicht bereit für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>Ihre Box ist noch nicht bereit für den Tag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Tägliche Legendäre Belohnung für </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Du kannst eine legendäre Belohnung für den Tag beanspruchen:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Zu Belohnungen springen"
 }

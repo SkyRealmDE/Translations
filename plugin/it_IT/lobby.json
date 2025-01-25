@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% è entrato.",
     "skyrealm.lobby.quit": "%name% uscire.",
     "skyrealm.lobby.buildmode.enabled": "Modalità build attivata.",
-    "skyrealm.lobby.buildmode.disabled": "Modalità build disabilitata."
+    "skyrealm.lobby.buildmode.disabled": "Modalità build disabilitata.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Opened Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>Hai già aperto la tua casella per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Manca la casella </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Hai perso la tua casella per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Scatola aperta per </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Hai una scatola non aperta per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Ricompensa Rara Giornaliera per </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Puoi richiedere una ricompensa rara per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Ready Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>La tua casella è pronta per essere rivendicata per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Box non pronto per </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>La tua casella non è ancora pronta per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Ricompensa Leggendaria Giornaliera per </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Puoi richiedere una ricompensa leggendaria per il giorno:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Salta alle ricompense"
 }

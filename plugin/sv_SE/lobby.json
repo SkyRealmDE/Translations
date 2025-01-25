@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% anslöt.",
     "skyrealm.lobby.quit": "%name% avslutade.",
     "skyrealm.lobby.buildmode.enabled": "Byggläge aktiverat.",
-    "skyrealm.lobby.buildmode.disabled": "Byggläge inaktiverat."
+    "skyrealm.lobby.buildmode.disabled": "Byggläge inaktiverat.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Opened Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>Du har redan öppnat din ruta för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Missad Box för </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Du missade din ruta för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Unopened Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Du har en oöppnad ruta för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Daglig sällsynt belöning för </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Du kan få en sällsynt belöning för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Redo för </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>Din ruta är redo att hämtas för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Inte redo för </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>Din box är ännu inte klar för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daglig Legendarisk Belöning för </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Du kan få en legendarisk belöning för dagen:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Hoppa till belöningar"
 }

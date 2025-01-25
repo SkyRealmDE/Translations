@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% kwam binnen.",
     "skyrealm.lobby.quit": "%name% stopt.",
     "skyrealm.lobby.buildmode.enabled": "Bouw modus ingeschakeld.",
-    "skyrealm.lobby.buildmode.disabled": "Bouwmodus uitgeschakeld."
+    "skyrealm.lobby.buildmode.disabled": "Bouwmodus uitgeschakeld.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Geopende Box voor </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>Je hebt je doos al geopend voor dag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Missed Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Je hebt je doos gemist voor dag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Ongeopende Box voor </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Je hebt een ongeopende doos voor dag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Dagelijkse Zeldzame Beloning voor </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Je kunt een zeldzame beloning voor de dag claimen:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Klaar Box voor </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>Je box is klaar voor dag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Niet klaar voor een </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>Je box is nog niet klaar voor dag:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Dagelijkse Legendarische Beloning voor </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Je kunt een legendarische beloning voor de dag claimen:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Ga naar Beloningen"
 }

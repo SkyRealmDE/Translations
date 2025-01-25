@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Ingen servere funnet.",
     "skyrealm.cloud.no_lobbies": "Ingen lobby servere funnet.",
     "skyrealm.cloud.available_servers": "For øyeblikket tilgjengelige servere: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "– %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "– %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spillere på servere</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Feilbruk</dark_gray>",
+    "skyrealm.report.success": "Du har rapportert om <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Rapportmelding:</red> <gray>%reporter%</gray> rapporterte om <gray>%reported%</gray> for <white>%reason%</white>",
+    "skyrealm.server.queued": "Serveren for realmen <yellow>%realm%</yellow> er satt i kø for å starte.",
+    "skyrealm.success.start-realm.success": "Suksess! Realm <yellow>%realm%</yellow> starter nå.",
+    "skyrealm.server.transferring": "Overfører deg til realmen <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Kobler deg til sentret...",
+    "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",
+    "skyrealm.friend.online": "%player% er nå online.",
+    "skyrealm.friend.offline": "%player% er nå frakoblet.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Kobler til server: </color><color:#FFD700>%server%</color>"
 }

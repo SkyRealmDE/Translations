@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "Geen bedieners gevind nie.",
     "skyrealm.cloud.no_lobbies": "Geen lobby bedieners gevind nie.",
     "skyrealm.cloud.available_servers": "Huidig beskikbare bedieners: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Abuse</dark_gray>",
+    "skyrealm.report.success": "You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "The server for realm <yellow>%realm%</yellow> is queued to start.",
+    "skyrealm.success.start-realm.success": "Success! Realm <yellow>%realm%</yellow> is now starting.",
+    "skyrealm.server.transferring": "Transferring you to realm <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Connecting you to the hub...",
+    "skyrealm.server.running": "Server for realm %realm% is now running.",
+    "skyrealm.friend.online": "Your friend %player% is now online.",
+    "skyrealm.friend.offline": "Your friend %player% is now offline.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
 }

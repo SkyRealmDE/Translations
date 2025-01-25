@@ -3,5 +3,16 @@
     "skyrealm.general.tablist.footer.slogan": "Bouw je eigen koninkrijk in SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "U bent momenteel op %server%",
     "skyrealm.general.kicked-no-reason": "Je bent uit de server gezet.",
-    "skyrealm.general.kicked": "Je bent uit de server gezet voor %reason%"
+    "skyrealm.general.kicked": "Je bent uit de server gezet voor %reason%",
+    "skyrealm.general.coins": "U heeft %coins% <white> ivm",
+    "skyrealm.general.other.coins": "%player% heeft %coins% <white>·",
+    "skyrealm.general.coins.modify": "Je hebt je munten gewijzigd door %amount% <white> A",
+    "skyrealm.general.coins.modify.other": "Je hebt %player%'s munten gewijzigd door %amount% <white>##",
+    "skyrealm.general.xp": "Je hebt een <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Level:</color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
+    "skyrealm.general.other.xp": "%player% heeft %xp% XP",
+    "skyrealm.general.xp.modify": "Je hebt je XP gewijzigd door %amount%",
+    "skyrealm.general.xp.modify.other": "Je hebt %player%'s XP gewijzigd door %amount%",
+    "skyrealm.error.cooldown": "Je moet <yellow>%cooldown%</yellow> wachten om deze opdracht opnieuw te gebruiken.",
+    "badge.obtained": "Je hebt de badge gekregen: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Je hebt de cosmetica gekregen: <color:#FFD700>%cosmetic%</color>"
 }

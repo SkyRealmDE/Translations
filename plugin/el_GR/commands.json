@@ -1,5 +1,15 @@
 {
     "skyrealm.commands.helloworld": "Hello world, %name%!",
     "skyrealm.commands.onlinetime.total": "Είστε ήδη συνδεδεμένοι από το <color:#74b9ff>%total%</color> συνολικά.",
-    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>"
+    "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
+    "commands.invite.success": "Η πρόσκληση στάλθηκε επιτυχώς σε <yellow>%player%</yellow>!",
+    "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Προς το παρόν δεν έχετε προσκλήσεις σε εκκρεμότητα.</dark_gray>",
+    "commands.invite.list-outgoing.header": "<gold>Outgoing Invites</gold>",
+    "commands.invite.list-realm.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray>",
+    "commands.invite.list-realm.entry.member": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <yellow>Member:</yellow> <white>%user%</white>",
+    "commands.invite.list-incoming.header": "<gold>Incoming Invites</gold>",
+    "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>\"</dark_gray> <yellow>Ρόλος:</yellow> <white>%role%</white> <dark_gray></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
+    "commands.invite.accept.success": "Αποδεχθήκατε την πρόσκληση στο realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) με ρόλο <white>%role%</white>.",
+    "commands.invite.updated-role": "Ενημέρωση ρόλων:</gold> <gray>%player%</gray> άλλαξε από <yellow>%oldrole%</yellow> σε <yellow>%role%</yellow>.",
+    "skyrealm.command.repair.success": "Το προϊόν σας έχει επισκευαστεί με επιτυχία!"
 }

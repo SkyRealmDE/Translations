@@ -2,5 +2,17 @@
     "skyrealm.cloud.no_servers": "No se encontraron servidores.",
     "skyrealm.cloud.no_lobbies": "No se encontraron servidores del lobby.",
     "skyrealm.cloud.available_servers": "Servidores disponibles actualmente: <green><bold>%count%",
-    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%"
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Jugadores en Servidores</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Abuso de errores</dark_gray>",
+    "skyrealm.report.success": "You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "Notificación de informe:</red> <gray>%reporter%</gray> reportó <gray>%reported%</gray> para <white>%reason%</white>.",
+    "skyrealm.server.queued": "El servidor para el reino <yellow>%realm%</yellow> está en cola para comenzar.",
+    "skyrealm.success.start-realm.success": "¡Éxito! El Realm <yellow>%realm%</yellow> ya está empezando.",
+    "skyrealm.server.transferring": "Transfiriéndote al reino <yellow>%realm%</yellow>...",
+    "skyrealm.cloud.connecting_to_hub": "Conectándote al hub...",
+    "skyrealm.server.running": "El servidor para el realm %realm% se está ejecutando.",
+    "skyrealm.friend.online": "Tu amigo %player% está ahora conectado.",
+    "skyrealm.friend.offline": "Tu amigo %player% está ahora desconectado.",
+    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Conectando al servidor: </color><color:#FFD700>%server%</color>"
 }

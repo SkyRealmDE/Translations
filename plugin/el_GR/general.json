@@ -3,5 +3,16 @@
     "skyrealm.general.tablist.footer.slogan": "Φτιάξτε το δικό σας βασίλειο στο SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Είστε σε %server%",
     "skyrealm.general.kicked-no-reason": "Έχετε εκδιωχθεί από το διακομιστή.",
-    "skyrealm.general.kicked": "Έχετε διώξει από το διακομιστή για το %reason%"
+    "skyrealm.general.kicked": "Έχετε διώξει από το διακομιστή για το %reason%",
+    "skyrealm.general.coins": "You have %coins% <white>",
+    "skyrealm.general.other.coins": "%player% has %coins% <white>",
+    "skyrealm.general.coins.modify": "Τροποποιήσατε τα Νομίσματα σας από %amount% <white>;",
+    "skyrealm.general.coins.modify.other": "Τροποποιήσατε τα νομίσματα %player%από %amount% <white>;",
+    "skyrealm.general.xp": "Έχετε <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Επίπεδο:</color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
+    "skyrealm.general.other.xp": "%player% has %xp% XP",
+    "skyrealm.general.xp.modify": "Τροποποιήσατε το XP σας από τον %amount%",
+    "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%",
+    "skyrealm.error.cooldown": "Πρέπει να περιμένετε <yellow>%cooldown%</yellow> πριν χρησιμοποιήσετε ξανά αυτήν την εντολή.",
+    "badge.obtained": "Έχετε λάβει το έμβλημα: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Σας έχει δοθεί το καλλυντικό: <color:#FFD700>%cosmetic%</color>"
 }

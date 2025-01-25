@@ -3,5 +3,16 @@
     "skyrealm.general.tablist.footer.slogan": "Создайте свое королевство в SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "В настоящее время вы используете %server%",
     "skyrealm.general.kicked-no-reason": "Вы были выгнаны с сервера.",
-    "skyrealm.general.kicked": "Вы были выгнаны с сервера для %reason%"
+    "skyrealm.general.kicked": "Вы были выгнаны с сервера для %reason%",
+    "skyrealm.general.coins": "У вас есть %coins% <white> <unk>",
+    "skyrealm.general.other.coins": "%player% имеет %coins% <white> <unk>",
+    "skyrealm.general.coins.modify": "Вы изменили ваши монеты от %amount% <white> <unk>",
+    "skyrealm.general.coins.modify.other": "Вы изменили монеты %player%от %amount% <white>",
+    "skyrealm.general.xp": "You have <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Level:</color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
+    "skyrealm.general.other.xp": "У %player% есть %xp% XP",
+    "skyrealm.general.xp.modify": "Вы изменили свой XP от %amount%",
+    "skyrealm.general.xp.modify.other": "Вы изменили опыт %player%от %amount%",
+    "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again.",
+    "badge.obtained": "Вы получили значок: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "You have been given the cosmetic: <color:#FFD700>%cosmetic%</color>"
 }

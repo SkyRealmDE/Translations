@@ -2,5 +2,20 @@
     "skyrealm.lobby.join": "%name% joined.",
     "skyrealm.lobby.quit": "%name% quit.",
     "skyrealm.lobby.buildmode.enabled": "Λειτουργία κατασκευής ενεργοποιημένη.",
-    "skyrealm.lobby.buildmode.disabled": "Λειτουργία κατασκευής απενεργοποιημένη."
+    "skyrealm.lobby.buildmode.disabled": "Λειτουργία κατασκευής απενεργοποιημένη.",
+    "mailman.display.opened_box": "<color:#dfe6e9>Ανοιχτό πλαίσιο για </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "<color:#dfe6e9>Έχετε ήδη ανοίξει το κουτί σας για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "<color:#dfe6e9>Missed Box for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "<color:#dfe6e9>Έχασες το κουτί σου για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "<color:#dfe6e9>Μη ανοιγμένο κουτί για </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "<color:#dfe6e9>Έχετε ένα ανοιχτό πλαίσιο για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Daily Rare Reward for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>Μπορείτε να διεκδικήσετε μια σπάνια ανταμοιβή για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "<color:#dfe6e9>Έτοιμο πλαίσιο για </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "<color:#dfe6e9>Το κουτί σας είναι έτοιμο να ζητηθεί για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "<color:#dfe6e9>Δεν είναι έτοιμο πλαίσιο για </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "<color:#dfe6e9>Το κουτί σας δεν είναι ακόμα έτοιμο για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daily Legendary Reward for </color><bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>Μπορείτε να διεκδικήσετε μια θρυλική ανταμοιβή για την ημέρα:</color> <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Μετάβαση στις ανταμοιβές"
 }

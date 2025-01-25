@@ -4,5 +4,6 @@
     "menu.disconnect": "☠️ Я втомилася грати",
     "connect.transferring": "Передача до іншого екземпляру...",
     "skyrealm.messages.link.open": "Натисніть, щоб відкрити посилання",
-    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду"
+    "skyrealm.messages.command.run": "Натисніть, щоб запустити команду",
+    "soundCategory.voice": "SkyRealm Music"
 }

@@ -3,5 +3,16 @@
     "skyrealm.general.tablist.footer.slogan": "Costruisci il tuo regno in SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Sei attualmente in %server%",
     "skyrealm.general.kicked-no-reason": "Sei stato cacciato dal server.",
-    "skyrealm.general.kicked": "Sei stato cacciato dal server per %reason%"
+    "skyrealm.general.kicked": "Sei stato cacciato dal server per %reason%",
+    "skyrealm.general.coins": "You have %coins% <white>",
+    "skyrealm.general.other.coins": "%player% ha %coins% <white> <unk>",
+    "skyrealm.general.coins.modify": "Hai modificato le tue monete da %amount% <white> <unk>",
+    "skyrealm.general.coins.modify.other": "Hai modificato le monete di %player%di %amount% <white> <unk>",
+    "skyrealm.general.xp": "Hai <color:#badc58>%xp%</color>/<color:#ffbe76>%nextLevelXP%</color> XP <dark_gray>(</dark_gray><color:#9e9e9e>Livello:</color> <color:#74b9ff>%level%</color><dark_gray>)</dark_gray>",
+    "skyrealm.general.other.xp": "%player% ha %xp% XP",
+    "skyrealm.general.xp.modify": "Hai modificato il tuo XP di %amount%",
+    "skyrealm.general.xp.modify.other": "Hai modificato l'XP di %player%di %amount%",
+    "skyrealm.error.cooldown": "Devi aspettare <yellow>%cooldown%</yellow> prima di utilizzare nuovamente questo comando.",
+    "badge.obtained": "Hai ottenuto il badge: <bold><color:#FFD700>%badge%</color></bold>",
+    "skyrealm.cosmetic.given": "Ti è stato dato il cosmetico: <color:#FFD700>%cosmetic%</color>"
 }
