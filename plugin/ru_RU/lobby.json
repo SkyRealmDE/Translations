@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Первая позиция для площади: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Вы заменили площадь: <color:#FFD700>%old%</color> на площадь: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Набор вторых позиций для площади: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Вы не находитесь в зоне.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Ваша текущая область: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Вы установили звук площадь: <color:#FFD700>%area%</color> тип: <color:#FFD700>%type%</color> громкости:<color:#FFD700>%volume%</color> и pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Вы заменили звук области с: <color:#FFD700>%old%</color> на площадь: <color:#FFD700>%area%</color>",
