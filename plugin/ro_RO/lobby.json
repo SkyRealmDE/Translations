@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Prima poziţie setată pentru zona: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Ai înlocuit zona: <color:#FFD700>%old%</color> cu zona: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "A doua poziţie setată pentru zona: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Nu ești în niciun domeniu.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Zona dumneavoastră actuală este: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Ai setat sunetul ariei: <color:#FFD700>%area%</color> pentru a scrie: <color:#FFD700>%type%</color> cu volum:<color:#FFD700>%volume%</color> şi pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Ați înlocuit zona de sunet: <color:#FFD700>%old%</color> la suprafață: <color:#FFD700>%area%</color>",
