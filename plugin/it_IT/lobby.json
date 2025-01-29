@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Prima posizione impostata per l'area: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Hai sostituito l'area: <color:#FFD700>%old%</color> con l'area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Seconda posizione impostata per l'area: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Non sei in nessuna zona.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "La tua area attuale è: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Hai impostato il suono dell'area: <color:#FFD700>%area%</color> per digitare: <color:#FFD700>%type%</color> con il volume:<color:#FFD700>%volume%</color> e pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Hai sostituito il suono di area dal: <color:#FFD700>%old%</color> per area: <color:#FFD700>%area%</color>",
