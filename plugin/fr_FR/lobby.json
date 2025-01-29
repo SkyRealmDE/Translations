@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Première position définie pour la zone : <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Vous avez remplacé la zone : <color:#FFD700>%old%</color> par la zone : <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Deuxième position définie pour la zone : <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Vous n'êtes dans aucune zone.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Votre zone actuelle est : <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Vous définissez le son de la zone : <color:#FFD700>%area%</color> pour le type: <color:#FFD700>%type%</color> avec le volume :<color:#FFD700>%volume%</color> et pas : <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Vous avez remplacé la zone sonore depuis : <color:#FFD700>%old%</color> vers la zone : <color:#FFD700>%area%</color>",
