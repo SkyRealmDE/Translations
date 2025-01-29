@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "First position set for area: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "You replaced area: <color:#FFD700>%old%</color> with area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Second position set for area: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Et ole millään alueella.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Asetit alueen äänen: <color:#FFD700>unnamed@@1</color> tyyppi: <color:#FFD700>%type%</color> äänenvoimakkuudella:<color:#FFD700>%volume%</color> ja kentät: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
