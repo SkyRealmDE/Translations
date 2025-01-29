@@ -5,25 +5,31 @@
     "skyrealm.lobby.buildmode.disabled": "Build mode disabled.",
 
 
-    "mailman.display.opened_box": "<color:#dfe6e9>Opened Box for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.opened_box": "<color:#dfe6e9>You have already opened your box for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.opened_box": "Opened Box for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.opened_box": "You have already opened your box for day:</color> <color:#FFD700>%day%</color>",
   
-    "mailman.display.missed_box": "<color:#dfe6e9>Missed Box for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.missed_box": "<color:#dfe6e9>You missed your box for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.missed_box": "Missed Box for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.missed_box": "You missed your box for day: <color:#FFD700>%day%</color>",
   
-    "mailman.display.unopened_box": "<color:#dfe6e9>Unopened Box for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.unopened_box": "<color:#dfe6e9>You have an unopened box for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.unopened_box": "Unopened Box for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.unopened_box": "You have an unopened box for day: <color:#FFD700>%day%</color>",
   
-    "mailman.display.daily_rare_reward": "<color:#dfe6e9>Daily Rare Reward for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_rare_reward": "<color:#dfe6e9>You can claim a rare reward for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.daily_rare_reward": "Daily Rare Reward for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_rare_reward": "You can claim a rare reward for day: <color:#FFD700>%day%</color>",
   
-    "mailman.display.ready_box": "<color:#dfe6e9>Ready Box for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.ready_box": "<color:#dfe6e9>Your box is ready to be claimed for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.ready_box": "Ready Box for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.ready_box": "Your box is ready to be claimed for day: <color:#FFD700>%day%</color>",
   
-    "mailman.display.not_ready_box": "<color:#dfe6e9>Not Ready Box for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.not_ready_box": "<color:#dfe6e9>Your box is not yet ready for day:</color> <color:#FFD700>%day%</color>",
+    "mailman.display.not_ready_box": "Not Ready Box for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.not_ready_box": "Your box is not yet ready for day: <color:#FFD700>%day%</color>",
   
-    "mailman.display.daily_legendary_reward": "<color:#dfe6e9>Daily Legendary Reward for </color><bold><color:#FFD700>%day%</color></bold>",
-    "mailman.lore.daily_legendary_reward": "<color:#dfe6e9>You can claim a legendary reward for day:</color> <color:#FFD700>%day%</color>",
-    "mailman.missed.skip": "Skip to Rewards"
+    "mailman.display.daily_legendary_reward": "Daily Legendary Reward for <bold><color:#FFD700>%day%</color></bold>",
+    "mailman.lore.daily_legendary_reward": "You can claim a legendary reward for day: <color:#FFD700>%day%</color>",
+    "mailman.missed.skip": "Skip to Rewards",
+
+    "lobby.area.set-p1": "First position set for area: <color:#FFD700>%area%</color>",
+    "lobby.area.replaced": "You replaced area: <color:#FFD700>%old%</color> with area: <color:#FFD700>%area%</color>",
+    "lobby.area.set-p2": "Second position set for area: <color:#FFD700>%area%</color>",
+    "lobby.area.none": "You have no area set.",
+    "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>"
 }
