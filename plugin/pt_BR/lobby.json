@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Posição definida para a área: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "You replaced area: <color:#FFD700>%old%</color> with area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Segunda posição definida para a área: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Você não está em nenhuma área.",
+    "lobby.area.none": "Você não tem uma área definida.",
     "lobby.area.current": "Sua área atual é: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Você definiu o som da área: <color:#FFD700>%area%</color> para tipo: <color:#FFD700>%type%</color> com volume:<color:#FFD700>%volume%</color> e tom: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Você substituiu o som da área de: <color:#FFD700>%old%</color> para área: <color:#FFD700>%area%</color>",
