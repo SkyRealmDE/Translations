@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Перше розташування настано для області: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Ви замінили область: <color:#FFD700>%old%</color> на площа: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Друга позиція задана для області: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Ви не на ділянці.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Ваша поточна площа: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "You set the sound of area: <color:#FFD700>%area%</color> to type: <color:#FFD700>%type%</color> with volume:<color:#FFD700>%volume%</color> and pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Ви замінили звук області: <color:#FFD700>%old%</color> на місце: <color:#FFD700>%area%</color>",
