@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Erste Position für den Bereich gesetzt: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Sie haben die Fläche ersetzt: <color:#FFD700>%old%</color> mit Bereich: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Zweite Position für den Bereich gesetzt: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Sie sind in keinem Gebiet.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Ihr aktueller Bereich ist: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Sie haben den Klang des Bereichs: <color:#FFD700>%area%</color> auf den Typ <color:#FFD700>%type%</color> mit Lautstärke:<color:#FFD700>%volume%</color> und Ton: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Sie haben den Sound des Bereichs ersetzt von: <color:#FFD700>%old%</color> in Bereich: <color:#FFD700>%area%</color>",
