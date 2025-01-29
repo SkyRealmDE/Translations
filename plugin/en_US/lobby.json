@@ -32,5 +32,7 @@
     "lobby.area.set-p2": "Second position set for area: <color:#FFD700>%area%</color>",
     "lobby.area.none": "You are in no area.",
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
+    "lobby.area.set-sound": "You set the sound of area: <color:#FFD700>%area%</color> to type: <color:#FFD700>%type%</color> with volume:<color:#FFD700>%volume%</color> and pitch: <color:#FFD700>%pitch%</color>",
+    "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
     "lobby.area.reloaded": "Areas reloaded."
 }
