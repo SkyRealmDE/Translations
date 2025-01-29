@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Første positionssæt for område: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Du erstattede område: <color:#FFD700>%old%</color> med område: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Anden position indstillet for området: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Du er i intet område.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Dit nuværende område er: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Du indstiller lyden af området: <color:#FFD700>%area%</color> for at skrive: <color:#FFD700>%type%</color> med lydstyrke:<color:#FFD700>%volume%</color> og tonehøjde: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Du erstattede området lyd fra: <color:#FFD700>%old%</color> til område: <color:#FFD700>%area%</color>",
