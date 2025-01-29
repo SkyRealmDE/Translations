@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "تم تعيين الموضع الأول للمنطقة: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "لقد استبدلت المنطقة: <color:#FFD700>%old%</color> مع المنطقة: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "تم تعيين الموضع الثاني للمنطقة: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "أنت لا توجد أي منطقة.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "منطقتك الحالية: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "قمت بتعيين صوت المنطقة: <color:#FFD700>%area%</color> للكتابة: <color:#FFD700>%type%</color> مع المجلد:<color:#FFD700>%volume%</color> و pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "لقد استبدلت صوت المنطقة من: <color:#FFD700>%old%</color> إلى المنطقة: <color:#FFD700>%area%</color>",
