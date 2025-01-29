@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Pierwsza pozycja dla obszaru: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Zastąpiłeś obszar: <color:#FFD700>%old%</color> na obszar: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Druga pozycja ustawiona dla obszaru: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "Nie jesteś w żadnym obszarze.",
+    "lobby.area.none": "You have no area set.",
     "lobby.area.current": "Twój bieżący obszar to: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Ustawiłeś dźwięk obszaru: <color:#FFD700>%area%</color> na wpisanie: <color:#FFD700>%type%</color> o objętości:<color:#FFD700>%volume%</color> i ton: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Zastąpiłeś dźwięk obszaru z: <color:#FFD700>%old%</color> na obszar: <color:#FFD700>%area%</color>",
