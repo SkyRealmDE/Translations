@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Valtakunnan %realm% palvelin on nyt käynnissä.",
     "skyrealm.friend.online": "Ystäväsi %player% on nyt verkossa.",
     "skyrealm.friend.offline": "Ystäväsi %player% on nyt poissa käytöstä.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Connecting to server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Täällä ei voi teleportata itseäsi.",
+    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!"
 }
