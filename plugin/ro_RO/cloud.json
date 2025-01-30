@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Serverul pentru tărâmul %realm% rulează acum.",
     "skyrealm.friend.online": "Prietenul tău %player% este acum online.",
     "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Conectarea la server: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Conectare la server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Nu te poți teleporta aici.",
+    "player.levelup": "Ați atins nivelul <color:#FFD700>%level%</color>!"
 }
