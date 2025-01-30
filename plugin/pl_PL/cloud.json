@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Serwer dla domeny %realm% jest teraz uruchomiony.",
     "skyrealm.friend.online": "Twój znajomy %player% jest teraz online.",
     "skyrealm.friend.offline": "Twój znajomy %player% jest teraz offline.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Łączenie z serwerem: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Nie możesz teleportować się tutaj.",
+    "player.levelup": "Osiągnąłeś poziom <color:#FFD700>%level%</color>!"
 }
