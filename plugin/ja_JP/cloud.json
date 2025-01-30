@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Realm %realm% が起動中です。",
     "skyrealm.friend.online": "お友達の %player% がオンラインになりました。",
     "skyrealm.friend.offline": "お友達の %player% がオフラインになりました。",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>サーバーに接続中: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "サーバーに接続中: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "ここではテレポートできません。",
+    "player.levelup": "レベル <color:#FFD700>%level%</color> に達しました！"
 }
