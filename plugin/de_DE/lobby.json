@@ -25,5 +25,9 @@
     "lobby.area.current": "Ihr aktueller Bereich ist: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Sie haben den Klang des Bereichs: <color:#FFD700>%area%</color> auf den Typ <color:#FFD700>%type%</color> mit Lautstärke:<color:#FFD700>%volume%</color> und Ton: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Sie haben den Sound des Bereichs ersetzt von: <color:#FFD700>%old%</color> in Bereich: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Bereiche neu geladen."
+    "lobby.area.reloaded": "Bereiche neu geladen.",
+    "lobby.area.flag-list": "Flächenflaggen: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Sie haben die Flagge <color:#FFD700>%flag%</color> zum Bereich <color:#FFD700>%area%</color> hinzugefügt",
+    "lobby.area.flag": "Flagge: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Sie haben die Flagge <color:#FFD700>%flag%</color> aus <color:#FFD700>%area%</color> entfernt"
 }
