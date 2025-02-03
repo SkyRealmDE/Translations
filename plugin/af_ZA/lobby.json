@@ -25,5 +25,9 @@
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "You set the sound of area: <color:#FFD700>%area%</color> to type: <color:#FFD700>%type%</color> with volume:<color:#FFD700>%volume%</color> and pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Areas reloaded."
+    "lobby.area.reloaded": "Areas reloaded.",
+    "lobby.area.flag-list": "Flags of Area: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "You have added the flag <color:#FFD700>%flag%</color> to area <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>"
 }
