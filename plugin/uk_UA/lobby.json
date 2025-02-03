@@ -25,5 +25,9 @@
     "lobby.area.current": "Ваша поточна площа: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "You set the sound of area: <color:#FFD700>%area%</color> to type: <color:#FFD700>%type%</color> with volume:<color:#FFD700>%volume%</color> and pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Ви замінили звук області: <color:#FFD700>%old%</color> на місце: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "райони перевантажено."
+    "lobby.area.reloaded": "райони перевантажено.",
+    "lobby.area.flag-list": "Прапори площа: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Ви додали прапор <color:#FFD700>%flag%</color> в область <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Мітка: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Ви видалили прапор <color:#FFD700>%flag%</color> з області <color:#FFD700>%area%</color>"
 }
