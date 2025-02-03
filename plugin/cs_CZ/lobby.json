@@ -25,5 +25,9 @@
     "lobby.area.current": "Vaše aktuální oblast je: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Nastavil jsi zvuk plochy: <color:#FFD700>%area%</color> k psaní: <color:#FFD700>%type%</color> o objemu:<color:#FFD700>%volume%</color> a pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Nahradil jsi zvuk oblasti z: <color:#FFD700>%old%</color> do oblasti: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Oblasti znovu načteny."
+    "lobby.area.reloaded": "Oblasti znovu načteny.",
+    "lobby.area.flag-list": "Vlajky oblasti: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Přidali jste vlajku <color:#FFD700>%flag%</color> do oblasti <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Vlajka: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Odstranili jste vlajku <color:#FFD700>%flag%</color> z oblasti <color:#FFD700>%area%</color>"
 }
