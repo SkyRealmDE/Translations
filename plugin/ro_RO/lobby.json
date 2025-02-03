@@ -25,5 +25,9 @@
     "lobby.area.current": "Zona dumneavoastră actuală este: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Ai setat sunetul ariei: <color:#FFD700>%area%</color> pentru a scrie: <color:#FFD700>%type%</color> cu volum:<color:#FFD700>%volume%</color> şi pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Ați înlocuit zona de sunet: <color:#FFD700>%old%</color> la suprafață: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Zone reîncărcate."
+    "lobby.area.reloaded": "Zone reîncărcate.",
+    "lobby.area.flag-list": "Flags of Area: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "You have added the flag <color:#FFD700>%flag%</color> to area <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Ați eliminat steagul <color:#FFD700>%flag%</color> din zona <color:#FFD700>%area%</color>"
 }
