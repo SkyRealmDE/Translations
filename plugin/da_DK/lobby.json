@@ -25,5 +25,9 @@
     "lobby.area.current": "Dit nuværende område er: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Du indstiller lyden af området: <color:#FFD700>%area%</color> for at skrive: <color:#FFD700>%type%</color> med lydstyrke:<color:#FFD700>%volume%</color> og tonehøjde: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Du erstattede området lyd fra: <color:#FFD700>%old%</color> til område: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Områder genindlæst."
+    "lobby.area.reloaded": "Områder genindlæst.",
+    "lobby.area.flag-list": "Flag i område: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Du har tilføjet flaget <color:#FFD700>%flag%</color> til område <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Du har fjernet flaget <color:#FFD700>%flag%</color> fra område <color:#FFD700>%area%</color>"
 }
