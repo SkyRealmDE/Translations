@@ -25,5 +25,9 @@
     "lobby.area.current": "Ditt nuvarande område är: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Du ställer in ljudet av området: <color:#FFD700>%area%</color> till skriv: <color:#FFD700>%type%</color> med volym:<color:#FFD700>%volume%</color> och pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Du ersatte området ljud från: <color:#FFD700>%old%</color> till område: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Omladdade områden."
+    "lobby.area.reloaded": "Omladdade områden.",
+    "lobby.area.flag-list": "Områdesflaggor: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Du har lagt till flaggan <color:#FFD700>%flag%</color> i området <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flagga: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Du har tagit bort flaggan <color:#FFD700>%flag%</color> från området <color:#FFD700>%area%</color>"
 }
