@@ -25,5 +25,9 @@
     "lobby.area.current": "Votre zone actuelle est : <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Vous définissez le son de la zone : <color:#FFD700>%area%</color> pour le type: <color:#FFD700>%type%</color> avec le volume :<color:#FFD700>%volume%</color> et pas : <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Vous avez remplacé la zone sonore depuis : <color:#FFD700>%old%</color> vers la zone : <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Zones rechargées."
+    "lobby.area.reloaded": "Zones rechargées.",
+    "lobby.area.flag-list": "Flags of Area: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "You have added the flag <color:#FFD700>%flag%</color> to area <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Vous avez retiré le drapeau <color:#FFD700>%flag%</color> de la zone <color:#FFD700>%area%</color>"
 }
