@@ -25,5 +25,9 @@
     "lobby.area.current": "La tua area attuale è: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Hai impostato il suono dell'area: <color:#FFD700>%area%</color> per digitare: <color:#FFD700>%type%</color> con il volume:<color:#FFD700>%volume%</color> e pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Hai sostituito il suono di area dal: <color:#FFD700>%old%</color> per area: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Aree ricaricate."
+    "lobby.area.reloaded": "Aree ricaricate.",
+    "lobby.area.flag-list": "Bandiere della zona: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Hai aggiunto la bandiera <color:#FFD700>%flag%</color> all'area <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Bandiera: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Hai rimosso la bandiera <color:#FFD700>%flag%</color> dall'area <color:#FFD700>%area%</color>"
 }
