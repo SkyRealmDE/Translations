@@ -25,5 +25,9 @@
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "您设置区域的声音： <color:#FFD700>named@@1</color> 键入： <color:#FFD700>%type%</color> 音量：<color:#FFD700>%volume%</color> 和pitch： <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "区域已重新装载。"
+    "lobby.area.reloaded": "区域已重新装载。",
+    "lobby.area.flag-list": "Flags of Area: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "You have added the flag <color:#FFD700>%flag%</color> to area <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>"
 }
