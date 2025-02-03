@@ -25,5 +25,9 @@
     "lobby.area.current": "Ваша текущая область: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Вы установили звук площадь: <color:#FFD700>%area%</color> тип: <color:#FFD700>%type%</color> громкости:<color:#FFD700>%volume%</color> и pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Вы заменили звук области с: <color:#FFD700>%old%</color> на площадь: <color:#FFD700>%area%</color>",
-    "lobby.area.reloaded": "Области перезагружены."
+    "lobby.area.reloaded": "Области перезагружены.",
+    "lobby.area.flag-list": "Flags of Area: <color:#FFD700>%area%</color>",
+    "lobby.area.flag-added": "Вы добавили флаг <color:#FFD700>%flag%</color> в область <color:#FFD700>%area%</color>",
+    "lobby.area.flag": "Флаг: <color:#FFD700>%flag%</color>",
+    "lobby.area.flag-removed": "Вы удалили флаг <color:#FFD700>%flag%</color> из области <color:#FFD700>%area%</color>"
 }
