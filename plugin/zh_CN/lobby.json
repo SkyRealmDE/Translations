@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>",
     "coinchase.list": "硬币位置：",
     "coinchase.placed": "一个新硬币已经放置！",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "成功删除硬币。",
-    "coinchase.remove.fail": "没有找到要移除的硬币。"
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Successfully removed %successes% coin(s).",
+    "coinchase.streak-ended": "Your coin streak of <color:#FFD700>%streak%</color> has ended."
 }
