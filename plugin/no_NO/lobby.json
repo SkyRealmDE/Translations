@@ -29,5 +29,10 @@
     "lobby.area.flag-list": "Markeringer av område: <color:#FFD700>%area%</color>",
     "lobby.area.flag-added": "Du har lagt til flagget <color:#FFD700>%flag%</color> for å område <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Flagg: <color:#FFD700>%flag%</color>",
-    "lobby.area.flag-removed": "Du har fjernet flagget <color:#FFD700>%flag%</color> fra område <color:#FFD700>%area%</color>"
+    "lobby.area.flag-removed": "Du har fjernet flagget <color:#FFD700>%flag%</color> fra område <color:#FFD700>%area%</color>",
+    "coinchase.list": "Myntplasseringer:",
+    "coinchase.placed": "En ny mynt har blitt plassert!",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
+    "coinchase.remove.success": "Fjernet mynten.",
+    "coinchase.remove.fail": "Ingen mynt funnet å fjerne."
 }
