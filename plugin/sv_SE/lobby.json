@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Du har tagit bort flaggan <color:#FFD700>%flag%</color> från området <color:#FFD700>%area%</color>",
     "coinchase.list": "Mynt platser:",
     "coinchase.placed": "Ett nytt mynt har placerats!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Har tagit bort myntet.",
-    "coinchase.remove.fail": "Inget mynt hittades att ta bort."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Tog bort %successes% mynt.",
+    "coinchase.streak-ended": "Din myntrad av <color:#FFD700>%streak%</color> har avslutats."
 }
