@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Ați eliminat steagul <color:#FFD700>%flag%</color> din zona <color:#FFD700>%area%</color>",
     "coinchase.list": "Locații monedă:",
     "coinchase.placed": "A fost plasată o monedă nouă!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleportare</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Moneda a fost eliminată cu succes.",
-    "coinchase.remove.fail": "Nici o monedă găsită pentru a elimina."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "%successes% monede au fost eliminate cu succes.",
+    "coinchase.streak-ended": "Pachetul tău de monede de <color:#FFD700>%streak%</color> s-a încheiat."
 }
