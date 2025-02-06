@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "لقد قمت بإزالة العلم <color:#FFD700>%flag%</color> من المنطقة <color:#FFD700>%area%</color>",
     "coinchase.list": "مواقع العملات المعدنية:",
     "coinchase.placed": "تم وضع عملة جديدة!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>الانتقال</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "تمت إزالة العملة بنجاح.",
-    "coinchase.remove.fail": "لم يتم العثور على عملة لإزالتها."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "تمت إزالة عملة %successes% بنجاح.",
+    "coinchase.streak-ended": "انتهت سلسلة عملاتك من <color:#FFD700>%streak%</color>"
 }
