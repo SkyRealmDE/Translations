@@ -29,5 +29,10 @@
     "lobby.area.flag-list": "Banderas de Área: <color:#FFD700>%area%</color>",
     "lobby.area.flag-added": "Has añadido la bandera <color:#FFD700>%flag%</color> al área <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Bandera: <color:#FFD700>%flag%</color>",
-    "lobby.area.flag-removed": "Has eliminado la bandera <color:#FFD700>%flag%</color> del área <color:#FFD700>%area%</color>"
+    "lobby.area.flag-removed": "Has eliminado la bandera <color:#FFD700>%flag%</color> del área <color:#FFD700>%area%</color>",
+    "coinchase.list": "Lugares de monedas:",
+    "coinchase.placed": "¡Se ha colocado una nueva moneda!",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teletransportar</aqua>'>%location%</hover></click></color>",
+    "coinchase.remove.success": "Se ha eliminado la moneda con éxito.",
+    "coinchase.remove.fail": "Moneda no encontrada para eliminar."
 }
