@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Ви видалили прапор <color:#FFD700>%flag%</color> з області <color:#FFD700>%area%</color>",
     "coinchase.list": "Місце розташування монет:",
     "coinchase.placed": "Нова монета була розміщена!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Успішно видалено монету.",
-    "coinchase.remove.fail": "Не знайдено жодної монети для видалення."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Успішно видалено %successes% монет(ів).",
+    "coinchase.streak-ended": "Ваша монета серія <color:#FFD700>%streak%</color> закінчилася."
 }
