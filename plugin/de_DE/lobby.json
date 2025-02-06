@@ -29,5 +29,10 @@
     "lobby.area.flag-list": "Flächenflaggen: <color:#FFD700>%area%</color>",
     "lobby.area.flag-added": "Sie haben die Flagge <color:#FFD700>%flag%</color> zum Bereich <color:#FFD700>%area%</color> hinzugefügt",
     "lobby.area.flag": "Flagge: <color:#FFD700>%flag%</color>",
-    "lobby.area.flag-removed": "Sie haben die Flagge <color:#FFD700>%flag%</color> aus <color:#FFD700>%area%</color> entfernt"
+    "lobby.area.flag-removed": "Sie haben die Flagge <color:#FFD700>%flag%</color> aus <color:#FFD700>%area%</color> entfernt",
+    "coinchase.list": "Münzpositionen:",
+    "coinchase.placed": "Eine neue Münze wurde platziert!",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleportieren</aqua>'>%location%</hover></click></color>",
+    "coinchase.remove.success": "Münze erfolgreich entfernt.",
+    "coinchase.remove.fail": "Keine Münze zum Entfernen gefunden."
 }
