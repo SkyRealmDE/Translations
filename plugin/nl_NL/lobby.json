@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Je hebt de vlag <color:#FFD700>%flag%</color> verwijderd uit gebied <color:#FFD700>%area%</color>",
     "coinchase.list": "Coins locaties:",
     "coinchase.placed": "Een nieuwe munt is geplaatst!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "De code is succesvol verwijderd.",
-    "coinchase.remove.fail": "Geen munt gevonden om te verwijderen."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Succesvol %successes% coin(s) verwijderd.",
+    "coinchase.streak-ended": "Je muntenstreak van <color:#FFD700>%streak%</color> is geëindigd."
 }
