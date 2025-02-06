@@ -29,5 +29,10 @@
     "lobby.area.flag-list": "面積の旗： <color:#FFD700>%area%</color>",
     "lobby.area.flag-added": "<color:#FFD700>%flag%</color> フラグを <color:#FFD700>%area%</color> に追加しました。",
     "lobby.area.flag": "フラグ: <color:#FFD700>%flag%</color>",
-    "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>"
+    "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>",
+    "coinchase.list": "コインの場所：",
+    "coinchase.placed": "新しいコインが設置されました！",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>テレポート</aqua>'>%location%</hover></click></color>",
+    "coinchase.remove.success": "コインを正常に削除しました。",
+    "coinchase.remove.fail": "削除するコインが見つかりません。"
 }
