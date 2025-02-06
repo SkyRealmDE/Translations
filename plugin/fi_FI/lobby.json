@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>",
     "coinchase.list": "Kolikon Sijainnit:",
     "coinchase.placed": "Uusi kolikko on sijoitettu!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Kolikon poisto onnistui.",
-    "coinchase.remove.fail": "Kolikkoa ei löytynyt poistettavaksi."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Onnistuneesti poistettiin %successes% kolikkoa.",
+    "coinchase.streak-ended": "Kolikkoputkesi <color:#FFD700>%streak%</color> on päättynyt."
 }
