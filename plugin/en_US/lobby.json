@@ -43,5 +43,6 @@
     "coinchase.list": "Coin Locations:",
     "coinchase.placed": "A new coin has been placed!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
-    "coinchase.removenear.success": "Successfully removed %successes% coin(s)."
+    "coinchase.removenear.success": "Successfully removed %successes% coin(s).",
+    "coinchase.streak-ended": "Your coin streak of <color:#FFD700>%streak%</color> has ended."
 }
