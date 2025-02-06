@@ -29,5 +29,10 @@
     "lobby.area.flag-list": "Vlaggen van gebied: <color:#FFD700>%area%</color>",
     "lobby.area.flag-added": "Je hebt de vlag <color:#FFD700>%flag%</color> toegevoegd aan gebied <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Vlag: <color:#FFD700>%flag%</color>",
-    "lobby.area.flag-removed": "Je hebt de vlag <color:#FFD700>%flag%</color> verwijderd uit gebied <color:#FFD700>%area%</color>"
+    "lobby.area.flag-removed": "Je hebt de vlag <color:#FFD700>%flag%</color> verwijderd uit gebied <color:#FFD700>%area%</color>",
+    "coinchase.list": "Coins locaties:",
+    "coinchase.placed": "Een nieuwe munt is geplaatst!",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
+    "coinchase.remove.success": "De code is succesvol verwijderd.",
+    "coinchase.remove.fail": "Geen munt gevonden om te verwijderen."
 }
