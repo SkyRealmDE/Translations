@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Έχετε αφαιρέσει τη σημαία <color:#FFD700>%flag%</color> από την περιοχή <color:#FFD700>%area%</color>",
     "coinchase.list": "Τοποθεσίες Νομισμάτων:",
     "coinchase.placed": "Ένα νέο νόμισμα έχει τοποθετηθεί!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Το νόμισμα αφαιρέθηκε επιτυχώς.",
-    "coinchase.remove.fail": "Δεν βρέθηκε νόμισμα για αφαίρεση."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Επιτυχής αφαίρεση του %successes% νομίσματος.",
+    "coinchase.streak-ended": "Το σερί νομισμάτων σας από <color:#FFD700>%streak%</color> έχει λήξει."
 }
