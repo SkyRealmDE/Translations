@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Sie haben die Flagge <color:#FFD700>%flag%</color> aus <color:#FFD700>%area%</color> entfernt",
     "coinchase.list": "Münzpositionen:",
     "coinchase.placed": "Eine neue Münze wurde platziert!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleportieren</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Münze erfolgreich entfernt.",
-    "coinchase.remove.fail": "Keine Münze zum Entfernen gefunden."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "%successes% Münze(n) erfolgreich entfernt.",
+    "coinchase.streak-ended": "Ihre Münzserie <color:#FFD700>%streak%</color> ist beendet."
 }
