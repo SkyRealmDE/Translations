@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Du har fjernet flaget <color:#FFD700>%flag%</color> fra område <color:#FFD700>%area%</color>",
     "coinchase.list": "Mønt Steder:",
     "coinchase.placed": "En ny mønt er blevet placeret!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Mønten blev fjernet med succes.",
-    "coinchase.remove.fail": "Ingen mønt fundet at fjerne."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "%successes% mønt(r) blev fjernet med succes.",
+    "coinchase.streak-ended": "Din møntstreak af <color:#FFD700>%streak%</color> er afsluttet."
 }
