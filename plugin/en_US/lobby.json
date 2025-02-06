@@ -42,7 +42,6 @@
 
     "coinchase.list": "Coin Locations:",
     "coinchase.placed": "A new coin has been placed!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Successfully removed the coin.",
-    "coinchase.remove.fail": "No coin found to remove."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Successfully removed %successes% coin(s)."
 }
