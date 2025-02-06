@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Vous avez retiré le drapeau <color:#FFD700>%flag%</color> de la zone <color:#FFD700>%area%</color>",
     "coinchase.list": "Emplacements des pièces :",
     "coinchase.placed": "Une nouvelle pièce a été placée !",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Téléporter</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "La pièce a été retirée avec succès.",
-    "coinchase.remove.fail": "Aucune pièce à supprimer."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Pièce(s) %successes% supprimée(s) avec succès.",
+    "coinchase.streak-ended": "Votre série de pièces <color:#FFD700>%streak%</color> est terminée."
 }
