@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Você removeu a bandeira <color:#FFD700>%flag%</color> da área <color:#FFD700>%area%</color>",
     "coinchase.list": "Localizações de Moedas:",
     "coinchase.placed": "Uma nova moeda foi colocada!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teletransportar</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "Moeda removida com sucesso.",
-    "coinchase.remove.fail": "Nenhuma moeda encontrada para remover."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Moeda %successes% removida com sucesso.",
+    "coinchase.streak-ended": "Seu streak de moedas de <color:#FFD700>%streak%</color> terminou."
 }
