@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Odstranili jste vlajku <color:#FFD700>%flag%</color> z oblasti <color:#FFD700>%area%</color>",
     "coinchase.list": "Umístění mincí:",
     "coinchase.placed": "Byla položena nová mince!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "mince byla úspěšně odstraněna.",
-    "coinchase.remove.fail": "Nenalezena žádná mince k odstranění."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Mince %successes% byly úspěšně odstraněny.",
+    "coinchase.streak-ended": "Vaše série mincí <color:#FFD700>%streak%</color> skončila."
 }
