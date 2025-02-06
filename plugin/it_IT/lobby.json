@@ -32,7 +32,7 @@
     "lobby.area.flag-removed": "Hai rimosso la bandiera <color:#FFD700>%flag%</color> dall'area <color:#FFD700>%area%</color>",
     "coinchase.list": "Posizioni Monete:",
     "coinchase.placed": "Una nuova moneta è stata piazzata!",
-    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teletrasporto</aqua>'>%location%</hover></click></color>",
-    "coinchase.remove.success": "La moneta è stata rimossa con successo.",
-    "coinchase.remove.fail": "Nessuna moneta trovata da rimuovere."
+    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.removenear.success": "Rimosso con successo le monete %successes%.",
+    "coinchase.streak-ended": "La striscia di monete di <color:#FFD700>%streak%</color> è terminata."
 }
