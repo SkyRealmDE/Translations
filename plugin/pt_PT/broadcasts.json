@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Você sabia? Uma enxada vai auto-reformular sua plantação!",
+    "broadcast.bugs": "🐛 Encontrado um bug? Informe-o a <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 Tem feedback? Junte-se ao <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
+}
