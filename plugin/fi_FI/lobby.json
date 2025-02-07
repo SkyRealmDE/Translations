@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "First position set for area: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "You replaced area: <color:#FFD700>%old%</color> with area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Second position set for area: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "Sinulla ei ole aluetta asetettu.",
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Asetit alueen äänen: <color:#FFD700>unnamed@@1</color> tyyppi: <color:#FFD700>%type%</color> äänenvoimakkuudella:<color:#FFD700>%volume%</color> ja kentät: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Stopped recording path <color:#FFD700>%name%</color>. Entries: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "Kolikon Sijainnit:",
     "coinchase.placed": "Uusi kolikko on sijoitettu!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "Onnistuneesti poistettiin %successes% kolikkoa.",
     "coinchase.streak-ended": "Kolikkoputkesi <color:#FFD700>%streak%</color> on päättynyt."
 }
