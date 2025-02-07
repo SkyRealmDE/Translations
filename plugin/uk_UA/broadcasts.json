@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>А ви знали? Оруна автоматично замінить свій урожай!",
+    "broadcast.bugs": "🐛 Found a bug? Report it on <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 Got feedback? Join the <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
+}
