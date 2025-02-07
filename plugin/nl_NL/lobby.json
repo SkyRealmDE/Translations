@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Je hebt de vlag <color:#FFD700>%flag%</color> toegevoegd aan gebied <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Vlag: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Je hebt de vlag <color:#FFD700>%flag%</color> verwijderd uit gebied <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mijnniveau <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> nodig voor <color:#FFD700>%block%</color>.",
     "coinchase.list": "Coins locaties:",
     "coinchase.placed": "Een nieuwe munt is geplaatst!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
