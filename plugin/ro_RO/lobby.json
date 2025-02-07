@@ -30,7 +30,7 @@
     "lobby.area.flag-added": "Ați adăugat steagul <color:#FFD700>%flag%</color> în zona <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Steag: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Ați eliminat steagul <color:#FFD700>%flag%</color> din zona <color:#FFD700>%area%</color>",
-    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> necesar pentru <color:#FFD700>%block%</color>.",
     "coinchase.list": "Locații monedă:",
     "coinchase.placed": "A fost plasată o monedă nouă!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
