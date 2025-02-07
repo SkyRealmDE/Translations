@@ -30,7 +30,7 @@
     "lobby.area.flag-added": "Přidali jste vlajku <color:#FFD700>%flag%</color> do oblasti <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Vlajka: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Odstranili jste vlajku <color:#FFD700>%flag%</color> z oblasti <color:#FFD700>%area%</color>",
-    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
+    "lobby.mining.level_not_enough": "Úroveň těžby <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> potřebná pro <color:#FFD700>%block%</color>.",
     "coinchase.list": "Umístění mincí:",
     "coinchase.placed": "Byla položena nová mince!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
