@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Server for realm %realm% is now running.",
     "skyrealm.friend.online": "Your friend %player% is now online.",
     "skyrealm.friend.offline": "Your friend %player% is now offline.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>正在连接到服务器： </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Connecting to server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "您不能将自己传送到这里。",
+    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!"
 }

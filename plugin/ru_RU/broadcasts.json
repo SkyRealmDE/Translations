@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Знаете ли вы? Мотыга автоматически пересадит ваши урожая!",
+    "broadcast.bugs": "🐛 Найдена ошибка? Сообщите об этом на <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 Полученные отзывы? Присоединяйтесь к <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
+}

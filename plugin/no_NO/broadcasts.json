@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Visste du? En hoe vil automatisk plante beskjæringen din!",
+    "broadcast.bugs": "🐛 Fant en feil? Rapporter den på <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 Har du en innføring i <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
+}

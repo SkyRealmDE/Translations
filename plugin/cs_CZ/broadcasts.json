@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Věděli jste? Hávka automaticky vysadí tvé plodiny!",
+    "broadcast.bugs": "🐛 Našli jste chybu? Nahlásit ji na <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 Máte zpětnou vazbu? Připojte se k <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discordu!</hover></click></color>"
+}

@@ -14,5 +14,7 @@
     "skyrealm.server.running": "В даний час працює сервер для реалму %realm%.",
     "skyrealm.friend.online": "Твій друг %player% зараз в мережі.",
     "skyrealm.friend.offline": "Ваш друг %player% в автономному режимі.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Connecting to server: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Підключення до сервера: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Ви не можете переміщуватися тут.",
+    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!"
 }

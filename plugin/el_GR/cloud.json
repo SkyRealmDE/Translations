@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Ο διακομιστής για το realm %realm% εκτελείται τώρα.",
     "skyrealm.friend.online": "Ο φίλος σας %player% είναι τώρα online.",
     "skyrealm.friend.offline": "Ο φίλος σας %player% είναι τώρα εκτός σύνδεσης.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Σύνδεση στο διακομιστή: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Σύνδεση στο διακομιστή: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Δεν μπορείτε να τηλεμεταφέρετε τον εαυτό σας εδώ.",
+    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!"
 }

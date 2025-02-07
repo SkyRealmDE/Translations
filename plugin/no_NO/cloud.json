@@ -14,5 +14,7 @@
     "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",
     "skyrealm.friend.online": "%player% er nå online.",
     "skyrealm.friend.offline": "%player% er nå frakoblet.",
-    "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Kobler til server: </color><color:#FFD700>%server%</color>"
+    "skyrealm.cloud.connecting_to_server": "Kobler til server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Du kan ikke teleportere deg selv her.",
+    "player.levelup": "Du har nådd nivå <color:#FFD700>%level%</color>!"
 }
