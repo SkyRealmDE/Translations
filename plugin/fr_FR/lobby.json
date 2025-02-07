@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Vous avez ajouté le drapeau <color:#FFD700>%flag%</color> à la zone <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Drapeau : <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Vous avez retiré le drapeau <color:#FFD700>%flag%</color> de la zone <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
     "coinchase.list": "Emplacements des pièces :",
     "coinchase.placed": "Une nouvelle pièce a été placée !",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
