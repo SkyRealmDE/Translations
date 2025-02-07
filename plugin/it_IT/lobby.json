@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Prima posizione impostata per l'area: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Hai sostituito l'area: <color:#FFD700>%old%</color> con l'area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Seconda posizione impostata per l'area: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "Non hai un'area impostata.",
     "lobby.area.current": "La tua area attuale è: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Hai impostato il suono dell'area: <color:#FFD700>%area%</color> per digitare: <color:#FFD700>%type%</color> con il volume:<color:#FFD700>%volume%</color> e pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Hai sostituito il suono di area dal: <color:#FFD700>%old%</color> per area: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Percorso di registrazione fermato <color:#FFD700>%name%</color>. Entries: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "Posizioni Monete:",
     "coinchase.placed": "Una nuova moneta è stata piazzata!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teletrasporto</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "Rimosso con successo le monete %successes%.",
     "coinchase.streak-ended": "La striscia di monete di <color:#FFD700>%streak%</color> è terminata."
 }
