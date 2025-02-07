@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Hai aggiunto la bandiera <color:#FFD700>%flag%</color> all'area <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Bandiera: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Hai rimosso la bandiera <color:#FFD700>%flag%</color> dall'area <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> necessario per <color:#FFD700>%block%</color>.",
     "coinchase.list": "Posizioni Monete:",
     "coinchase.placed": "Una nuova moneta è stata piazzata!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
