@@ -1,0 +1,5 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>知っていましたか？くわは作物を自動的に植え替えます！",
+    "broadcast.bugs": "🐛 バグを見つけましたか？ <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub！</hover></click></color>",
+    "broadcast.feedback": "💬 フィードバックを得ましたか？ <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discordに参加しましょう！</hover></click></color>"
+}
