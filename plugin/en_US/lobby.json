@@ -40,6 +40,8 @@
     "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "You have removed the flag <color:#FFD700>%flag%</color> from area <color:#FFD700>%area%</color>",
 
+     "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
+
     "coinchase.list": "Coin Locations:",
     "coinchase.placed": "A new coin has been placed!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
