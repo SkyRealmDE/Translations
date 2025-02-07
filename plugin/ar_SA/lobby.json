@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "لقد قمت بإضافة العلم <color:#FFD700>%flag%</color> إلى المنطقة <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "لقد قمت بإزالة العلم <color:#FFD700>%flag%</color> من المنطقة <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
     "coinchase.list": "مواقع العملات المعدنية:",
     "coinchase.placed": "تم وضع عملة جديدة!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
