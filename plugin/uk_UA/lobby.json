@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Ви додали прапор <color:#FFD700>%flag%</color> в область <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Мітка: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Ви видалили прапор <color:#FFD700>%flag%</color> з області <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
     "coinchase.list": "Місце розташування монет:",
     "coinchase.placed": "Нова монета була розміщена!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
