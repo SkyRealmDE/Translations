@@ -1,86 +1,58 @@
 {
     "achievements.joins": "<color:#BAD8B6><b>Joins</b></color>",
     "achievements.joins.description": "<color:#FCE7C8>Join the server multiple times.</color>",
-  
     "achievements.chopping": "<color:#BAD8B6><b>Chopping</b></color>",
     "achievements.chopping.description": "<color:#FCE7C8>Chop down a lot of trees.</color>",
-  
     "achievements.mining": "<color:#BAD8B6><b>Mining</b></color>",
     "achievements.mining.description": "<color:#FCE7C8>Mine various blocks to progress.</color>",
-  
     "achievements.fishing": "<color:#BAD8B6><b>Fishing</b></color>",
     "achievements.fishing.description": "<color:#FCE7C8>Catch fish and other treasures.</color>",
-  
     "achievements.mining_coal": "<color:#BAD8B6><b>Coal Mining</b></color>",
     "achievements.mining_coal.description": "<color:#FCE7C8>Gather plenty of coal.</color>",
-  
     "achievements.mining_iron": "<color:#BAD8B6><b>Iron Mining</b></color>",
     "achievements.mining_iron.description": "<color:#FCE7C8>Collect iron ore for your needs.</color>",
-  
     "achievements.mining_gold": "<color:#BAD8B6><b>Gold Mining</b></color>",
     "achievements.mining_gold.description": "<color:#FCE7C8>Acquire the precious gold ore.</color>",
-  
     "achievements.mining_diamond": "<color:#BAD8B6><b>Diamond Mining</b></color>",
     "achievements.mining_diamond.description": "<color:#FCE7C8>Find and mine diamond ore.</color>",
-  
     "achievements.mining_emerald": "<color:#BAD8B6><b>Emerald Mining</b></color>",
     "achievements.mining_emerald.description": "<color:#FCE7C8>Discover and extract emerald ore.</color>",
-  
     "achievements.mining_lapis": "<color:#BAD8B6><b>Lapis Mining</b></color>",
     "achievements.mining_lapis.description": "<color:#FCE7C8>Mine lapis lazuli to enchant your items.</color>",
-  
     "achievements.mining_redstone": "<color:#BAD8B6><b>Redstone Mining</b></color>",
     "achievements.mining_redstone.description": "<color:#FCE7C8>Collect redstone for your contraptions.</color>",
-  
     "achievements.generate_stone": "<color:#BAD8B6><b>Stone Generation</b></color>",
     "achievements.generate_stone.description": "<color:#FCE7C8>Generate stone using your cobblestone generator.</color>",
-  
     "achievements.generate_coal": "<color:#BAD8B6><b>Coal Generation</b></color>",
     "achievements.generate_coal.description": "<color:#FCE7C8>Create coal via your generator.</color>",
-  
     "achievements.generate_iron": "<color:#BAD8B6><b>Iron Generation</b></color>",
     "achievements.generate_iron.description": "<color:#FCE7C8>Produce iron ore from the generator.</color>",
-  
     "achievements.generate_gold": "<color:#BAD8B6><b>Gold Generation</b></color>",
     "achievements.generate_gold.description": "<color:#FCE7C8>Generate gold ore from the generator.</color>",
-  
     "achievements.generate_diamond": "<color:#BAD8B6><b>Diamond Generation</b></color>",
     "achievements.generate_diamond.description": "<color:#FCE7C8>Generate diamond ore using your generator.</color>",
-  
     "achievements.generate_emerald": "<color:#BAD8B6><b>Emerald Generation</b></color>",
     "achievements.generate_emerald.description": "<color:#FCE7C8>Produce emerald ore from the generator.</color>",
-  
     "achievements.generate_lapis": "<color:#BAD8B6><b>Lapis Generation</b></color>",
     "achievements.generate_lapis.description": "<color:#FCE7C8>Generate lapis ore from the generator.</color>",
-  
     "achievements.generate_redstone": "<color:#BAD8B6><b>Redstone Generation</b></color>",
     "achievements.generate_redstone.description": "<color:#FCE7C8>Create redstone ore using your generator.</color>",
-  
     "achievements.farming_carrots": "<color:#BAD8B6><b>Carrot Farming</b></color>",
     "achievements.farming_carrots.description": "<color:#FCE7C8>Grow and harvest carrots.</color>",
-  
     "achievements.farming_potatoes": "<color:#BAD8B6><b>Potato Farming</b></color>",
     "achievements.farming_potatoes.description": "<color:#FCE7C8>Grow and harvest potatoes.</color>",
-  
     "achievements.farming_beetroots": "<color:#BAD8B6><b>Beetroot Farming</b></color>",
     "achievements.farming_beetroots.description": "<color:#FCE7C8>Grow and harvest beetroots.</color>",
-  
     "achievements.farming_melons": "<color:#BAD8B6><b>Melon Farming</b></color>",
     "achievements.farming_melons.description": "<color:#FCE7C8>Grow and harvest melons.</color>",
-  
     "achievements.farming_pumpkins": "<color:#BAD8B6><b>Pumpkin Farming</b></color>",
     "achievements.farming_pumpkins.description": "<color:#FCE7C8>Grow and harvest pumpkins.</color>",
-  
     "achievements.farming_wheat": "<color:#BAD8B6><b>Wheat Farming</b></color>",
     "achievements.farming_wheat.description": "<color:#FCE7C8>Grow and harvest wheat.</color>",
-  
     "achievements.farming_cactus": "<color:#BAD8B6><b>Cactus Farming</b></color>",
     "achievements.farming_cactus.description": "<color:#FCE7C8>Grow and harvest cacti.</color>",
-  
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Sugar Cane Farming</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Grow and harvest sugar cane.</color>",
-  
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Cocoa Farming</b></color>",
     "achievements.farming_cocoa.description": "<color:#FCE7C8>Grow and harvest cocoa beans.</color>"
-  }
-  
+}
