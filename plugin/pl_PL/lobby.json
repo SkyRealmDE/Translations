@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Dodałeś flagę <color:#FFD700>%flag%</color> do obszaru <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Flaga: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Usunąłeś flagę <color:#FFD700>%flag%</color> z obszaru <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Poziom wydobycia <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> potrzebny do <color:#FFD700>%block%</color>.",
     "coinchase.list": "Lokalizacje monet:",
     "coinchase.placed": "Nowa moneta została umieszczona!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
