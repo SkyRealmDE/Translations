@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "První pozice nastavena pro oblast: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Vyměnili jste oblast: <color:#FFD700>%old%</color> s plochou: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Druhá pozice nastavena pro oblast: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "Nemáte nastavenou oblast.",
     "lobby.area.current": "Vaše aktuální oblast je: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Nastavil jsi zvuk plochy: <color:#FFD700>%area%</color> k psaní: <color:#FFD700>%type%</color> o objemu:<color:#FFD700>%volume%</color> a pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Nahradil jsi zvuk oblasti z: <color:#FFD700>%old%</color> do oblasti: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Cesta k nahrávání zastavena <color:#FFD700>%name%</color>. Vstupy: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "Umístění mincí:",
     "coinchase.placed": "Byla položena nová mince!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "Mince %successes% byly úspěšně odstraněny.",
     "coinchase.streak-ended": "Vaše série mincí <color:#FFD700>%streak%</color> skončila."
 }
