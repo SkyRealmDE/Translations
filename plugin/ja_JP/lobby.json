@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "エリアに設定された最初の位置: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "エリア: <color:#FFD700>%old%</color> をエリア: <color:#FFD700>%area%</color> に置き換えました",
     "lobby.area.set-p2": "エリアに2番目の位置を設定: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "エリアセットがありません。",
     "lobby.area.current": "現在の領域: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "You set the sound of area: <color:#FFD700>%area%</color> to type: <color:#FFD700>%type%</color> with volume:<color:#FFD700>%volume%</color> and pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "<color:#FFD700>%old%</color> からの領域の音を <color:#FFD700>%area%</color> に置き換えました",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "<color:#FFD700>%name%</color>の記録を停止しました。エントリ: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "コインの場所：",
     "coinchase.placed": "新しいコインが設置されました！",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>テレポート</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "%successes% コインを削除しました。",
     "coinchase.streak-ended": "<color:#FFD700>%streak%</color> のあなたのコインは終了しました。"
 }
