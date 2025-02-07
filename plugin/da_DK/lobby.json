@@ -30,6 +30,7 @@
     "lobby.area.flag-added": "Du har tilføjet flaget <color:#FFD700>%flag%</color> til område <color:#FFD700>%area%</color>",
     "lobby.area.flag": "Flag: <color:#FFD700>%flag%</color>",
     "lobby.area.flag-removed": "Du har fjernet flaget <color:#FFD700>%flag%</color> fra område <color:#FFD700>%area%</color>",
+    "lobby.mining.level_not_enough": "Mininglevel <color:#FFD700>%currentLevel%</color>/<color:#FFD700>%requiredLevel%</color> needed for <color:#FFD700>%block%</color>.",
     "coinchase.list": "Mønt Steder:",
     "coinchase.placed": "En ny mønt er blevet placeret!",
     "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
