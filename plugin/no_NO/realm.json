@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Generatoren ble oppgradert til nivå %level%.",
     "generator.upgrade.luck.success": "Du har oppgradert din generator lykke til nivå %level%.",
     "realm.upgrade.success": "Din realm er blitt oppgradert til nivå %level%.",
+    "realm.create.success": "Laget realm <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Vellykket! Realm <yellow>%realm%</yellow> starter nå.</green>",
+    "realm.select.success": "Du har valgt realm: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Du har %coins% mynter, men du trenger %price% mynter for å fullføre denne handlingen.",
     "generator.upgrade.ore.success": "Ditt generatornivå har blitt oppgradert til %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Nåværende banksaldo:</color> <color:#FFD700>%money%</color> master",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du har nådd maksimal entitets oppgradering.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Du må være på minst nivå</color> <color:#FFD700>%level%</color> <color:#dfe6e9>for å oppgradere enhetens grense for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "Du har valgt realm: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }
