@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "تم ترقية المولد الخاص بك إلى المستوى %level%.",
     "generator.upgrade.luck.success": "لقد قمت بترقية الحظ للمولد الخاص بك إلى المستوى %level%.",
     "realm.upgrade.success": "تم ترقية عالمك إلى المستوى %level%.",
+    "realm.create.success": "لقد قمت بنجاح بإنشاء المجال <color:#FFD700>%realm%</color> (المعرف: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>نجح! المجال <yellow>%realm%</yellow> بدأ الآن.</green>",
+    "realm.select.success": "لقد اخترت العالم: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "لديك عملات %coins% ، لكنك بحاجة إلى عملات %price% لإكمال هذا الإجراء.",
     "generator.upgrade.ore.success": "تم ترقية مستوى خام المولدات الخاصة بك إلى %level%.",
     "realm.bank.lore": "<color:#CAD3C8>الرصيد المصرفي الحالي:</color> <color:#FFD700>%money%</color> <unk>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>لقد وصلت إلى الحد الأقصى لترقية الكيان.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "لقد اخترت العالم: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }
