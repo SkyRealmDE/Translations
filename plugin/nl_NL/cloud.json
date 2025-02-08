@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>Je hebt met succes gerapporteerd <yellow>%reported%</yellow> voor <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Rapportmelding:</red> <gray>%reporter%</gray> gerapporteerd <gray>%reported%</gray> voor <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>De server voor realm <yellow>%realm%</yellow> staat in de wachtrij om te starten.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Succes! Realm <yellow>%realm%</yellow> is nu gestart.</green>",
     "skyrealm.server.transferring": "<gray>Je wordt overgebracht naar realm <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Je wordt verbonden met de hub...",
     "skyrealm.server.running": "Server voor realm %realm% is nu actief.",
