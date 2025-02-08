@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Ваш генератор був підвищений до рівня %level%.",
     "generator.upgrade.luck.success": "Ви покращили удачу генератора до рівня %level%.",
     "realm.upgrade.success": "Ваш реалм оновлено до рівня %level%.",
+    "realm.create.success": "You have successfully created realm <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Success! Realm <yellow>%realm%</yellow> is now starting.</green>",
+    "realm.select.success": "You have selected realm: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "You have %coins% coins, but you need %price% coins to complete this action.",
     "generator.upgrade.ore.success": "Рівень вашої руди генератора був оновлений до %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Поточний банківський баланс:</color> <color:#FFD700>%money%</color>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Ви досягли максимального ліміту сутності.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "You have selected realm: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }
