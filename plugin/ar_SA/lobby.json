@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "تم تعيين الموضع الأول للمنطقة: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "لقد استبدلت المنطقة: <color:#FFD700>%old%</color> مع المنطقة: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "تم تعيين الموضع الثاني للمنطقة: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "لم يتم تعيين أي منطقة.",
     "lobby.area.current": "منطقتك الحالية: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "قمت بتعيين صوت المنطقة: <color:#FFD700>%area%</color> للكتابة: <color:#FFD700>%type%</color> مع المجلد:<color:#FFD700>%volume%</color> و pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "لقد استبدلت صوت المنطقة من: <color:#FFD700>%old%</color> إلى المنطقة: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "توقف مسار التسجيل <color:#FFD700>%name%</color>. إدخالات: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "مواقع العملات المعدنية:",
     "coinchase.placed": "تم وضع عملة جديدة!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>الانتقال</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "تمت إزالة عملة %successes% بنجاح.",
     "coinchase.streak-ended": "انتهت سلسلة عملاتك من <color:#FFD700>%streak%</color>"
 }

@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "First position set for area: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "You replaced area: <color:#FFD700>%old%</color> with area: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Second position set for area: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "您没有设置区域。",
     "lobby.area.current": "Your current area is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "您设置区域的声音： <color:#FFD700>named@@1</color> 键入： <color:#FFD700>%type%</color> 音量：<color:#FFD700>%volume%</color> 和pitch： <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "You replaced the area sound from: <color:#FFD700>%old%</color> to area: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Stopped recording path <color:#FFD700>%name%</color>. Entries: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "硬币位置：",
     "coinchase.placed": "一个新硬币已经放置！",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "Successfully removed %successes% coin(s).",
     "coinchase.streak-ended": "Your coin streak of <color:#FFD700>%streak%</color> has ended."
 }

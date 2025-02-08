@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Første posisjon satt for område: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "Du har erstattet område: <color:#FFD700>%old%</color> med område: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Andre posisjon satt for området: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "Du har ikke satt et område.",
     "lobby.area.current": "Ditt nåværende område er: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Du angir lyden av område: <color:#FFD700>%area%</color> for å type: <color:#FFD700>%type%</color> med volum:<color:#FFD700>%volume%</color> og pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Du byttet ut området lyden fra: <color:#FFD700>%old%</color> til område: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Stoppet opp innspillingsbanen <color:#FFD700>%name%</color>. Innføringer: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "Myntplasseringer:",
     "coinchase.placed": "En ny mynt har blitt plassert!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "%successes% kodin (er).",
     "coinchase.streak-ended": "Din myntstreak av <color:#FFD700>%streak%</color> er avsluttet."
 }

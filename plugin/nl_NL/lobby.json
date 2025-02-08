@@ -21,7 +21,7 @@
     "lobby.area.set-p1": "Eerste positie ingesteld voor gebied: <color:#FFD700>%area%</color>",
     "lobby.area.replaced": "U heeft gebied vervangen: <color:#FFD700>%old%</color> met gebied: <color:#FFD700>%area%</color>",
     "lobby.area.set-p2": "Tweede positie ingesteld voor gebied: <color:#FFD700>%area%</color>",
-    "lobby.area.none": "You have no area set.",
+    "lobby.area.none": "Je hebt geen gebied ingesteld.",
     "lobby.area.current": "Uw huidige gebied is: <color:#FFD700>%area%</color>",
     "lobby.area.set-sound": "Je zet het geluid van gebied in: <color:#FFD700>%area%</color> om te typen: <color:#FFD700>%type%</color> met volume:<color:#FFD700>%volume%</color> en pitch: <color:#FFD700>%pitch%</color>",
     "lobby.area.replaced-sound": "Je hebt het geluid vervangen van: <color:#FFD700>%old%</color> naar gebied: <color:#FFD700>%area%</color>",
@@ -37,7 +37,7 @@
     "lobby.npc.path.record.stop": "Opnamepad gestopt <color:#FFD700>%name%</color>. Ingaat: <color:#FFD700>%inputs%</color>",
     "coinchase.list": "Coins locaties:",
     "coinchase.placed": "Een nieuwe munt is geplaatst!",
-    "coinchase.list.entry": "• <color:#FFD700>%location%</color>",
+    "coinchase.list.entry": "• <color:#FFD700><click:run_command:'/coinchase tp %location%'><hover:show_text:'<aqua>Teleport</aqua>'>%location%</hover></click></color>",
     "coinchase.removenear.success": "Succesvol %successes% coin(s) verwijderd.",
     "coinchase.streak-ended": "Je muntenstreak van <color:#FFD700>%streak%</color> is geëindigd."
 }
