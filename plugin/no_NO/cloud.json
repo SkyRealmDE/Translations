@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>Du har vellykket rapportert <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Rapportmelding:</red> <gray>%reporter%</gray> rapporterte <gray>%reported%</gray> for <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>Serveren for realmen <yellow>%realm%</yellow> er i kø for å starte.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Vellykket! Realm <yellow>%realm%</yellow> starter nå.</green>",
     "skyrealm.server.transferring": "<gray>overfører deg til realmen <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Kobler deg til sentret...",
     "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",

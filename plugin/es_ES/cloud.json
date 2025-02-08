@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Informe de notificación:</red> <gray>%reporter%</gray> reportó <gray>%reported%</gray> para <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>El servidor para el reino <yellow>%realm%</yellow> está en cola para comenzar.</gray>",
-    "skyrealm.success.start-realm.success": "¡<green>éxito! Realm <yellow>%realm%</yellow> ahora está comenzando.</green>",
     "skyrealm.server.transferring": "<gray>Transferring you to realm <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Conectándote al hub...",
     "skyrealm.server.running": "El servidor para el realm %realm% se está ejecutando.",

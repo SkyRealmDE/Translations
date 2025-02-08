@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>Pomyślnie zgłosiłeś <yellow>%reported%</yellow> dla <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>Serwer dla świata Realm <yellow>%realm%</yellow> jest w kolejce do uruchomienia.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Sukces! Realm <yellow>%realm%</yellow> zaczyna się.</green>",
     "skyrealm.server.transferring": "<gray>Przesyłanie do świata Realm <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Łączenie z hubem...",
     "skyrealm.server.running": "Serwer dla domeny %realm% jest teraz uruchomiony.",

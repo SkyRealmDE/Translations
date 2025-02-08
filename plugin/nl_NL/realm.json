@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Uw generator werd geüpgraded naar niveau %level%.",
     "generator.upgrade.luck.success": "Je hebt het geluk van je generator geüpgraded naar niveau %level%.",
     "realm.upgrade.success": "Je realm is geüpgraded naar niveau %level%.",
+    "realm.create.success": "Je hebt realm <color:#FFD700>%realm%</color> aangemaakt (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Succes! Realm <yellow>%realm%</yellow> is nu gestart.</green>",
+    "realm.select.success": "Je hebt realm geselecteerd: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Je hebt %coins% munten, maar je hebt %price% munten nodig om deze actie te voltooien.",
     "generator.upgrade.ore.success": "Je generator level is geüpgraded naar %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Huidige banksaldo:</color> <color:#FFD700>%money%</color> Februari",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Je hebt de maximale entiteitlimiet upgrade bereikt.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Succesvol bijgewerkt</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>tot een limiet van</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>.",
-    "skyrealm.success.selected-realm": "Je hebt realm geselecteerd: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Succesvol bijgewerkt</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>tot een limiet van</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>."
 }

@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Votre générateur a été amélioré au niveau %level%.",
     "generator.upgrade.luck.success": "Vous avez amélioré votre générateur de chance au niveau %level%.",
     "realm.upgrade.success": "Votre royaume a été amélioré au niveau %level%.",
+    "realm.create.success": "Vous avez créé avec succès le royaume <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Succès ! Le Realm <yellow>%realm%</yellow> démarre.</green>",
+    "realm.select.success": "Vous avez sélectionné le royaume : <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Vous avez des pièces %coins% mais vous avez besoin de pièces %price% pour terminer cette action.",
     "generator.upgrade.ore.success": "Le niveau de minerai de votre générateur a été amélioré vers %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Solde bancaire actuel :</color> <color:#FFD700>%money%</color> <unk>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Vous devez être au moins niveau</color> <color:#FFD700>%level%</color> <color:#dfe6e9>pour mettre à niveau votre limite d'entité pour</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>A mis à jour avec succès</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>à une borne de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "Vous avez sélectionné le royaume : <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>A mis à jour avec succès</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>à une borne de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }

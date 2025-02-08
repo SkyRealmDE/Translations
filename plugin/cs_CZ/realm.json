@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Váš generátor byl povýšen na úroveň %level%.",
     "generator.upgrade.luck.success": "Aktualizovali jste váš generátor štěstí na úroveň %level%.",
     "realm.upgrade.success": "Vaše říše byla vylepšena na úroveň %level%.",
+    "realm.create.success": "Úspěšně jste vytvořili říši <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Úspěch! Realm <yellow>%realm%</yellow> nyní začíná.</green>",
+    "realm.select.success": "Vybrali jste říši: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Máš %coins% mince, ale k dokončení této akce potřebuješ %price% mince.",
     "generator.upgrade.ore.success": "Úroveň tvé generátorové rudy byla vylepšena na %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Aktuální zůstatek banky:</color> <color:#FFD700>%money%</color> <unk>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Dosáhli jste maximálního limitu pro entitu.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Musíte být alespoň na úrovni</color> <color:#FFD700>%level%</color> <color:#dfe6e9>pro zvýšení limitu entity pro</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Úspěšně aktualizován</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>na limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "Vybrali jste říši: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Úspěšně aktualizován</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>na limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }

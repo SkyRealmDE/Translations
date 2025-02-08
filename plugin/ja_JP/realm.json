@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "ジェネレーターはレベル %level%にアップグレードされました。",
     "generator.upgrade.luck.success": "ジェネレーター運をレベル %level%にアップグレードしました。",
     "realm.upgrade.success": "Realm がレベル %level% にアップグレードされました。",
+    "realm.create.success": "レルム <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color> )を作成しました。",
+    "realm.start.success": "<green>Success! Realm <yellow>%realm%</yellow> がスタートしました。</green>",
+    "realm.select.success": "領域を選択しました： <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "%coins% コインがありますが、この操作を完了するには %price% コインが必要です。",
     "generator.upgrade.ore.success": "ジェネレーター鉱石レベルが %level%にアップグレードされました。",
     "realm.bank.lore": "<color:#CAD3C8>現在の銀行残高:</color> <color:#FFD700>%money%</color> <unk>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>エンティティの上限に達しました。</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "領域を選択しました： <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }

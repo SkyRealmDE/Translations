@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Ihr Generator wurde auf Level %level% aktualisiert.",
     "generator.upgrade.luck.success": "Sie haben Ihren Generator Glück auf Level %level% erhöht.",
     "realm.upgrade.success": "Dein Realm wurde auf Level %level% aktualisiert.",
+    "realm.create.success": "Du hast erfolgreich Realm <color:#FFD700>%realm%</color> erstellt (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Erfolg! Realm <yellow>%realm%</yellow> startet jetzt.</green>",
+    "realm.select.success": "Du hast Realm ausgewählt: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Sie haben %coins% Münzen, aber Sie benötigen %price% Münzen, um diese Aktion abzuschließen.",
     "generator.upgrade.ore.success": "Ihr Generatorerz Level wurde auf %level% aktualisiert.",
     "realm.bank.lore": "<color:#CAD3C8>Aktuelles Bankguthaben:</color> <color:#FFD700>%money%</color> <unk>",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du hast das maximale Entitätslimit erreicht.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>",
-    "skyrealm.success.selected-realm": "Du hast Realm ausgewählt: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>"
 }

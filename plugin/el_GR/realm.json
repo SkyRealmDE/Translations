@@ -3,6 +3,9 @@
     "generator.upgrade.general.success": "Η γεννήτρια σας αναβαθμίστηκε σε επίπεδο %level%.",
     "generator.upgrade.luck.success": "Έχετε αναβαθμίσει την τύχη της γεννήτριας σας στο επίπεδο %level%.",
     "realm.upgrade.success": "Το βασίλειό σας έχει αναβαθμιστεί σε επίπεδο %level%.",
+    "realm.create.success": "Έχετε δημιουργήσει με επιτυχία το realm <color:#FFD700>%realm%</color> (ID: <color:#FFD700>%uuid%</color>).",
+    "realm.start.success": "<green>Επιτυχία! Realm <yellow>Τώρα ξεκινά ο%realm%</yellow> .</green>",
+    "realm.select.success": "Έχετε επιλέξει το realm: <color:#FFD700>%realm%</color>",
     "skyrealm.error.not-enough-coins": "Έχετε %coins% νομίσματα, αλλά χρειάζεστε %price% νομίσματα για να ολοκληρώσετε αυτήν την ενέργεια.",
     "generator.upgrade.ore.success": "Your generator ore level has been upgraded to %level%.",
     "realm.bank.lore": "<color:#CAD3C8>Τρέχον τραπεζικό υπόλοιπο:</color> <color:#FFD700>%money%</color>;",
@@ -71,6 +74,5 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Έχετε φτάσει το μέγιστο όριο οντότητας.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Πρέπει να είστε τουλάχιστον επίπεδο</color> <color:#FFD700>%level%</color> <color:#dfe6e9>για να αναβαθμίσετε το όριο οντότητας για</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>ανανεώθηκε επιτυχώς</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>σε όριο</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
-    "skyrealm.success.selected-realm": "Έχετε επιλέξει το realm: <color:#FFD700>%realm%</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>ανανεώθηκε επιτυχώς</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>σε όριο</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
 }

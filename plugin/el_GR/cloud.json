@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>Έχετε αναφέρει με επιτυχία <yellow>%reported%</yellow> για <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Ειδοποίηση αναφοράς:</red> <gray>%reporter%</gray> ανέφερε <gray>%reported%</gray> για <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>Ο διακομιστής για το realm <yellow>%realm%</yellow> βρίσκεται σε αναμονή για να ξεκινήσει.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Επιτυχία! Realm <yellow>Τώρα ξεκινά ο%realm%</yellow> .</green>",
     "skyrealm.server.transferring": "<gray>Σας μεταφέρει στο realm <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Σύνδεση σας στον κόμβο...",
     "skyrealm.server.running": "Ο διακομιστής για το realm %realm% εκτελείται τώρα.",

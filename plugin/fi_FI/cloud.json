@@ -8,7 +8,6 @@
     "skyrealm.report.success": "<green>You have successfully reported <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
     "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
     "skyrealm.server.queued": "<gray>The server for realm <yellow>%realm%</yellow> is queued to start.</gray>",
-    "skyrealm.success.start-realm.success": "<green>Success! Realm <yellow>%realm%</yellow> is now starting.</green>",
     "skyrealm.server.transferring": "<gray>Transferring you to realm <yellow>%realm%</yellow>...</gray>",
     "skyrealm.cloud.connecting_to_hub": "Yhdistetään sinut keskukseen...",
     "skyrealm.server.running": "Valtakunnan %realm% palvelin on nyt käynnissä.",
