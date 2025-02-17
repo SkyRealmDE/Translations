@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Você aceitou o convite para o realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) com o cargo <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Atualização de cargo:</gold> <gray>%player%</gray> alterada de <yellow>%oldrole%</yellow> para <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>",
+    "commands.transform.p1": "Posição inicial definida.",
+    "commands.transform.p2": "Segunda posição definida.",
+    "commands.transform.pivot.set": "Conjunto dinâmico.",
+    "commands.transform.success": "Transformado com sucesso blocos <color:#FFD700>%blocks%</color>",
+    "commands.record.start": "Gravação começou.",
+    "commands.record.stop": "Gravação interrompida.",
+    "commands.record.no_itemdisplay_nearby": "Nenhum item encontrado por perto.",
+    "commands.record.play": "Reproduzindo a transformação gravada."
 }
