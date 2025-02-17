@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "您的物品已成功修复！</green>"
+    "skyrealm.command.repair.success": "您的物品已成功修复！</green>",
+    "commands.transform.p1": "第一个位置已设置。",
+    "commands.transform.p2": "第二个职位已经确定。",
+    "commands.transform.pivot.set": "Pivot已设置。",
+    "commands.transform.success": "Transformed <color:#FFD700>%blocks%</color> blocks successfully.",
+    "commands.record.start": "录制已开始。",
+    "commands.record.stop": "录制已停止。",
+    "commands.record.no_itemdisplay_nearby": "附近没有项目显示。",
+    "commands.record.play": "正在播放记录的转换。"
 }
