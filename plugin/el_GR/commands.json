@@ -16,8 +16,8 @@
     "commands.transform.p2": "Δεύτερη θέση που έχει οριστεί.",
     "commands.transform.pivot.set": "Σετ περιστροφής.",
     "commands.transform.success": "Επιτυχής μετατροπή <color:#FFD700>%blocks%</color> μπλοκ.",
-    "commands.record.start": "Recording started.",
-    "commands.record.stop": "Recording stopped.",
-    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.start": "Η εγγραφή ξεκίνησε.",
+    "commands.record.stop": "Η εγγραφή σταμάτησε.",
+    "commands.record.no_itemdisplay_nearby": "Δεν βρέθηκε κανένα στοιχείο σε κοντινή απόσταση.",
     "commands.record.play": "Παίζοντας το ηχογραφημένο μετασχηματισμό."
 }
