@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Rola:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>AKCEPT?</click></green>",
     "commands.invite.accept.success": "Zaakceptowałeś zaproszenie do świata Realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) z rolą <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Twój przedmiot został naprawiony pomyślnie!</green>"
+    "skyrealm.command.repair.success": "Twój przedmiot został naprawiony pomyślnie!</green>",
+    "commands.transform.p1": "Pierwsza pozycja ustawiona.",
+    "commands.transform.p2": "Druga pozycja ustawiona.",
+    "commands.transform.pivot.set": "Zestaw przestawny.",
+    "commands.transform.success": "Transformed <color:#FFD700>%blocks%</color> blocks successfully.",
+    "commands.record.start": "Nagrywanie rozpoczęte.",
+    "commands.record.stop": "Nagrywanie zatrzymane.",
+    "commands.record.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
+    "commands.record.play": "Odtwarzanie zapisanych przekształceń."
 }
