@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "レルム <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) のロール <white>%role%</white>.</green> への招待を受け入れました。",
     "commands.invite.updated-role": "<gold>ロールの更新:</gold> <gray>%player%</gray> が <yellow>%oldrole%</yellow> から <yellow>%role%</yellow> に変更されました。",
-    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>",
+    "commands.transform.p1": "最初の位置を設定します。",
+    "commands.transform.p2": "2番目の位置を設定します。",
+    "commands.transform.pivot.set": "ピボットをセットしました。",
+    "commands.transform.success": "変換された <color:#FFD700>%blocks%</color> ブロックに成功しました。",
+    "commands.record.start": "録音を開始しました。",
+    "commands.record.stop": "録音を停止しました。",
+    "commands.record.no_itemdisplay_nearby": "近くにアイテムの表示がありません。",
+    "commands.record.play": "記録された変換を再生します。"
 }
