@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray></dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Du har accepteret invitationen til realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) med rolle <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Rolle opdatering:</gold> <gray>%player%</gray> ændret fra <yellow>%oldrole%</yellow> til <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Dit element er blevet repareret!</green>"
+    "skyrealm.command.repair.success": "Dit element er blevet repareret!</green>",
+    "commands.transform.p1": "Første position indstillet.",
+    "commands.transform.p2": "Anden position angivet.",
+    "commands.transform.pivot.set": "Pivot sæt.",
+    "commands.transform.success": "Transformerede <color:#FFD700>%blocks%</color> blokke lykkedes.",
+    "commands.record.start": "Recording started.",
+    "commands.record.stop": "Recording stopped.",
+    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.play": "Afspiller den registrerede transformation."
 }
