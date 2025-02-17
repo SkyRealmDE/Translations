@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>\"</dark_gray> <yellow>Ρόλος:</yellow> <white>%role%</white> <dark_gray></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Αποδεχθήκατε την πρόσκληση στο realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) με ρόλο <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Ενημέρωση ρόλων:</gold> <gray>%player%</gray> άλλαξε από <yellow>%oldrole%</yellow> σε <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>",
+    "commands.transform.p1": "Ορισμός πρώτης θέσης.",
+    "commands.transform.p2": "Δεύτερη θέση που έχει οριστεί.",
+    "commands.transform.pivot.set": "Σετ περιστροφής.",
+    "commands.transform.success": "Επιτυχής μετατροπή <color:#FFD700>%blocks%</color> μπλοκ.",
+    "commands.record.start": "Recording started.",
+    "commands.record.stop": "Recording stopped.",
+    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.play": "Παίζοντας το ηχογραφημένο μετασχηματισμό."
 }
