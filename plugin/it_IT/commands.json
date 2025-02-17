@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray><unk></dark_gray> <yellow>Ruolo:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Hai accettato l'invito al regno <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) con ruolo <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Aggiornamento del ruolo:</gold> <gray>%player%</gray> cambiato da <yellow>%oldrole%</yellow> a <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Il tuo oggetto è stato riparato con successo!</green>"
+    "skyrealm.command.repair.success": "Il tuo oggetto è stato riparato con successo!</green>",
+    "commands.transform.p1": "Prima posizione impostata.",
+    "commands.transform.p2": "Set di seconda posizione.",
+    "commands.transform.pivot.set": "Set pivot.",
+    "commands.transform.success": "Blocchi <color:#FFD700>%blocks%</color> trasformati con successo.",
+    "commands.record.start": "Registrazione iniziata.",
+    "commands.record.stop": "Registrazione interrotta.",
+    "commands.record.no_itemdisplay_nearby": "Nessun display di oggetti trovato nelle vicinanze.",
+    "commands.record.play": "Riproduzione della trasformazione registrata."
 }
