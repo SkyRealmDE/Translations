@@ -16,8 +16,8 @@
     "commands.transform.p2": "Zweite Position gesetzt.",
     "commands.transform.pivot.set": "Pivot gesetzt.",
     "commands.transform.success": "Transformierte <color:#FFD700>%blocks%</color> Blöcke erfolgreich.",
-    "commands.record.start": "Recording started.",
-    "commands.record.stop": "Recording stopped.",
-    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.start": "Aufnahme gestartet.",
+    "commands.record.stop": "Aufnahme gestoppt.",
+    "commands.record.no_itemdisplay_nearby": "Keine Anzeige in der Nähe gefunden.",
     "commands.record.play": "Wiedergabe der aufgezeichneten Transformation."
 }
