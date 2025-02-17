@@ -16,8 +16,8 @@
     "commands.transform.p2": "Anden position angivet.",
     "commands.transform.pivot.set": "Pivot sæt.",
     "commands.transform.success": "Transformerede <color:#FFD700>%blocks%</color> blokke lykkedes.",
-    "commands.record.start": "Recording started.",
-    "commands.record.stop": "Recording stopped.",
-    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.start": "Optagelse startet.",
+    "commands.record.stop": "Optagelse stoppet.",
+    "commands.record.no_itemdisplay_nearby": "Intet element display fundet i nærheden.",
     "commands.record.play": "Afspiller den registrerede transformation."
 }
