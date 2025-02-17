@@ -11,5 +11,13 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray><unk></dark_gray> <yellow>Rol:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Ați acceptat invitația de a participa la tărâmul <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) cu rol <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Actualizare roluri:</gold> <gray>%player%</gray> s-a schimbat de la <yellow>%oldrole%</yellow> la <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Articolul a fost reparat cu succes!</green>"
+    "skyrealm.command.repair.success": "Articolul a fost reparat cu succes!</green>",
+    "commands.transform.p1": "Prima poziție stabilită.",
+    "commands.transform.p2": "A doua poziție stabilită.",
+    "commands.transform.pivot.set": "Pivot setat.",
+    "commands.transform.success": "Transformat <color:#FFD700>%blocks%</color> blocuri cu succes.",
+    "commands.record.start": "Recording started.",
+    "commands.record.stop": "Recording stopped.",
+    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.play": "Redarea transformării înregistrate."
 }
