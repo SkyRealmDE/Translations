@@ -16,8 +16,8 @@
     "commands.transform.p2": "المجموعة الثانية للموقع.",
     "commands.transform.pivot.set": "مجموعة المحوريات.",
     "commands.transform.success": "تم تغيير كتل <color:#FFD700>%blocks%</color> بنجاح.",
-    "commands.record.start": "Recording started.",
-    "commands.record.stop": "Recording stopped.",
-    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.start": "بدأ التسجيل.",
+    "commands.record.stop": "توقف التسجيل.",
+    "commands.record.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
     "commands.record.play": "تشغيل التحول المسجل."
 }
