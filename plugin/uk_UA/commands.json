@@ -19,5 +19,7 @@
     "commands.record.start": "Запис розпочато.",
     "commands.record.stop": "Запис зупинено.",
     "commands.record.no_itemdisplay_nearby": "Не знайдено жодного відображення предметів.",
-    "commands.record.play": "Відтворюється записана трансформація."
+    "commands.record.play": "Відтворюється записана трансформація.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Ваш розмір тепер <color:#FFD700>%inch%</color> дюймів."
 }
