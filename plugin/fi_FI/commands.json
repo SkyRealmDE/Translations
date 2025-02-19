@@ -19,5 +19,7 @@
     "commands.record.start": "Tallennus aloitettu.",
     "commands.record.stop": "Tallennus pysäytetty.",
     "commands.record.no_itemdisplay_nearby": "Lähistöllä ei löytynyt yhtään esinettä.",
-    "commands.record.play": "Toistetaan tallennettu muutos."
+    "commands.record.play": "Toistetaan tallennettu muutos.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches."
 }
