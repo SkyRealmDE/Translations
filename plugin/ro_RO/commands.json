@@ -19,5 +19,7 @@
     "commands.record.start": "Înregistrare începută.",
     "commands.record.stop": "Înregistrare oprită.",
     "commands.record.no_itemdisplay_nearby": "Nici un element de afișare găsit în apropiere.",
-    "commands.record.play": "Redarea transformării înregistrate."
+    "commands.record.play": "Redarea transformării înregistrate.",
+    "size.cm": "Dimensiunea dvs. este acum <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Dimensiunea ta este acum <color:#FFD700>%inch%</color> inci."
 }
