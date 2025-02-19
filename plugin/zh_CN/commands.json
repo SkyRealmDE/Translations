@@ -19,5 +19,7 @@
     "commands.record.start": "录制已开始。",
     "commands.record.stop": "录制已停止。",
     "commands.record.no_itemdisplay_nearby": "附近没有项目显示。",
-    "commands.record.play": "正在播放记录的转换。"
+    "commands.record.play": "正在播放记录的转换。",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches."
 }
