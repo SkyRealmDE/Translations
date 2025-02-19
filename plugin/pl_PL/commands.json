@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
     "commands.record.play": "Odtwarzanie zapisanych przekształceń.",
     "size.cm": "Twój rozmiar jest teraz <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "Twój rozmiar jest teraz <color:#FFD700>%inch%</color>."
+    "size.inch": "Twój rozmiar jest teraz <color:#FFD700>%inch%</color>.",
+    "size.query": "Twoja skala to <color:#FFD700>%scale%</color>, co jest około <color:#FFD700>%cm%</color> cm lub <color:#FFD700>%inch%</color> cala."
 }
