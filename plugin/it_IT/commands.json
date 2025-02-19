@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Nessun display di oggetti trovato nelle vicinanze.",
     "commands.record.play": "Riproduzione della trasformazione registrata.",
     "size.cm": "La dimensione è ora <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "La tua dimensione è ora <color:#FFD700>%inch%</color> pollici."
+    "size.inch": "La tua dimensione è ora <color:#FFD700>%inch%</color> pollici.",
+    "size.query": "La tua scala di dimensione è <color:#FFD700>%scale%</color>, che è di circa <color:#FFD700>%cm%</color> cm o <color:#FFD700>%inch%</color> pollici."
 }
