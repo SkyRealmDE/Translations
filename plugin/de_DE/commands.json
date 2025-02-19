@@ -19,5 +19,7 @@
     "commands.record.start": "Aufnahme gestartet.",
     "commands.record.stop": "Aufnahme gestoppt.",
     "commands.record.no_itemdisplay_nearby": "Keine Anzeige in der Nähe gefunden.",
-    "commands.record.play": "Wiedergabe der aufgezeichneten Transformation."
+    "commands.record.play": "Wiedergabe der aufgezeichneten Transformation.",
+    "size.cm": "Ihre Größe ist jetzt <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Ihre Größe ist jetzt <color:#FFD700>%inch%</color> Zoll."
 }
