@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Keine Anzeige in der Nähe gefunden.",
     "commands.record.play": "Wiedergabe der aufgezeichneten Transformation.",
     "size.cm": "Ihre Größe ist jetzt <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "Ihre Größe ist jetzt <color:#FFD700>%inch%</color> Zoll."
+    "size.inch": "Ihre Größe ist jetzt <color:#FFD700>%inch%</color> Zoll.",
+    "size.query": "Ihre Größe ist <color:#FFD700>%scale%</color>, was sich um <color:#FFD700>%cm%</color> cm oder <color:#FFD700>%inch%</color> Zoll handelt."
 }
