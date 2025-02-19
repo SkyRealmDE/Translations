@@ -19,5 +19,7 @@
     "commands.record.start": "Nahrávání začalo.",
     "commands.record.stop": "Nahrávání zastaveno.",
     "commands.record.no_itemdisplay_nearby": "V okolí nebylo nalezeno žádné zobrazení.",
-    "commands.record.play": "Přehrávání zaznamenané transformace."
+    "commands.record.play": "Přehrávání zaznamenané transformace.",
+    "size.cm": "Vaše velikost je nyní <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Vaše velikost je nyní <color:#FFD700>%inch%</color> palců."
 }
