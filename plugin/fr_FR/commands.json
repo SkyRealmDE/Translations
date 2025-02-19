@@ -19,5 +19,7 @@
     "commands.record.start": "Enregistrement démarré.",
     "commands.record.stop": "Enregistrement arrêté.",
     "commands.record.no_itemdisplay_nearby": "Aucun élément affiché à proximité.",
-    "commands.record.play": "Lecture de la transformation enregistrée."
+    "commands.record.play": "Lecture de la transformation enregistrée.",
+    "size.cm": "Votre taille est maintenant <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Votre taille est maintenant <color:#FFD700>%inch%</color> pouces."
 }
