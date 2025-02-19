@@ -19,5 +19,7 @@
     "commands.record.start": "Opname gestart.",
     "commands.record.stop": "Opname gestopt.",
     "commands.record.no_itemdisplay_nearby": "Geen item weergegeven in de buurt.",
-    "commands.record.play": "De opgenomen transformatie spelen."
+    "commands.record.play": "De opgenomen transformatie spelen.",
+    "size.cm": "Je grootte is nu <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Je grootte is nu <color:#FFD700>%inch%</color> inches."
 }
