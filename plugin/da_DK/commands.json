@@ -19,5 +19,7 @@
     "commands.record.start": "Optagelse startet.",
     "commands.record.stop": "Optagelse stoppet.",
     "commands.record.no_itemdisplay_nearby": "Intet element display fundet i nærheden.",
-    "commands.record.play": "Afspiller den registrerede transformation."
+    "commands.record.play": "Afspiller den registrerede transformation.",
+    "size.cm": "Din størrelse er nu <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Din størrelse er nu <color:#FFD700>%inch%</color> tommer."
 }
