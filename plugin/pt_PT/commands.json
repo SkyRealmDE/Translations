@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Nenhum item encontrado por perto.",
     "commands.record.play": "Reproduzindo a transformação gravada.",
     "size.cm": "Seu tamanho agora é <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "Seu tamanho agora é <color:#FFD700>%inch%</color> polegadas."
+    "size.inch": "Seu tamanho agora é <color:#FFD700>%inch%</color> polegadas.",
+    "size.query": "Sua escala de tamanho é <color:#FFD700>%scale%</color>, que é aproximadamente <color:#FFD700>%cm%</color> cm ou <color:#FFD700>%inch%</color> polegadas."
 }
