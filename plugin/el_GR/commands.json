@@ -19,5 +19,7 @@
     "commands.record.start": "Η εγγραφή ξεκίνησε.",
     "commands.record.stop": "Η εγγραφή σταμάτησε.",
     "commands.record.no_itemdisplay_nearby": "Δεν βρέθηκε κανένα στοιχείο σε κοντινή απόσταση.",
-    "commands.record.play": "Παίζοντας το ηχογραφημένο μετασχηματισμό."
+    "commands.record.play": "Παίζοντας το ηχογραφημένο μετασχηματισμό.",
+    "size.cm": "Το μέγεθός σας είναι τώρα <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Το μέγεθός σας είναι τώρα <color:#FFD700>%inch%</color> ίντσες."
 }
