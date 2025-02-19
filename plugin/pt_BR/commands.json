@@ -19,5 +19,7 @@
     "commands.record.start": "Gravação começou.",
     "commands.record.stop": "Gravação interrompida.",
     "commands.record.no_itemdisplay_nearby": "Nenhum item encontrado por perto.",
-    "commands.record.play": "Reproduzindo a transformação gravada."
+    "commands.record.play": "Reproduzindo a transformação gravada.",
+    "size.cm": "Seu tamanho agora é <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Seu tamanho agora é <color:#FFD700>%inch%</color> polegadas."
 }
