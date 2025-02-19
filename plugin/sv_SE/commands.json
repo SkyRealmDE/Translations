@@ -19,5 +19,7 @@
     "commands.record.start": "Inspelning startad.",
     "commands.record.stop": "Inspelning stoppad.",
     "commands.record.no_itemdisplay_nearby": "Inga objekt visas i närheten.",
-    "commands.record.play": "Spela den inspelade omvandlingen."
+    "commands.record.play": "Spela den inspelade omvandlingen.",
+    "size.cm": "Din storlek är nu <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Din storlek är nu <color:#FFD700>%inch%</color> tum."
 }
