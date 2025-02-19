@@ -19,5 +19,7 @@
     "commands.record.start": "Registrazione iniziata.",
     "commands.record.stop": "Registrazione interrotta.",
     "commands.record.no_itemdisplay_nearby": "Nessun display di oggetti trovato nelle vicinanze.",
-    "commands.record.play": "Riproduzione della trasformazione registrata."
+    "commands.record.play": "Riproduzione della trasformazione registrata.",
+    "size.cm": "La dimensione è ora <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "La tua dimensione è ora <color:#FFD700>%inch%</color> pollici."
 }
