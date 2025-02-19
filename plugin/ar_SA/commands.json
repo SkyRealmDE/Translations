@@ -19,5 +19,7 @@
     "commands.record.start": "بدأ التسجيل.",
     "commands.record.stop": "توقف التسجيل.",
     "commands.record.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
-    "commands.record.play": "تشغيل التحول المسجل."
+    "commands.record.play": "تشغيل التحول المسجل.",
+    "size.cm": "الحجم الخاص بك الآن <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "الحجم الخاص بك الآن <color:#FFD700>%inch%</color> بوصة."
 }
