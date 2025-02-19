@@ -19,5 +19,7 @@
     "commands.record.start": "Nagrywanie rozpoczęte.",
     "commands.record.stop": "Nagrywanie zatrzymane.",
     "commands.record.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
-    "commands.record.play": "Odtwarzanie zapisanych przekształceń."
+    "commands.record.play": "Odtwarzanie zapisanych przekształceń.",
+    "size.cm": "Twój rozmiar jest teraz <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Twój rozmiar jest teraz <color:#FFD700>%inch%</color>."
 }
