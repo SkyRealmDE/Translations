@@ -19,5 +19,7 @@
     "commands.record.start": "Recording started.",
     "commands.record.stop": "Recording stopped.",
     "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
-    "commands.record.play": "Playing the recorded transformation."
+    "commands.record.play": "Playing the recorded transformation.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches."
 }
