@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
     "commands.record.play": "تشغيل التحول المسجل.",
     "size.cm": "الحجم الخاص بك الآن <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "الحجم الخاص بك الآن <color:#FFD700>%inch%</color> بوصة."
+    "size.inch": "الحجم الخاص بك الآن <color:#FFD700>%inch%</color> بوصة.",
+    "size.query": "مقياس الحجم الخاص بك هو <color:#FFD700>%scale%</color>، وهو حوالي <color:#FFD700>%cm%</color> cm أو <color:#FFD700>%inch%</color> بوصات."
 }
