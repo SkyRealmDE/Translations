@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Ingen elementer vises i nærheten.",
     "commands.record.play": "Spiller den innspilte transformasjonen.",
     "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches."
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches.",
+    "size.query": "Din størrelse er <color:#FFD700>%scale%</color>, som handler om <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tommer."
 }
