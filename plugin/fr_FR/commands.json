@@ -21,5 +21,6 @@
     "commands.record.no_itemdisplay_nearby": "Aucun élément affiché à proximité.",
     "commands.record.play": "Lecture de la transformation enregistrée.",
     "size.cm": "Votre taille est maintenant <color:#FFD700>%cm%</color> cm.",
-    "size.inch": "Votre taille est maintenant <color:#FFD700>%inch%</color> pouces."
+    "size.inch": "Votre taille est maintenant <color:#FFD700>%inch%</color> pouces.",
+    "size.query": "Votre échelle de taille est <color:#FFD700>%scale%</color>, ce qui est d'environ <color:#FFD700>%cm%</color> cm ou <color:#FFD700>%inch%</color> pouces."
 }
