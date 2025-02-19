@@ -19,5 +19,7 @@
     "commands.record.start": "Opptak startet.",
     "commands.record.stop": "Opptak stoppet.",
     "commands.record.no_itemdisplay_nearby": "Ingen elementer vises i nærheten.",
-    "commands.record.play": "Spiller den innspilte transformasjonen."
+    "commands.record.play": "Spiller den innspilte transformasjonen.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches."
 }
