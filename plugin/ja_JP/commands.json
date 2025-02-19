@@ -19,5 +19,7 @@
     "commands.record.start": "録音を開始しました。",
     "commands.record.stop": "録音を停止しました。",
     "commands.record.no_itemdisplay_nearby": "近くにアイテムの表示がありません。",
-    "commands.record.play": "記録された変換を再生します。"
+    "commands.record.play": "記録された変換を再生します。",
+    "size.cm": "サイズは <color:#FFD700>%cm%</color> cmです。",
+    "size.inch": "サイズは <color:#FFD700>%inch%</color> インチです。"
 }
