@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Sukkerstang Farming</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Voks og høste sukkerboks.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Cocoa Farming</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Voks og høste kakaobønner.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Voks og høste kakaobønner.</color>",
+    "achievement.level_up": "Du har låst opp <color:#FFD700>%achievement%</color> på nivå <color:#FFD700>%level%</color>."
 }
