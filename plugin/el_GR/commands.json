@@ -22,5 +22,8 @@
     "commands.record.play": "Παίζοντας το ηχογραφημένο μετασχηματισμό.",
     "size.cm": "Το μέγεθός σας είναι τώρα <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Το μέγεθός σας είναι τώρα <color:#FFD700>%inch%</color> ίντσες.",
-    "size.query": "Η κλίμακα μεγέθους σας είναι <color:#FFD700>%scale%</color>, που είναι περίπου <color:#FFD700>%cm%</color> cm ή <color:#FFD700>%inch%</color> ίντσες."
+    "size.query": "Η κλίμακα μεγέθους σας είναι <color:#FFD700>%scale%</color>, που είναι περίπου <color:#FFD700>%cm%</color> cm ή <color:#FFD700>%inch%</color> ίντσες.",
+    "commands.rotate.stop": "Η περιστροφή σταμάτησε.",
+    "commands.no_itemdisplay_nearby": "Δεν βρέθηκε κανένα στοιχείο σε κοντινή απόσταση.",
+    "chat.cleared": "Η συνομιλία διαγράφηκε."
 }
