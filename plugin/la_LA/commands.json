@@ -22,5 +22,8 @@
     "commands.record.play": "Playing the recorded transformation.",
     "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches.",
-    "size.query": "Your size scale is <color:#FFD700>%scale%</color>, which is about <color:#FFD700>%cm%</color> cm or <color:#FFD700>%inch%</color> inches."
+    "size.query": "Your size scale is <color:#FFD700>%scale%</color>, which is about <color:#FFD700>%cm%</color> cm or <color:#FFD700>%inch%</color> inches.",
+    "commands.rotate.stop": "Rotation stopped.",
+    "commands.no_itemdisplay_nearby": "No item display found nearby.",
+    "chat.cleared": "Chat cleared."
 }
