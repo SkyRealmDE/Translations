@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Rolnictwo trzciny cukrowej</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Grow i zbiory trzciny cukrowej.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Rolnictwo kakaowe</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Rozwiń i zbieraj ziarna kakao.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Rozwiń i zbieraj ziarna kakao.</color>",
+    "achievement.level_up": "Odblokowałeś <color:#FFD700>%achievement%</color> na poziomie <color:#FFD700>%level%</color>."
 }
