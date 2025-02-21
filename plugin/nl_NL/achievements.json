@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Suikerriet kweek</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Groei en oogst suikerriet.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Cocoa Landbouw</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Groei en oogst cacaobonen.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Groei en oogst cacaobonen.</color>",
+    "achievement.level_up": "Je hebt <color:#FFD700>%achievement%</color> ontgrendeld op niveau <color:#FFD700>%level%</color>."
 }
