@@ -14,5 +14,8 @@
     "skyrealm.general.xp.modify.other": "Você modificou o XP de %player%por %amount%",
     "skyrealm.error.cooldown": "Você deve esperar <yellow>%cooldown%</yellow> antes de usar este comando novamente.",
     "badge.obtained": "Você obteve a medalha: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Você recebeu o cosmético: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Você recebeu o cosmético: <color:#FFD700>%cosmetic%</color>",
+    "skyrealm.general.tpa.request.sender.accepted": "Your teleport request has been accepted by <color:#FFD700>%accepter%</color>.",
+    "skyrealm.friend.requested": "You received a friendrequest from <color:#FFD700>%player%</color>. <click:run_command='/friend accept %player%'><hover:show_text:'<aqua>Click to accept</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.friend.accepted": "Friend request accepted."
 }
