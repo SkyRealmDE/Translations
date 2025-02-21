@@ -22,5 +22,8 @@
     "commands.record.play": "Odtwarzanie zapisanych przekształceń.",
     "size.cm": "Twój rozmiar jest teraz <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Twój rozmiar jest teraz <color:#FFD700>%inch%</color>.",
-    "size.query": "Twoja skala to <color:#FFD700>%scale%</color>, co jest około <color:#FFD700>%cm%</color> cm lub <color:#FFD700>%inch%</color> cala."
+    "size.query": "Twoja skala to <color:#FFD700>%scale%</color>, co jest około <color:#FFD700>%cm%</color> cm lub <color:#FFD700>%inch%</color> cala.",
+    "commands.rotate.stop": "Obrót zatrzymany.",
+    "commands.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
+    "chat.cleared": "Czat wyczyszczony."
 }
