@@ -22,5 +22,8 @@
     "commands.record.play": "Toistetaan tallennettu muutos.",
     "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches.",
-    "size.query": "Kokoasteikko on <color:#FFD700>%scale%</color>, joka on noin <color:#FFD700>%cm%</color> cm tai <color:#FFD700>%inch%</color> tuumaa."
+    "size.query": "Kokoasteikko on <color:#FFD700>%scale%</color>, joka on noin <color:#FFD700>%cm%</color> cm tai <color:#FFD700>%inch%</color> tuumaa.",
+    "commands.rotate.stop": "Kierto pysäytetty.",
+    "commands.no_itemdisplay_nearby": "Lähistöllä ei löytynyt yhtään esinettä.",
+    "chat.cleared": "Keskustelu tyhjennetty."
 }
