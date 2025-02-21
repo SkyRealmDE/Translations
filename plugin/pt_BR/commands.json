@@ -25,5 +25,7 @@
     "size.query": "Sua escala de tamanho é <color:#FFD700>%scale%</color>, que é aproximadamente <color:#FFD700>%cm%</color> cm ou <color:#FFD700>%inch%</color> polegadas.",
     "commands.rotate.stop": "A rotação parou.",
     "commands.no_itemdisplay_nearby": "Nenhum item encontrado por perto.",
-    "chat.cleared": "Bate-papo removido."
+    "chat.cleared": "Bate-papo removido.",
+    "skyrealm.general.pay": "Você pagou <color:#FFD700>%amount%</color> moedas para <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Você recebeu <color:#FFD700>%amount%</color> moedas de <color:#FFD700>%sender%</color>."
 }
