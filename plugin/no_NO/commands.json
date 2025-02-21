@@ -25,5 +25,7 @@
     "size.query": "Din størrelse er <color:#FFD700>%scale%</color>, som handler om <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tommer.",
     "commands.rotate.stop": "Rotasjon stoppet.",
     "commands.no_itemdisplay_nearby": "Ingen elementer vises i nærheten.",
-    "chat.cleared": "Chat ryddet."
+    "chat.cleared": "Chat ryddet.",
+    "skyrealm.general.pay": "Du har betalt <color:#FFD700>%amount%</color> mynter til <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Du har mottatt <color:#FFD700>%amount%</color> mynter fra <color:#FFD700>%sender%</color>."
 }
