@@ -22,5 +22,8 @@
     "commands.record.play": "Воспроизведение записанных преобразований.",
     "size.cm": "Теперь ваш размер <color:#FFD700>%cm%</color> см.",
     "size.inch": "Ваш размер теперь <color:#FFD700>%inch%</color> дюймов.",
-    "size.query": "Ваш размер шкалы <color:#FFD700>%scale%</color>, что примерно <color:#FFD700>%cm%</color> см или <color:#FFD700>%inch%</color> дюймов."
+    "size.query": "Ваш размер шкалы <color:#FFD700>%scale%</color>, что примерно <color:#FFD700>%cm%</color> см или <color:#FFD700>%inch%</color> дюймов.",
+    "commands.rotate.stop": "Вращение остановлено.",
+    "commands.no_itemdisplay_nearby": "Ничего не найдено рядом.",
+    "chat.cleared": "Чат очищен."
 }
