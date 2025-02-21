@@ -25,5 +25,7 @@
     "size.query": "Ваш размер шкалы <color:#FFD700>%scale%</color>, что примерно <color:#FFD700>%cm%</color> см или <color:#FFD700>%inch%</color> дюймов.",
     "commands.rotate.stop": "Вращение остановлено.",
     "commands.no_itemdisplay_nearby": "Ничего не найдено рядом.",
-    "chat.cleared": "Чат очищен."
+    "chat.cleared": "Чат очищен.",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Вы получили монеты <color:#FFD700>%amount%</color> от <color:#FFD700>%sender%</color>."
 }
