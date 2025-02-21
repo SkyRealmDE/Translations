@@ -22,5 +22,8 @@
     "commands.record.play": "Redarea transformării înregistrate.",
     "size.cm": "Dimensiunea dvs. este acum <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Dimensiunea ta este acum <color:#FFD700>%inch%</color> inci.",
-    "size.query": "Scala ta de mărime este <color:#FFD700>%scale%</color>, care este de aproximativ <color:#FFD700>%cm%</color> cm sau <color:#FFD700>%inch%</color> inches."
+    "size.query": "Scala ta de mărime este <color:#FFD700>%scale%</color>, care este de aproximativ <color:#FFD700>%cm%</color> cm sau <color:#FFD700>%inch%</color> inches.",
+    "commands.rotate.stop": "Rotire oprită.",
+    "commands.no_itemdisplay_nearby": "Nici un element de afișare găsit în apropiere.",
+    "chat.cleared": "Conversație ștearsă."
 }
