@@ -22,5 +22,8 @@
     "commands.record.play": "De opgenomen transformatie spelen.",
     "size.cm": "Je grootte is nu <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Je grootte is nu <color:#FFD700>%inch%</color> inches.",
-    "size.query": "Jouw maatschaal is <color:#FFD700>%scale%</color>, ongeveer <color:#FFD700>%cm%</color> cm of <color:#FFD700>%inch%</color> inches."
+    "size.query": "Jouw maatschaal is <color:#FFD700>%scale%</color>, ongeveer <color:#FFD700>%cm%</color> cm of <color:#FFD700>%inch%</color> inches.",
+    "commands.rotate.stop": "Rotatie gestopt.",
+    "commands.no_itemdisplay_nearby": "Geen item weergegeven in de buurt.",
+    "chat.cleared": "Chat gewist."
 }
