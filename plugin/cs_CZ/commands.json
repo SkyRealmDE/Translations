@@ -22,5 +22,8 @@
     "commands.record.play": "Přehrávání zaznamenané transformace.",
     "size.cm": "Vaše velikost je nyní <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Vaše velikost je nyní <color:#FFD700>%inch%</color> palců.",
-    "size.query": "Tvoje velikost je <color:#FFD700>%scale%</color>, což je asi <color:#FFD700>%cm%</color> cm nebo <color:#FFD700>%inch%</color> palců."
+    "size.query": "Tvoje velikost je <color:#FFD700>%scale%</color>, což je asi <color:#FFD700>%cm%</color> cm nebo <color:#FFD700>%inch%</color> palců.",
+    "commands.rotate.stop": "Otáčení zastaveno.",
+    "commands.no_itemdisplay_nearby": "V okolí nebylo nalezeno žádné zobrazení.",
+    "chat.cleared": "Chat vymazán."
 }
