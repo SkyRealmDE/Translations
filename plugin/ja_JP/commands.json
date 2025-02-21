@@ -22,5 +22,8 @@
     "commands.record.play": "記録された変換を再生します。",
     "size.cm": "サイズは <color:#FFD700>%cm%</color> cmです。",
     "size.inch": "サイズは <color:#FFD700>%inch%</color> インチです。",
-    "size.query": "あなたのサイズの尺度は <color:#FFD700>%scale%</color>で、 <color:#FFD700>%cm%</color> cmまたは <color:#FFD700>%inch%</color> インチです。"
+    "size.query": "あなたのサイズの尺度は <color:#FFD700>%scale%</color>で、 <color:#FFD700>%cm%</color> cmまたは <color:#FFD700>%inch%</color> インチです。",
+    "commands.rotate.stop": "回転を停止しました。",
+    "commands.no_itemdisplay_nearby": "近くにアイテムの表示がありません。",
+    "chat.cleared": "チャットをクリアしました。"
 }
