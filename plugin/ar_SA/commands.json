@@ -22,5 +22,8 @@
     "commands.record.play": "تشغيل التحول المسجل.",
     "size.cm": "الحجم الخاص بك الآن <color:#FFD700>%cm%</color> cm.",
     "size.inch": "الحجم الخاص بك الآن <color:#FFD700>%inch%</color> بوصة.",
-    "size.query": "مقياس الحجم الخاص بك هو <color:#FFD700>%scale%</color>، وهو حوالي <color:#FFD700>%cm%</color> cm أو <color:#FFD700>%inch%</color> بوصات."
+    "size.query": "مقياس الحجم الخاص بك هو <color:#FFD700>%scale%</color>، وهو حوالي <color:#FFD700>%cm%</color> cm أو <color:#FFD700>%inch%</color> بوصات.",
+    "commands.rotate.stop": "توقف التناوب.",
+    "commands.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
+    "chat.cleared": "تم مسح المحادثة."
 }
