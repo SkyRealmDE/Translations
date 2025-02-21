@@ -74,5 +74,11 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>エンティティの上限に達しました。</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "skyrealm.realm.money.bank": "現在、レルムバンクには <color:#FFD700>%money%</color> コインがあります。",
+    "skyrealm.realm.money.deposit": "レルム銀行に <color:#FFD700>%money%</color> コインを入金しました。",
+    "realm.size.upgrade.success": "Realm のサイズを正常にアップグレードしました。",
+    "skyrealm.general.tpa.request.incoming": "<color:#FFD700>%source%</color> から新しいテレポート要求があります。",
+    "skyrealm.general.tpa.invoker.accepted": "テレポート要求が承認されました。",
+    "skyrealm.error.no-realms": "レルムが見つかりません。"
 }
