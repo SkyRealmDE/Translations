@@ -22,5 +22,8 @@
     "commands.record.play": "Spela den inspelade omvandlingen.",
     "size.cm": "Din storlek är nu <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Din storlek är nu <color:#FFD700>%inch%</color> tum.",
-    "size.query": "Din storleksskala är <color:#FFD700>%scale%</color>, vilket är ungefär <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tum."
+    "size.query": "Din storleksskala är <color:#FFD700>%scale%</color>, vilket är ungefär <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tum.",
+    "commands.rotate.stop": "Rotation stoppad.",
+    "commands.no_itemdisplay_nearby": "Inga objekt visas i närheten.",
+    "chat.cleared": "Chatten rensad."
 }
