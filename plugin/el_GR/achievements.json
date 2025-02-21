@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Γεωργία Από Ζαχαροκάλαμο</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Αύξηση και συγκομιδή ζαχαροκάλαμου.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Γεωργία Κακάο</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Αύξηση και συγκομιδή κακάο.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Αύξηση και συγκομιδή κακάο.</color>",
+    "achievement.level_up": "Ξεκλειδώσατε <color:#FFD700>%achievement%</color> στο επίπεδο <color:#FFD700>%level%</color>."
 }
