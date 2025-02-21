@@ -74,5 +74,11 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Osiągnąłeś maksymalną aktualizację limitu obiektów.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Musisz mieć co najmniej poziom</color> <color:#FFD700>%level%</color> <color:#dfe6e9>aby zwiększyć swój limit jednostek dla</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "skyrealm.realm.money.bank": "Twój bank świata Realms posiada obecnie monety <color:#FFD700>%money%</color>.",
+    "skyrealm.realm.money.deposit": "Wpłaciłeś monety <color:#FFD700>%money%</color> do banku Realm.",
+    "realm.size.upgrade.success": "Pomyślnie ulepszyłeś rozmiar świata Realms.",
+    "skyrealm.general.tpa.request.incoming": "Masz nowe żądanie teleportu od <color:#FFD700>%source%</color>.",
+    "skyrealm.general.tpa.invoker.accepted": "Twoja prośba o teleportację została zaakceptowana.",
+    "skyrealm.error.no-realms": "Nie znaleziono świata Realms."
 }
