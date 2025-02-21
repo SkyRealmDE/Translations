@@ -25,5 +25,7 @@
     "size.query": "Η κλίμακα μεγέθους σας είναι <color:#FFD700>%scale%</color>, που είναι περίπου <color:#FFD700>%cm%</color> cm ή <color:#FFD700>%inch%</color> ίντσες.",
     "commands.rotate.stop": "Η περιστροφή σταμάτησε.",
     "commands.no_itemdisplay_nearby": "Δεν βρέθηκε κανένα στοιχείο σε κοντινή απόσταση.",
-    "chat.cleared": "Η συνομιλία διαγράφηκε."
+    "chat.cleared": "Η συνομιλία διαγράφηκε.",
+    "skyrealm.general.pay": "Έχετε πληρώσει <color:#FFD700>%amount%</color> νομίσματα σε <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Έχετε λάβει <color:#FFD700>%amount%</color> νομίσματα από <color:#FFD700>%sender%</color>."
 }
