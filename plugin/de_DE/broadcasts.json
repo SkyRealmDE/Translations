@@ -1,5 +1,5 @@
 {
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Wusstest du schon? Eine Hacke wird deine Ernte automatisch umpflanzen!",
     "broadcast.bugs": "🐛 Fehler gefunden? Melden Sie ihn auf <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": ":speak_balloon: Feedback erhalten? Treten Sie dem <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord bei!</hover></click></color>"
+    "broadcast.feedback": "💬 Feedback erhalten? Treten Sie dem <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord bei!</hover></click></color>"
 }
