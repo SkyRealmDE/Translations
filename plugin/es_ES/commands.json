@@ -22,5 +22,8 @@
     "commands.record.play": "Reproduciendo la transformación grabada.",
     "size.cm": "Tu tamaño es ahora <color:#FFD700>%cm%</color> cm.",
     "size.inch": "Tu tamaño ahora es <color:#FFD700>%inch%</color> pulgadas.",
-    "size.query": "Tu escala de tamaño es <color:#FFD700>%scale%</color>, que es de aproximadamente <color:#FFD700>%cm%</color> cm o <color:#FFD700>%inch%</color> pulgadas."
+    "size.query": "Tu escala de tamaño es <color:#FFD700>%scale%</color>, que es de aproximadamente <color:#FFD700>%cm%</color> cm o <color:#FFD700>%inch%</color> pulgadas.",
+    "commands.rotate.stop": "Rotación detenida.",
+    "commands.no_itemdisplay_nearby": "No se ha encontrado ningún elemento cerca.",
+    "chat.cleared": "Chat borrado."
 }
