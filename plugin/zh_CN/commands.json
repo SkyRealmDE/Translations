@@ -25,5 +25,7 @@
     "size.query": "Your size scale is <color:#FFD700>%scale%</color>, which is about <color:#FFD700>%cm%</color> cm or <color:#FFD700>%inch%</color> inches.",
     "commands.rotate.stop": "旋转已停止。",
     "commands.no_itemdisplay_nearby": "附近没有项目显示。",
-    "chat.cleared": "聊天已清除。"
+    "chat.cleared": "聊天已清除。",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
 }
