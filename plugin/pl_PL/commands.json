@@ -25,5 +25,7 @@
     "size.query": "Twoja skala to <color:#FFD700>%scale%</color>, co jest około <color:#FFD700>%cm%</color> cm lub <color:#FFD700>%inch%</color> cala.",
     "commands.rotate.stop": "Obrót zatrzymany.",
     "commands.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
-    "chat.cleared": "Czat wyczyszczony."
+    "chat.cleared": "Czat wyczyszczony.",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
 }
