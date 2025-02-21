@@ -25,5 +25,7 @@
     "size.query": "Din storleksskala är <color:#FFD700>%scale%</color>, vilket är ungefär <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tum.",
     "commands.rotate.stop": "Rotation stoppad.",
     "commands.no_itemdisplay_nearby": "Inga objekt visas i närheten.",
-    "chat.cleared": "Chatten rensad."
+    "chat.cleared": "Chatten rensad.",
+    "skyrealm.general.pay": "Du har betalat <color:#FFD700>%amount%</color> mynt till <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Du har fått <color:#FFD700>%amount%</color> mynt från <color:#FFD700>%sender%</color>."
 }
