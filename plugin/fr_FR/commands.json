@@ -25,5 +25,7 @@
     "size.query": "Votre échelle de taille est <color:#FFD700>%scale%</color>, ce qui est d'environ <color:#FFD700>%cm%</color> cm ou <color:#FFD700>%inch%</color> pouces.",
     "commands.rotate.stop": "Rotation arrêtée.",
     "commands.no_itemdisplay_nearby": "Aucun élément affiché à proximité.",
-    "chat.cleared": "Chat effacé."
+    "chat.cleared": "Chat effacé.",
+    "skyrealm.general.pay": "Vous avez payé <color:#FFD700>%amount%</color> pièces à <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Vous avez reçu <color:#FFD700>%amount%</color> pièces de <color:#FFD700>%sender%</color>."
 }
