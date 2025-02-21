@@ -25,5 +25,7 @@
     "size.query": "あなたのサイズの尺度は <color:#FFD700>%scale%</color>で、 <color:#FFD700>%cm%</color> cmまたは <color:#FFD700>%inch%</color> インチです。",
     "commands.rotate.stop": "回転を停止しました。",
     "commands.no_itemdisplay_nearby": "近くにアイテムの表示がありません。",
-    "chat.cleared": "チャットをクリアしました。"
+    "chat.cleared": "チャットをクリアしました。",
+    "skyrealm.general.pay": "<color:#FFD700>%amount%</color> <color:#FFD700>%player%</color> にコインを支払いました。",
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
 }
