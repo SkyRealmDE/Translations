@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "قمت بتعديل XP الخاص ب %player%بواسطة %amount%",
     "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again.",
     "badge.obtained": "لقد حصلت على الشارة: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "لقد تم منحك جهاز التجميل: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "لقد تم منحك جهاز التجميل: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Thanks for purchasing gems! You have received <color:#FFD700>%gems%</color> gems.",
+    "store.rank": "شكرا لشراء رتبة! لديك الآن <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "شكرا لشراء ترتيب موقوت! لديك الآن <color:#FFD700>%rank%</color> لمدة <color:#FFD700>%days%</color> أيام."
 }
