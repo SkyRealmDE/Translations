@@ -27,5 +27,8 @@
     "profile.effect.no_gravity": "<color:#dfe6e9>No Gravity (Fly) effect. Price:</color> <color:#FFD700>%price%</color>",
     "profile.effect.no_hunger.success": "You have activated the No Hunger effect until <color:#FFD700>%expires%</color>.",
     "profile.effect.no_damage.success": "You have activated the No Damage effect until <color:#FFD700>%expires%</color>.",
-    "profile.effect.no_gravity.success": "You have activated the No Gravity (Fly) effect until <color:#FFD700>%expires%</color>."
+    "profile.effect.no_gravity.success": "You have activated the No Gravity (Fly) effect until <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color> <color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color> <color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color> <color:#FFD700>%expires%</color>"
 }
