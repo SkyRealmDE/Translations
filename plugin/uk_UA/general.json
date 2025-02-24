@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Ви змінили %player%XP від %amount%",
     "skyrealm.error.cooldown": "You must wait <yellow>%cooldown%</yellow> before using this command again.",
     "badge.obtained": "Ви отримали значок: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Ви були надані косметичні: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Ви були надані косметичні: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Дякуємо за придбання каменів! Ви отримали <color:#FFD700>%gems%</color> коштовностей.",
+    "store.rank": "Дякуємо за придбання рангу! Тепер у Вас є <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days."
 }
