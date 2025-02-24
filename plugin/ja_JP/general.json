@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "ボスは装飾品： <color:#FFD700>%cosmetic%</color>",
     "store.gems": "宝石を購入していただきありがとうございます！ <color:#FFD700>%gems%</color> ジェムを受け取りました。",
     "store.rank": "ランクを購入していただきありがとうございます！これで <color:#FFD700>%rank%</color> が手に入りました。",
-    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days."
+    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30分間空腹効果なし。\n<color:#dfe6e9>価格： <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30分間ダメージなし。\n<color:#dfe6e9>Pvpには影響しません。\n<color:#dfe6e9>価格: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15分間重力なし（飛行）効果。\n<color:#dfe6e9>価格： <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_hunger.success": "<color:#FFD700>%expires%</color> まで「空腹なし」エフェクトを有効にしました。",
+    "profile.effect.no_damage.success": "<color:#FFD700>%expires%</color> までダメージなし効果を発動しました。",
+    "profile.effect.no_gravity.success": "<color:#FFD700>%expires%</color> まで重力を無効にしました。",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>有効な空腹効果がない：</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>アクティブダメージなし：</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>無重力効果まで:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "無重力効果が終了しました。"
 }
