@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Zmodyfikowałeś PD %player%przez %amount%",
     "skyrealm.error.cooldown": "Musisz poczekać <yellow>%cooldown%</yellow> przed ponownym użyciem tej komendy.",
     "badge.obtained": "Otrzymałeś odznakę: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Otrzymałeś(aś) kosmetykę: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Otrzymałeś(aś) kosmetykę: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Dziękujemy za zakup klejnotów! Otrzymałeś klejnoty <color:#FFD700>%gems%</color>.",
+    "store.rank": "Dziękujemy za zakup rangi! Masz teraz <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days."
 }
