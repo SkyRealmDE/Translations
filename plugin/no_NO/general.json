@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Du har fått kosmetisken: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Takk for at du kjøpte gems! Du har fått <color:#FFD700>%gems%</color> gemer.",
     "store.rank": "Takk for at du kjøper en rang! Du har nå <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Takk for at du kjøper en tidsbestemt rang! Du har nå <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> dager."
+    "store.rank.days": "Takk for at du kjøper en tidsbestemt rang! Du har nå <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> dager.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min Ingen Hunger effekt.\n<color:#dfe6e9>Pris: <color:#FFD700>%price%</color> perte",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min Ingen skadeeffekt.\n<color:#dfe6e9>påvirker ikke pvp.\n<color:#dfe6e9>Pris: <color:#FFD700>%price%</color>",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min ingen Gravity (Fly) effekt.\n<color:#dfe6e9>Pris: <color:#FFD700>%price%</color> perler",
+    "profile.effect.no_hunger.success": "Du har ikke aktivert ingen Hunger effekt før <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "Du har aktivert ingen skadeeffekt før <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "Du har aktivert No Gravity (Fly) effekten til <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Aktiv Ingen Hunger effekt inntil:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Aktiv ingen skadeeffekt ved:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Aktiv ingen Gravity effekt opp til:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Din ingen tyngdekrafteffekt er avsluttet."
 }
