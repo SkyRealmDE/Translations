@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Σας έχει δοθεί το καλλυντικό: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Ευχαριστούμε που αγοράσατε πολύτιμους λίθους! Έχετε λάβει <color:#FFD700>%gems%</color> πολύτιμους λίθους.",
     "store.rank": "Ευχαριστούμε που αγοράσατε μια τάξη! Τώρα έχετε <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Ευχαριστούμε που αγοράσατε μια χρονομετρική κατάταξη! Τώρα έχετε <color:#FFD700>%rank%</color> για <color:#FFD700>%days%</color> ημέρες."
+    "store.rank.days": "Ευχαριστούμε που αγοράσατε μια χρονομετρική κατάταξη! Τώρα έχετε <color:#FFD700>%rank%</color> για <color:#FFD700>%days%</color> ημέρες.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min Δεν υπάρχει αποτέλεσμα πείνας.\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min Χωρίς εφέ βλάβης.\n<color:#dfe6e9>Δεν επηρεάζει το pvp.\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min κανένα αποτέλεσμα βαρύτητας (Fly)\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_hunger.success": "Έχετε ενεργοποιήσει το φαινόμενο Χωρίς Πείνα μέχρι το <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "Ενεργοποιήσατε το εφέ Χωρίς Ζημιά μέχρι το <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "Ενεργοποιήσατε το εφέ Χωρίς βαρύτητα (Fly) μέχρι το <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Ενεργό κανένα αποτέλεσμα Πείνας έως:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Ενεργό χωρίς αποτέλεσμα φθοράς έως:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>ενεργό κανένα αποτέλεσμα βαρύτητας έως:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Το αποτέλεσμα δεν υπάρχει βαρύτητα έχει λήξει."
 }
