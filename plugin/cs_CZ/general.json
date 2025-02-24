@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Upravili jste XP %player%o %amount%",
     "skyrealm.error.cooldown": "Před použitím tohoto příkazu musíte počkat <yellow>%cooldown%</yellow>.",
     "badge.obtained": "Získali jste odznak: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Dostali jste kosmetiku: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Dostali jste kosmetiku: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Děkujeme za zakoupení gemů! Obdrželi jste <color:#FFD700>%gems%</color> dárek.",
+    "store.rank": "Děkujeme, že jste si zakoupili hodnost! Nyní máte <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Děkujeme, že jste zakoupili časovou hodnost! Nyní máte <color:#FFD700>%rank%</color> pro <color:#FFD700>%days%</color> dní."
 }
