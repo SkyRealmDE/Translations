@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Τροποποιήσατε το %player%του XP από τον %amount%",
     "skyrealm.error.cooldown": "Πρέπει να περιμένετε <yellow>%cooldown%</yellow> πριν χρησιμοποιήσετε ξανά αυτήν την εντολή.",
     "badge.obtained": "Έχετε λάβει το έμβλημα: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Σας έχει δοθεί το καλλυντικό: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Σας έχει δοθεί το καλλυντικό: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Ευχαριστούμε που αγοράσατε πολύτιμους λίθους! Έχετε λάβει <color:#FFD700>%gems%</color> πολύτιμους λίθους.",
+    "store.rank": "Ευχαριστούμε που αγοράσατε μια τάξη! Τώρα έχετε <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Ευχαριστούμε που αγοράσατε μια χρονομετρική κατάταξη! Τώρα έχετε <color:#FFD700>%rank%</color> για <color:#FFD700>%days%</color> ημέρες."
 }
