@@ -74,5 +74,11 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>You have reached the maximum entity limit upgrade.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Vous devez être au moins niveau</color> <color:#FFD700>%level%</color> <color:#dfe6e9>pour mettre à niveau votre limite d'entité pour</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>A mis à jour avec succès</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>à une borne de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>A mis à jour avec succès</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>à une borne de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "skyrealm.realm.money.bank": "Your realm bank currently holds <color:#FFD700>%money%</color> coins.",
+    "skyrealm.realm.money.deposit": "Vous avez déposé des pièces <color:#FFD700>%money%</color> dans la banque du royaume.",
+    "realm.size.upgrade.success": "Vous avez réussi à améliorer la taille de votre royaume.",
+    "skyrealm.general.tpa.request.incoming": "Vous avez une nouvelle demande de téléportation de <color:#FFD700>%source%</color>.",
+    "skyrealm.general.tpa.invoker.accepted": "Votre demande de téléportation a été acceptée.",
+    "skyrealm.error.no-realms": "Aucun royaume trouvé."
 }

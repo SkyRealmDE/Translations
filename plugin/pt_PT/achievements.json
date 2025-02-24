@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Cana-de-açúcar Agricultura</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Cresça e colha cana-de-açúcar.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Cacau Farming</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Cresça e colete sementes de cacau.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Cresça e colete sementes de cacau.</color>",
+    "achievement.level_up": "Você desbloqueou <color:#FFD700>%achievement%</color> no nível <color:#FFD700>%level%</color>."
 }

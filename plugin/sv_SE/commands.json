@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray><unk></dark_gray> <yellow>Roll:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Du har accepterat inbjudan till Realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) med rollen <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Rolluppdatering:</gold> <gray>%player%</gray> ändrad från <yellow>%oldrole%</yellow> till <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Ditt objekt har reparerats framgångsrikt!</green>"
+    "skyrealm.command.repair.success": "Ditt objekt har reparerats framgångsrikt!</green>",
+    "commands.transform.p1": "Första positionen inställd.",
+    "commands.transform.p2": "Andra positionen inställd.",
+    "commands.transform.pivot.set": "Pivot satt.",
+    "commands.transform.success": "Transformerade <color:#FFD700>%blocks%</color> block framgångsrikt.",
+    "commands.record.start": "Inspelning startad.",
+    "commands.record.stop": "Inspelning stoppad.",
+    "commands.record.no_itemdisplay_nearby": "Inga objekt visas i närheten.",
+    "commands.record.play": "Spela den inspelade omvandlingen.",
+    "size.cm": "Din storlek är nu <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Din storlek är nu <color:#FFD700>%inch%</color> tum.",
+    "size.query": "Din storleksskala är <color:#FFD700>%scale%</color>, vilket är ungefär <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> tum.",
+    "commands.rotate.stop": "Rotation stoppad.",
+    "commands.no_itemdisplay_nearby": "Inga objekt visas i närheten.",
+    "chat.cleared": "Chatten rensad.",
+    "skyrealm.general.pay": "Du har betalat <color:#FFD700>%amount%</color> mynt till <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Du har fått <color:#FFD700>%amount%</color> mynt från <color:#FFD700>%sender%</color>."
 }

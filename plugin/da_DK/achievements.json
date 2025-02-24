@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Sukkerrør Landbrug</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Voks og høst sukkerrør.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Cocoa Farming</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Voks og høst kakaobønner.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Voks og høst kakaobønner.</color>",
+    "achievement.level_up": "Du har oplåst <color:#FFD700>%achievement%</color> på niveau <color:#FFD700>%level%</color>."
 }

@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>"
+    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>",
+    "commands.transform.p1": "First position set.",
+    "commands.transform.p2": "Second position set.",
+    "commands.transform.pivot.set": "Pivot set.",
+    "commands.transform.success": "Transformed <color:#FFD700>%blocks%</color> blocks successfully.",
+    "commands.record.start": "Recording started.",
+    "commands.record.stop": "Recording stopped.",
+    "commands.record.no_itemdisplay_nearby": "No item display found nearby.",
+    "commands.record.play": "Playing the recorded transformation.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches.",
+    "size.query": "Your size scale is <color:#FFD700>%scale%</color>, which is about <color:#FFD700>%cm%</color> cm or <color:#FFD700>%inch%</color> inches.",
+    "commands.rotate.stop": "Rotation stopped.",
+    "commands.no_itemdisplay_nearby": "No item display found nearby.",
+    "chat.cleared": "Chat cleared.",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
 }

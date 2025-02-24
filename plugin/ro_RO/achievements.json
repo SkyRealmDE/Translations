@@ -54,5 +54,6 @@
     "achievements.farming_sugarcane": "<color:#BAD8B6><b>Urme Fermiere</b></color>",
     "achievements.farming_sugarcane.description": "<color:#FCE7C8>Mărește și recoltează trestie de zahăr.</color>",
     "achievements.farming_cocoa": "<color:#BAD8B6><b>Coca-Ferma</b></color>",
-    "achievements.farming_cocoa.description": "<color:#FCE7C8>Mărește și recoltează boabe de cacao.</color>"
+    "achievements.farming_cocoa.description": "<color:#FCE7C8>Mărește și recoltează boabe de cacao.</color>",
+    "achievement.level_up": "Ați deblocat <color:#FFD700>%achievement%</color> la nivelul <color:#FFD700>%level%</color>."
 }

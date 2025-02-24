@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT؟</click></green>",
     "commands.invite.accept.success": "لقد قبلت الدعوة إلى عالم <yellow>%realm%</yellow> (المعرف: <white>%realmId%</white>مع الدور <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>تحديث الدور:</gold> <gray>%player%</gray> تغير من <yellow>%oldrole%</yellow> إلى <yellow>%role%</yellow>",
-    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!</green>"
+    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!</green>",
+    "commands.transform.p1": "تم تعيين الموضع الأول.",
+    "commands.transform.p2": "المجموعة الثانية للموقع.",
+    "commands.transform.pivot.set": "مجموعة المحوريات.",
+    "commands.transform.success": "تم تغيير كتل <color:#FFD700>%blocks%</color> بنجاح.",
+    "commands.record.start": "بدأ التسجيل.",
+    "commands.record.stop": "توقف التسجيل.",
+    "commands.record.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
+    "commands.record.play": "تشغيل التحول المسجل.",
+    "size.cm": "الحجم الخاص بك الآن <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "الحجم الخاص بك الآن <color:#FFD700>%inch%</color> بوصة.",
+    "size.query": "مقياس الحجم الخاص بك هو <color:#FFD700>%scale%</color>، وهو حوالي <color:#FFD700>%cm%</color> cm أو <color:#FFD700>%inch%</color> بوصات.",
+    "commands.rotate.stop": "توقف التناوب.",
+    "commands.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
+    "chat.cleared": "تم مسح المحادثة.",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "لقد تلقيت عملات <color:#FFD700>%amount%</color> من <color:#FFD700>%sender%</color>."
 }

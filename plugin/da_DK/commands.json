@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray></dark_gray> <yellow>Rolle:</yellow> <white>%role%</white> <dark_gray></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Du har accepteret invitationen til realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) med rolle <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Rolle opdatering:</gold> <gray>%player%</gray> ændret fra <yellow>%oldrole%</yellow> til <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Dit element er blevet repareret!</green>"
+    "skyrealm.command.repair.success": "Dit element er blevet repareret!</green>",
+    "commands.transform.p1": "Første position indstillet.",
+    "commands.transform.p2": "Anden position angivet.",
+    "commands.transform.pivot.set": "Pivot sæt.",
+    "commands.transform.success": "Transformerede <color:#FFD700>%blocks%</color> blokke lykkedes.",
+    "commands.record.start": "Optagelse startet.",
+    "commands.record.stop": "Optagelse stoppet.",
+    "commands.record.no_itemdisplay_nearby": "Intet element display fundet i nærheden.",
+    "commands.record.play": "Afspiller den registrerede transformation.",
+    "size.cm": "Din størrelse er nu <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Din størrelse er nu <color:#FFD700>%inch%</color> tommer.",
+    "size.query": "Din størrelse skala er <color:#FFD700>%scale%</color>, hvilket er omkring <color:#FFD700>%cm%</color> cm eller <color:#FFD700>%inch%</color> inches.",
+    "commands.rotate.stop": "Rotation stoppet.",
+    "commands.no_itemdisplay_nearby": "Intet element display fundet i nærheden.",
+    "chat.cleared": "Chat ryddet.",
+    "skyrealm.general.pay": "Du har betalt <color:#FFD700>%amount%</color> mønter til <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Du har modtaget <color:#FFD700>%amount%</color> mønter fra <color:#FFD700>%sender%</color>."
 }

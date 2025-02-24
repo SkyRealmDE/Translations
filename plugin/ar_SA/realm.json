@@ -74,5 +74,11 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>لقد وصلت إلى الحد الأقصى لترقية الكيان.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "skyrealm.realm.money.bank": "البنك العالمي الخاص بك يحتوى حاليا على عملات <color:#FFD700>%money%</color>.",
+    "skyrealm.realm.money.deposit": "لقد قمت بإيداع عملات <color:#FFD700>%money%</color> في البنك العالمي.",
+    "realm.size.upgrade.success": "لقد قمت بترقية حجم المجال الخاص بك بنجاح.",
+    "skyrealm.general.tpa.request.incoming": "لديك طلب انتقال جديد من <color:#FFD700>%source%</color>.",
+    "skyrealm.general.tpa.invoker.accepted": "تم قبول طلب الانتقال الخاص بك.",
+    "skyrealm.error.no-realms": "لم يتم العثور على حقول."
 }

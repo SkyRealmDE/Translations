@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray><unk></dark_gray> <yellow>Ruolo:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Hai accettato l'invito al regno <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) con ruolo <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Aggiornamento del ruolo:</gold> <gray>%player%</gray> cambiato da <yellow>%oldrole%</yellow> a <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Il tuo oggetto è stato riparato con successo!</green>"
+    "skyrealm.command.repair.success": "Il tuo oggetto è stato riparato con successo!</green>",
+    "commands.transform.p1": "Prima posizione impostata.",
+    "commands.transform.p2": "Set di seconda posizione.",
+    "commands.transform.pivot.set": "Set pivot.",
+    "commands.transform.success": "Blocchi <color:#FFD700>%blocks%</color> trasformati con successo.",
+    "commands.record.start": "Registrazione iniziata.",
+    "commands.record.stop": "Registrazione interrotta.",
+    "commands.record.no_itemdisplay_nearby": "Nessun display di oggetti trovato nelle vicinanze.",
+    "commands.record.play": "Riproduzione della trasformazione registrata.",
+    "size.cm": "La dimensione è ora <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "La tua dimensione è ora <color:#FFD700>%inch%</color> pollici.",
+    "size.query": "La tua scala di dimensione è <color:#FFD700>%scale%</color>, che è di circa <color:#FFD700>%cm%</color> cm o <color:#FFD700>%inch%</color> pollici.",
+    "commands.rotate.stop": "Rotazione interrotta.",
+    "commands.no_itemdisplay_nearby": "Nessun display di oggetti trovato nelle vicinanze.",
+    "chat.cleared": "Chat cancellata.",
+    "skyrealm.general.pay": "Hai pagato le monete <color:#FFD700>%amount%</color> ad <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "Hai ricevuto monete <color:#FFD700>%amount%</color> da <color:#FFD700>%sender%</color>."
 }

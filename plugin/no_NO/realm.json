@@ -74,5 +74,11 @@
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du har nådd maksimal entitets oppgradering.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Du må være på minst nivå</color> <color:#FFD700>%level%</color> <color:#dfe6e9>for å oppgradere enhetens grense for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>"
+    "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "skyrealm.realm.money.bank": "Din realmbank har for tiden <color:#FFD700>%money%</color> mynter.",
+    "skyrealm.realm.money.deposit": "Du har deponert <color:#FFD700>%money%</color> mynter i realmbanken.",
+    "realm.size.upgrade.success": "Du har oppgradert realmens størrelsen.",
+    "skyrealm.general.tpa.request.incoming": "Du har en ny teleporteringsforespørsel fra <color:#FFD700>%source%</color>.",
+    "skyrealm.general.tpa.invoker.accepted": "Din teleporteringsforespørsel har blitt godkjent.",
+    "skyrealm.error.no-realms": "Ingen realmer funnet."
 }

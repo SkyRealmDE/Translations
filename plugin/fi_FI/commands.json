@@ -11,5 +11,21 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "You have accepted the invite to realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) with role <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Role update:</gold> <gray>%player%</gray> changed from <yellow>%oldrole%</yellow> to <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Nimikkeesi on korjattu onnistuneesti!</green>"
+    "skyrealm.command.repair.success": "Nimikkeesi on korjattu onnistuneesti!</green>",
+    "commands.transform.p1": "Ensimmäinen sijainti asetettu.",
+    "commands.transform.p2": "Toinen sijainti asetettu.",
+    "commands.transform.pivot.set": "Pivot asetettu.",
+    "commands.transform.success": "Transformed <color:#FFD700>%blocks%</color> blocks successfully.",
+    "commands.record.start": "Tallennus aloitettu.",
+    "commands.record.stop": "Tallennus pysäytetty.",
+    "commands.record.no_itemdisplay_nearby": "Lähistöllä ei löytynyt yhtään esinettä.",
+    "commands.record.play": "Toistetaan tallennettu muutos.",
+    "size.cm": "Your size is now <color:#FFD700>%cm%</color> cm.",
+    "size.inch": "Your size is now <color:#FFD700>%inch%</color> inches.",
+    "size.query": "Kokoasteikko on <color:#FFD700>%scale%</color>, joka on noin <color:#FFD700>%cm%</color> cm tai <color:#FFD700>%inch%</color> tuumaa.",
+    "commands.rotate.stop": "Kierto pysäytetty.",
+    "commands.no_itemdisplay_nearby": "Lähistöllä ei löytynyt yhtään esinettä.",
+    "chat.cleared": "Keskustelu tyhjennetty.",
+    "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
 }
