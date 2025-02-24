@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Je hebt %player%'s XP gewijzigd door %amount%",
     "skyrealm.error.cooldown": "Je moet <yellow>%cooldown%</yellow> wachten om deze opdracht opnieuw te gebruiken.",
     "badge.obtained": "Je hebt de badge gekregen: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Je hebt de cosmetica gekregen: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Je hebt de cosmetica gekregen: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Bedankt voor het kopen van edelstenen! U heeft gekregen <color:#FFD700>%gems%</color> edelstenen.",
+    "store.rank": "Bedankt voor het kopen van een rank! Je hebt nu <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Bedankt voor het kopen van een timed rank! Je hebt nu <color:#FFD700>%rank%</color> voor <color:#FFD700>%days%</color> dagen."
 }
