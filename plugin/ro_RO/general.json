@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Ai modificat XP lui %player%cu %amount%",
     "skyrealm.error.cooldown": "Trebuie să așteptați <yellow>%cooldown%</yellow> înainte de a utiliza această comandă din nou.",
     "badge.obtained": "Ați obținut insigna: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Vi s-a dat cosmeticul: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Vi s-a dat cosmeticul: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Mulțumim pentru achiziționarea gemurilor! Ai primit <color:#FFD700>%gems%</color> gemuri.",
+    "store.rank": "Mulțumim că ai achiziționat un rank! Acum ai <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Mulțumim că ai achiziționat un rang cronometru! Acum ai <color:#FFD700>%rank%</color> pentru <color:#FFD700>%days%</color> zile."
 }
