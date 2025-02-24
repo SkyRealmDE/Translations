@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Você recebeu o cosmético: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Obrigado por comprar gemas! Você recebeu <color:#FFD700>%gems%</color> gemas.",
     "store.rank": "Obrigado por adquirir um rank! Agora você tem <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Obrigado por adquirir uma patente cronometrada! Agora você tem <color:#FFD700>%rank%</color> para <color:#FFD700>%days%</color> dias."
+    "store.rank.days": "Obrigado por adquirir uma patente cronometrada! Agora você tem <color:#FFD700>%rank%</color> para <color:#FFD700>%days%</color> dias.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min No Hunger effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min Sem efeito de dano.\n<color:#dfe6e9>não afeta o pvp.\n<color:#dfe6e9>Preço: <color:#FFD700>%price%</color> Gemas",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min No Gravity (Fly) effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_hunger.success": "Você ativou o efeito Sem Fome até <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "Você ativou o efeito de não dano até <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "You have activated the No Gravity (Fly) effect until <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Efeito de Fome Ativa até:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Ativar efeito de não dano até:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Seu efeito de gravidade não terminou."
 }
