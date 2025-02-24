@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Du endret %player%sin XP av %amount%",
     "skyrealm.error.cooldown": "Du må vente <yellow>%cooldown%</yellow> før du bruker denne kommandoen igjen.",
     "badge.obtained": "Du har skaffet distinksjonen: <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Du har fått kosmetisken: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Du har fått kosmetisken: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Takk for at du kjøpte gems! Du har fått <color:#FFD700>%gems%</color> gemer.",
+    "store.rank": "Takk for at du kjøper en rang! Du har nå <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Takk for at du kjøper en tidsbestemt rang! Du har nå <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> dager."
 }
