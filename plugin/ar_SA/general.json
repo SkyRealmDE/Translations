@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "لقد تم منحك جهاز التجميل: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Thanks for purchasing gems! You have received <color:#FFD700>%gems%</color> gems.",
     "store.rank": "شكرا لشراء رتبة! لديك الآن <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "شكرا لشراء ترتيب موقوت! لديك الآن <color:#FFD700>%rank%</color> لمدة <color:#FFD700>%days%</color> أيام."
+    "store.rank.days": "شكرا لشراء ترتيب موقوت! لديك الآن <color:#FFD700>%rank%</color> لمدة <color:#FFD700>%days%</color> أيام.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min No Hunger effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min No Damage effect.\n<color:#dfe6e9>Does not affect pvp.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min No Gravity (Fly) effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_hunger.success": "لقد قمت بتفعيل تأثير عدم الجوع حتى <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "لقد قمت بتفعيل تأثير لا ضرر حتى <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "لقد قمت بتفعيل تأثير عدم الجاذبية (كلا) حتى <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>تأثير عدم الجاذبية النشط حتى:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "تأثير عدم الجاذبية الخاص بك قد انتهى."
 }
