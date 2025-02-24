@@ -18,5 +18,8 @@
     "skyrealm.general.xp.modify.other": "Vous avez modifié l'XP de %player%par %amount%",
     "skyrealm.error.cooldown": "Vous devez attendre <yellow>%cooldown%</yellow> avant d'utiliser cette commande à nouveau.",
     "badge.obtained": "Vous avez obtenu le badge : <bold><color:#FFD700>%badge%</color></bold>",
-    "skyrealm.cosmetic.given": "Vous avez reçu le cosmétique: <color:#FFD700>%cosmetic%</color>"
+    "skyrealm.cosmetic.given": "Vous avez reçu le cosmétique: <color:#FFD700>%cosmetic%</color>",
+    "store.gems": "Merci d'avoir acheté des gemmes ! Vous avez reçu des gemmes <color:#FFD700>%gems%</color>.",
+    "store.rank": "Merci d'avoir acheté un rang ! Vous avez maintenant <color:#FFD700>%rank%</color>.",
+    "store.rank.days": "Merci d'avoir acheté un rang chronométré ! Vous avez maintenant <color:#FFD700>%rank%</color> pour <color:#FFD700>%days%</color> jours."
 }
