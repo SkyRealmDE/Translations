@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Ви були надані косметичні: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Дякуємо за придбання каменів! Ви отримали <color:#FFD700>%gems%</color> коштовностей.",
     "store.rank": "Дякуємо за придбання рангу! Тепер у Вас є <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days."
+    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min No Hunger effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min No Damage effect.\n<color:#dfe6e9>Does not affect pvp.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min No Gravity (Fly) effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_hunger.success": "Ви активували ефект Голоду до досягнення <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "You have activated the No Damage effect until <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "You have activated the No Gravity (Fly) effect until <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Ваш ефект гравітації не завершений."
 }
