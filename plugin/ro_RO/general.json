@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Vi s-a dat cosmeticul: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Mulțumim pentru achiziționarea gemurilor! Ai primit <color:#FFD700>%gems%</color> gemuri.",
     "store.rank": "Mulțumim că ai achiziționat un rank! Acum ai <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Mulțumim că ai achiziționat un rang cronometru! Acum ai <color:#FFD700>%rank%</color> pentru <color:#FFD700>%days%</color> zile."
+    "store.rank.days": "Mulțumim că ai achiziționat un rang cronometru! Acum ai <color:#FFD700>%rank%</color> pentru <color:#FFD700>%days%</color> zile.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30min Fără efect Foame.\n<color:#dfe6e9>Preţ: <color:#FFD700>%price%</color> Gems",
+    "profile.effect.no_damage": "<color:#dfe6e9>30min Fără efect de avarie.\n<color:#dfe6e9>Nu afectează pvp.\n<color:#dfe6e9>Preț: <color:#FFD700>%price%</color> Gemne",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min efect fără gravitație (Fly).\n<color:#dfe6e9>Preț: <color:#FFD700>%price%</color> Piețe",
+    "profile.effect.no_hunger.success": "Ați activat efectul Nu Foametei până la <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "Ați activat efectul Fără daune până la <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "Ați activat efectul Fără Gravitate (Fly) până la <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Fără efect Foamete până când:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Fără efect de avarie activă până când:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect până la:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Efectul fără gravitație s-a încheiat."
 }
