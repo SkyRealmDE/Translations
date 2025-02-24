@@ -21,5 +21,15 @@
     "skyrealm.cosmetic.given": "Otrzymałeś(aś) kosmetykę: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Dziękujemy za zakup klejnotów! Otrzymałeś klejnoty <color:#FFD700>%gems%</color>.",
     "store.rank": "Dziękujemy za zakup rangi! Masz teraz <color:#FFD700>%rank%</color>.",
-    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days."
+    "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days.",
+    "profile.effect.no_hunger": "<color:#dfe6e9>30 min Efekt Bez głodu.\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Klejnoty",
+    "profile.effect.no_damage": "<color:#dfe6e9>30 min Efekt Bez obrażeń.\n<color:#dfe6e9>Nie wpływa na pvp.\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Klejnoty",
+    "profile.effect.no_gravity": "<color:#dfe6e9>15min Efekt bez grawitacji (wysokość).\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Klejnoty",
+    "profile.effect.no_hunger.success": "Aktywowałeś efekt Bez głodu do czasu <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_damage.success": "Aktywowałeś efekt Bez Obrażeń do czasu <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_gravity.success": "Aktywowałeś efekt Bez grawitacji (pełna) do <color:#FFD700>%expires%</color>.",
+    "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.active": "<color:#dfe6e9>Aktywny efekt bez grawitacji do:</color>\n<color:#FFD700>%expires%</color>",
+    "profile.effect.no_gravity.cancel": "Twój efekt bez grawitacji zakończył się."
 }
