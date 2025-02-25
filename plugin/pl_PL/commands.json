@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Zaproszenie do znajomych zostało wysłane.",
     "skyrealm.friend.added": "Dodałeś <color:#FFD700>%player%</color> jako znajomy.",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
-    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
-    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> został pomyślnie utworzony (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Nazwa domeny ustawiona na <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Wybierz Realm",
+    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> jest obecnie w użyciu.",
+    "skyrealm.menu.select_realm.empty": "Brak dostępnych Realms."
 }
