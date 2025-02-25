@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Efeito de Fome Ativa até:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Ativar efeito de não dano até:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Seu efeito de gravidade não terminou."
+    "profile.effect.no_gravity.cancel": "Seu efeito de gravidade não terminou.",
+    "skyrealm.general.tpo.transferring": "Transferindo...",
+    "skyrealm.general.tpohere.transferring": "Transferindo você...",
+    "skyrealm.general.tpohere.already_requested": "Você já pediu para teletransportá-los aqui.",
+    "skyrealm.general.tpahere.request.success": "Seu pedido do TPAHere foi enviado.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Seu pedido TPAHere foi aceito por <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "You have a new TPAHere request from <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Click to accept</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Sua solicitação do TPAHere foi aceita."
 }
