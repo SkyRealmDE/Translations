@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Размер реалма успешно обновлен.",
     "skyrealm.general.tpa.request.incoming": "У вас новый запрос на телепортацию от <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Ваш запрос на телепортацию был принят.",
-    "skyrealm.error.no-realms": "Миры не найдены."
+    "skyrealm.error.no-realms": "Миры не найдены.",
+    "realm.upgrade.skip": "Вы пропустили обновление области для <color:#FFD700>%level%</color>."
 }
