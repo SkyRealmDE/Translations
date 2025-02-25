@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Geen item weergegeven in de buurt.",
     "chat.cleared": "Chat gewist.",
     "skyrealm.general.pay": "Je hebt <color:#FFD700>%amount%</color> munten betaald aan <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "Je hebt <color:#FFD700>%amount%</color> munten ontvangen van <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "Je hebt <color:#FFD700>%amount%</color> munten ontvangen van <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Vriendschapsverzoek is verzonden.",
+    "skyrealm.friend.added": "Je hebt <color:#FFD700>%player%</color> toegevoegd als een vriend."
 }
