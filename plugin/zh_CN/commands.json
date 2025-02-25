@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "附近没有项目显示。",
     "chat.cleared": "聊天已清除。",
     "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "好友请求已发送。",
+    "skyrealm.friend.added": "You have added <color:#FFD700>%player%</color> as a friend."
 }
