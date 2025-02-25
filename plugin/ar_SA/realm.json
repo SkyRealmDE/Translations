@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "لديك طلب انتقال جديد من <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "تم قبول طلب الانتقال الخاص بك.",
     "skyrealm.error.no-realms": "لم يتم العثور على حقول.",
-    "realm.upgrade.skip": "لقد تخطت الترقية العالمية ل <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "لقد تخطت الترقية العالمية ل <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "لقد كنت تلعب منذ 6 ساعات الآن. ربما حان وقت استراحة قصيرة؟",
+    "realm.server.onlinetime.twelvehours": "لقد كنت تلعب منذ 12 ساعة الآن. فكر في أخذ استراحة أطول - أو أخذ قهوة!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "سيتم إعادة تشغيل خادم المجال الخاص بك في 30 دقيقة. يرجى إنهاء أي مهام جارية.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "سيتم إعادة تشغيل خادم المجال الخاص بك في 10 دقائق. حفظ تقدمك!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "سيتم إعادة تشغيل خادم العالم الخاص بك في 5 دقائق. التحضيرات النهائية!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "سيتم إعادة تشغيل خادم المجال الخاص بك في 1 دقيقة. اسرع !",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "سيرفر المجال الخاص بك سوف يعاد تشغيله في 30 ثانية. قم بنفسك",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 10 ثوان!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 3 ثوان..."
 }
