@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Lähistöllä ei löytynyt yhtään esinettä.",
     "chat.cleared": "Keskustelu tyhjennetty.",
     "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Ystäväpyyntö on lähetetty.",
+    "skyrealm.friend.added": "You have added <color:#FFD700>%player%</color> as a friend."
 }
