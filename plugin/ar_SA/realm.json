@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "لقد قمت بترقية حجم المجال الخاص بك بنجاح.",
     "skyrealm.general.tpa.request.incoming": "لديك طلب انتقال جديد من <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "تم قبول طلب الانتقال الخاص بك.",
-    "skyrealm.error.no-realms": "لم يتم العثور على حقول."
+    "skyrealm.error.no-realms": "لم يتم العثور على حقول.",
+    "realm.upgrade.skip": "لقد تخطت الترقية العالمية ل <color:#FFD700>%level%</color>."
 }
