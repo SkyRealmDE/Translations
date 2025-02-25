@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Aktiv Ingen Hunger effekt till:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Aktiv Ingen Skadeeffekt till:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Aktiv ingen gravitationseffekt till:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Din ingen gravitationseffekt har upphört."
+    "profile.effect.no_gravity.cancel": "Din ingen gravitationseffekt har upphört.",
+    "skyrealm.general.tpo.transferring": "Överför...",
+    "skyrealm.general.tpohere.transferring": "Överför dig...",
+    "skyrealm.general.tpohere.already_requested": "Du har redan begärt att teleportera dem här.",
+    "skyrealm.general.tpahere.request.success": "Din TPAHere begäran har skickats.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Din TPAHere begäran har godkänts av <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "Du har en ny TPAHere begäran från <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Klicka för att acceptera</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Din TPAHere begäran godkändes."
 }
