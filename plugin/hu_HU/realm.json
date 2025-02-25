@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "You have a new teleport request from <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Your teleport request has been accepted.",
     "skyrealm.error.no-realms": "No realms found.",
-    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "You've been playing for 6 hours now. Maybe it's time for a short break?",
+    "realm.server.onlinetime.twelvehours": "You've been playing for 12 hours now. Consider taking a longer rest—or grabbing a coffee!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Your realm server will restart in 30 minutes. Please wrap up any ongoing tasks.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Your realm server will restart in 10 minutes. Save your progress!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Your realm server will restart in 5 minutes. Final preparations!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Your realm server will restart in 1 minute. Hurry up!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Your realm server will restart in 30 seconds. Brace yourself!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Your realm server will restart in 10 seconds!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Your realm server will restart in 3 seconds..."
 }
