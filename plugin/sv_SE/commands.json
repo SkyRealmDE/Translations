@@ -29,5 +29,10 @@
     "skyrealm.general.pay": "Du har betalat <color:#FFD700>%amount%</color> mynt till <color:#FFD700>%player%</color>.",
     "skyrealm.payment.received": "Du har fått <color:#FFD700>%amount%</color> mynt från <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Vänförfrågan har skickats.",
-    "skyrealm.friend.added": "Du har lagt till <color:#FFD700>%player%</color> som en vän."
+    "skyrealm.friend.added": "Du har lagt till <color:#FFD700>%player%</color> som en vän.",
+    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Select a Realm",
+    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
+    "skyrealm.menu.select_realm.empty": "No realms available."
 }
