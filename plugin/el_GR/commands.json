@@ -29,5 +29,10 @@
     "skyrealm.general.pay": "Έχετε πληρώσει <color:#FFD700>%amount%</color> νομίσματα σε <color:#FFD700>%player%</color>.",
     "skyrealm.payment.received": "Έχετε λάβει <color:#FFD700>%amount%</color> νομίσματα από <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Το αίτημα φιλίας έχει σταλεί.",
-    "skyrealm.friend.added": "Έχετε προσθέσει <color:#FFD700>%player%</color> ως φίλο."
+    "skyrealm.friend.added": "Έχετε προσθέσει <color:#FFD700>%player%</color> ως φίλο.",
+    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Select a Realm",
+    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
+    "skyrealm.menu.select_realm.empty": "No realms available."
 }
