@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "Máte nový požadavek na teleportování od <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Vaše žádost o teleportování byla přijata.",
     "skyrealm.error.no-realms": "Nebyly nalezeny žádné říše.",
-    "realm.upgrade.skip": "Přeskohli jste upgrade říše pro <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "Přeskohli jste upgrade říše pro <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Nyní hrajete 6 hodin. Možná je čas na krátkou přestávku?",
+    "realm.server.onlinetime.twelvehours": "Nyní hrajete již 12 hodin. Zvažte delší odpočinek – nebo uchopení kávy!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Váš říše se restartuje za 30 minut. Prosím, zabalte všechny probíhající úkoly.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Váš říše se restartuje za 10 minut. Uložte svůj postup!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Váš server říše se restartuje za 5 minut. Konečné přípravy!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Váš server říše se restartuje za 1 minutu. Pospěšte si!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Váš server říše se restartuje za 30 sekund. Začněte sami sebe!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Váš říškový server bude restartován za 10 sekund!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Váš říškový server se restartuje za 3 sekundy..."
 }
