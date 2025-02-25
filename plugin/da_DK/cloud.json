@@ -15,5 +15,6 @@
     "skyrealm.friend.offline": "Din ven %player% er nu offline.",
     "skyrealm.cloud.connecting_to_server": "Forbinder til server: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Du kan ikke teleportere dig selv her.",
-    "player.levelup": "Du har nået niveau <color:#FFD700>%level%</color>!"
+    "player.levelup": "Du har nået niveau <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> stopper i <color:#FFD700>%delay%</color> sekunder."
 }
