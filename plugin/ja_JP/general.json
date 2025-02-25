@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>有効な空腹効果がない：</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>アクティブダメージなし：</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>無重力効果まで:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "無重力効果が終了しました。"
+    "profile.effect.no_gravity.cancel": "無重力効果が終了しました。",
+    "skyrealm.general.tpo.transferring": "転送中...",
+    "skyrealm.general.tpohere.transferring": "転送中char@@0",
+    "skyrealm.general.tpohere.already_requested": "すでにここにテレポートをリクエストしています。",
+    "skyrealm.general.tpahere.request.success": "TPAここでのリクエストが送信されました。",
+    "skyrealm.general.tpahere.request.sender.accepted": "あなたの TPAHere のリクエストは <color:#FFD700>%accepter%</color> に承認されました。",
+    "skyrealm.general.tpahere.request.incoming": "<color:#FFD700>%source%</color>から新しいTPAHere リクエストがあります。 <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>クリックして</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "あなたのTPAここでのリクエストが承認されました。"
 }
