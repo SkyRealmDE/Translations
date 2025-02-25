@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Realm のサイズを正常にアップグレードしました。",
     "skyrealm.general.tpa.request.incoming": "<color:#FFD700>%source%</color> から新しいテレポート要求があります。",
     "skyrealm.general.tpa.invoker.accepted": "テレポート要求が承認されました。",
-    "skyrealm.error.no-realms": "レルムが見つかりません。"
+    "skyrealm.error.no-realms": "レルムが見つかりません。",
+    "realm.upgrade.skip": "<color:#FFD700>%level%</color> のレルムのアップグレードをスキップしました。"
 }
