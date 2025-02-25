@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "Obdrželi jste <color:#FFD700>%amount%</color> mince od <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Žádost o přátelství byla odeslána.",
     "skyrealm.friend.added": "Přidali jste <color:#FFD700>%player%</color> jako přítele.",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
-    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
-    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.success.create-realm.success": "Služba <color:#FFD700>%realm%</color> byla úspěšně vytvořena (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Název říše nastaven na <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Vyberte říši",
+    "skyrealm.menu.select_realm.used": "Říše <color:#FFD700>%realm%</color> se právě používá.",
+    "skyrealm.menu.select_realm.empty": "Žádné říše nejsou k dispozici."
 }
