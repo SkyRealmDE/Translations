@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Nie znaleziono wyświetlania przedmiotów w pobliżu.",
     "chat.cleared": "Czat wyczyszczony.",
     "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Zaproszenie do znajomych zostało wysłane.",
+    "skyrealm.friend.added": "Dodałeś <color:#FFD700>%player%</color> jako znajomy."
 }
