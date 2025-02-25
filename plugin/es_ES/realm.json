@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "Tienes una nueva solicitud de teletransporte de <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Tu solicitud de teletransporte ha sido aceptada.",
     "skyrealm.error.no-realms": "No se encontraron realms.",
-    "realm.upgrade.skip": "Has omitido la actualización del reino para <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "Has omitido la actualización del reino para <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Has estado jugando durante 6 horas. ¿Tal vez sea hora de un corto descanso?",
+    "realm.server.onlinetime.twelvehours": "Has estado jugando durante 12 horas. Considera descansar más o tomar un café!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Tu servidor de reinos se reiniciará en 30 minutos. Por favor, cierra cualquier tarea en curso.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Tu servidor de realm se reiniciará en 10 minutos. ¡Guarda tu progreso!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Tu servidor de reinos se reiniciará en 5 minutos. ¡Preparaciones finales!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Tu servidor de reinos se reiniciará en 1 minuto. ¡Date prisa!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Tu servidor de reinos se reiniciará en 30 segundos. ¡Prepárate para ti mismo!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "¡Tu servidor de reinos se reiniciará en 10 segundos!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Tu servidor de reinos se reiniciará en 3 segundos..."
 }
