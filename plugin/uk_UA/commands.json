@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Не знайдено жодного відображення предметів.",
     "chat.cleared": "Чат очищено.",
     "skyrealm.general.pay": "Ви заплатили <color:#FFD700>%amount%</color> монети <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "Ви отримали <color:#FFD700>%amount%</color> coins від <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "Ви отримали <color:#FFD700>%amount%</color> coins від <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Запит дружби було надіслано.",
+    "skyrealm.friend.added": "Ви додали <color:#FFD700>%player%</color> як друг."
 }
