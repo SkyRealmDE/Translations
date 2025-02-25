@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "You have a new teleport request from <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Teleporttauspyyntösi on hyväksytty.",
     "skyrealm.error.no-realms": "Valtakuntia ei löytynyt.",
-    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Olet pelannut nyt 6 tuntia. Ehkä on aika lyhyttä taukoa?",
+    "realm.server.onlinetime.twelvehours": "Olet pelannut nyt 12 tuntia. Harkitse pidempää lepoa tai kahvin tarttumista!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Valtakuntapalvelin käynnistyy uudelleen 30 minuutissa. Ole hyvä ja muokkaa käynnissä olevat tehtävät.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Valtakuntapalvelin käynnistyy uudelleen 10 minuutissa. Tallenna edistyksesi!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Valtakuntasi palvelin käynnistyy uudelleen 5 minuutissa. Lopulliset valmistautumiset!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Valtakuntasi palvelin käynnistyy uudelleen 1 minuutin kuluttua. Kiirehdittä!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Valtakuntasi palvelin käynnistyy uudelleen 30 sekunnissa. Aaltoile itse!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Valtakuntasi palvelin käynnistyy uudelleen 10 sekunnin kuluttua!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Valtakuntasi palvelin käynnistyy uudelleen 3 sekunnin kuluttua..."
 }
