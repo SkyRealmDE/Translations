@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Hai aggiornato con successo la dimensione del tuo reame.",
     "skyrealm.general.tpa.request.incoming": "Hai una nuova richiesta di teletrasporto da <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "La tua richiesta di teletrasporto è stata accettata.",
-    "skyrealm.error.no-realms": "Nessun reame trovato."
+    "skyrealm.error.no-realms": "Nessun reame trovato.",
+    "realm.upgrade.skip": "Hai saltato l'aggiornamento del regno per <color:#FFD700>%level%</color>."
 }
