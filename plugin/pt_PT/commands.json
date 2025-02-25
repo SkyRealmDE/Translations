@@ -11,7 +11,7 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Você aceitou o convite para o realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) com o cargo <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Atualização de cargo:</gold> <gray>%player%</gray> alterada de <yellow>%oldrole%</yellow> para <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Your item has been repaired successfully!</green>",
+    "skyrealm.command.repair.success": "Seu item foi reparado com sucesso!",
     "commands.transform.p1": "Posição inicial definida.",
     "commands.transform.p2": "Segunda posição definida.",
     "commands.transform.pivot.set": "Conjunto dinâmico.",
