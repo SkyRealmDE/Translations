@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Ви успішно оновили розмір реалму.",
     "skyrealm.general.tpa.request.incoming": "У вас є новий запит на телепортацію від <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Ваш запит на телепорт прийнято.",
-    "skyrealm.error.no-realms": "Реалів не знайдено."
+    "skyrealm.error.no-realms": "Реалів не знайдено.",
+    "realm.upgrade.skip": "Ви пропустили оновлення реалму для <color:#FFD700>%level%</color>."
 }
