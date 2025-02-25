@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Ваш ефект гравітації не завершений."
+    "profile.effect.no_gravity.cancel": "Ваш ефект гравітації не завершений.",
+    "skyrealm.general.tpo.transferring": "Передача...",
+    "skyrealm.general.tpohere.transferring": "Передається вам...",
+    "skyrealm.general.tpohere.already_requested": "Ви вже відправили запит на телепортацію сюди.",
+    "skyrealm.general.tpahere.request.success": "Ваш запит на TPAHere був відправлений.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Your TPAHere request has been accepted by <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "You have a new TPAHere request from <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Click to accept</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Ваш запит на TPAHere був прийнятий."
 }
