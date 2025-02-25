@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Ystäväpyyntö on lähetetty.",
     "skyrealm.friend.added": "You have added <color:#FFD700>%player%</color> as a friend.",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.success.create-realm.success": "Valtakunta <color:#FFD700>%realm%</color> luotu onnistuneesti (UUID: <color:#FFD700>%uuid%</color>).",
     "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
+    "skyrealm.menu.select_realm.title": "Valitse valtakunta",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.menu.select_realm.empty": "Ei valtakuntia saatavilla."
 }
