@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>直到:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>直到：</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>直到:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "您的无重力效果已经结束。"
+    "profile.effect.no_gravity.cancel": "您的无重力效果已经结束。",
+    "skyrealm.general.tpo.transferring": "正在传输...",
+    "skyrealm.general.tpohere.transferring": "正在传输您...",
+    "skyrealm.general.tpohere.already_requested": "您已经请求将他们传送到这里。",
+    "skyrealm.general.tpahere.request.success": "您的 TPA这里请求已发送。",
+    "skyrealm.general.tpahere.request.sender.accepted": "Your TPAHere request has been accepted by <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "You have a new TPAHere request from <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Click to accept</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "您的 TP 请求已被接受。"
 }
