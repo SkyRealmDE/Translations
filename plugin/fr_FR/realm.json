@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "Vous avez une nouvelle demande de téléportation de <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Votre demande de téléportation a été acceptée.",
     "skyrealm.error.no-realms": "Aucun royaume trouvé.",
-    "realm.upgrade.skip": "Vous avez ignoré la mise à niveau du royaume pour <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "Vous avez ignoré la mise à niveau du royaume pour <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Vous jouez depuis 6 heures maintenant. Peut-être est-il temps de faire une courte pause ?",
+    "realm.server.onlinetime.twelvehours": "Vous jouez depuis 12 heures maintenant. Pensez à prendre un repos plus long, ou à prendre un café !",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Votre serveur de royaume va redémarrer dans 30 minutes. Veuillez terminer toutes les tâches en cours.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Votre serveur de royaume va redémarrer dans 10 minutes. Enregistrez votre progression!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Votre serveur de royaume va redémarrer dans 5 minutes. Terminez les préparations !",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Votre serveur de royaume va redémarrer dans 1 minute. Dépêchez-vous !",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Votre serveur de royaume va redémarrer dans 30 secondes. Préparez-vous !",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Votre serveur de royaume va redémarrer dans 10 secondes!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Votre serveur de royaume va redémarrer dans 3 secondes..."
 }
