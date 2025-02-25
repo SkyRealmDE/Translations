@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Έχετε αναβαθμίσει με επιτυχία το μέγεθος του realm σας.",
     "skyrealm.general.tpa.request.incoming": "Έχετε ένα νέο αίτημα τηλεμεταφοράς από το <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Το αίτημα τηλεμεταφοράς σας έχει γίνει αποδεκτό.",
-    "skyrealm.error.no-realms": "Δεν βρέθηκαν realm."
+    "skyrealm.error.no-realms": "Δεν βρέθηκαν realm.",
+    "realm.upgrade.skip": "Έχετε παραλείψει την αναβάθμιση σε realm για <color:#FFD700>%level%</color>."
 }
