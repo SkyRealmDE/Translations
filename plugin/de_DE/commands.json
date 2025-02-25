@@ -29,5 +29,10 @@
     "skyrealm.general.pay": "Sie haben <color:#FFD700>%amount%</color> Münzen an <color:#FFD700>%player%</color> bezahlt.",
     "skyrealm.payment.received": "Sie haben <color:#FFD700>%amount%</color> Münzen von <color:#FFD700>%sender%</color> erhalten.",
     "skyrealm.friend.request-sent": "Freundschaftsanfrage wurde gesendet.",
-    "skyrealm.friend.added": "Sie haben <color:#FFD700>%player%</color> als Freund hinzugefügt."
+    "skyrealm.friend.added": "Sie haben <color:#FFD700>%player%</color> als Freund hinzugefügt.",
+    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Select a Realm",
+    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
+    "skyrealm.menu.select_realm.empty": "No realms available."
 }
