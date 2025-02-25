@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "フレンドリクエストが送信されました。",
     "skyrealm.friend.added": "友達として <color:#FFD700>%player%</color> を追加しました。",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
-    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
-    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> が正常に作成されました (UUID: <color:#FFD700>%uuid%</color>)。",
+    "skyrealm.realm.name.set": "Realm の名前を <color:#FFD700>%name%</color> に設定しました。",
+    "skyrealm.menu.select_realm.title": "Realm を選択",
+    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> が現在使用されています。",
+    "skyrealm.menu.select_realm.empty": "利用可能なレルムがありません．"
 }
