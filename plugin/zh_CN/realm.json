@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "您已成功升级您的领域大小。",
     "skyrealm.general.tpa.request.incoming": "You have a new teleport request from <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "您的传送请求已被接受。",
-    "skyrealm.error.no-realms": "未找到领域。"
+    "skyrealm.error.no-realms": "未找到领域。",
+    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>."
 }
