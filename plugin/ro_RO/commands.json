@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Nici un element de afișare găsit în apropiere.",
     "chat.cleared": "Conversație ștearsă.",
     "skyrealm.general.pay": "Ați plătit <color:#FFD700>%amount%</color> monede pentru <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "Ați primit <color:#FFD700>%amount%</color> monede de la <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "Ați primit <color:#FFD700>%amount%</color> monede de la <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Cererea de prietenie a fost trimisă.",
+    "skyrealm.friend.added": "Ați adăugat <color:#FFD700>%player%</color> ca prieten."
 }
