@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "Ви отримали <color:#FFD700>%amount%</color> coins від <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Запит дружби було надіслано.",
     "skyrealm.friend.added": "Ви додали <color:#FFD700>%player%</color> як друг.",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
-    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
-    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.success.create-realm.success": "Успішно створено реалм <color:#FFD700>%realm%</color> (UID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Назва реалму встановлена на <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Виберіть реалм",
+    "skyrealm.menu.select_realm.used": "Зараз використовується реалм <color:#FFD700>%realm%</color>.",
+    "skyrealm.menu.select_realm.empty": "Немає доступних областей."
 }
