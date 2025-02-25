@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "Έχετε ένα νέο αίτημα τηλεμεταφοράς από το <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Το αίτημα τηλεμεταφοράς σας έχει γίνει αποδεκτό.",
     "skyrealm.error.no-realms": "Δεν βρέθηκαν realm.",
-    "realm.upgrade.skip": "Έχετε παραλείψει την αναβάθμιση σε realm για <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "Έχετε παραλείψει την αναβάθμιση σε realm για <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Παίζετε για 6 ώρες τώρα. Ίσως ήρθε η ώρα για ένα σύντομο διάλειμμα?",
+    "realm.server.onlinetime.twelvehours": "Παίζετε εδώ και 12 ώρες. Σκεφτείτε να κάνετε μια πιο ξεκούραση ή να αρπάζετε έναν καφέ!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Ο διακομιστής realm σας θα επανεκκινήσει σε 30 λεπτά. Παρακαλούμε ολοκληρώστε οποιαδήποτε τρέχουσα εργασία.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Ο realm server σας θα κάνει επανεκκίνηση σε 10 λεπτά. Αποθηκεύστε την πρόοδό σας!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Ο realm server σας θα κάνει επανεκκίνηση σε 5 λεπτά. Τελικές προετοιμασίες!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Ο realm server σας θα κάνει επανεκκίνηση σε 1 λεπτό. Γρήγορα!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 30 δευτερόλεπτα. Brace τον εαυτό σας!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 10 δευτερόλεπτα!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 3 δευτερόλεπτα..."
 }
