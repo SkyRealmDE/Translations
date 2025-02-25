@@ -31,5 +31,6 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Your No Gravity effect has ended."
+    "profile.effect.no_gravity.cancel": "Your No Gravity effect has ended.",
+    "skyrealm.general.tpo.transferring": "Transferring..."
 }
