@@ -15,5 +15,6 @@
     "skyrealm.friend.offline": "صديقك %player% غير متصل الآن.",
     "skyrealm.cloud.connecting_to_server": "الاتصال بالخادم: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "لا يمكنك نقل نفسك إلى هنا.",
-    "player.levelup": "لقد وصلت إلى المستوى <color:#FFD700>%level%</color>!"
+    "player.levelup": "لقد وصلت إلى المستوى <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "الملقم <color:#FFD700>%server%</color> يتوقف في <color:#FFD700>%delay%</color> ثانية."
 }
