@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Ενεργό κανένα αποτέλεσμα Πείνας έως:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Ενεργό χωρίς αποτέλεσμα φθοράς έως:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>ενεργό κανένα αποτέλεσμα βαρύτητας έως:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Το αποτέλεσμα δεν υπάρχει βαρύτητα έχει λήξει."
+    "profile.effect.no_gravity.cancel": "Το αποτέλεσμα δεν υπάρχει βαρύτητα έχει λήξει.",
+    "skyrealm.general.tpo.transferring": "Μεταφορά...",
+    "skyrealm.general.tpohere.transferring": "Μεταφορά σας...",
+    "skyrealm.general.tpohere.already_requested": "Έχετε ήδη ζητήσει την τηλεμεταφορά τους εδώ.",
+    "skyrealm.general.tpahere.request.success": "Το αίτημα σας TPAHere έχει σταλεί.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Το αίτημα σας TPAHere έχει γίνει αποδεκτό από <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "Έχετε ένα νέο αίτημα TPAHere από <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Κάντε κλικ για να αποδεχτείτε</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Το αίτημα TPAHere έγινε δεκτό."
 }
