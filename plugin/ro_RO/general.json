@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Fără efect Foamete până când:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Fără efect de avarie activă până când:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect până la:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Efectul fără gravitație s-a încheiat."
+    "profile.effect.no_gravity.cancel": "Efectul fără gravitație s-a încheiat.",
+    "skyrealm.general.tpo.transferring": "Se transferă...",
+    "skyrealm.general.tpohere.transferring": "Te transferă...",
+    "skyrealm.general.tpohere.already_requested": "Deja ai solicitat să le teleportezi aici.",
+    "skyrealm.general.tpahere.request.success": "Cererea ta TPAHere a fost trimisă.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Cererea ta TPAHere a fost acceptată de <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "Aveţi o nouă solicitare TPAHere de la <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Faceţi clic pentru a accepta</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Cererea ta TPAHere a fost acceptată."
 }
