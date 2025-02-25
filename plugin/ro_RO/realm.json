@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Ai actualizat cu succes dimensiunea tărâmului.",
     "skyrealm.general.tpa.request.incoming": "Ai o nouă cerere de teleportare de la <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Solicitarea ta de teleportare a fost acceptată.",
-    "skyrealm.error.no-realms": "Niciun tărâm găsit."
+    "skyrealm.error.no-realms": "Niciun tărâm găsit.",
+    "realm.upgrade.skip": "Ai sărit peste upgrade-ul pentru <color:#FFD700>%level%</color>."
 }
