@@ -15,5 +15,6 @@
     "skyrealm.friend.offline": "Ο φίλος σας %player% είναι τώρα εκτός σύνδεσης.",
     "skyrealm.cloud.connecting_to_server": "Σύνδεση στο διακομιστή: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Δεν μπορείτε να τηλεμεταφέρετε τον εαυτό σας εδώ.",
-    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!"
+    "player.levelup": "You have reached level <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> is stopping in <color:#FFD700>%delay%</color> seconds."
 }
