@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Aucun élément affiché à proximité.",
     "chat.cleared": "Chat effacé.",
     "skyrealm.general.pay": "Vous avez payé <color:#FFD700>%amount%</color> pièces à <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "Vous avez reçu <color:#FFD700>%amount%</color> pièces de <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "Vous avez reçu <color:#FFD700>%amount%</color> pièces de <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "La demande d'ami a été envoyée.",
+    "skyrealm.friend.added": "Vous avez ajouté <color:#FFD700>%player%</color> en tant qu'ami."
 }
