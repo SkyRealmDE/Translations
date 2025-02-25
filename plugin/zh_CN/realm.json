@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "You have a new teleport request from <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "您的传送请求已被接受。",
     "skyrealm.error.no-realms": "未找到领域。",
-    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "您现在已经玩了6个小时了，也许是短暂休息的时候了吗？",
+    "realm.server.onlinetime.twelvehours": "您已经玩了12个小时了。考虑休息更长时间——或者抢走一杯咖啡！",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "你的领域服务器将在 30 分钟后重新启动。请结束任何正在进行的任务。",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "你的领域服务器将在10分钟后重新启动。保存你的进度！",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "你的领域服务器将在5分钟后重启。最后准备！",
+    "realm.server.onlinetime.shuttingdown.oneminute": "你的领域服务器将在 1 分钟后重启。快来吧！",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "你的领域服务器将在 30 秒内重启。请放心！",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "你的领域服务器将在 10 秒内重启！",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "你的领域服务器将在 3 秒后重启..."
 }
