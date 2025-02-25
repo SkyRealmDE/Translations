@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "У вас є новий запит на телепортацію від <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Ваш запит на телепорт прийнято.",
     "skyrealm.error.no-realms": "Реалів не знайдено.",
-    "realm.upgrade.skip": "Ви пропустили оновлення реалму для <color:#FFD700>%level%</color>."
+    "realm.upgrade.skip": "Ви пропустили оновлення реалму для <color:#FFD700>%level%</color>.",
+    "realm.server.onlinetime.sixhours": "Зараз ви граєте 6 годин. Може час для короткої перерви?",
+    "realm.server.onlinetime.twelvehours": "Ви вже грали протягом 12 годин. Потрібно ще довго відпочити, або схопити каву!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Сервер реалму буде перезавантажений через 30 хвилин. Будь ласка, завершіть роботу усіх активних завдань.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Сервер реалму перезавантажиться через 10 хвилин. Збережіть свій прогрес!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Сервер реалму перезавантажиться через 5 хвилин. Завершення підготовки!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Сервер реалму перезавантажиться через одну хвилину. Поспішайте!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Сервер реалму буде перезавантажений через 30 секунд. Відпочиньте себе!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Сервер реалму перезавантажиться через 10 секунд!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Сервер реалму перезавантажиться через 3 секунди..."
 }
