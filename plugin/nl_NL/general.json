@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Actief Geen hongereffect tot:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Actief Geen Schade effect tot:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Actief Geen Zwaartekracht effect tot:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Je Geen Zwaartekracht effect is geëindigd."
+    "profile.effect.no_gravity.cancel": "Je Geen Zwaartekracht effect is geëindigd.",
+    "skyrealm.general.tpo.transferring": "Overdracht...",
+    "skyrealm.general.tpohere.transferring": "Verplaats je...",
+    "skyrealm.general.tpohere.already_requested": "U heeft al aangevraagd om ze hierheen te teleporteren.",
+    "skyrealm.general.tpahere.request.success": "Uw TPAHere aanvraag is verzonden.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Uw TPAHere aanvraag is geaccepteerd door <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "U hebt een nieuw TPAHere verzoek van <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Klik om te accepteren</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Uw TPAHere aanvraag is geaccepteerd."
 }
