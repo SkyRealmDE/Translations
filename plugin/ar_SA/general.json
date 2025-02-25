@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>تأثير عدم الجاذبية النشط حتى:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "تأثير عدم الجاذبية الخاص بك قد انتهى."
+    "profile.effect.no_gravity.cancel": "تأثير عدم الجاذبية الخاص بك قد انتهى.",
+    "skyrealm.general.tpo.transferring": "تحويل...",
+    "skyrealm.general.tpohere.transferring": "جاري نقلك...",
+    "skyrealm.general.tpohere.already_requested": "لقد طلبت بالفعل نقلهم إلى هنا.",
+    "skyrealm.general.tpahere.request.success": "تم إرسال طلبك عبر TPAE.",
+    "skyrealm.general.tpahere.request.sender.accepted": "تم قبول طلبك هنا من قبل <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "لديك طلب TPAهنا جديد من <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>انقر لقبول</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "تم قبول طلبك في TPAE."
 }
