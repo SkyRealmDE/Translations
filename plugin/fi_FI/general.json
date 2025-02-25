@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Hunger effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Active No Damage effect until:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Active No Gravity effect until:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "No Gravity -efekti on päättynyt."
+    "profile.effect.no_gravity.cancel": "No Gravity -efekti on päättynyt.",
+    "skyrealm.general.tpo.transferring": "Siirretään...",
+    "skyrealm.general.tpohere.transferring": "Siirretään sinua...",
+    "skyrealm.general.tpohere.already_requested": "Olet jo pyytänyt teleporttaamaan ne tänne.",
+    "skyrealm.general.tpahere.request.success": "Sinun TPAHere pyyntö on lähetetty.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Your TPAHere request has been accepted by <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "You have a new TPAHere request from <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Click to accept</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "TPAHere pyyntösi hyväksyttiin."
 }
