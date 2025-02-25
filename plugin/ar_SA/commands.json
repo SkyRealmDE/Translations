@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "لم يتم العثور على عرض عنصر قريب.",
     "chat.cleared": "تم مسح المحادثة.",
     "skyrealm.general.pay": "You have paid <color:#FFD700>%amount%</color> coins to <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "لقد تلقيت عملات <color:#FFD700>%amount%</color> من <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "لقد تلقيت عملات <color:#FFD700>%amount%</color> من <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "تم إرسال طلب صداقة.",
+    "skyrealm.friend.added": "لقد قمت بإضافة <color:#FFD700>%player%</color> كصديق."
 }
