@@ -15,5 +15,6 @@
     "skyrealm.friend.offline": "Váš přítel %player% je nyní offline.",
     "skyrealm.cloud.connecting_to_server": "Připojování k serveru: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Zde se nelze teleportovat.",
-    "player.levelup": "Dosáhli jste úrovně <color:#FFD700>%level%</color>!"
+    "player.levelup": "Dosáhli jste úrovně <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> je zastaven v <color:#FFD700>%delay%</color> sekund."
 }
