@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Active No Fame Effetto fino a:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Effetto Danno Attivo fino a:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Effetto di gravità attiva fino a:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Il tuo effetto Nessuna Gravità è terminato."
+    "profile.effect.no_gravity.cancel": "Il tuo effetto Nessuna Gravità è terminato.",
+    "skyrealm.general.tpo.transferring": "Trasferimento...",
+    "skyrealm.general.tpohere.transferring": "Trasferendoti tu...",
+    "skyrealm.general.tpohere.already_requested": "Hai già richiesto di teletrasportarli qui.",
+    "skyrealm.general.tpahere.request.success": "La tua richiesta TPAHere è stata inviata.",
+    "skyrealm.general.tpahere.request.sender.accepted": "La tua richiesta TPAHere è stata accettata da <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "Hai una nuova richiesta TPAHere da <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Clicca per accettare</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "La tua richiesta TPAHere è stata accettata."
 }
