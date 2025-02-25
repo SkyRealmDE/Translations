@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "Sie haben eine neue Teleportierungsanfrage von <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Ihre Teleportierungsanfrage wurde akzeptiert.",
     "skyrealm.error.no-realms": "Keine Realms gefunden.",
-    "realm.upgrade.skip": "Du hast das Realm-Upgrade für <color:#FFD700>%level%</color> übersprungen."
+    "realm.upgrade.skip": "Du hast das Realm-Upgrade für <color:#FFD700>%level%</color> übersprungen.",
+    "realm.server.onlinetime.sixhours": "Du hast jetzt seit 6 Stunden gespielt. Vielleicht ist es Zeit für eine kurze Pause?",
+    "realm.server.onlinetime.twelvehours": "Du spielst jetzt schon seit 12 Stunden. Überlege dir eine längere Ruhezeit zu nehmen – oder einen Kaffee zu schnappen!",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Dein Realm-Server wird in 30 Minuten neu starten. Bitte beende alle laufenden Aufgaben.",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Dein Realm Server wird in 10 Minuten neu gestartet. Speichere deinen Fortschritt!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Dein Realm Server wird in 5 Minuten neu gestartet. Letzte Vorbereitungen!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Dein Realm-Server wird in 1 Minute neu starten. Beeile dich!",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Dein Realm-Server wird in 30 Sekunden neu starten. Bleib selbst!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Dein Realm-Server wird in 10 Sekunden neu starten!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Dein Realm-Server wird in 3 Sekunden neu starten..."
 }
