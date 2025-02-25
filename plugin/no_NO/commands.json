@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "Ingen elementer vises i nærheten.",
     "chat.cleared": "Chat ryddet.",
     "skyrealm.general.pay": "Du har betalt <color:#FFD700>%amount%</color> mynter til <color:#FFD700>%player%</color>.",
-    "skyrealm.payment.received": "Du har mottatt <color:#FFD700>%amount%</color> mynter fra <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "Du har mottatt <color:#FFD700>%amount%</color> mynter fra <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "Venneforespørselen har blitt sendt.",
+    "skyrealm.friend.added": "Du har lagt til <color:#FFD700>%player%</color> som en venn."
 }
