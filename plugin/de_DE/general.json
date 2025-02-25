@@ -14,8 +14,8 @@
     "general.gems.modify.other": "Du hast %player%Juwelen von %amount% geändert",
     "skyrealm.general.xp": "Sie haben %xp% XP",
     "skyrealm.general.other.xp": "%player% hat %xp% XP",
-    "skyrealm.general.xp.modify": "Sie haben Ihr XP von %xp% geändert",
-    "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %xp% geändert",
+    "skyrealm.general.xp.modify": "Sie haben Ihr XP von %amount% geändert",
+    "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert",
     "skyrealm.error.cooldown": "Sie müssen <yellow>%cooldown%</yellow> warten, bevor Sie diesen Befehl erneut verwenden können.",
     "badge.obtained": "Sie haben das Abzeichen erhalten: <bold><color:#FFD700>%badge%</color></bold>",
     "skyrealm.cosmetic.given": "Ihnen wurde die Kosmetik verliehen: <color:#FFD700>%cosmetic%</color>",
@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Aktiv Kein Hunger Effekt bis:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Aktiv Kein Schaden-Effekt bis:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Aktiv ohne Schwerkraft-Effekt bis:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Dein No Gravity Effekt ist beendet."
+    "profile.effect.no_gravity.cancel": "Dein No Gravity Effekt ist beendet.",
+    "skyrealm.general.tpo.transferring": "Übertragen...",
+    "skyrealm.general.tpohere.transferring": "Übertragung läuft...",
+    "skyrealm.general.tpohere.already_requested": "Du hast bereits angefordert, sie hier zu teleportieren.",
+    "skyrealm.general.tpahere.request.success": "Ihre TPAHere Anfrage wurde gesendet.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Ihre TPAHere Anfrage wurde von <color:#FFD700>%accepter%</color> akzeptiert.",
+    "skyrealm.general.tpahere.request.incoming": "Sie haben eine neue TPAHere Anfrage von <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Klicken um</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click> zu akzeptieren",
+    "skyrealm.general.tpahere.invoker.accepted": "Ihre TPAHere Anfrage wurde akzeptiert."
 }
