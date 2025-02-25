@@ -15,5 +15,6 @@
     "skyrealm.friend.offline": "Prietenul tău %player% este acum deconectat.",
     "skyrealm.cloud.connecting_to_server": "Conectare la server: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Nu te poți teleporta aici.",
-    "player.levelup": "Ați atins nivelul <color:#FFD700>%level%</color>!"
+    "player.levelup": "Ați atins nivelul <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Serverul <color:#FFD700>%server%</color> se opreşte în <color:#FFD700>%delay%</color> secunde."
 }
