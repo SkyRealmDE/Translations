@@ -31,5 +31,12 @@
     "profile.effect.no_hunger.active": "<color:#dfe6e9>Aktivní efekt bez hladovění:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_damage.active": "<color:#dfe6e9>Aktivní bez poškození do:</color>\n<color:#FFD700>%expires%</color>",
     "profile.effect.no_gravity.active": "<color:#dfe6e9>Aktivní efekt bez gravitace do:</color>\n<color:#FFD700>%expires%</color>",
-    "profile.effect.no_gravity.cancel": "Váš efekt gravitace nebyl ukončen."
+    "profile.effect.no_gravity.cancel": "Váš efekt gravitace nebyl ukončen.",
+    "skyrealm.general.tpo.transferring": "Přenášení...",
+    "skyrealm.general.tpohere.transferring": "Přenos vás...",
+    "skyrealm.general.tpohere.already_requested": "Již jste je zde požádali o teleportování.",
+    "skyrealm.general.tpahere.request.success": "Vaše žádost o TPAHere byla odeslána.",
+    "skyrealm.general.tpahere.request.sender.accepted": "Váš požadavek na TPAHere byl přijat <color:#FFD700>%accepter%</color>.",
+    "skyrealm.general.tpahere.request.incoming": "Máte nový požadavek na TPAHere od <color:#FFD700>%source%</color>. <click:run_command='/tpahere accept %source%'><hover:show_text:'<aqua>Klikněte pro přijetí</aqua>'><color:#1fff39>[ACCEPT]</color></hover></click>",
+    "skyrealm.general.tpahere.invoker.accepted": "Váš požadavek na TPAHere byl přijat."
 }
