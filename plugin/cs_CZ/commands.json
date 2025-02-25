@@ -11,7 +11,7 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray>|</dark_gray> <yellow>Role:</yellow> <white>%role%</white> <dark_gray>|</dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Přijali jste pozvání do říše <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) s rolí <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Aktualizace role:</gold> <gray>%player%</gray> změněna z <yellow>%oldrole%</yellow> na <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Tvůj předmět byl úspěšně opraven!</green>",
+    "skyrealm.command.repair.success": "Váš předmět byl úspěšně opraven!",
     "commands.transform.p1": "První pozice nastavena.",
     "commands.transform.p2": "Druhá pozice nastavena.",
     "commands.transform.pivot.set": "Pivot nastaven.",
