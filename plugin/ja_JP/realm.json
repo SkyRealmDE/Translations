@@ -81,5 +81,14 @@
     "skyrealm.general.tpa.request.incoming": "<color:#FFD700>%source%</color> から新しいテレポート要求があります。",
     "skyrealm.general.tpa.invoker.accepted": "テレポート要求が承認されました。",
     "skyrealm.error.no-realms": "レルムが見つかりません。",
-    "realm.upgrade.skip": "<color:#FFD700>%level%</color> のレルムのアップグレードをスキップしました。"
+    "realm.upgrade.skip": "<color:#FFD700>%level%</color> のレルムのアップグレードをスキップしました。",
+    "realm.server.onlinetime.sixhours": "6時間プレイしています。少し休憩しますか？",
+    "realm.server.onlinetime.twelvehours": "もう12時間遊んでいます。もっとゆっくり休むか、コーヒーを飲みましょう！",
+    "realm.server.onlinetime.shuttingdown.thirtyminutes": "Realm サーバーは30分後に再起動されます。進行中のタスクをまとめてください。",
+    "realm.server.onlinetime.shuttingdown.tenminutes": "Realm サーバーは10分後に再起動されます。進捗を保存しましょう!",
+    "realm.server.onlinetime.shuttingdown.fiveminutes": "Realm サーバーは 5 分後に再起動されます。最後の準備です!",
+    "realm.server.onlinetime.shuttingdown.oneminute": "Realm サーバーは1分後に再起動されます。急いでください！",
+    "realm.server.onlinetime.shuttingdown.thirtyseconds": "Realm サーバーは 30 秒後に再起動されます。気をつけてください!",
+    "realm.server.onlinetime.shuttingdown.tenseconds": "Realm サーバーは 10 秒後に再起動します!",
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Realm サーバーは 3 秒後に再起動します..."
 }
