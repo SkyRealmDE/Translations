@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Je hebt met succes je realm-grootte geüpgraded.",
     "skyrealm.general.tpa.request.incoming": "Je hebt een nieuw teleport verzoek van <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Uw teleport aanvraag is geaccepteerd.",
-    "skyrealm.error.no-realms": "Geen realms gevonden."
+    "skyrealm.error.no-realms": "Geen realms gevonden.",
+    "realm.upgrade.skip": "Je hebt de Realm upgrade voor <color:#FFD700>%level%</color> overgeslagen."
 }
