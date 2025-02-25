@@ -27,5 +27,7 @@
     "commands.no_itemdisplay_nearby": "近くにアイテムの表示がありません。",
     "chat.cleared": "チャットをクリアしました。",
     "skyrealm.general.pay": "<color:#FFD700>%amount%</color> <color:#FFD700>%player%</color> にコインを支払いました。",
-    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>."
+    "skyrealm.payment.received": "You have received <color:#FFD700>%amount%</color> coins from <color:#FFD700>%sender%</color>.",
+    "skyrealm.friend.request-sent": "フレンドリクエストが送信されました。",
+    "skyrealm.friend.added": "友達として <color:#FFD700>%player%</color> を追加しました。"
 }
