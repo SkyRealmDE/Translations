@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Olet päivittänyt valtakuntasi koon onnistuneesti.",
     "skyrealm.general.tpa.request.incoming": "You have a new teleport request from <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Teleporttauspyyntösi on hyväksytty.",
-    "skyrealm.error.no-realms": "Valtakuntia ei löytynyt."
+    "skyrealm.error.no-realms": "Valtakuntia ei löytynyt.",
+    "realm.upgrade.skip": "You have skipped the realm upgrade for <color:#FFD700>%level%</color>."
 }
