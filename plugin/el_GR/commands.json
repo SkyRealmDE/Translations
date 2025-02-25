@@ -30,9 +30,9 @@
     "skyrealm.payment.received": "Έχετε λάβει <color:#FFD700>%amount%</color> νομίσματα από <color:#FFD700>%sender%</color>.",
     "skyrealm.friend.request-sent": "Το αίτημα φιλίας έχει σταλεί.",
     "skyrealm.friend.added": "Έχετε προσθέσει <color:#FFD700>%player%</color> ως φίλο.",
-    "skyrealm.success.create-realm.success": "Realm <color:#FFD700>%realm%</color> created successfully (UUID: <color:#FFD700>%uuid%</color>).",
-    "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
-    "skyrealm.menu.select_realm.title": "Select a Realm",
-    "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "No realms available."
+    "skyrealm.success.create-realm.success": "Το Realm <color:#FFD700>%realm%</color> δημιουργήθηκε με επιτυχία (UUID: <color:#FFD700>%uuid%</color>).",
+    "skyrealm.realm.name.set": "Το όνομα Realm ορίστηκε σε <color:#FFD700>%name%</color>.",
+    "skyrealm.menu.select_realm.title": "Επιλέξτε ένα Realm",
+    "skyrealm.menu.select_realm.used": "Το Realm <color:#FFD700>%realm%</color> χρησιμοποιείται αυτή τη στιγμή.",
+    "skyrealm.menu.select_realm.empty": "Δεν υπάρχουν διαθέσιμα realm."
 }
