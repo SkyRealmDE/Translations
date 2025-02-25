@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Vous avez réussi à améliorer la taille de votre royaume.",
     "skyrealm.general.tpa.request.incoming": "Vous avez une nouvelle demande de téléportation de <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Votre demande de téléportation a été acceptée.",
-    "skyrealm.error.no-realms": "Aucun royaume trouvé."
+    "skyrealm.error.no-realms": "Aucun royaume trouvé.",
+    "realm.upgrade.skip": "Vous avez ignoré la mise à niveau du royaume pour <color:#FFD700>%level%</color>."
 }
