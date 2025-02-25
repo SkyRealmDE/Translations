@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Úspěšně jste povýšili svou říši.",
     "skyrealm.general.tpa.request.incoming": "Máte nový požadavek na teleportování od <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Vaše žádost o teleportování byla přijata.",
-    "skyrealm.error.no-realms": "Nebyly nalezeny žádné říše."
+    "skyrealm.error.no-realms": "Nebyly nalezeny žádné říše.",
+    "realm.upgrade.skip": "Přeskohli jste upgrade říše pro <color:#FFD700>%level%</color>."
 }
