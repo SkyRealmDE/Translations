@@ -80,5 +80,6 @@
     "realm.size.upgrade.success": "Has mejorado con éxito el tamaño de tu reino.",
     "skyrealm.general.tpa.request.incoming": "Tienes una nueva solicitud de teletransporte de <color:#FFD700>%source%</color>.",
     "skyrealm.general.tpa.invoker.accepted": "Tu solicitud de teletransporte ha sido aceptada.",
-    "skyrealm.error.no-realms": "No se encontraron realms."
+    "skyrealm.error.no-realms": "No se encontraron realms.",
+    "realm.upgrade.skip": "Has omitido la actualización del reino para <color:#FFD700>%level%</color>."
 }
