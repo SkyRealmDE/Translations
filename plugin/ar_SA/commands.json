@@ -11,7 +11,7 @@
     "commands.invite.list.entry": "<gray>المجال : <aqua>%realm%</aqua> (المعرف: <white>%realmId%</white></gray> <dark_gray><unk></dark_gray> <yellow>الدور:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT؟</click></green>",
     "commands.invite.accept.success": "لقد قبلت الدعوة إلى عالم <yellow>%realm%</yellow> (المعرف: <white>%realmId%</white>مع الدور <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>تحديث الدور:</gold> <gray>%player%</gray> تغير من <yellow>%oldrole%</yellow> إلى <yellow>%role%</yellow>",
-    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!</green>",
+    "skyrealm.command.repair.success": "تم إصلاح العنصر الخاص بك بنجاح!",
     "commands.transform.p1": "تم تعيين الموضع الأول.",
     "commands.transform.p2": "المجموعة الثانية للموقع.",
     "commands.transform.pivot.set": "مجموعة المحوريات.",
