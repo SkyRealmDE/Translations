@@ -11,7 +11,7 @@
     "commands.invite.list.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray> <dark_gray><unk></dark_gray> <yellow>Roll:</yellow> <white>%role%</white> <dark_gray><unk></dark_gray> <green><click:run_command:'/realm invite accept %realmId%'>ACCEPT?</click></green>",
     "commands.invite.accept.success": "Du har accepterat inbjudan till Realm <yellow>%realm%</yellow> (ID: <white>%realmId%</white>) med rollen <white>%role%</white>.</green>",
     "commands.invite.updated-role": "<gold>Rolluppdatering:</gold> <gray>%player%</gray> ändrad från <yellow>%oldrole%</yellow> till <yellow>%role%</yellow>.",
-    "skyrealm.command.repair.success": "Ditt objekt har reparerats framgångsrikt!</green>",
+    "skyrealm.command.repair.success": "Ditt objekt har reparerats framgångsrikt!",
     "commands.transform.p1": "Första positionen inställd.",
     "commands.transform.p2": "Andra positionen inställd.",
     "commands.transform.pivot.set": "Pivot satt.",
