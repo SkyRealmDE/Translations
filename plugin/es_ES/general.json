@@ -22,6 +22,8 @@
     "store.gems": "¡Gracias por comprar gemas! Has recibido <color:#FFD700>%gems%</color> gemas.",
     "store.rank": "¡Gracias por comprar un rango! Ahora tienes <color:#FFD700>%rank%</color>.",
     "store.rank.days": "¡Gracias por comprar un rango temporal! Ahora tienes <color:#FFD700>%rank%</color> para <color:#FFD700>%days%</color> días.",
+    "store.purchase.rank.success": "Thanks for purchasing a rank! You have obtained <color:#FFD700>%rank%</color> and <color:#FFD700>%gems%</color> gems.",
+    "store.purchase.gems.success": "Thanks for purchasing <color:#FFD700>%gems%</color> gems!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min Sin efecto Hambre.\n<color:#dfe6e9>Precio: <color:#FFD700>%price%</color> Gemas",
     "profile.effect.no_damage": "<color:#dfe6e9>30min sin efecto de daño.\n<color:#dfe6e9>No afecta a pvp.\n<color:#dfe6e9>Precio: <color:#FFD700>%price%</color> Gemas",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min Sin gravedad (vuelo).\n<color:#dfe6e9>Precio: <color:#FFD700>%price%</color> Gemas",
