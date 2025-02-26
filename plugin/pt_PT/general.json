@@ -22,6 +22,8 @@
     "store.gems": "Obrigado por comprar gemas! Você recebeu <color:#FFD700>%gems%</color> gemas.",
     "store.rank": "Obrigado por adquirir um rank! Agora você tem <color:#FFD700>%rank%</color>.",
     "store.rank.days": "Obrigado por adquirir uma patente cronometrada! Agora você tem <color:#FFD700>%rank%</color> para <color:#FFD700>%days%</color> dias.",
+    "store.purchase.rank.success": "Obrigado por adquirir um rank! Você obteve <color:#FFD700>%rank%</color> e <color:#FFD700>%gems%</color> gemas.",
+    "store.purchase.gems.success": "Obrigado por adquirir gemas <color:#FFD700>%gems%</color>!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min No Hunger effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_damage": "<color:#dfe6e9>30min Sem efeito de dano.\n<color:#dfe6e9>não afeta o pvp.\n<color:#dfe6e9>Preço: <color:#FFD700>%price%</color> Gemas",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min No Gravity (Fly) effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
