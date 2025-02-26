@@ -67,7 +67,7 @@
     "generator.settings.lapis.enabled": "Your lapis generator setting is now: %enabled%.",
     "generator.settings.iron.enabled": "Η ρύθμιση της γεννήτριας σιδήρου είναι τώρα: %enabled%.",
     "generator.settings.coal.enabled": "Your coal generator setting is now: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Το τρέχον όριο οντότητας είναι:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9>Αναβάθμιση από</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>σε</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Απαιτήσεις:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Επίπεδο Παίκτη:</color> <color:#FFD700>%level%</color>",
