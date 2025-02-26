@@ -67,7 +67,7 @@
     "generator.settings.lapis.enabled": "Din lapis generator indstilling er nu: %enabled%.",
     "generator.settings.iron.enabled": "Din jerngenerator indstilling er nu: %enabled%.",
     "generator.settings.coal.enabled": "Din kulgenerator indstilling er nu: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Din nuværende enhedsgrænse er:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9>Opgradering fra</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>til</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Krav:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Spillerniveau:</color> <color:#FFD700>%level%</color>",
