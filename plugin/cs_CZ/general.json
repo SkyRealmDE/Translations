@@ -22,6 +22,8 @@
     "store.gems": "Děkujeme za zakoupení gemů! Obdrželi jste <color:#FFD700>%gems%</color> dárek.",
     "store.rank": "Děkujeme, že jste si zakoupili hodnost! Nyní máte <color:#FFD700>%rank%</color>.",
     "store.rank.days": "Děkujeme, že jste zakoupili časovou hodnost! Nyní máte <color:#FFD700>%rank%</color> pro <color:#FFD700>%days%</color> dní.",
+    "store.purchase.rank.success": "Děkujeme, že jste si zakoupili hodnost! Získali jste <color:#FFD700>%rank%</color> a <color:#FFD700>%gems%</color> dárek.",
+    "store.purchase.gems.success": "Děkujeme za zakoupení <color:#FFD700>%gems%</color> dárek!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min žádný efekt hladu.\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Gemy",
     "profile.effect.no_damage": "<color:#dfe6e9>30min Bez poškození.\n<color:#dfe6e9>nemá vliv na pvp.\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Gemy",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min bez gravitace (nulový efekt.\n<color:#dfe6e9>Cena: <color:#FFD700>%price%</color> Gemy",
