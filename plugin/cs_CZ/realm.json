@@ -67,7 +67,7 @@
     "generator.settings.lapis.enabled": "Vaše nastavení generátoru lapis je nyní: %enabled%.",
     "generator.settings.iron.enabled": "Vaše nastavení generátoru železa je teď: %enabled%.",
     "generator.settings.coal.enabled": "Vaše nastavení generátoru uhlí je nyní: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Váš současný limit entity je:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9>Aktualizace z</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>na</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Požadavky:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Úroveň hráče:</color> <color:#FFD700>%level%</color>",
