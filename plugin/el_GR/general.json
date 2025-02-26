@@ -22,6 +22,8 @@
     "store.gems": "Ευχαριστούμε που αγοράσατε πολύτιμους λίθους! Έχετε λάβει <color:#FFD700>%gems%</color> πολύτιμους λίθους.",
     "store.rank": "Ευχαριστούμε που αγοράσατε μια τάξη! Τώρα έχετε <color:#FFD700>%rank%</color>.",
     "store.rank.days": "Ευχαριστούμε που αγοράσατε μια χρονομετρική κατάταξη! Τώρα έχετε <color:#FFD700>%rank%</color> για <color:#FFD700>%days%</color> ημέρες.",
+    "store.purchase.rank.success": "Ευχαριστούμε που αγοράσατε μια τάξη! Έχετε λάβει <color:#FFD700>%rank%</color> και <color:#FFD700>%gems%</color> πολύτιμους λίθους.",
+    "store.purchase.gems.success": "Ευχαριστούμε για την αγορά <color:#FFD700>%gems%</color> πολύτιμους λίθους!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min Δεν υπάρχει αποτέλεσμα πείνας.\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_damage": "<color:#dfe6e9>30min Χωρίς εφέ βλάβης.\n<color:#dfe6e9>Δεν επηρεάζει το pvp.\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min κανένα αποτέλεσμα βαρύτητας (Fly)\n<color:#dfe6e9>Τιμή: <color:#FFD700>%price%</color> Gems",
