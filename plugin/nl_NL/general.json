@@ -22,6 +22,8 @@
     "store.gems": "Bedankt voor het kopen van edelstenen! U heeft gekregen <color:#FFD700>%gems%</color> edelstenen.",
     "store.rank": "Bedankt voor het kopen van een rank! Je hebt nu <color:#FFD700>%rank%</color>.",
     "store.rank.days": "Bedankt voor het kopen van een timed rank! Je hebt nu <color:#FFD700>%rank%</color> voor <color:#FFD700>%days%</color> dagen.",
+    "store.purchase.rank.success": "Bedankt voor het kopen van een rank! Je hebt <color:#FFD700>%rank%</color> en <color:#FFD700>%gems%</color> edelstenen verkregen.",
+    "store.purchase.gems.success": "Bedankt voor het kopen van <color:#FFD700>%gems%</color> edelstenen!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min Geen Honger effect.\n<color:#dfe6e9>Prijs: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_damage": "<color:#dfe6e9>30min geen schade effect.\n<color:#dfe6e9>beïnvloedt geen pvp.\n<color:#dfe6e9>Prijs: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min Geen Zwaartekracht (Fly) effect.\n<color:#dfe6e9>Prijs: <color:#FFD700>%price%</color> Gems",
