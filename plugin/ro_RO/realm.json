@@ -67,7 +67,7 @@
     "generator.settings.lapis.enabled": "Setarea generatorului de lapis este acum: %enabled%.",
     "generator.settings.iron.enabled": "Setarea generatorului dvs. de fier este acum: %enabled%.",
     "generator.settings.coal.enabled": "Setarea generatorului de cărbune este acum: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Limita actuală a entității este:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9></color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>la</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Cerințe:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Nivelul jucătorilor:</color> <color:#FFD700>%level%</color>",
