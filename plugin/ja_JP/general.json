@@ -22,6 +22,8 @@
     "store.gems": "宝石を購入していただきありがとうございます！ <color:#FFD700>%gems%</color> ジェムを受け取りました。",
     "store.rank": "ランクを購入していただきありがとうございます！これで <color:#FFD700>%rank%</color> が手に入りました。",
     "store.rank.days": "Thanks for purchasing a timed rank! You now have <color:#FFD700>%rank%</color> for <color:#FFD700>%days%</color> days.",
+    "store.purchase.rank.success": "ランクを購入していただきありがとうございます！ <color:#FFD700>%rank%</color> と <color:#FFD700>%gems%</color> の宝石を獲得しました。",
+    "store.purchase.gems.success": "<color:#FFD700>%gems%</color> ジェムをご購入いただきありがとうございます！",
     "profile.effect.no_hunger": "<color:#dfe6e9>30分間空腹効果なし。\n<color:#dfe6e9>価格： <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_damage": "<color:#dfe6e9>30分間ダメージなし。\n<color:#dfe6e9>Pvpには影響しません。\n<color:#dfe6e9>価格: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_gravity": "<color:#dfe6e9>15分間重力なし（飛行）効果。\n<color:#dfe6e9>価格： <color:#FFD700>%price%</color> Gems",
