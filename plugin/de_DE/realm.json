@@ -67,7 +67,7 @@
     "generator.settings.lapis.enabled": "Ihre Lapis-Generator-Einstellung ist jetzt: %enabled%.",
     "generator.settings.iron.enabled": "Ihre Eisengenerator-Einstellung ist jetzt: %enabled%.",
     "generator.settings.coal.enabled": "Ihre Kohlegenerator-Einstellung ist jetzt: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Your current entity limit is:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Ihr aktuelles Entitätslimit ist:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9>Upgrade von</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>auf</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Anforderungen:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Spielerlevel:</color> <color:#FFD700>%level%</color>",
