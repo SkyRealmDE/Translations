@@ -22,6 +22,8 @@
     "store.gems": "Thanks for purchasing gems! You have received <color:#FFD700>%gems%</color> gems.",
     "store.rank": "شكرا لشراء رتبة! لديك الآن <color:#FFD700>%rank%</color>.",
     "store.rank.days": "شكرا لشراء ترتيب موقوت! لديك الآن <color:#FFD700>%rank%</color> لمدة <color:#FFD700>%days%</color> أيام.",
+    "store.purchase.rank.success": "شكرا لشراء رتبة! لقد حصلت على الجواهر <color:#FFD700>%rank%</color> و <color:#FFD700>%gems%</color>",
+    "store.purchase.gems.success": "شكرا لشراء الجواهر <color:#FFD700>%gems%</color>!",
     "profile.effect.no_hunger": "<color:#dfe6e9>30min No Hunger effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_damage": "<color:#dfe6e9>30min No Damage effect.\n<color:#dfe6e9>Does not affect pvp.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
     "profile.effect.no_gravity": "<color:#dfe6e9>15min No Gravity (Fly) effect.\n<color:#dfe6e9>Price: <color:#FFD700>%price%</color> Gems",
