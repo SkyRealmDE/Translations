@@ -2,6 +2,7 @@
     "skyrealm.general.transfer": "Du vil bli overført til en annen instans...",
     "skyrealm.general.tablist.footer.slogan": "Bygg ditt eget rike i SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Du er nå på %server%",
+    "skyrealm.general.tablist.footer.online": "Spillere pålogget: <color:#FFD700>%online%</color>",
     "skyrealm.general.kicked-no-reason": "Du har blitt sparket fra tjeneren.",
     "skyrealm.general.kicked": "Du har blitt sparket ut av serveren for %reason%",
     "general.coins": "Du har %coins%",
