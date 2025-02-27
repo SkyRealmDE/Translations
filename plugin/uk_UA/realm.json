@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Сервер реалму перезавантажиться через одну хвилину. Поспішайте!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Сервер реалму буде перезавантажений через 30 секунд. Відпочиньте себе!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Сервер реалму перезавантажиться через 10 секунд!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Сервер реалму перезавантажиться через 3 секунди..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Сервер реалму перезавантажиться через 3 секунди...",
+    "realm.features.sleepamount.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її.",
+    "realm.features.keep_inventory.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її.",
+    "realm.features.biome.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її.",
+    "realm.features.fire_tick.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її.",
+    "realm.features.wandering_trader.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її.",
+    "features.keepinventory.locked": "Ця функція заблокована. Придбайте преміум рейтинг, щоб розблокувати її."
 }
