@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Je hebt de maximale entiteitlimiet upgrade bereikt.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Succesvol bijgewerkt</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>tot een limiet van</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>.",
+    "realm.entitylimits.limitreached": "Je hebt het limiet bereikt van <color:#FFD700>%limit%</color> voor <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Je Realm-bank bevat momenteel munten <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Je hebt <color:#FFD700>%money%</color> munten gestort op de Realm bank.",
     "realm.size.upgrade.success": "Je hebt met succes je realm-grootte geüpgraded.",
