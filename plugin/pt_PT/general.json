@@ -2,6 +2,7 @@
     "skyrealm.general.transfer": "Você será transferido para outra instância...",
     "skyrealm.general.tablist.footer.slogan": "Construa o seu próprio reino no SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Você está atualmente em %server%",
+    "skyrealm.general.tablist.footer.online": "Jogadores online: <color:#FFD700>%online%</color>",
     "skyrealm.general.kicked-no-reason": "Você foi expulso do servidor.",
     "skyrealm.general.kicked": "Você foi expulso do servidor para %reason%",
     "general.coins": "Você tem %coins%",
