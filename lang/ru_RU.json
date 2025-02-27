@@ -5,5 +5,10 @@
     "connect.transferring": "Передача в другой экземпляр...",
     "skyrealm.messages.link.open": "Нажмите, чтобы открыть ссылку",
     "skyrealm.messages.command.run": "Нажмите, чтобы запустить команду",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "Звуки SkyRealm",
+    "cosmetics.old_hat": "Старая шляпа",
+    "cosmetics.old_hat.lore": "Шляпа прошлого",
+    "cosmetics.farmer_hat": "Шляпа фермера",
+    "cosmetics.farmer_hat.lore": "Шляпа фермера",
+    "cosmetics.farmer_hat.lore.2": "-2 секунды перезарядки"
 }
