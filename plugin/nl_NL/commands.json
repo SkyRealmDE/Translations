@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm naam ingesteld op <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Selecteer een realm",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is momenteel in gebruik.",
-    "skyrealm.menu.select_realm.empty": "Geen realms beschikbaar."
+    "skyrealm.menu.select_realm.empty": "Geen realms beschikbaar.",
+    "skyrealm.commands.onlinetime.other.total": "Totale online tijd voor <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Huidige sessie tijd voor <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Word lid van Discord voor nieuws, updates en communitydiscussies. https://discord.gg/RHky8tfJZr",
+    "store.info": "Bezoek onze winkel om ranks en edelstenen te kopen. https://store.sky-realm.com/"
 }
