@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Dosáhli jste maximálního limitu pro entitu.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Musíte být alespoň na úrovni</color> <color:#FFD700>%level%</color> <color:#dfe6e9>pro zvýšení limitu entity pro</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Úspěšně aktualizován</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>na limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Dosáhli jste limitu <color:#FFD700>%limit%</color> pro <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Vaše říše banka momentálně drží <color:#FFD700>%money%</color> mince.",
     "skyrealm.realm.money.deposit": "Vložili jste <color:#FFD700>%money%</color> mince do říše.",
     "realm.size.upgrade.success": "Úspěšně jste povýšili svou říši.",
