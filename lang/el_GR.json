@@ -5,5 +5,10 @@
     "connect.transferring": "Μεταφορά σε άλλη περίπτωση...",
     "skyrealm.messages.link.open": "Κλικ για άνοιγμα συνδέσμου",
     "skyrealm.messages.command.run": "Κλικ για εκτέλεση εντολής",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "Ήχοι SkyRealm",
+    "cosmetics.old_hat": "Παλιό Καπέλο",
+    "cosmetics.old_hat.lore": "Ένα καπέλο από το παρελθόν",
+    "cosmetics.farmer_hat": "Καπέλο Αγρότη",
+    "cosmetics.farmer_hat.lore": "Το καπέλο του αγρότη",
+    "cosmetics.farmer_hat.lore.2": "-2 δευτερόλεπτα επαναφόρτιση twerk"
 }
