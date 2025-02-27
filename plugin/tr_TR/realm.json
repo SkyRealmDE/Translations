@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Your realm server will restart in 1 minute. Hurry up!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Your realm server will restart in 30 seconds. Brace yourself!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Your realm server will restart in 10 seconds!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Your realm server will restart in 3 seconds..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Your realm server will restart in 3 seconds...",
+    "realm.features.sleepamount.locked": "This feature is locked. Purchase a premium rank to unlock it.",
+    "realm.features.keep_inventory.locked": "This feature is locked. Purchase a premium rank to unlock it.",
+    "realm.features.biome.locked": "This feature is locked. Purchase a premium rank to unlock it.",
+    "realm.features.fire_tick.locked": "This feature is locked. Purchase a premium rank to unlock it.",
+    "realm.features.wandering_trader.locked": "This feature is locked. Purchase a premium rank to unlock it.",
+    "features.keepinventory.locked": "This feature is locked. Purchase a premium rank to unlock it."
 }
