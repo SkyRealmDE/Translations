@@ -5,5 +5,10 @@
     "connect.transferring": "Передача до іншого екземпляру...",
     "skyrealm.messages.link.open": "Натисніть, щоб відкрити посилання",
     "skyrealm.messages.command.run": "Натисніть, щоб запустити команду",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "SkyRealm – звуки",
+    "cosmetics.old_hat": "Старий капелюх",
+    "cosmetics.old_hat.lore": "Капелюх з минулого",
+    "cosmetics.farmer_hat": "Головний убір фермера",
+    "cosmetics.farmer_hat.lore": "Крізь капелюх фермера",
+    "cosmetics.farmer_hat.lore.2": "-2 секунди подвійного охолодження"
 }
