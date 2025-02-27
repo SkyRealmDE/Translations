@@ -5,5 +5,10 @@
     "connect.transferring": "Trasferimento in un'altra istanza...",
     "skyrealm.messages.link.open": "Fare clic per aprire il collegamento",
     "skyrealm.messages.command.run": "Fare clic per eseguire il comando",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "Suoni SkyRealm",
+    "cosmetics.old_hat": "Vecchio Cappello",
+    "cosmetics.old_hat.lore": "Un cappello del passato",
+    "cosmetics.farmer_hat": "Cappello Contadino",
+    "cosmetics.farmer_hat.lore": "Cappello del contadino",
+    "cosmetics.farmer_hat.lore.2": "-2 secondi twerk cooldown"
 }
