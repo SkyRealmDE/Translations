@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Votre serveur de royaume va redémarrer dans 1 minute. Dépêchez-vous !",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Votre serveur de royaume va redémarrer dans 30 secondes. Préparez-vous !",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Votre serveur de royaume va redémarrer dans 10 secondes!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Votre serveur de royaume va redémarrer dans 3 secondes..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Votre serveur de royaume va redémarrer dans 3 secondes...",
+    "realm.features.sleepamount.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller.",
+    "realm.features.keep_inventory.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller.",
+    "realm.features.biome.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller.",
+    "realm.features.fire_tick.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller.",
+    "realm.features.wandering_trader.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller.",
+    "features.keepinventory.locked": "Cette fonctionnalité est verrouillée. Achetez un grade premium pour la déverrouiller."
 }
