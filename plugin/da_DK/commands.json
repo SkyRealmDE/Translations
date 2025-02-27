@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm navn sat til <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Vælg et realm",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> er i brug.",
-    "skyrealm.menu.select_realm.empty": "Ingen realms tilgængelige."
+    "skyrealm.menu.select_realm.empty": "Ingen realms tilgængelige.",
+    "skyrealm.commands.onlinetime.other.total": "Samlet online tid for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Nuværende sessionstid for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Deltag i vores Discord for nyheder, opdateringer og diskussioner om fællesskab. https://discord.gg/RHky8tfJZr",
+    "store.info": "Besøg vores butik for at købe rangs og perler. https://store.sky-realm.com/"
 }
