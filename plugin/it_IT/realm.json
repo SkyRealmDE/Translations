@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Hai raggiunto il limite massimo dell'entità.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Devi avere almeno il livello</color> <color:#FFD700>%level%</color> <color:#dfe6e9>per aggiornare il limite di entità per</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>aggiornato con successo</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>ad un limite di</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Hai raggiunto il limite di <color:#FFD700>%limit%</color> per <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "La tua banca realm attualmente detiene monete <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Hai depositato monete <color:#FFD700>%money%</color> nella banca del regno.",
     "realm.size.upgrade.success": "Hai aggiornato con successo la dimensione del tuo reame.",
