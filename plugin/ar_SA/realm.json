@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "سيتم إعادة تشغيل خادم المجال الخاص بك في 1 دقيقة. اسرع !",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "سيرفر المجال الخاص بك سوف يعاد تشغيله في 30 ثانية. قم بنفسك",
     "realm.server.onlinetime.shuttingdown.tenseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 10 ثوان!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 3 ثوان..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 3 ثوان...",
+    "realm.features.sleepamount.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها.",
+    "realm.features.keep_inventory.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها.",
+    "realm.features.biome.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها.",
+    "realm.features.fire_tick.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها.",
+    "realm.features.wandering_trader.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها.",
+    "features.keepinventory.locked": "هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتحها."
 }
