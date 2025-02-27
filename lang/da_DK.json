@@ -5,5 +5,10 @@
     "connect.transferring": "Overfører til en anden instans...",
     "skyrealm.messages.link.open": "Klik for at åbne link",
     "skyrealm.messages.command.run": "Klik for at køre kommando",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "SkyRealm Lyde",
+    "cosmetics.old_hat": "Gammel Hat",
+    "cosmetics.old_hat.lore": "En hat fra fortiden",
+    "cosmetics.farmer_hat": "Landmand Hat",
+    "cosmetics.farmer_hat.lore": "Landmandens hat",
+    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown"
 }
