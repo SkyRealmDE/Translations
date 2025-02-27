@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "选择领域",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "没有可用的领域。"
+    "skyrealm.menu.select_realm.empty": "没有可用的领域。",
+    "skyrealm.commands.onlinetime.other.total": "Total online time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Current session time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "加入我们的 Discord 获取新闻、更新和社区讨论。https://discord.gg/RHky8tfJZr",
+    "store.info": "访问我们的商店以购买等级和宝石。https://store.sky-realm.com/"
 }
