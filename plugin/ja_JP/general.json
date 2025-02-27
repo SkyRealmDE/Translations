@@ -2,6 +2,7 @@
     "skyrealm.general.transfer": "別のインスタンスに転送されます...",
     "skyrealm.general.tablist.footer.slogan": "SkyRealmで自分の王国を作ろう！",
     "skyrealm.general.tablist.footer.current_server": "あなたは現在 %server%にいます",
+    "skyrealm.general.tablist.footer.online": "オンラインプレイヤー： <color:#FFD700>%online%</color>",
     "skyrealm.general.kicked-no-reason": "サーバーからキックされました。",
     "skyrealm.general.kicked": "あなたは %reason%のためにサーバーからキックされました",
     "general.coins": "あなたは %coins% を所有しています",
