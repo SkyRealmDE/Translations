@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "Nessun reame disponibile.",
     "skyrealm.commands.onlinetime.other.total": "Tempo totale online per <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Tempo di sessione corrente per <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Unisciti al nostro Discord per news, aggiornamenti e discussioni sulla comunità. https://discord.gg/RHky8tfJZr",
-    "store.info": "Visita il nostro negozio per acquistare ranghi e gemme. https://store.sky-realm.com/"
+    "discord.info": "Unisciti al nostro Discord per news, aggiornamenti e discussioni sulla comunità. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Clicca per unirti a Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Visita il nostro negozio per acquistare ranghi e gemme. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Clicca per aprire il negozio</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
 }
