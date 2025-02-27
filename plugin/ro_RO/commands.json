@@ -38,5 +38,7 @@
     "skyrealm.commands.onlinetime.other.total": "Timp total online pentru <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Timpul curent al sesiunii pentru <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "discord.info": "Alătură-te Discord pentru știri, actualizări și discuții în comunitate. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Apasă pentru a te alătura Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
-    "store.info": "Vizitați magazinul nostru pentru a achiziționa ranguri și gemuri. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Faceți clic pentru a deschide magazinul</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
+    "store.info": "Vizitați magazinul nostru pentru a achiziționa ranguri și gemuri. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Faceți clic pentru a deschide magazinul</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
+    "migrate.start": "Începe migrarea elementului...",
+    "migrate.success": "Migrare articol finalizată cu succes."
 }
