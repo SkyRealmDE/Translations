@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Il tuo server realm si riavvierà tra 1 minuto. Affrettati!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Il tuo server realm si riavvierà tra 30 secondi. Ti accontenti!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Il tuo server realm si riavvierà tra 10 secondi!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Il tuo server realm si riavvierà tra 3 secondi..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Il tuo server realm si riavvierà tra 3 secondi...",
+    "realm.features.sleepamount.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
+    "realm.features.keep_inventory.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
+    "realm.features.biome.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
+    "realm.features.fire_tick.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
+    "realm.features.wandering_trader.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
+    "features.keepinventory.locked": "Questa funzione è bloccata. Acquista un rango premium per sbloccarlo."
 }
