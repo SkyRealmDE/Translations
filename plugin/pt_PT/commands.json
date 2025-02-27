@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Nome do Realm definido como <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Selecione um Realm",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> está em uso no momento.",
-    "skyrealm.menu.select_realm.empty": "Nenhum Realm disponível."
+    "skyrealm.menu.select_realm.empty": "Nenhum Realm disponível.",
+    "skyrealm.commands.onlinetime.other.total": "Tempo total online para <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Tempo atual de sessão para <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Junte-se ao nosso Discord para notícias, atualizações e discussões na comunidade. https://discord.gg/RHky8tfJZr",
+    "store.info": "Visite nossa loja para comprar ranks e gemas. https://store.sky-realm.com/"
 }
