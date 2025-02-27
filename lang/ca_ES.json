@@ -5,5 +5,10 @@
     "connect.transferring": "Transferring to another instance...",
     "skyrealm.messages.link.open": "Click to open link",
     "skyrealm.messages.command.run": "Click to run command",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "SkyRealm Sounds",
+    "cosmetics.old_hat": "Old Hat",
+    "cosmetics.old_hat.lore": "A hat from the past",
+    "cosmetics.farmer_hat": "Farmer Hat",
+    "cosmetics.farmer_hat.lore": "The farmer's hat",
+    "cosmetics.farmer_hat.lore.2": "-2 seconds twerk cooldown"
 }
