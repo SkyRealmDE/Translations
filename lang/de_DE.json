@@ -5,5 +5,10 @@
     "connect.transferring": "Übertragung in eine andere Instanz...",
     "skyrealm.messages.link.open": "Zum Öffnen des Links klicken",
     "skyrealm.messages.command.run": "Klicke zum Ausführen des Befehls",
-    "soundCategory.voice": "SkyRealm Musik"
+    "soundCategory.voice": "SkyRealm Töne",
+    "cosmetics.old_hat": "Alter Hut",
+    "cosmetics.old_hat.lore": "Ein Hut aus der Vergangenheit",
+    "cosmetics.farmer_hat": "Bauer Hut",
+    "cosmetics.farmer_hat.lore": "Der Hut des Landwirts",
+    "cosmetics.farmer_hat.lore.2": "-2 Sekunden twerk Abklingzeit"
 }
