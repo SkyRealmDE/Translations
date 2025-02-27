@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm name set to <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Valitse valtakunta",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> is currently in use.",
-    "skyrealm.menu.select_realm.empty": "Ei valtakuntia saatavilla."
+    "skyrealm.menu.select_realm.empty": "Ei valtakuntia saatavilla.",
+    "skyrealm.commands.onlinetime.other.total": "Total online time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Current session time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Liity Discordiin uutisia, päivityksiä ja yhteisökeskusteluja. https://discord.gg/RHky8tfJZr",
+    "store.info": "Vieraile kaupassamme ostaaksesi rivejä ja jalokiviä. https://store.sky-realm.com/"
 }
