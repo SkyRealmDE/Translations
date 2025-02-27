@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Назва реалму встановлена на <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Виберіть реалм",
     "skyrealm.menu.select_realm.used": "Зараз використовується реалм <color:#FFD700>%realm%</color>.",
-    "skyrealm.menu.select_realm.empty": "Немає доступних областей."
+    "skyrealm.menu.select_realm.empty": "Немає доступних областей.",
+    "skyrealm.commands.onlinetime.other.total": "Загальний онлайн час для <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Поточний час сесії для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Приєднайтеся до нашої Discord для новин, оновлень та обговорення спільноти. https://discord.gg/RHky8tfJZr",
+    "store.info": "Відвідайте наш магазин для покупки рангів та гемотів. https://store.sky-realm.com/"
 }
