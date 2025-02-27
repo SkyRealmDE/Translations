@@ -5,5 +5,10 @@
     "connect.transferring": "Overdragen naar een andere instantie...",
     "skyrealm.messages.link.open": "Klik om de link te openen",
     "skyrealm.messages.command.run": "Klik om opdracht uit te voeren",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "SkyRealm geluiden",
+    "cosmetics.old_hat": "Oude Hoed",
+    "cosmetics.old_hat.lore": "Een hoed van het verleden",
+    "cosmetics.farmer_hat": "Boeren Hoed",
+    "cosmetics.farmer_hat.lore": "De hoed van de boer",
+    "cosmetics.farmer_hat.lore.2": "-2 seconden twerk afkoeltijd"
 }
