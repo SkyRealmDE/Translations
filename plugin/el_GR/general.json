@@ -2,6 +2,7 @@
     "skyrealm.general.transfer": "Θα μεταφερθείτε σε άλλη περίπτωση...",
     "skyrealm.general.tablist.footer.slogan": "Φτιάξτε το δικό σας βασίλειο στο SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Είστε σε %server%",
+    "skyrealm.general.tablist.footer.online": "Συνδεδεμένοι παίκτες: <color:#FFD700>%online%</color>",
     "skyrealm.general.kicked-no-reason": "Έχετε εκδιωχθεί από το διακομιστή.",
     "skyrealm.general.kicked": "Έχετε διώξει από το διακομιστή για το %reason%",
     "general.coins": "You have %coins%",
