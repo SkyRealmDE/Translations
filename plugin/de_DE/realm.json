@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Dein Realm-Server wird in 1 Minute neu starten. Beeile dich!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Dein Realm-Server wird in 30 Sekunden neu starten. Bleib selbst!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Dein Realm-Server wird in 10 Sekunden neu starten!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Dein Realm-Server wird in 3 Sekunden neu starten..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Dein Realm-Server wird in 3 Sekunden neu starten...",
+    "realm.features.sleepamount.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten.",
+    "realm.features.keep_inventory.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten.",
+    "realm.features.biome.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten.",
+    "realm.features.fire_tick.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten.",
+    "realm.features.wandering_trader.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten.",
+    "features.keepinventory.locked": "Diese Funktion ist gesperrt. Kaufe einen Premium-Rang um sie freizuschalten."
 }
