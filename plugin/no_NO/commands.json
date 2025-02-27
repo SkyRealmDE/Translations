@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm-navnet er satt til <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Velg en realm",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> er i bruk.",
-    "skyrealm.menu.select_realm.empty": "Ingen realmer er tilgjengelige."
+    "skyrealm.menu.select_realm.empty": "Ingen realmer er tilgjengelige.",
+    "skyrealm.commands.onlinetime.other.total": "Total på-tid i <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Gjeldende økttid for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Delta i vår Discord for nyheter, oppdateringer og samfunnsdiskusjoner. https://discord.gg/RHky8tJZr",
+    "store.info": "Besøk vår butikk for å kjøpe ranks, og gemer. https://store.sky-realm.com/"
 }
