@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "No hay reinos disponibles.",
     "skyrealm.commands.onlinetime.other.total": "Tiempo total en línea para <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Tiempo de sesión actual para <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Únete a nuestro Discord para obtener noticias, actualizaciones y discusiones comunitarias. https://discord.gg/RHky8tfJZr",
-    "store.info": "Visita nuestra tienda para comprar rangos y gemas. https://store.sky-realm.com/"
+    "discord.info": "Únete a nuestro Discord para obtener noticias, actualizaciones y discusiones comunitarias. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Haz clic para unirte a Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Visite nuestra tienda para comprar filas y gemas. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Haga clic para abrir la tienda</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
 }
