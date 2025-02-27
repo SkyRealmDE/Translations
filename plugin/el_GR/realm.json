@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Έχετε φτάσει το μέγιστο όριο οντότητας.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Πρέπει να είστε τουλάχιστον επίπεδο</color> <color:#FFD700>%level%</color> <color:#dfe6e9>για να αναβαθμίσετε το όριο οντότητας για</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>ανανεώθηκε επιτυχώς</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>σε όριο</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Έχετε φτάσει το όριο <color:#FFD700>%limit%</color> για <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Η τράπεζα realm σας κατέχει νομίσματα <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "You have deposited <color:#FFD700>%money%</color> coins into the realm bank.",
     "realm.size.upgrade.success": "Έχετε αναβαθμίσει με επιτυχία το μέγεθος του realm σας.",
