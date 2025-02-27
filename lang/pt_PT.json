@@ -5,5 +5,10 @@
     "connect.transferring": "Transferindo para outra instância...",
     "skyrealm.messages.link.open": "Clique para abrir o link",
     "skyrealm.messages.command.run": "Clique para executar o comando",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "Sons de SkyRealm",
+    "cosmetics.old_hat": "Chapéu Velho",
+    "cosmetics.old_hat.lore": "Um chapéu do passado",
+    "cosmetics.farmer_hat": "Chapéu de Agricultor",
+    "cosmetics.farmer_hat.lore": "O chapéu do fazendeiro",
+    "cosmetics.farmer_hat.lore.2": "-2 segundos recarga intermitente"
 }
