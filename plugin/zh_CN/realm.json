@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "你的领域服务器将在 1 分钟后重启。快来吧！",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "你的领域服务器将在 30 秒内重启。请放心！",
     "realm.server.onlinetime.shuttingdown.tenseconds": "你的领域服务器将在 10 秒内重启！",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "你的领域服务器将在 3 秒后重启..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "你的领域服务器将在 3 秒后重启...",
+    "realm.features.sleepamount.locked": "此功能已锁定。购买高级等级以解锁它。",
+    "realm.features.keep_inventory.locked": "此功能已锁定。购买高级等级以解锁它。",
+    "realm.features.biome.locked": "此功能已锁定。购买高级等级以解锁它。",
+    "realm.features.fire_tick.locked": "此功能已锁定。购买高级等级以解锁它。",
+    "realm.features.wandering_trader.locked": "此功能已锁定。购买高级等级以解锁它。",
+    "features.keepinventory.locked": "此功能已锁定。购买高级等级以解锁它。"
 }
