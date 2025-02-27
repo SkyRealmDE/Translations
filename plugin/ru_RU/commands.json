@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Имя реалма установлено в <color:#FFD700>%name%</color>",
     "skyrealm.menu.select_realm.title": "Выберите реалм",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> в настоящее время используется.",
-    "skyrealm.menu.select_realm.empty": "Нет доступных реалмов."
+    "skyrealm.menu.select_realm.empty": "Нет доступных реалмов.",
+    "skyrealm.commands.onlinetime.other.total": "Общее время онлайн для <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Текущее время сессии для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Присоединяйтесь к нашему Discord для новостей, обновлений и обсуждений в сообществе. https://discord.gg/RHky8tfJZr",
+    "store.info": "Посетите наш магазин, чтобы приобрести ранги и самоцветы. https://store.sky-realm.com/"
 }
