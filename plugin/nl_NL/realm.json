@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Je realm-server zal over 1 minuut opnieuw starten. Haast u!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Je Realm-server zal over 30 seconden opnieuw starten. Brace jezelf!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Je realm server zal over 10 seconden opnieuw opstarten!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Je realm-server zal over 3 seconden opnieuw opstarten..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Je realm-server zal over 3 seconden opnieuw opstarten...",
+    "realm.features.sleepamount.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen.",
+    "realm.features.keep_inventory.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen.",
+    "realm.features.biome.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen.",
+    "realm.features.fire_tick.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen.",
+    "realm.features.wandering_trader.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen.",
+    "features.keepinventory.locked": "Deze functie is vergrendeld. Koop een premium rang om deze te ontgrendelen."
 }
