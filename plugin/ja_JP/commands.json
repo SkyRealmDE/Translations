@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm の名前を <color:#FFD700>%name%</color> に設定しました。",
     "skyrealm.menu.select_realm.title": "Realm を選択",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> が現在使用されています。",
-    "skyrealm.menu.select_realm.empty": "利用可能なレルムがありません．"
+    "skyrealm.menu.select_realm.empty": "利用可能なレルムがありません．",
+    "skyrealm.commands.onlinetime.other.total": "<color:#FFD700>%player%</color>: <color:#FFD700>%total%</color> のオンライン時間",
+    "skyrealm.commands.onlinetime.other.current": "<color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Discordに参加して、ニュース、アップデート、コミュニティの議論をしましょう。https://discord.gg/RHky8tfJZr",
+    "store.info": "店舗でランクと宝石を購入してください。https://store.sky-realm.com/"
 }
