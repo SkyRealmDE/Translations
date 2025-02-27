@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "利用可能なレルムがありません．",
     "skyrealm.commands.onlinetime.other.total": "<color:#FFD700>%player%</color>: <color:#FFD700>%total%</color> のオンライン時間",
     "skyrealm.commands.onlinetime.other.current": "<color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Discordに参加して、ニュース、アップデート、コミュニティの議論をしましょう。https://discord.gg/RHky8tfJZr",
-    "store.info": "店舗でランクと宝石を購入してください。https://store.sky-realm.com/"
+    "discord.info": "Join our Discord for news, updates, and community discussions. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Click to join Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "<click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Click to open store</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
 }
