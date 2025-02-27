@@ -64,5 +64,11 @@
     "gui.premium.anvil.lore": "<color:#dfe6e9>Open a virtual anvil from anywhere.</color>",
     "gui.premium.biome": "Biome",
     "gui.premium.biome.lore": "<color:#dfe6e9>Change your realm biome instantly.</color>",
-    "gui.premium.try.lore.already-premium": "<color:#dfe6e9>You already have a premium rank! Enjoy your benefits.</color>"
+    "gui.premium.try.lore.already-premium": "<color:#dfe6e9>You already have a premium rank! Enjoy your benefits.</color>",
+    "gui.premium.try.use.already-premium": "You already have a premium rank!",
+    "gui.premium.try": "Try Premium",
+    "gui.premium.try.lore": "<color:#dfe6e9>Test out premium features for free, limited usage!</color>",
+    "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>You can try premium again in <color:#FFD700>%next%</color>.</color>",
+    "gui.premium.try.use.success": "You have successfully activated your premium trial!",
+    "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again."
 }
