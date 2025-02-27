@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Tu servidor de reinos se reiniciará en 1 minuto. ¡Date prisa!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Tu servidor de reinos se reiniciará en 30 segundos. ¡Prepárate para ti mismo!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "¡Tu servidor de reinos se reiniciará en 10 segundos!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Tu servidor de reinos se reiniciará en 3 segundos..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Tu servidor de reinos se reiniciará en 3 segundos...",
+    "realm.features.sleepamount.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla.",
+    "realm.features.keep_inventory.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla.",
+    "realm.features.biome.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla.",
+    "realm.features.fire_tick.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla.",
+    "realm.features.wandering_trader.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla.",
+    "features.keepinventory.locked": "Esta función está bloqueada. Compra un rango premium para desbloquearla."
 }
