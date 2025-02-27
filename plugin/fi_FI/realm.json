@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Valtakuntasi palvelin käynnistyy uudelleen 1 minuutin kuluttua. Kiirehdittä!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Valtakuntasi palvelin käynnistyy uudelleen 30 sekunnissa. Aaltoile itse!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Valtakuntasi palvelin käynnistyy uudelleen 10 sekunnin kuluttua!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Valtakuntasi palvelin käynnistyy uudelleen 3 sekunnin kuluttua..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Valtakuntasi palvelin käynnistyy uudelleen 3 sekunnin kuluttua...",
+    "realm.features.sleepamount.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
+    "realm.features.keep_inventory.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
+    "realm.features.biome.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
+    "realm.features.fire_tick.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
+    "realm.features.wandering_trader.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
+    "features.keepinventory.locked": "Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen."
 }
