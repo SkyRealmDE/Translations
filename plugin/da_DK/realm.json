@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Din realm-server vil genstarte om 1 minut. Skynd dig!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Din realm-server vil genstarte om 30 sekunder. Gør dig selv!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Din realm-server vil genstarte om 10 sekunder!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Din realm-server genstarter om 3 sekunder..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Din realm-server genstarter om 3 sekunder...",
+    "realm.features.sleepamount.locked": "Denne funktion er låst. Køb en premium rang for at låse den op.",
+    "realm.features.keep_inventory.locked": "Denne funktion er låst. Køb en premium rang for at låse den op.",
+    "realm.features.biome.locked": "Denne funktion er låst. Køb en premium rang for at låse den op.",
+    "realm.features.fire_tick.locked": "Denne funktion er låst. Køb en premium rang for at låse den op.",
+    "realm.features.wandering_trader.locked": "Denne funktion er låst. Køb en premium rang for at låse den op.",
+    "features.keepinventory.locked": "Denne funktion er låst. Køb en premium rang for at låse den op."
 }
