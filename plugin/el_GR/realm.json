@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Ο realm server σας θα κάνει επανεκκίνηση σε 1 λεπτό. Γρήγορα!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 30 δευτερόλεπτα. Brace τον εαυτό σας!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 10 δευτερόλεπτα!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 3 δευτερόλεπτα..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Ο realm server σας θα κάνει επανεκκίνηση σε 3 δευτερόλεπτα...",
+    "realm.features.sleepamount.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε.",
+    "realm.features.keep_inventory.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε.",
+    "realm.features.biome.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε.",
+    "realm.features.fire_tick.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε.",
+    "realm.features.wandering_trader.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε.",
+    "features.keepinventory.locked": "Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε ένα premium βαθμό για να το ξεκλειδώσετε."
 }
