@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Вы достигли максимального улучшения лимита сущностей.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Вам должен быть хотя бы</color> <color:#FFD700>%level%</color> <color:#dfe6e9>для повышения лимита сущностей для</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9></color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Вы достигли предела <color:#FFD700>%limit%</color> для <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Your realm bank currently holds <color:#FFD700>%money%</color> coins.",
     "skyrealm.realm.money.deposit": "You have deposited <color:#FFD700>%money%</color> coins into the realm bank.",
     "realm.size.upgrade.success": "Размер реалма успешно обновлен.",
