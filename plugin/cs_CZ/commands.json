@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Název říše nastaven na <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Vyberte říši",
     "skyrealm.menu.select_realm.used": "Říše <color:#FFD700>%realm%</color> se právě používá.",
-    "skyrealm.menu.select_realm.empty": "Žádné říše nejsou k dispozici."
+    "skyrealm.menu.select_realm.empty": "Žádné říše nejsou k dispozici.",
+    "skyrealm.commands.onlinetime.other.total": "Celkový online čas pro <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Aktuální čas relace pro <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Připojte se k Discordu pro novinky, aktualizace a diskuze komunity. https://discord.gg/RHky8tfJZr",
+    "store.info": "Navštivte náš obchod pro nákup hodností a gems. https://store.sky-realm.com/"
 }
