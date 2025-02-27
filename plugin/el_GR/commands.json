@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Το όνομα Realm ορίστηκε σε <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Επιλέξτε ένα Realm",
     "skyrealm.menu.select_realm.used": "Το Realm <color:#FFD700>%realm%</color> χρησιμοποιείται αυτή τη στιγμή.",
-    "skyrealm.menu.select_realm.empty": "Δεν υπάρχουν διαθέσιμα realm."
+    "skyrealm.menu.select_realm.empty": "Δεν υπάρχουν διαθέσιμα realm.",
+    "skyrealm.commands.onlinetime.other.total": "Συνολικός online χρόνος για <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Τρέχουσα ώρα συνεδρίας για <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Γίνετε μέλος του Discord για ειδήσεις, ενημερώσεις και συζητήσεις της κοινότητας. https://discord.gg/RHky8tfJZr",
+    "store.info": "Επισκεφθείτε το κατάστημά μας για να αγοράσετε βαθμολογίες και πολύτιμους λίθους. https://store.sky-realm.com/"
 }
