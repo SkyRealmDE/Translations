@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Serverul tău se va reporni în 1 minut. Grăbește-te!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Serverul tău se va reporni în 30 de secunde. Bracă-te!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Tărâmul tău va fi repornit în 10 secunde!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Serverul tău va reporni în 3 secunde..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Serverul tău va reporni în 3 secunde...",
+    "realm.features.sleepamount.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca.",
+    "realm.features.keep_inventory.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca.",
+    "realm.features.biome.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca.",
+    "realm.features.fire_tick.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca.",
+    "realm.features.wandering_trader.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca.",
+    "features.keepinventory.locked": "Această caracteristică este blocată. Achiziționați un rang premium pentru a o debloca."
 }
