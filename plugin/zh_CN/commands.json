@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "没有可用的领域。",
     "skyrealm.commands.onlinetime.other.total": "Total online time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Current session time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "加入我们的 Discord 获取新闻、更新和社区讨论。https://discord.gg/RHky8tfJZr",
-    "store.info": "访问我们的商店以购买等级和宝石。https://store.sky-realm.com/"
+    "discord.info": "Join our Discord for news, updates, and community discussions. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Click to join Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Visit our store to purchase ranks and gems. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Click to open store</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
 }
