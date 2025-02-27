@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "Keine Realms verfügbar.",
     "skyrealm.commands.onlinetime.other.total": "Gesamte Online-Zeit für <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Aktuelle Sitzungszeit für <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Nimm an unserer Discord für News, Updates und Diskussionen in der Community teil. https://discord.gg/RHky8tfJZr",
-    "store.info": "Besuche unseren Shop, um Ränge und Edelsteine zu kaufen. https://store.sky-realm.com/"
+    "discord.info": "Trete unserer Discord bei für News, Updates und Diskussionen in der Gemeinschaft. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Klicke um Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Besuchen Sie unseren Shop, um Ränge und Edelsteine zu kaufen. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klicken Sie hier, um Store</aqua>><color:#1fff39>https://store.sky-realm.com/</color></hover></click> zu öffnen"
 }
