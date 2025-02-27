@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Realm-Name auf <color:#FFD700>%name%</color> gesetzt.",
     "skyrealm.menu.select_realm.title": "Realm auswählen",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> wird gerade verwendet.",
-    "skyrealm.menu.select_realm.empty": "Keine Realms verfügbar."
+    "skyrealm.menu.select_realm.empty": "Keine Realms verfügbar.",
+    "skyrealm.commands.onlinetime.other.total": "Gesamte Online-Zeit für <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Aktuelle Sitzungszeit für <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Nimm an unserer Discord für News, Updates und Diskussionen in der Community teil. https://discord.gg/RHky8tfJZr",
+    "store.info": "Besuche unseren Shop, um Ränge und Edelsteine zu kaufen. https://store.sky-realm.com/"
 }
