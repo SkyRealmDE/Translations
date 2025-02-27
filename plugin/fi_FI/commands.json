@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "Ei valtakuntia saatavilla.",
     "skyrealm.commands.onlinetime.other.total": "Total online time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Current session time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Liity Discordiin uutisia, päivityksiä ja yhteisökeskusteluja. https://discord.gg/RHky8tfJZr",
-    "store.info": "Vieraile kaupassamme ostaaksesi rivejä ja jalokiviä. https://store.sky-realm.com/"
+    "discord.info": "Liity Discordiin uutisia, päivityksiä ja yhteisön keskusteluja varten. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Klikkaa liittyäksesi Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Käy kaupassamme ostaaksesi rivejä ja jalokiviä. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klikkaa avataksesi kaupan</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
 }
