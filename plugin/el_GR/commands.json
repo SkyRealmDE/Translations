@@ -38,5 +38,7 @@
     "skyrealm.commands.onlinetime.other.total": "Συνολικός online χρόνος για <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Τρέχουσα ώρα συνεδρίας για <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "discord.info": "Γίνετε μέλος του Discord για ειδήσεις, ενημερώσεις και συζητήσεις στην κοινότητα. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Κάντε κλικ για να συμμετάσχετε στο Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
-    "store.info": "Επισκεφθείτε το κατάστημά μας για να αγοράσετε τάξεις και πολύτιμους λίθους. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Κάντε κλικ για να ανοίξετε το κατάστημα</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>"
+    "store.info": "Επισκεφθείτε το κατάστημά μας για να αγοράσετε τάξεις και πολύτιμους λίθους. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Κάντε κλικ για να ανοίξετε το κατάστημα</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
+    "migrate.start": "Έναρξη μετάβασης στοιχείου...",
+    "migrate.success": "Η μετανάστευση στοιχείου ολοκληρώθηκε επιτυχώς."
 }
