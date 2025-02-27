@@ -2,6 +2,7 @@
     "skyrealm.general.transfer": "Vei fi transferat într-o altă instanță...",
     "skyrealm.general.tablist.footer.slogan": "Construiește-ți propriul regat în SkyRealm!",
     "skyrealm.general.tablist.footer.current_server": "Ești în prezent pe %server%",
+    "skyrealm.general.tablist.footer.online": "Jucători online: <color:#FFD700>%online%</color>",
     "skyrealm.general.kicked-no-reason": "Ai fost dat afară de pe server.",
     "skyrealm.general.kicked": "Ai fost dat afară de pe server pentru %reason%",
     "general.coins": "Aveți %coins%",
