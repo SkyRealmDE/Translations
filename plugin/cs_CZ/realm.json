@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Váš server říše se restartuje za 1 minutu. Pospěšte si!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Váš server říše se restartuje za 30 sekund. Začněte sami sebe!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Váš říškový server bude restartován za 10 sekund!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Váš říškový server se restartuje za 3 sekundy..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Váš říškový server se restartuje za 3 sekundy...",
+    "realm.features.sleepamount.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení.",
+    "realm.features.keep_inventory.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení.",
+    "realm.features.biome.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení.",
+    "realm.features.fire_tick.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení.",
+    "realm.features.wandering_trader.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení.",
+    "features.keepinventory.locked": "Tato funkce je uzamčena. Kupte si prémiovou hodnost pro její odemčení."
 }
