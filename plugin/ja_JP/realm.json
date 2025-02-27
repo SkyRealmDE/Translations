@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Realm サーバーは1分後に再起動されます。急いでください！",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Realm サーバーは 30 秒後に再起動されます。気をつけてください!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Realm サーバーは 10 秒後に再起動します!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Realm サーバーは 3 秒後に再起動します..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Realm サーバーは 3 秒後に再起動します...",
+    "realm.features.sleepamount.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。",
+    "realm.features.keep_inventory.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。",
+    "realm.features.biome.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。",
+    "realm.features.fire_tick.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。",
+    "realm.features.wandering_trader.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。",
+    "features.keepinventory.locked": "この機能はロックされています。プレミアムランクを購入してロックを解除してください。"
 }
