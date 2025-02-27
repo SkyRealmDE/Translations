@@ -5,5 +5,10 @@
     "connect.transferring": "Transfiriendo a otra instancia...",
     "skyrealm.messages.link.open": "Haga clic para abrir el enlace",
     "skyrealm.messages.command.run": "Haga clic para ejecutar el comando",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "Sonidos de SkyRealm",
+    "cosmetics.old_hat": "Sombrero viejo",
+    "cosmetics.old_hat.lore": "Un sombrero del pasado",
+    "cosmetics.farmer_hat": "Sombrero Granjero",
+    "cosmetics.farmer_hat.lore": "Sombrero del agricultor",
+    "cosmetics.farmer_hat.lore.2": "Tiempo de reutilización de -2 segundos"
 }
