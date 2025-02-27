@@ -9,5 +9,6 @@
     "cosmetics.old_hat": "Old Hat",
     "cosmetics.old_hat.lore": "A hat from the past",
     "cosmetics.farmer_hat": "Farmer Hat",
-    "cosmetics.farmer_hat.lore": "The farmer's hat\n \n- 2 seconds twerk cooldown"
+    "cosmetics.farmer_hat.lore": "The farmer's hat",
+    "cosmetics.farmer_hat.lore.2": "- 2 seconds twerk cooldown"
 }
