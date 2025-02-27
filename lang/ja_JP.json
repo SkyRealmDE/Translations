@@ -5,5 +5,10 @@
     "connect.transferring": "別のインスタンスに転送中...",
     "skyrealm.messages.link.open": "クリックしてリンクを開く",
     "skyrealm.messages.command.run": "クリックしてコマンドを実行",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "SkyRealmの音",
+    "cosmetics.old_hat": "古い帽子",
+    "cosmetics.old_hat.lore": "過去の帽子",
+    "cosmetics.farmer_hat": "農夫の帽子",
+    "cosmetics.farmer_hat.lore": "農民の帽子",
+    "cosmetics.farmer_hat.lore.2": "-2 秒のクールダウン時間"
 }
