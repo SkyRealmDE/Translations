@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Ați atins limita maximă de entități.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Actualizat cu succes</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>până la limita de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Ați atins limita de <color:#FFD700>%limit%</color> pentru <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Banca ta din tărâm deține în prezent monede de la <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Ai depozitat <color:#FFD700>%money%</color> monede în banca pentru tărâm.",
     "realm.size.upgrade.success": "Ai actualizat cu succes dimensiunea tărâmului.",
