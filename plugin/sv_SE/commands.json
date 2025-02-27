@@ -37,6 +37,6 @@
     "skyrealm.menu.select_realm.empty": "Inga Realms tillgängliga.",
     "skyrealm.commands.onlinetime.other.total": "Total tid online för <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.current": "Aktuell sessionstid för <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "discord.info": "Gå med i vår Discord för nyheter, uppdateringar och diskussioner. https://discord.gg/RHky8tfJZr",
-    "store.info": "Besök vår butik för att köpa ranker och pärlor. https://store.sky-realm<unk>"
+    "discord.info": "Gå med i vår Discord för nyheter, uppdateringar och gemenskapsdiskussioner. <click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'<aqua>Klicka för att gå med i Discord</aqua>'><color:#1fff39>https://discord.gg/RHky8tfJZr</color></hover></click>",
+    "store.info": "Besök vår butik för att köpa rang och pärlor. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klicka för att öppna butiken</aqua>'><color:#1fff39>https://store.sky-realm<unk></color></hover></click>"
 }
