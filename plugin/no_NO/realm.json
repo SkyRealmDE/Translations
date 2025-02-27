@@ -75,6 +75,7 @@
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du har nådd maksimal entitets oppgradering.</color>",
     "realm.entities.limit.error.level": "<color:#dfe6e9>Du må være på minst nivå</color> <color:#FFD700>%level%</color> <color:#dfe6e9>for å oppgradere enhetens grense for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
+    "realm.entitylimits.limitreached": "Du har nådd grensen for <color:#FFD700>%limit%</color> for <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Din realmbank har for tiden <color:#FFD700>%money%</color> mynter.",
     "skyrealm.realm.money.deposit": "Du har deponert <color:#FFD700>%money%</color> mynter i realmbanken.",
     "realm.size.upgrade.success": "Du har oppgradert realmens størrelsen.",
