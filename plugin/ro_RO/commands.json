@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "Nume de tărâm setat la <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "Selectează un tărâm",
     "skyrealm.menu.select_realm.used": "Realm <color:#FFD700>%realm%</color> este folosit în prezent.",
-    "skyrealm.menu.select_realm.empty": "Niciun tărâm disponibil."
+    "skyrealm.menu.select_realm.empty": "Niciun tărâm disponibil.",
+    "skyrealm.commands.onlinetime.other.total": "Timp total online pentru <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "Timpul curent al sesiunii pentru <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "Alătură-te Discord nostru pentru știri, actualizări și discuții în comunitate. https://discord.gg/RHky8tfJZr",
+    "store.info": "Vizitați magazinul nostru pentru a achiziționa rank-uri și gemuri. https://store.sky-realm.com/"
 }
