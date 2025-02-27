@@ -34,5 +34,9 @@
     "skyrealm.realm.name.set": "تم تعيين اسم المجال إلى <color:#FFD700>%name%</color>.",
     "skyrealm.menu.select_realm.title": "اختر المجال",
     "skyrealm.menu.select_realm.used": "المجال <color:#FFD700>%realm%</color> قيد الاستخدام حاليا.",
-    "skyrealm.menu.select_realm.empty": "لا توجد مجالات متاحة."
+    "skyrealm.menu.select_realm.empty": "لا توجد مجالات متاحة.",
+    "skyrealm.commands.onlinetime.other.total": "إجمالي الوقت على الإنترنت ل <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.current": "الوقت الحالي للجلسات <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "discord.info": "انضم إلى ديسكورد للحصول على الأخبار والتحديثات ومناقشات المجتمع. https://discord.gg/RHky8tfJZr",
+    "store.info": "قم بزيارة متجرنا لشراء الرتب والأحجار الكريمة. https://store.sky-realm.com/"
 }
