@@ -5,5 +5,10 @@
     "connect.transferring": "جارٍ الانتقال إلى حالة أخرى...",
     "skyrealm.messages.link.open": "انقر لفتح الرابط",
     "skyrealm.messages.command.run": "انقر لتشغيل الأمر",
-    "soundCategory.voice": "SkyRealm Music"
+    "soundCategory.voice": "أصوات سماء ريالم",
+    "cosmetics.old_hat": "قبعة قديمة",
+    "cosmetics.old_hat.lore": "قبعة من الماضي",
+    "cosmetics.farmer_hat": "قبعة مزارع",
+    "cosmetics.farmer_hat.lore": "قبعة المزارع",
+    "cosmetics.farmer_hat.lore.2": "2 ثواني تبريد"
 }
