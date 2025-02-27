@@ -90,5 +90,11 @@
     "realm.server.onlinetime.shuttingdown.oneminute": "Seu servidor de Realm será reiniciado em 1 minuto. Corra!",
     "realm.server.onlinetime.shuttingdown.thirtyseconds": "Seu servidor de Realm irá reiniciar em 30 segundos. Use você mesmo!",
     "realm.server.onlinetime.shuttingdown.tenseconds": "Seu servidor de Realm será reiniciado em 10 segundos!",
-    "realm.server.onlinetime.shuttingdown.threeseconds": "Seu servidor de Realm será reiniciado em 3 segundos..."
+    "realm.server.onlinetime.shuttingdown.threeseconds": "Seu servidor de Realm será reiniciado em 3 segundos...",
+    "realm.features.sleepamount.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo.",
+    "realm.features.keep_inventory.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo.",
+    "realm.features.biome.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo.",
+    "realm.features.fire_tick.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo.",
+    "realm.features.wandering_trader.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo.",
+    "features.keepinventory.locked": "Este recurso está bloqueado. Compre um rank premium para desbloqueá-lo."
 }
