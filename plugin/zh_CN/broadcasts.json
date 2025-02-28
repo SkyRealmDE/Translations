@@ -2,15 +2,15 @@
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>你知道吗？一把钩子会自动复制你的作物。",
     "broadcast.bugs": "🐛 找到 bug? 在 <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub上报告!</hover></click></color>",
     "broadcast.feedback": "💬 Got feedback? Join the <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>",
-    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>使用 <white>/premium</white>尝试高级功能！在 <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>我们的商店</white></hover></click></color>",
     "broadcast.tips.generator": "⚒ <color:#FCE7C8>Upgrade your generator via <white>/realms</white> → <white>upgrades</white> → <white>generator</white> and boost your resource production!</color>",
     "broadcast.tips.automation": ":rowt: <color:#FCE7C8>主自动化来移动你的利润。一个小的计划可以带来巨大的收益！</color>",
     "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>有些NPC是阴暗的，支付的费用较少。在销售前比较价格！</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>你可以把土熔化成沙子。谁说你不能把土变成有用的东西吗？</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Crush cobblestone into sand for crafting, building, or trading!</color>",
-    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water with sand or dirt to create mud—it's a key ingredient for various recipes!</color>",
-    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Dry mud in the oven to get dirt. It's a clever way to cycle resources!</color>",
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>与沙子或土混合水以创建泥土—这是各种配方的一个关键成分！</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>干净的泥土来获得土。这是一个干净的循环资源方式!</color>",
     "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
-    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, craft it easy!</color>"
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo 是一个快速的替代木头来源。快进制它!</color>"
 }
