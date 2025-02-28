@@ -2,15 +2,15 @@
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Věděli jste? Hávka automaticky vysadí tvé plodiny!",
     "broadcast.bugs": "🐛 Našli jste chybu? Nahlásit ji na <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
     "broadcast.feedback": "💬 Máte zpětnou vazbu? Připojte se k <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discordu!</hover></click></color>",
-    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Vyzkoušejte prémiové funkce s <white>/premium</white>! Odemkněte ještě více výhod v <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>náš obchod</white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Upgradujte generátor pomocí <white>/realms</white> → <white>upgrade</white> → <white>generátor</white> a zvyšte vaši produkci zdrojů!</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>Master automatizace pro raketové rakety. Malé plánování může vést k obrovským ziskům!</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Můžete pozvat přátele do své říše pomocí <white>/říše pozvat \\<name\\></white>. Hrajte společně a sdílejte zábavu!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Některé NPC jsou ostudné a platí méně za stejnou položku. Porovnejte ceny před prodejem!</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Můžeš roztavit hlínu na písku. Kdo říká, že nemůžeš přeměnit hlínu na něco užitečného?</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Tlač kostky do písku pro výrobu, stavbu nebo obchodování!</color>",
-    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water with sand or dirt to create mud—it's a key ingredient for various recipes!</color>",
-    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Dry mud in the oven to get dirt. It's a clever way to cycle resources!</color>",
-    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
-    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, craft it easy!</color>"
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Smíchejte vodu s pískem nebo hlínou a vytvářejte bahno — je to klíčová surovina pro různé recepty!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Suchý bahno v peci, aby se dostalo hlíny. Je to chytrý způsob, jak cyklovat zdroje!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>Od Minecraftu 1.21 může nový blok řemeslníka automaticky vyrobit jakýkoliv recept!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo je rychlý alternativní dřevěný zdroj. Rychle se rozroste, vyrobte to snadně!</color>"
 }
