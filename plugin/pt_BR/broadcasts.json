@@ -5,12 +5,12 @@
     "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Atualize o seu gerador via <white>/realms</white> → <white>atualiza</white> → <white>gerador</white> e acelera a sua produção de recursos!</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>Mestre automação para aumentar seus lucros. Um pequeno planejamento pode levar a grandes ganhos!</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Você pode convidar amigos para o seu reino usando <white>/realm convite \\<name\\></white>. Jogue junto e compartilhe a diversão!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Alguns NPCs estão com sombras e pagam menos pelo mesmo item. Compare os preços antes da venda!</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Você pode fundir a sujeira em areia. Quem diz que você não pode transformar a sujeira em algo útil?</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Esmague pedregulho na areia para criar, construir ou trocar!</color>",
-    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water with sand or dirt to create mud—it's a key ingredient for various recipes!</color>",
-    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Dry mud in the oven to get dirt. It's a clever way to cycle resources!</color>",
-    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
-    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, craft it easy!</color>"
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Misture água com areia ou terra para criar barata — é um ingrediente chave para várias receitas!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Barba no forno para ir à terra. É uma maneira inteligente de rodar os recursos!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>A partir do Minecraft 1.21, o novo bloco de criação pode criar automaticamente qualquer receita para você!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bambu é uma fonte alternativa rápida de madeira. Cresça rápido, Fabrique fácil!</color>"
 }
