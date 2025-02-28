@@ -2,15 +2,15 @@
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>知っていましたか？くわは作物を自動的に植え替えます！",
     "broadcast.bugs": "🐛 バグを見つけましたか？ <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub！</hover></click></color>",
     "broadcast.feedback": "💬 フィードバックを得ましたか？ <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discordに参加しましょう！</hover></click></color>",
-    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8> <white>/premium</white>でプレミアム機能をお試しください! <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white></white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒️ <color:#FCE7C8> <white>/realms</white> → <white>は</white> → <white>ジェネレーター</white> をアップグレードし、リソース生産を強化します！</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>利益を上げるためのマスターオートメーション。少しの計画は大きな利益をもたらす可能性があります！</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8> <white>/realm invite \\<name\\></white>で友達をレルムに招待できます。一緒に遊んで楽しみを共有しましょう！</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>いくつかのNPCは日陰であり、同じアイテムに対して少ない支払いです。販売する前に価格を比較してください！</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>土を砂に精錬することができます。土を何か役に立つものにすることはできないと誰が言っていますか？</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>石畳を砂に砕いてクラフト、建築、取引をしよう！</color>",
-    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water with sand or dirt to create mud—it's a key ingredient for various recipes!</color>",
-    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Dry mud in the oven to get dirt. It's a clever way to cycle resources!</color>",
-    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
-    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, craft it easy!</color>"
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>水と砂や汚れを混ぜて泥を作ります—これは様々なレシピの重要な成分です！</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>汚れを取得するためにオーブンで泥を乾燥させます。資源を循環させる賢い方法です！</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>Minecraft 1.21 では、新しい crafter ブロックは任意のレシピを自動的に作成できます。</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, create it easy!</color>"
 }
