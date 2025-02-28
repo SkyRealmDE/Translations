@@ -1,5 +1,16 @@
 {
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>А ви знали? Оруна автоматично замінить свій урожай!",
     "broadcast.bugs": "🐛 Found a bug? Report it on <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": "💬 Got feedback? Join the <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
+    "broadcast.feedback": "💬 Got feedback? Join the <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
+    "broadcast.tips.generator": "⚒ <color:#FCE7C8>Upgrade your generator via <white>/realms</white> → <white>upgrades</white> → <white>generator</white> and boost your resource production!</color>",
+    "broadcast.tips.automation": "🚀 <color:#FCE7C8>перевірити автоматизацію так, щоб обдурити ваш прибуток. Маленьке планування може призвести до величезних вигод!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
+    "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Деякі NPC не платять і не платять за один і той самий товар. Порівняння цін перед продажем!</color>",
+    "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Ви можете переплавляти землю в пісок. Хто каже, що не можете перетворити землю в щось корисне?</color>",
+    "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Crush cobblestone into sand for crafting, building, or trading!</color>",
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water with sand or dirt to create mud—it's a key ingredient for various recipes!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Dry mud in the oven to get dirt. It's a clever way to cycle resources!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboo is a speedy alternative source of wood. Grow it fast, craft it easy!</color>"
 }
