@@ -41,5 +41,7 @@
     "store.info": "Odwiedź nasz sklep, aby kupić rangi. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Kliknij aby otworzyć sklep</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Rozpoczęcie migracji elementu...",
     "migrate.success": "Pomyślnie zakończono migrację elementu.",
-    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Friend request sent to <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Zaproszenie do znajomych zostało zaakceptowane."
 }
