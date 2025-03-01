@@ -41,5 +41,7 @@
     "store.info": "Επισκεφθείτε το κατάστημά μας για να αγοράσετε τάξεις και πολύτιμους λίθους. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Κάντε κλικ για να ανοίξετε το κατάστημα</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Έναρξη μετάβασης στοιχείου...",
     "migrate.success": "Η μετανάστευση στοιχείου ολοκληρώθηκε επιτυχώς.",
-    "commands.invite.invited": "Έχετε προσκαλέσει <color:#FFD700>%player%</color> ως <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Έχετε προσκαλέσει <color:#FFD700>%player%</color> ως <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Το αίτημα φιλίας στάλθηκε στο <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Το αίτημα φιλίας έγινε αποδεκτό."
 }
