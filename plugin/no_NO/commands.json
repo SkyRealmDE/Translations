@@ -43,5 +43,9 @@
     "migrate.success": "Elementet migrering fullført.",
     "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Venneforespørsel sendt til <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "Venneforespørsel akseptert."
+    "skyrealm.friend.accepted": "Venneforespørsel akseptert.",
+    "features.sleepamount.price": "Pris: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "Ingen elementer funnet i din hovedhånd.",
+    "sell.all.not.sellable": "Denne varen kan ikke bli solgt.",
+    "skyrealm.realm.spawn.set": "Startposisjon for realmen er blitt satt."
 }
