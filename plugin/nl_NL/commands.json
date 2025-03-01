@@ -41,5 +41,7 @@
     "store.info": "Bezoek onze winkel om gelederen en edelstenen te kopen. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klik om winkel te openen</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Begin item migratie...",
     "migrate.success": "Item migratie succesvol voltooid.",
-    "commands.invite.invited": "Je hebt <color:#FFD700>%player%</color> uitgenodigd als <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Je hebt <color:#FFD700>%player%</color> uitgenodigd als <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Vriendschapsverzoek verzonden naar <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Vriendschapsverzoek geaccepteerd."
 }
