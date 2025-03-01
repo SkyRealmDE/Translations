@@ -43,5 +43,9 @@
     "migrate.success": "Migrazione dell'elemento completata con successo.",
     "commands.invite.invited": "Hai invitato <color:#FFD700>%player%</color> come <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Richiesta di amicizia inviata a <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "Richiesta di amicizia accettata."
+    "skyrealm.friend.accepted": "Richiesta di amicizia accettata.",
+    "features.sleepamount.price": "Prezzo: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "Nessun oggetto trovato nella tua mano principale.",
+    "sell.all.not.sellable": "Questo oggetto non può essere venduto.",
+    "skyrealm.realm.spawn.set": "La posizione di generazione del reame è stata impostata."
 }
