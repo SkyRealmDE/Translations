@@ -41,5 +41,7 @@
     "store.info": "Visite nossa loja para comprar ranks e gemas. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Clique para abrir a loja</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Iniciando migração de item...",
     "migrate.success": "Migração de item concluída com sucesso.",
-    "commands.invite.invited": "Você convidou <color:#FFD700>%player%</color> como <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Você convidou <color:#FFD700>%player%</color> como <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Pedido de amizade enviado para <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Solicitação de amizade aceita."
 }
