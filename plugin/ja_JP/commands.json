@@ -43,5 +43,9 @@
     "migrate.success": "アイテムの移行が正常に完了しました。",
     "commands.invite.invited": "<color:#FFD700>%player%</color> を <color:#FFD700>%role%</color> に招待しました。",
     "skyrealm.friend.requested": "<color:#FFD700>%player%</color> にフレンドリクエストを送信しました。",
-    "skyrealm.friend.accepted": "フレンド申請が承認されました。"
+    "skyrealm.friend.accepted": "フレンド申請が承認されました。",
+    "features.sleepamount.price": "価格： <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "メインハンドにアイテムが見つかりません。",
+    "sell.all.not.sellable": "このアイテムは販売できません。",
+    "skyrealm.realm.spawn.set": "Realm のスポーン場所が設定されました。"
 }
