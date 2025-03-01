@@ -41,5 +41,7 @@
     "store.info": "Visita il nostro negozio per acquistare ranghi e gemme. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Clicca per aprire il negozio</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Avvio della migrazione...",
     "migrate.success": "Migrazione dell'elemento completata con successo.",
-    "commands.invite.invited": "Hai invitato <color:#FFD700>%player%</color> come <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Hai invitato <color:#FFD700>%player%</color> come <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Richiesta di amicizia inviata a <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Richiesta di amicizia accettata."
 }
