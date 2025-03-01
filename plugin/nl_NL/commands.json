@@ -43,5 +43,9 @@
     "migrate.success": "Item migratie succesvol voltooid.",
     "commands.invite.invited": "Je hebt <color:#FFD700>%player%</color> uitgenodigd als <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Vriendschapsverzoek verzonden naar <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "Vriendschapsverzoek geaccepteerd."
+    "skyrealm.friend.accepted": "Vriendschapsverzoek geaccepteerd.",
+    "features.sleepamount.price": "Prijs: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "Geen voorwerp gevonden in je hoofdhand.",
+    "sell.all.not.sellable": "Dit item kan niet worden verkocht.",
+    "skyrealm.realm.spawn.set": "Realm spawn locatie is ingesteld."
 }
