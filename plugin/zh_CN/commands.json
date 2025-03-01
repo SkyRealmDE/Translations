@@ -43,5 +43,9 @@
     "migrate.success": "项目迁移成功完成。",
     "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Friend request sent to <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "好友请求已被接受。"
+    "skyrealm.friend.accepted": "好友请求已被接受。",
+    "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "在你的主手中没有找到物品。",
+    "sell.all.not.sellable": "此项目不能出售。",
+    "skyrealm.realm.spawn.set": "领域生成位置已设置。"
 }
