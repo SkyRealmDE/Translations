@@ -41,5 +41,7 @@
     "store.info": "<click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Click to open store</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "アイテムの移行を開始しています...",
     "migrate.success": "アイテムの移行が正常に完了しました。",
-    "commands.invite.invited": "<color:#FFD700>%player%</color> を <color:#FFD700>%role%</color> に招待しました。"
+    "commands.invite.invited": "<color:#FFD700>%player%</color> を <color:#FFD700>%role%</color> に招待しました。",
+    "skyrealm.friend.requested": "<color:#FFD700>%player%</color> にフレンドリクエストを送信しました。",
+    "skyrealm.friend.accepted": "フレンド申請が承認されました。"
 }
