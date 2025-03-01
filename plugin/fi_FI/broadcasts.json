@@ -5,7 +5,7 @@
     "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Kokeile Premium-ominaisuuksia <white>/premium</white>! Avaa vielä enemmän etuja <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>myymälämme</white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Päivitä generaattori <white>/valtakunnat</white> → <white>päivityksiä</white> → <white>generaattori</white> ja lisää resurssituotantoa!</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>Master automaatio pilkkua voittojasi. Pieni suunnittelu voi johtaa valtavia voittoja!</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Voit kutsua ystäviä valtakuntaasi käyttäen <white>/valtakunta kutsua \\<name\\></white>. Pelaa yhdessä ja jaa hauskaa!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Voit kutsua ystäviä valtakuntaasi käyttäen <white>/valtakunta kutsua \\<name></white>. Pelaa yhdessä ja jaa hauskaa!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Jotkut NPC:t ovat varjoisia ja maksavat vähemmän samasta kohteesta. Vertaa hintoja ennen myyntiä!</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Voit sulattaa lian hiekaksi. Kuka sanoo, että et voi muuttaa likaa joksikin hyödylliseksi?</color>",
     "broadcast.tips.crushCobble": ":vasara: <color:#FCE7C8>murskata mukulakivi soraksi nikkarointiin, rakentamiseen tai kaupankäyntiin!</color>",
