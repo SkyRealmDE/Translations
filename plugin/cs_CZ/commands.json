@@ -41,5 +41,7 @@
     "store.info": "Navštivte náš obchod pro nákup hodností a drahokamů. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klikněte pro otevření obchodu</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Spouštění migrace položky...",
     "migrate.success": "Migrace položky byla úspěšně dokončena.",
-    "commands.invite.invited": "Pozvali jste <color:#FFD700>%player%</color> jako <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Pozvali jste <color:#FFD700>%player%</color> jako <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Žádost o přátelství byla odeslána <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Žádost o přátelství byla přijata."
 }
