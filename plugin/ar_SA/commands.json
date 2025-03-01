@@ -43,5 +43,9 @@
     "migrate.success": "اكتمل ترحيل العنصر بنجاح.",
     "commands.invite.invited": "لقد قمت بدعوة <color:#FFD700>%player%</color> ك <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "تم إرسال طلب الصداقة إلى <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "تم قبول طلب الصداقة."
+    "skyrealm.friend.accepted": "تم قبول طلب الصداقة.",
+    "features.sleepamount.price": "السعر: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "لم يتم العثور على أي عنصر في يدك الرئيسية.",
+    "sell.all.not.sellable": "لا يمكن بيع هذا العنصر.",
+    "skyrealm.realm.spawn.set": "تم تعيين موقع التوليد في المكان."
 }
