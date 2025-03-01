@@ -5,7 +5,7 @@
     "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Try premium features with <white>/premium</white>! Unlock even more perks at <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>our store</white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒ <color:#FCE7C8>Upgrade your generator via <white>/realms</white> → <white>upgrades</white> → <white>generator</white> and boost your resource production!</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>Master automation to skyrocket your profits. A little planning can lead to huge gains!</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite &lt;name&gt;</white>. Play together and share the fun!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name></white>. Play together and share the fun!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Some NPCs are shady and pay less for the same item. Compare prices before selling!</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>You can smelt dirt into sand. Who says you can't turn dirt into something useful?</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Crush cobblestone into gravel for crafting, building, or trading!</color>",
