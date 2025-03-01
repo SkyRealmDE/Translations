@@ -5,7 +5,7 @@
     "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>使用 <white>/premium</white>尝试高级功能！在 <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>我们的商店</white></hover></click></color>",
     "broadcast.tips.generator": "⚒ <color:#FCE7C8>Upgrade your generator via <white>/realms</white> → <white>upgrades</white> → <white>generator</white> and boost your resource production!</color>",
     "broadcast.tips.automation": ":rowt: <color:#FCE7C8>主自动化来移动你的利润。一个小的计划可以带来巨大的收益！</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name\\></white>. Play together and share the fun!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>You can invite friends to your realm with <white>/realm invite \\<name></white>. Play together and share the fun!</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>有些NPC是阴暗的，支付的费用较少。在销售前比较价格！</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>你可以把土熔化成沙子。谁说你不能把土变成有用的东西吗？</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Crush cobblestone into gravel for crafting, building, or trading!</color>",
