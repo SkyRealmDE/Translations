@@ -5,7 +5,7 @@
     "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Essayez les fonctionnalités premium avec <white>/premium</white>! Débloquez encore plus d'avantages sur <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>notre boutique</white></hover></click>.</color>",
     "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Améliorez votre générateur via <white>/realms</white> → <white>mises à niveau</white> → <white>générateur</white> et augmentez la production de vos ressources !</color>",
     "broadcast.tips.automation": "🚀 <color:#FCE7C8>Maîtrisez l'automatisation pour monter vos profits. Un peu de planification peut conduire à d'énormes gains !</color>",
-    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Vous pouvez inviter des amis dans votre royaume avec <white>/realm inviter \\<name\\></white>. Jouez ensemble et partagez le plaisir !</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Vous pouvez inviter des amis dans votre royaume avec <white>/realm inviter \\<name></white>. Jouez ensemble et partagez le plaisir !</color>",
     "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Certains PNJ sont ombragés et payent moins cher pour le même objet. Comparez les prix avant de vendre !</color>",
     "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Vous pouvez fondre de la saleté en sable. Qui dit que vous ne pouvez pas transformer la saleté en quelque chose d'utile ?</color>",
     "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Écrasez de la pierre noire en gravier pour la fabrication, la construction ou le commerce !</color>",
