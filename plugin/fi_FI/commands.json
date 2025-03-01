@@ -41,5 +41,7 @@
     "store.info": "Käy kaupassamme ostaaksesi rivejä ja jalokiviä. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klikkaa avataksesi kaupan</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Aloitetaan kohteen siirtoa...",
     "migrate.success": "Kohteen siirto suoritettu onnistuneesti.",
-    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Friend request sent to <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Ystävän pyyntö hyväksytty."
 }
