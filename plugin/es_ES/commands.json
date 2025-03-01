@@ -41,5 +41,7 @@
     "store.info": "Visite nuestra tienda para comprar filas y gemas. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Haga clic para abrir la tienda</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Iniciando migración de elementos...",
     "migrate.success": "Migración de elementos completada con éxito.",
-    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Solicitud de amistad enviada a <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Solicitud de amistad aceptada."
 }
