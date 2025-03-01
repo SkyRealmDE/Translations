@@ -43,5 +43,9 @@
     "migrate.success": "La migration de l'élément s'est terminée avec succès.",
     "commands.invite.invited": "Vous avez invité <color:#FFD700>%player%</color> en <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Demande d'ami envoyée à <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "Demande d'ami acceptée."
+    "skyrealm.friend.accepted": "Demande d'ami acceptée.",
+    "features.sleepamount.price": "Prix: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "Aucun objet trouvé dans votre main principale.",
+    "sell.all.not.sellable": "Cet article ne peut pas être vendu.",
+    "skyrealm.realm.spawn.set": "L'emplacement d'apparition du royaume a été défini."
 }
