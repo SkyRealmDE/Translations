@@ -43,5 +43,9 @@
     "migrate.success": "Перенос элемента успешно завершен.",
     "commands.invite.invited": "You have invited <color:#FFD700>%player%</color> as <color:#FFD700>%role%</color>.",
     "skyrealm.friend.requested": "Friend request sent to <color:#FFD700>%player%</color>.",
-    "skyrealm.friend.accepted": "Запрос дружбы принят."
+    "skyrealm.friend.accepted": "Запрос дружбы принят.",
+    "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
+    "sell.all.no.item.in.mainhand": "В вашей основной руке ничего не найдено.",
+    "sell.all.not.sellable": "Этот товар не может быть продан.",
+    "skyrealm.realm.spawn.set": "Местоположение спавна реалма было установлено."
 }
