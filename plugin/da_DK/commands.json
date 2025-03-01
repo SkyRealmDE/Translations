@@ -41,5 +41,7 @@
     "store.info": "Besøg vores butik for at købe rækker og perler. <click:open_url:'https://store.sky-realm.com/'><hover:show_text:'<aqua>Klik for at åbne butik</aqua>'><color:#1fff39>https://store.sky-realm.com/</color></hover></click>",
     "migrate.start": "Starter element migration...",
     "migrate.success": "Element migration fuldført med succes.",
-    "commands.invite.invited": "Du har inviteret <color:#FFD700>%player%</color> som <color:#FFD700>%role%</color>."
+    "commands.invite.invited": "Du har inviteret <color:#FFD700>%player%</color> som <color:#FFD700>%role%</color>.",
+    "skyrealm.friend.requested": "Venneanmodning sendt til <color:#FFD700>%player%</color>.",
+    "skyrealm.friend.accepted": "Venneanmodning accepteret."
 }
