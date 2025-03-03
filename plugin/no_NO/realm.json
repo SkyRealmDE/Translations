@@ -97,5 +97,7 @@
     "realm.features.biome.locked": "<gradient:#FC427B:#FD7272>🔒 Denne funksjonen er låst. Kjøp en premium rangering for å låse den opp.",
     "realm.features.fire_tick.locked": "<gradient:#FC427B:#FD7272>🔒 Denne funksjonen er låst. Kjøp en premium rangering for å låse den opp.",
     "realm.features.wandering_trader.locked": "<gradient:#FC427B:#FD7272>🔒 Denne funksjonen er låst. Kjøp en premium rangering for å låse den opp.",
-    "features.keepinventory.locked": "<gradient:#FC427B:#FD7272>🔒 Denne funksjonen er låst. Kjøp en premium rangering for å låse den opp."
+    "features.keepinventory.locked": "<gradient:#FC427B:#FD7272>🔒 Denne funksjonen er låst. Kjøp en premium rangering for å låse den opp.",
+    "realm.settings.persistent_domain.lore": "Gjeldende dom: <color:#FFD700>%currentDomain%</color>",
+    "realm.settings.persistent_domain.set": "Domene satt til <color:#FFD700>%domain%</color>."
 }
