@@ -2,6 +2,8 @@
     "skyrealm.commands.helloworld": "Bună lumea, %name%!",
     "skyrealm.commands.onlinetime.total": "You are already online since <color:#74b9ff>%total%</color> in total.",
     "skyrealm.commands.onlinetime.current": "Pe acest domeniu: <color:#74b9ff>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkTotal": "Timp total AFK: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "Actuala sesiune AFK: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Invitație trimisă cu succes la <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Momentan nu ai nicio invitație în așteptare.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Invitații de ieșire</gold>",
