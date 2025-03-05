@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Jste již online od <color:#74b9ff>%total%</color> celkem.",
     "skyrealm.commands.onlinetime.current": "Na této realitě: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Celkový čas AFK: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Aktuální AFK relace: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK na této říši: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Celkový čas AFK pro <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Aktuální čas AFK pro <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Pozvánka úspěšně odeslána do <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Momentálně nemáte žádné čekající pozvánky.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Odchozí pozvánky</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "V hlavní ruce nenalezena žádná položka.",
     "sell.all.not.sellable": "Tuto položku nelze prodat.",
     "skyrealm.realm.spawn.set": "Bylo nastaveno umístění spawnu říše.",
-    "shop.item.added": "Položka byla přidána do obchodu."
+    "shop.item.added": "Položka byla přidána do obchodu.",
+    "skyrealm.error.player_not_found": "Hráč nebyl nalezen."
 }
