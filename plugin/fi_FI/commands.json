@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "Pääkädestäsi ei löytynyt yhtään tuotetta.",
     "sell.all.not.sellable": "Tätä kohdetta ei voi myydä.",
-    "skyrealm.realm.spawn.set": "Valtakunnan spawn sijainti on asetettu."
+    "skyrealm.realm.spawn.set": "Valtakunnan spawn sijainti on asetettu.",
+    "shop.item.added": "Item added to shop."
 }
