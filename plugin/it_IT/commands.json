@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Prezzo: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "Nessun oggetto trovato nella tua mano principale.",
     "sell.all.not.sellable": "Questo oggetto non può essere venduto.",
-    "skyrealm.realm.spawn.set": "La posizione di generazione del reame è stata impostata."
+    "skyrealm.realm.spawn.set": "La posizione di generazione del reame è stata impostata.",
+    "shop.item.added": "Articolo aggiunto al negozio."
 }
