@@ -99,5 +99,7 @@
     "realm.features.wandering_trader.locked": "<gradient:#FC427B:#FD7272>🔒 Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε μια θέση premium για να την ξεκλειδώσετε.",
     "features.keepinventory.locked": "<gradient:#FC427B:#FD7272>🔒 Αυτή η λειτουργία είναι κλειδωμένη. Αγοράστε μια θέση premium για να την ξεκλειδώσετε.",
     "realm.settings.persistent_domain.lore": "Τρέχων Τομέας: <color:#FFD700>%currentDomain%</color>",
-    "realm.settings.persistent_domain.set": "Τομέας ρυθμισμένος σε <color:#FFD700>%domain%</color>."
+    "realm.settings.persistent_domain.set": "Τομέας ρυθμισμένος σε <color:#FFD700>%domain%</color>.",
+    "realm.features.difficulty.lore": "<color:#dfe6e9>Κατάσταση δυσκολίας: <color:#FFD700>%state%</color></color>",
+    "realm.features.difficulty.name": "Επίπεδο Δυσκολίας"
 }
