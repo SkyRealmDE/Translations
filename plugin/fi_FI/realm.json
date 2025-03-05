@@ -99,5 +99,7 @@
     "realm.features.wandering_trader.locked": "<gradient:#FC427B:#FD7272>🔒 Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
     "features.keepinventory.locked": "<gradient:#FC427B:#FD7272>🔒 Tämä ominaisuus on lukittu. Osta Premium-arvo avataksesi sen.",
     "realm.settings.persistent_domain.lore": "Current Domain: <color:#FFD700>%currentDomain%</color>",
-    "realm.settings.persistent_domain.set": "Domain set to <color:#FFD700>%domain%</color>."
+    "realm.settings.persistent_domain.set": "Domain set to <color:#FFD700>%domain%</color>.",
+    "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
+    "realm.features.difficulty.name": "Vaikeustaso"
 }
