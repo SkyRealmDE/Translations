@@ -1,5 +1,6 @@
 {
     "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
     "skyrealm.cloud.no_servers": "Geen bedieners gevind nie.",
     "skyrealm.cloud.no_lobbies": "Geen lobby bedieners gevind nie.",
     "skyrealm.cloud.available_servers": "Huidig beskikbare bedieners: <green><bold>%count%",
