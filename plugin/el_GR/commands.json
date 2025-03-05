@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Τιμή: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "Δεν βρέθηκε κανένα στοιχείο στο κύριο χέρι σας.",
     "sell.all.not.sellable": "Αυτό το στοιχείο δεν μπορεί να πωληθεί.",
-    "skyrealm.realm.spawn.set": "Έχει οριστεί τοποθεσία δημιουργίας του Realm."
+    "skyrealm.realm.spawn.set": "Έχει οριστεί τοποθεσία δημιουργίας του Realm.",
+    "shop.item.added": "Item added to shop."
 }
