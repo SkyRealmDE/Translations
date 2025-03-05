@@ -2,6 +2,8 @@
     "skyrealm.commands.helloworld": "Ahoj svět, %name%!",
     "skyrealm.commands.onlinetime.total": "Jste již online od <color:#74b9ff>%total%</color> celkem.",
     "skyrealm.commands.onlinetime.current": "Na této realitě: <color:#74b9ff>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkTotal": "Celkový čas AFK: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "Aktuální AFK relace: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Pozvánka úspěšně odeslána do <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Momentálně nemáte žádné čekající pozvánky.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Odchozí pozvánky</gold>",
