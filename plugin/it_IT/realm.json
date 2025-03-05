@@ -99,5 +99,7 @@
     "realm.features.wandering_trader.locked": "<gradient:#FC427B:#FD7272>🔒 Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
     "features.keepinventory.locked": "<gradient:#FC427B:#FD7272>🔒 Questa funzione è bloccata. Acquista un rango premium per sbloccarlo.",
     "realm.settings.persistent_domain.lore": "Dominio Attuale: <color:#FFD700>%currentDomain%</color>",
-    "realm.settings.persistent_domain.set": "Dominio impostato su <color:#FFD700>%domain%</color>."
+    "realm.settings.persistent_domain.set": "Dominio impostato su <color:#FFD700>%domain%</color>.",
+    "realm.features.difficulty.lore": "<color:#dfe6e9>Difficoltà di stato: <color:#FFD700>%state%</color></color>",
+    "realm.features.difficulty.name": "Livello Di Difficoltà"
 }
