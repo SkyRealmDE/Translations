@@ -1,4 +1,5 @@
 {
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
     "skyrealm.cloud.no_servers": "Geen servers gevonden.",
     "skyrealm.cloud.no_lobbies": "Geen lobby servers gevonden.",
     "skyrealm.cloud.available_servers": "Momenteel beschikbare servers: <green><bold>%count%",
