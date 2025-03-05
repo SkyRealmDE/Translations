@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "No item found in your main hand.",
     "sell.all.not.sellable": "This item cannot be sold.",
-    "skyrealm.realm.spawn.set": "Realm spawn location has been set."
+    "skyrealm.realm.spawn.set": "Realm spawn location has been set.",
+    "shop.item.added": "Item added to shop.",
 }
