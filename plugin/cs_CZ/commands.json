@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Cena: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "V hlavní ruce nenalezena žádná položka.",
     "sell.all.not.sellable": "Tuto položku nelze prodat.",
-    "skyrealm.realm.spawn.set": "Bylo nastaveno umístění spawnu říše."
+    "skyrealm.realm.spawn.set": "Bylo nastaveno umístění spawnu říše.",
+    "shop.item.added": "Item added to shop."
 }
