@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Pris: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "Ingen elementer funnet i din hovedhånd.",
     "sell.all.not.sellable": "Denne varen kan ikke bli solgt.",
-    "skyrealm.realm.spawn.set": "Startposisjon for realmen er blitt satt."
+    "skyrealm.realm.spawn.set": "Startposisjon for realmen er blitt satt.",
+    "shop.item.added": "Element lagt til i butikken."
 }
