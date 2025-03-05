@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "You are already online since <color:#74b9ff>%total%</color> in total.",
     "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Total AFK time: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Current AFK session: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK on this realm: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Total AFK time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Current AFK time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Invite sent successfully to <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Outgoing Invites</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "在你的主手中没有找到物品。",
     "sell.all.not.sellable": "此项目不能出售。",
     "skyrealm.realm.spawn.set": "领域生成位置已设置。",
-    "shop.item.added": "项目已添加到店铺。"
+    "shop.item.added": "项目已添加到店铺。",
+    "skyrealm.error.player_not_found": "未找到玩家。"
 }
