@@ -2,6 +2,8 @@
     "skyrealm.commands.helloworld": "Bonjour le monde, %name%!",
     "skyrealm.commands.onlinetime.total": "Vous êtes déjà en ligne depuis <color:#74b9ff>%total%</color> au total.",
     "skyrealm.commands.onlinetime.current": "Sur ce royaume : <color:#74b9ff>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkTotal": "Temps total d'absence d'absence : <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "Session AFK actuelle : <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Invite sent successfully to <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Invitation sortante</gold>",
