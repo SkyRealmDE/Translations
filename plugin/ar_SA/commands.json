@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "أنت متصل بالفعل منذ <color:#74b9ff>%total%</color> إجمالاً.",
     "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "إجمالي وقت AFK: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "دورة AFK الحالية: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK في هذا العالم: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "إجمالي وقت AFK ل <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "الوقت الحالي لـ <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>تم إرسال الدعوة بنجاح إلى <yellow>%player%</yellow></green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>ليس لديك حاليا دعوات معلقة.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>دعوات صادرة</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "لم يتم العثور على أي عنصر في يدك الرئيسية.",
     "sell.all.not.sellable": "لا يمكن بيع هذا العنصر.",
     "skyrealm.realm.spawn.set": "تم تعيين موقع التوليد في المكان.",
-    "shop.item.added": "تمت إضافة العنصر إلى المتجر."
+    "shop.item.added": "تمت إضافة العنصر إلى المتجر.",
+    "skyrealm.error.player_not_found": "اللاعب غير موجود."
 }
