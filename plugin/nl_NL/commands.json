@@ -2,6 +2,8 @@
     "skyrealm.commands.helloworld": "Hallo wereld, %name%!",
     "skyrealm.commands.onlinetime.total": "U bent al online sinds <color:#74b9ff>%total%</color> in totaal.",
     "skyrealm.commands.onlinetime.current": "Op dit realm: <color:#74b9ff>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkTotal": "Totale AFK tijd: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "Huidige AFK sessie: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>uitnodiging succesvol verzonden naar <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Je hebt momenteel geen openstaande uitnodigingen.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Uitgaande uitnodigingen</gold>",
