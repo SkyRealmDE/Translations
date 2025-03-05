@@ -1,4 +1,5 @@
 {
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
     "skyrealm.cloud.no_servers": "لا توجد خوادم.",
     "skyrealm.cloud.no_lobbies": "لم يتم العثور على خوادم ردق.",
     "skyrealm.cloud.available_servers": "الخوادم المتاحة حاليا: <green><bold>%count%",
