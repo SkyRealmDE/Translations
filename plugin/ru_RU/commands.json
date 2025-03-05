@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Вы уже в сети с момента <color:#74b9ff>%total%</color> в общей сложности.",
     "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Total AFK time: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Текущая сессия AFK: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK в этом реалме: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Общее время AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Текущее время AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Приглашение успешно отправлено на <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>В настоящее время у вас нет приглашений, ожидающих подтверждения.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Outgoing Invites</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "В вашей основной руке ничего не найдено.",
     "sell.all.not.sellable": "Этот товар не может быть продан.",
     "skyrealm.realm.spawn.set": "Местоположение спавна реалма было установлено.",
-    "shop.item.added": "Товар добавлен в магазин."
+    "shop.item.added": "Товар добавлен в магазин.",
+    "skyrealm.error.player_not_found": "Игрок не найден."
 }
