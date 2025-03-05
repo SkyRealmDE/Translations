@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "В вашей основной руке ничего не найдено.",
     "sell.all.not.sellable": "Этот товар не может быть продан.",
-    "skyrealm.realm.spawn.set": "Местоположение спавна реалма было установлено."
+    "skyrealm.realm.spawn.set": "Местоположение спавна реалма было установлено.",
+    "shop.item.added": "Товар добавлен в магазин."
 }
