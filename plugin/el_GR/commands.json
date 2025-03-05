@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Είστε ήδη συνδεδεμένοι από το <color:#74b9ff>%total%</color> συνολικά.",
     "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Συνολικός χρόνος AFK, <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Τρέχουσα συνεδρία AFK: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK σε αυτό το realm: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Συνολικός χρόνος AFK για <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Τρέχουσα ώρα AFK για <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Πρόσκληση στάλθηκε με επιτυχία σε <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Προς το παρόν δεν έχετε προσκλήσεις σε εκκρεμότητα.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Outgoing Invites</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "Δεν βρέθηκε κανένα στοιχείο στο κύριο χέρι σας.",
     "sell.all.not.sellable": "Αυτό το στοιχείο δεν μπορεί να πωληθεί.",
     "skyrealm.realm.spawn.set": "Έχει οριστεί τοποθεσία δημιουργίας του Realm.",
-    "shop.item.added": "Το στοιχείο προστέθηκε στο κατάστημα."
+    "shop.item.added": "Το στοιχείο προστέθηκε στο κατάστημα.",
+    "skyrealm.error.player_not_found": "Ο παίκτης δεν βρέθηκε."
 }
