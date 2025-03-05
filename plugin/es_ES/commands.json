@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Ya estás conectado desde <color:#74b9ff>%total%</color> en total.",
     "skyrealm.commands.onlinetime.current": "En este realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Tiempo total de AFK: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Sesión AFK actual: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK en este realm: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Tiempo total de AFK para <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Tiempo actual de AFK para <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "¡<green>Invitación enviada con éxito a <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>invitaciones salientes</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "No se encontró ningún objeto en tu mano principal.",
     "sell.all.not.sellable": "Este objeto no se puede vender.",
     "skyrealm.realm.spawn.set": "Se ha establecido la ubicación de spawn de Realm.",
-    "shop.item.added": "Artículo añadido a la tienda."
+    "shop.item.added": "Artículo añadido a la tienda.",
+    "skyrealm.error.player_not_found": "Jugador no encontrado."
 }
