@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Ви вже онлайн з моменту досягнення <color:#74b9ff>%total%</color> в загальному.",
     "skyrealm.commands.onlinetime.current": "On this realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Загальний час AFK: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Поточна сесія AFK: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK в цьому реалмі: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Загальний час AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Поточний час AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Запросити успішно відправлено до <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>У вас немає очікуваних запрошень.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Вихідні Запрошення</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "Головної руки не знайдено предмета.",
     "sell.all.not.sellable": "Цей товар не може бути проданим.",
     "skyrealm.realm.spawn.set": "Розташування спавну реалму встановлено.",
-    "shop.item.added": "Елемент додано до магазину."
+    "shop.item.added": "Елемент додано до магазину.",
+    "skyrealm.error.player_not_found": "Гравець не знайдено."
 }
