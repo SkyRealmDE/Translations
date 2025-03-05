@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Price: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "在你的主手中没有找到物品。",
     "sell.all.not.sellable": "此项目不能出售。",
-    "skyrealm.realm.spawn.set": "领域生成位置已设置。"
+    "skyrealm.realm.spawn.set": "领域生成位置已设置。",
+    "shop.item.added": "项目已添加到店铺。"
 }
