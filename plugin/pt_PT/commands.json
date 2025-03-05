@@ -47,5 +47,6 @@
     "features.sleepamount.price": "Preço: <color:#FFD700>%price%</color>",
     "sell.all.no.item.in.mainhand": "Nenhum item encontrado em sua mão principal.",
     "sell.all.not.sellable": "Este item não pode ser vendido.",
-    "skyrealm.realm.spawn.set": "O local de spawn do Realm foi definido."
+    "skyrealm.realm.spawn.set": "O local de spawn do Realm foi definido.",
+    "shop.item.added": "Item adicionado à loja."
 }
