@@ -3,7 +3,9 @@
     "skyrealm.commands.onlinetime.total": "Du er allerede online siden <color:#74b9ff>%total%</color> i alt.",
     "skyrealm.commands.onlinetime.current": "På dette realm: <color:#74b9ff>%servertime%</color>",
     "skyrealm.commands.onlinetime.afkTotal": "Samlet AFK tid: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.afkCurrent": "Nuværende AFK-session: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.afkCurrent": "AFK på dette realm: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkTotal": "Samlet AFK tid for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "Nuværende AFK tid for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Inviter sendt succesfuldt til <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Du har i øjeblikket ingen ventende invitationer.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Udgående Invitationer</gold>",
@@ -50,5 +52,6 @@
     "sell.all.no.item.in.mainhand": "Intet element fundet i din hovedhånd.",
     "sell.all.not.sellable": "Dette element kan ikke sælges.",
     "skyrealm.realm.spawn.set": "Realm spawn placering er indstillet.",
-    "shop.item.added": "Elementet blev tilføjet til butikken."
+    "shop.item.added": "Elementet blev tilføjet til butikken.",
+    "skyrealm.error.player_not_found": "Spiller ikke fundet."
 }
