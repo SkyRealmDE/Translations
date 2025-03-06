@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Är du säker på att du vill avsluta efter det?",
+    "deathScreen.respawn": "Försök igen",
+    "menu.disconnect": "☠️ Jag är trött på att spela",
+    "connect.transferring": "Överför till en annan instans...",
+    "skyrealm.messages.link.open": "Klicka för att öppna länk",
+    "skyrealm.messages.command.run": "Klicka för att köra kommandot",
+    "soundCategory.voice": "SkyRealm ljud",
+    "cosmetics.old_hat": "Gammal Hatt",
+    "cosmetics.old_hat.lore": "En hatt från det förflutna",
+    "cosmetics.farmer_hat": "Bondens Hatt",
+    "cosmetics.farmer_hat.lore": "Bondens hatt",
+    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown"
+}
