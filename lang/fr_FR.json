@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Êtes-vous sûr de vouloir quitter après cela ?",
+    "deathScreen.respawn": "Réessayez",
+    "menu.disconnect": "☠️ Je suis fatigué de jouer",
+    "connect.transferring": "Transfert vers une autre instance...",
+    "skyrealm.messages.link.open": "Cliquez pour ouvrir le lien",
+    "skyrealm.messages.command.run": "Cliquer pour exécuter la commande",
+    "soundCategory.voice": "Sons du SkyRealm",
+    "cosmetics.old_hat": "Ancien Chapeau",
+    "cosmetics.old_hat.lore": "Un chapeau du passé",
+    "cosmetics.farmer_hat": "Chapeau de fermier",
+    "cosmetics.farmer_hat.lore": "Le chapeau du fermier",
+    "cosmetics.farmer_hat.lore.2": "Refroidissement de twerk de -2 secondes"
+}
