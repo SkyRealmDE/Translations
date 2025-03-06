@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "Totale AFK tijd: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "AFK op deze realm: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Totale AFK tijd voor <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Huidige AFK tijd voor <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "AFK op deze realm voor <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>uitnodiging succesvol verzonden naar <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Je hebt momenteel geen openstaande uitnodigingen.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Uitgaande uitnodigingen</gold>",
