@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Er du sikker på at du vil avslutte etter?",
+    "deathScreen.respawn": "Prøv igjen",
+    "menu.disconnect": ":skull_and_crossbons: Jeg er leket av",
+    "connect.transferring": "Overfører til en annen forekomst...",
+    "skyrealm.messages.link.open": "Klikk for å åpne kobling",
+    "skyrealm.messages.command.run": "Klikk for å kjøre kommando",
+    "soundCategory.voice": "SkyRealm lyder",
+    "cosmetics.old_hat": "Gammel Hatt",
+    "cosmetics.old_hat.lore": "En hatt fra fortiden",
+    "cosmetics.farmer_hat": "Bonde Hatt",
+    "cosmetics.farmer_hat.lore": "Gårdbrukerens hatt",
+    "cosmetics.farmer_hat.lore.2": "-2 sekunders twerk cooldown"
+}
