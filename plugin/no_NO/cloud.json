@@ -1,0 +1,22 @@
+{
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
+    "skyrealm.cloud.no_servers": "Ingen servere funnet.",
+    "skyrealm.cloud.no_lobbies": "Ingen lobby servere funnet.",
+    "skyrealm.cloud.available_servers": "For øyeblikket tilgjengelige servere: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "– %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Spillere på servere</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Feilbruk</dark_gray>",
+    "skyrealm.report.success": "<green>Du har vellykket rapportert <yellow>%reported%</yellow> for <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Rapportmelding:</red> <gray>%reporter%</gray> rapporterte <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>Serveren for realmen <yellow>%realm%</yellow> er i kø for å starte.</gray>",
+    "skyrealm.server.transferring": "<gray>overfører deg til realmen <yellow>%realm%</yellow>...</gray>",
+    "skyrealm.cloud.connecting_to_hub": "Kobler deg til sentret...",
+    "skyrealm.server.running": "Serveren for realmen %realm% kjører nå.",
+    "skyrealm.friend.online": "%player% er nå online.",
+    "skyrealm.friend.offline": "%player% er nå frakoblet.",
+    "skyrealm.cloud.connecting_to_server": "Kobler til server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Du kan ikke teleportere deg selv her.",
+    "player.levelup": "Du har nådd nivå <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Serveren <color:#FFD700>%server%</color> stopper i <color:#FFD700>%delay%</color> sekunder."
+}
