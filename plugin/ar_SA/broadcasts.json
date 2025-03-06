@@ -1,0 +1,17 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Did you know? A hoe will auto-replant your crops!",
+    "broadcast.bugs": "🐛 وجدت خطأ؟ أبلغ عنه على <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 حصلت على تعليقات؟ انضم إلى <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>جرب ميزات مميزة مع <white>/premium</white>! فتح المزيد من الامتيازات في <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>متجرنا</white></hover></click></color>",
+    "broadcast.tips.generator": "⚒️ <color:#FCE7C8>قم بترقية مولدك من خلال <white>/realms</white> → <white>ترقية</white> → <white></white> وقم بتعزيز إنتاجك من الموارد!</color>",
+    "broadcast.tips.automation": "🚀 <color:#FCE7C8>أتمتة أستاذ لزيادة أرباحك. قد يؤدي تخطيط صغير إلى مكاسب هائلة!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>يمكنك دعوة الأصدقاء إلى عالمك باستخدام <white>/realm دعوة \\<name></white>. قم باللعب معا ومشاركة المتعة!</color>",
+    "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>بعض المواد الوقائية الوطنية غامضة ودفع أقل لنفس العنصر. قارن الأسعار قبل البيع!</color>",
+    "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>You can smelt dirt into sand. Who says you can't turn dirt into something useful?</color>",
+    "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>سحق حصة الكوببلون إلى الحصى للصناعة أو البناء أو التجارة!</color>",
+    "broadcast.tips.crushGravel": "🔨 <color:#FCE7C8>سحق الحصى إلى الرمال للصناعة أو البناء أو التجارة!</color>",
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>مزج الماء مع الرمال أو التراب لإنشاء الطين - إنه مكون رئيسي لمختلف الوصفات!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>الطين الجاف في الفرن للحصول على التراب. إنها طريقة ذكية لدورة الموارد!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>في ماين كرافت 1.21، يمكن لكتلة الحرف الجديدة أن تصنع تلقائياً أي وصفة لك!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>الخيزران هو مصدر بديل سريع للأخشاب. نحركه بسرعة، صنعه بسهولة!</color>"
+}
