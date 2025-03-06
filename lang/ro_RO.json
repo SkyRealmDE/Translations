@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Ești sigur că vrei să ieși după asta?",
+    "deathScreen.respawn": "Încercați din nou",
+    "menu.disconnect": "☠️ M-am săturat să joc",
+    "connect.transferring": "Se transferă într-o altă instanță...",
+    "skyrealm.messages.link.open": "Click pentru a deschide link-ul",
+    "skyrealm.messages.command.run": "Click pentru a rula comanda",
+    "soundCategory.voice": "Sunete SkyRealm",
+    "cosmetics.old_hat": "Pălărie veche",
+    "cosmetics.old_hat.lore": "O pălărie din trecut",
+    "cosmetics.farmer_hat": "Pălărie pentru fermieri",
+    "cosmetics.farmer_hat.lore": "Pălăria fermierului",
+    "cosmetics.farmer_hat.lore.2": "-2 secunde de răcire"
+}
