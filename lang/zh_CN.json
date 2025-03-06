@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "您确定要在此后退出吗？",
+    "deathScreen.respawn": "再试一次",
+    "menu.disconnect": ":skull_and_crossbon: 我已经厌倦了游戏",
+    "connect.transferring": "正在传输到另一个实例...",
+    "skyrealm.messages.link.open": "点击打开链接",
+    "skyrealm.messages.command.run": "点击运行命令",
+    "soundCategory.voice": "SkyRealm 声音",
+    "cosmetics.old_hat": "老帽子",
+    "cosmetics.old_hat.lore": "过去的帽子",
+    "cosmetics.farmer_hat": "农民帽子",
+    "cosmetics.farmer_hat.lore": "农民的帽子",
+    "cosmetics.farmer_hat.lore.2": "2 秒的冷却时间"
+}
