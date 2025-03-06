@@ -1,0 +1,17 @@
+{
+    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Wist je dat? Een schoffel zal je gewassen automatisch herplanten!",
+    "broadcast.bugs": "🐛 Heeft u een bug gevonden? Rapporteer het op <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
+    "broadcast.feedback": "💬 ot feedback? Join de <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Probeer premium functies met <white>/premium</white>! Ontgrendel nog meer voordelen bij <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>onze winkel</white></hover></click>.</color>",
+    "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Upgrade je generator via <white>/realms</white> → <white>upgrades</white> → <white>generator</white> en boost je bronproductie!</color>",
+    "broadcast.tips.automation": "🚀 <color:#FCE7C8>Meester automatisering om je winst te torpederen. Een kleine planning kan leiden tot enorme winsten!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Je kunt vrienden uitnodigen voor je realm met <white>/realm uitnodigen \\<name></white>. Speel samen en deel de plezier!</color>",
+    "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Sommige NPC's zijn donker en betalen minder voor hetzelfde artikel. Vergelijk prijzen voor de verkoop!</color>",
+    "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Je kunt aarde smelten in zand. Wie zegt dat je geen aarde kan veranderen in iets nuttig?</color>",
+    "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Verpletteer keien in grind voor het vervaardigen, bouwen of handelen!</color>",
+    "broadcast.tips.crushGravel": "🔨 <color:#FCE7C8>Veeg grind in zand voor het vervaardigen, bouwen of handelen!</color>",
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mix water met zand of aarde om modder te maken, het is een sleutelingrediënt voor verschillende recepten!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Droog modder in de oven om aardig te worden. Het is een slimme manier om grondstoffen te fietsen!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>As of Minecraft 1.21, the new crafter block can auto-craft any recipe for you!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bamboe is een snelle alternatieve bron voor hout. Groei het snel, maak het gemakkelijk!</color>"
+}
