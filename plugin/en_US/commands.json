@@ -53,7 +53,5 @@
     "sell.all.not.sellable": "This item cannot be sold.",
     "skyrealm.realm.spawn.set": "Realm spawn location has been set.",
     "shop.item.added": "Item added to shop.",
-    "skyrealm.error.player_not_found": "Player not found.",
-    "skyrealm.commands.onlinetime.other.afkTotal": "Total AFK time for <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Current AFK time for <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>"
+    "skyrealm.error.player_not_found": "Player not found."
 }
