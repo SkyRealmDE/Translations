@@ -1,0 +1,22 @@
+{
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
+    "skyrealm.cloud.no_servers": "Nebyly nalezeny žádné servery.",
+    "skyrealm.cloud.no_lobbies": "Nenalezeny žádné lobby servery.",
+    "skyrealm.cloud.available_servers": "Aktuálně dostupné servery: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Hráči na serverech</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Chyba</dark_gray>",
+    "skyrealm.report.success": "<green>Úspěšně jste nahlásili <yellow>%reported%</yellow> pro <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Oznámení sestavy:</red> <gray>%reporter%</gray> nahlásil <gray>%reported%</gray> pro <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>Server pro říši <yellow>%realm%</yellow> je zařazen do fronty.</gray>",
+    "skyrealm.server.transferring": "<gray>Přenáší vás do říše <yellow>%realm%</yellow>...</gray>",
+    "skyrealm.cloud.connecting_to_hub": "Připojování k centrum...",
+    "skyrealm.server.running": "Server pro říši %realm% je nyní spuštěn.",
+    "skyrealm.friend.online": "Váš přítel %player% je nyní online.",
+    "skyrealm.friend.offline": "Váš přítel %player% je nyní offline.",
+    "skyrealm.cloud.connecting_to_server": "Připojování k serveru: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Zde se nelze teleportovat.",
+    "player.levelup": "Dosáhli jste úrovně <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> je zastaven v <color:#FFD700>%delay%</color> sekund."
+}
