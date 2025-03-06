@@ -1,0 +1,10 @@
+{
+    "adminshop.error.not-enough-coins": "Non hai abbastanza monete per acquistare %amount%x %item%. Hai bisogno di monete %finalPrice%.",
+    "adminshop.success.buy-item": "Hai comprato %amount%x %item% per le monete %finalPrice%.",
+    "adminshop.error.not-enough-items": "Non hai abbastanza oggetti per vendere %amount%x %item%.",
+    "adminshop.success.sell-item": "Hai venduto %amount%x %item% per monete %finalPrice%.",
+    "adminshop.buy-one": "Compra uno",
+    "adminshop.sell-one": "Vendi uno",
+    "adminshop.buy-or-sell-stack": "Compra o vende stack",
+    "adminshop.drop-to-sell-all": "Rilascia per vendere tutto"
+}
