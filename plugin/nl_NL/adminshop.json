@@ -1,0 +1,10 @@
+{
+    "adminshop.error.not-enough-coins": "Je hebt niet genoeg munten om %amount%x %item%te kopen. Je hebt %finalPrice% munten nodig.",
+    "adminshop.success.buy-item": "Je hebt %amount%x %item% gekocht voor %finalPrice% munten.",
+    "adminshop.error.not-enough-items": "Je hebt niet genoeg voorwerpen om %amount%x %item% te verkopen.",
+    "adminshop.success.sell-item": "Je hebt %amount%x %item% verkocht voor %finalPrice% munten.",
+    "adminshop.buy-one": "Koop een",
+    "adminshop.sell-one": "Verkoop één",
+    "adminshop.buy-or-sell-stack": "Stack kopen of verkopen",
+    "adminshop.drop-to-sell-all": "Drop om alles te verkopen"
+}
