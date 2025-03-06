@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "Total AFK tid: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "AFK på denna värld: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Total AFK-tid för <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Aktuell AFK tid för <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "AFK på detta Realm för <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Inbjudan skickades till <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Du har för närvarande inga väntande inbjudningar.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Utgående inbjudningar</gold>",
