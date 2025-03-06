@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Jste si jisti, že po tom chcete skončit?",
+    "deathScreen.respawn": "Zkuste to znovu",
+    "menu.disconnect": "☠️ Už jsem unaven hrát",
+    "connect.transferring": "Přenesení do jiné instance...",
+    "skyrealm.messages.link.open": "Kliknutím otevřete odkaz",
+    "skyrealm.messages.command.run": "Kliknutím spustíte příkaz",
+    "soundCategory.voice": "Zvuky SkyRealm",
+    "cosmetics.old_hat": "Starý klobouk",
+    "cosmetics.old_hat.lore": "Klobouk z minulosti",
+    "cosmetics.farmer_hat": "Farmářská klobouk",
+    "cosmetics.farmer_hat.lore": "Zemědělská klobouk",
+    "cosmetics.farmer_hat.lore.2": "-2 sekundy twerk cooldown"
+}
