@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "Загальний час AFK: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "AFK в цьому реалмі: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Загальний час AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Поточний час AFK для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "AFK в цьому реалмі для <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Запросити успішно відправлено до <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>У вас немає очікуваних запрошень.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Вихідні Запрошення</gold>",
