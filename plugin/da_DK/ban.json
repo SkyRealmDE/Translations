@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "Hacking",
+    "skyrealm.ban.hacking.description": "Brug 3. parts software til at få privilegier eller fordele",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>Du er blevet forbudt for hacking</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er uretfærdigt eller forkert, skriv venligst en besked til os!",
+    "skyrealm.ban.glitch_usage.name": "Glitches",
+    "skyrealm.ban.glitch_usage.description": "Brug af minecraft glitches til at få fordele",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>Du er blevet forbudt for at bruge minecraft glitches</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er uretfærdigt eller forkert, skriv venligst en besked til os!",
+    "skyrealm.ban.bug_abuse.name": "Fejl ved misbrug",
+    "skyrealm.ban.bug_abuse.description": "Brug af fejl til at få privilegier eller fordele",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Du er blevet udelukket for misbrug af fejl i vores system</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er uretfærdigt eller forkert, skriv venligst en besked til os!",
+    "skyrealm.ban.language.name": "Sprog",
+    "skyrealm.ban.language.description": "Chattering på en upassende måde",
+    "skyrealm.ban.language.reason": "<color:#ff7675>Du er blevet udelukket for at bruge upassende sprog</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er urimeligt eller forkert, skriv venligst en besked til os!",
+    "skyrealm.ban.behavior.name": "Opførsel",
+    "skyrealm.ban.behavior.description": "Opfører sig på upassende måde",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>Du er blevet forbudt for opførsel på en upassende måde</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er uretfærdigt eller forkert, skriv venligst en besked til os!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>Du er blevet udelukket for sorg</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Varighed: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Hvis du mener, at dette forbud er urimeligt eller forkert, skriv venligst en besked til os!"
+}
