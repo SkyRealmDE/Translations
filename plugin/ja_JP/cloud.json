@@ -1,0 +1,22 @@
+{
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
+    "skyrealm.cloud.no_servers": "サーバーが見つかりません。",
+    "skyrealm.cloud.no_lobbies": "ロビーサーバーが見つかりません。",
+    "skyrealm.cloud.available_servers": "現在利用可能なサーバー: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>不具合</dark_gray>",
+    "skyrealm.report.success": "<green> <yellow>%reported%</yellow> で <yellow>%reason%</yellow>を報告しました。</green>",
+    "skyrealm.report.notify.message": "<red>通知:</red> <gray>%reporter%</gray> が <gray>%reported%</gray> で <white>%reason%</white> を報告しました。",
+    "skyrealm.server.queued": "<gray>The server for realm <yellow>%realm%</yellow> is queued to start.</gray>",
+    "skyrealm.server.transferring": "<gray>レルム <yellow>%realm%</yellow>...</gray>",
+    "skyrealm.cloud.connecting_to_hub": "ハブに接続しています...",
+    "skyrealm.server.running": "Realm %realm% が起動中です。",
+    "skyrealm.friend.online": "お友達の %player% がオンラインになりました。",
+    "skyrealm.friend.offline": "お友達の %player% がオフラインになりました。",
+    "skyrealm.cloud.connecting_to_server": "サーバーに接続中: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "ここではテレポートできません。",
+    "player.levelup": "レベル <color:#FFD700>%level%</color> に達しました！",
+    "skyrealm.cloud.server_stopping": "サーバー <color:#FFD700>%server%</color> は <color:#FFD700>%delay%</color> 秒で停止しています。"
+}
