@@ -67,12 +67,12 @@
     "generator.settings.lapis.enabled": "Ihre Lapis-Generator-Einstellung ist jetzt: %enabled%.",
     "generator.settings.iron.enabled": "Ihre Eisengenerator-Einstellung ist jetzt: %enabled%.",
     "generator.settings.coal.enabled": "Ihre Kohlegenerator-Einstellung ist jetzt: %enabled%.",
-    "realm.entities.limit.lore.current": "<color:#dfe6e9>Ihr aktuelles Entitätslimit ist:</color> <color:#FFD700>%limit%</color>",
+    "realm.entities.limit.lore.current": "<color:#dfe6e9>Ihr aktuelles Entitätslimit ist:</color> <color:#5C7285>%currentAmount%</color>/<color:#FFD700>%limit%</color>",
     "realm.entities.limit.lore.new": "<color:#dfe6e9>Upgrade von</color> <color:#FFD700>%oldLimit%</color> <color:#dfe6e9>auf</color> <color:#FFD700>%newLimit%</color>",
     "realm.entities.limit.lore.required.header": "<color:#dfe6e9>Anforderungen:</color>",
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Spielerlevel:</color> <color:#FFD700>%level%</color>",
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du hast das maximale Entitätslimit erreicht.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimi%</color><color:#dfe6e9>.</color>",
-    "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimi%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>"
+    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimit%</color><color:#dfe6e9>.</color>",
+    "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>"
 }

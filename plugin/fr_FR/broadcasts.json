@@ -1,5 +1,0 @@
-{
-    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Saviez-vous ? Une houe va replanter automatiquement vos cultures !",
-    "broadcast.bugs": "🐛 Vous avez trouvé un bug ? Signalez-le sur <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub !</hover></click></color>",
-    "broadcast.feedback": "💬 Vous avez des commentaires ? Rejoignez <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
-}

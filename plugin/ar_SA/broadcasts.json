@@ -1,5 +1,0 @@
-{
-    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Did you know? A hoe will auto-replant your crops!",
-    "broadcast.bugs": "🐛 وجدت خطأ؟ أبلغ عنه على <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": "💬 حصلت على تعليقات؟ انضم إلى <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
-}

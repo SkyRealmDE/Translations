@@ -1,5 +1,0 @@
-{
-    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Ξέρετε? Μια τσάπα θα φυτέψει αυτόματα τις καλλιέργειές σας!",
-    "broadcast.bugs": "🐛 Βρέθηκε ένα σφάλμα? Αναφέρετέ το σε <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": "💬 Ανατροφοδότηση? Εγγραφείτε στο <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
-}

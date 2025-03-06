@@ -1,5 +1,0 @@
-{
-    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Tiesitkö? Kuokka uudelleenistuttaa viljelyksesi automaattisesti!",
-    "broadcast.bugs": "🐛 Löytyi vika? Ilmoita siitä <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": "💬 Saat palautetta? Liity <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discordiin!</hover></click></color>"
-}

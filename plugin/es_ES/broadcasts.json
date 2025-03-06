@@ -1,5 +1,0 @@
-{
-    "broadcast.tips.hoe": "🔔 <color:#FCE7C8>¿Sabías que? ¡Una azada replantará tus cosechas automáticamente!",
-    "broadcast.bugs": "🐛 ¿Encontraste un error? Reportalo en <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": ":speech _balloon: ¿Tienes comentarios? Únete a la <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord!</hover></click></color>"
-}

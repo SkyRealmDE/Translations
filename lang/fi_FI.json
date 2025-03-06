@@ -1,9 +1,0 @@
-{
-    "deathScreen.quit.confirm": "Oletko varma, että haluat lopettaa sen jälkeen?",
-    "deathScreen.respawn": "Yritä uudelleen",
-    "menu.disconnect": "☠️ Olen väsynyt pelaa",
-    "connect.transferring": "Siirretään toiseen instanssiin...",
-    "skyrealm.messages.link.open": "Avaa linkki napsauttamalla",
-    "skyrealm.messages.command.run": "Suorita komento napsauttamalla",
-    "soundCategory.voice": "SkyRealm Music"
-}
