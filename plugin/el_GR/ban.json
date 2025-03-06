@@ -1,0 +1,20 @@
+{
+    "skyrealm.ban.hacking.name": "Hacking",
+    "skyrealm.ban.hacking.description": "Χρησιμοποιώντας λογισμικό τρίτων για να αποκτήσετε προνόμια ή πλεονεκτήματα",
+    "skyrealm.ban.hacking.reason": "<color:#ff7675>Έχετε απαγορευτεί για hacking</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Διάρκεια: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Αν πιστεύετε ότι αυτή η απαγόρευση είναι άδικη ή λανθασμένη, παρακαλώ γράψτε μας ένα μήνυμα!",
+    "skyrealm.ban.glitch_usage.name": "Γλυκόριζα",
+    "skyrealm.ban.glitch_usage.description": "Χρησιμοποιώντας minecraft κολλήσεις για να αποκτήσουν πλεονεκτήματα",
+    "skyrealm.ban.glitch_usage.reason": "<color:#ff7675>You have been banned for using minecraft glitches</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If you believe this ban is unfair or wrong, παρακαλώ γράψτε μας ένα μήνυμα!",
+    "skyrealm.ban.bug_abuse.name": "Κατάχρηση σφαλμάτων",
+    "skyrealm.ban.bug_abuse.description": "Χρησιμοποιώντας σφάλματα για να κερδίσετε προνόμια ή πλεονεκτήματα",
+    "skyrealm.ban.bug_abuse.reason": "<color:#ff7675>Έχετε απαγορευτεί για κατάχρηση σφαλμάτων στο σύστημά μας</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Διάρκεια: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Αν πιστεύετε ότι αυτή η απαγόρευση είναι άδικη ή λανθασμένη, παρακαλώ γράψτε μας ένα μήνυμα!",
+    "skyrealm.ban.language.name": "Γλώσσα",
+    "skyrealm.ban.language.description": "Συνομιλία με ακατάλληλο τρόπο",
+    "skyrealm.ban.language.reason": "<color:#ff7675>Έχετε απαγορευτεί η χρήση ακατάλληλης γλώσσας</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Διάρκεια: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Αν πιστεύετε ότι αυτή η απαγόρευση είναι άδικη ή λανθασμένη, παρακαλώ γράψτε μας ένα μήνυμα!",
+    "skyrealm.ban.behavior.name": "Συμπεριφορά",
+    "skyrealm.ban.behavior.description": "Συμπεριφέρονται με ακατάλληλο τρόπο",
+    "skyrealm.ban.behavior.reason": "<color:#ff7675>Έχετε απαγορευτεί επειδή συμπεριφέρεστε με ακατάλληλο τρόπο</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Διάρκεια: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>Αν πιστεύετε ότι αυτή η απαγόρευση είναι άδικη ή λανθασμένη, παρακαλώ γράψτε μας ένα μήνυμα!",
+    "skyrealm.ban.griefing.name": "Griefing",
+    "skyrealm.ban.griefing.description": "Griefing",
+    "skyrealm.ban.griefing.reason": "<color:#ff7675>You have been banned for griefing</color>\n \n<color:#dfe6e9>BanHash: </color><color:#55efc4>%hash%</color>\n<color:#dfe6e9>Duration: </color><color:#74b9ff>%duration%</color>\n \n<color:#dfe6e9>If believe this ban is unfair or wrong, παρακαλώ γράψτε μας ένα μήνυμα!"
+}
