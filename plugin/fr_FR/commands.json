@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "Temps total d'absence d'absence : <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "AFK sur ce royaume : <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Temps d'absence total pour <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Temps d'absence actuel pour <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "AFK sur ce royaume pour <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Invite sent successfully to <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>You currently have no pending invites.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Invitation sortante</gold>",
