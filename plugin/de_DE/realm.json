@@ -73,7 +73,7 @@
     "realm.entities.limit.lore.required.player_level": "<color:#dfe6e9>• Spielerlevel:</color> <color:#FFD700>%level%</color>",
     "realm.entities.limit.lore.required.coins": "<color:#dfe6e9>• Coins:</color> <color:#FFD700>%coins%</color> <white>",
     "realm.entities.limit.lore.upgrade.max": "<color:#dfe6e9>Du hast das maximale Entitätslimit erreicht.</color>",
-    "realm.entities.limit.error.level": "<color:#dfe6e9>You must be at least level</color> <color:#FFD700>%level%</color> <color:#dfe6e9>to upgrade your entity limit for</color> <color:#FFD700>%entityLimit%</color><color:#dfe6e9>.</color>",
+    "realm.entities.limit.error.level": "<color:#dfe6e9>Sie müssen mindestens Level </color> <color:#FFD700>%level%</color> <color:#dfe6e9>sein, um den Grenzwert der Entities von </color> <color:#FFD700>%entityLimit%</color><color:#dfe6e9> zu erweitern.</color>",
     "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>",
     "realm.entitylimits.limitreached": "Sie haben das Limit von <color:#FFD700>%limit%</color> für <color:#FFD700>%entityLimit%</color> erreicht.",
     "skyrealm.realm.money.bank": "Deine Realmbank hält derzeit <color:#FFD700>%money%</color> Münzen.",
