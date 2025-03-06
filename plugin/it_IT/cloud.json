@@ -1,0 +1,22 @@
+{
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
+    "skyrealm.cloud.no_servers": "Nessun server trovato.",
+    "skyrealm.cloud.no_lobbies": "Nessun server della lobby trovato.",
+    "skyrealm.cloud.available_servers": "Server attualmente disponibili: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Giocatori sui server</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>Bug Abuse</dark_gray>",
+    "skyrealm.report.success": "<green>Hai segnalato con successo <yellow>%reported%</yellow> per <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> ha segnalato <gray>%reported%</gray> per <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>Il server per il regno <yellow>%realm%</yellow> è in coda per iniziare.</gray>",
+    "skyrealm.server.transferring": "<gray>Trasferendoti nel regno <yellow>%realm%</yellow>...</gray>",
+    "skyrealm.cloud.connecting_to_hub": "Collegandoti al mouse...",
+    "skyrealm.server.running": "Il server per il realm %realm% è ora in esecuzione.",
+    "skyrealm.friend.online": "Il tuo amico %player% è ora online.",
+    "skyrealm.friend.offline": "Il tuo amico %player% è ora offline.",
+    "skyrealm.cloud.connecting_to_server": "Connessione al server: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "Non puoi teletrasportarti qui.",
+    "player.levelup": "Hai raggiunto il livello <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "Il server <color:#FFD700>%server%</color> si ferma in <color:#FFD700>%delay%</color> secondi."
+}
