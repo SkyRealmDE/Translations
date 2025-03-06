@@ -1,4 +1,6 @@
 {
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
     "skyrealm.cloud.no_servers": "Keine Server gefunden.",
     "skyrealm.cloud.no_lobbies": "Keine Lobby-Server gefunden.",
     "skyrealm.cloud.available_servers": "Derzeit verfügbare Server: <green><bold>%count%",
@@ -15,5 +17,6 @@
     "skyrealm.friend.offline": "Dein Freund %player% ist jetzt offline.",
     "skyrealm.cloud.connecting_to_server": "<color:#dfe6e9>Verbindung zum Server: </color><color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Du kannst dich hier nicht teleportieren.",
-    "player.levelup": "Du hast das Level <color:#FFD700>%level%</color> erreicht!"
+    "player.levelup": "Du hast das Level <color:#FFD700>%level%</color> erreicht!",
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> stoppt in <color:#FFD700>%delay%</color> Sekunden."
 }
