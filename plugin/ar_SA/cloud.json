@@ -1,0 +1,22 @@
+{
+    "network.transfer": "<gradient:#D4F6FF:#C6E7FF>%player%</gradient> <#b2bec3>→ <#FADA7A>%server%",
+    "network.transfer.incoming": "<#FADA7A>%server% <#b2bec3>→ <gradient:#D4F6FF:#C6E7FF>%player%</gradient>",
+    "skyrealm.cloud.no_servers": "لا توجد خوادم.",
+    "skyrealm.cloud.no_lobbies": "لم يتم العثور على خوادم ردق.",
+    "skyrealm.cloud.available_servers": "الخوادم المتاحة حاليا: <green><bold>%count%",
+    "skyrealm.cloud.server_entry": "- %server% > <color:yellow>%players%",
+    "skyrealm.cloud.players.on.servers": "<gray>SkyRealm: Players on Servers</gray>",
+    "skyrealm.report.bug_abuse.name": "<dark_gray>إساءة استعمال الأخطاء</dark_gray>",
+    "skyrealm.report.success": "<green>لقد أبلغت بنجاح <yellow>%reported%</yellow> ل <yellow>%reason%</yellow>.</green>",
+    "skyrealm.report.notify.message": "<red>Report Notification:</red> <gray>%reporter%</gray> reported <gray>%reported%</gray> for <white>%reason%</white>.",
+    "skyrealm.server.queued": "<gray>الخادم للمجال <yellow>%realm%</yellow> في قائمة الانتظار للبدء.</gray>",
+    "skyrealm.server.transferring": "<gray>Transferring you to realm <yellow>%realm%</yellow>...</gray>",
+    "skyrealm.cloud.connecting_to_hub": "جاري توصيلك إلى المحور...",
+    "skyrealm.server.running": "الخادم الخاص بالمجال %realm% يعمل الآن.",
+    "skyrealm.friend.online": "صديقك %player% متصل الآن.",
+    "skyrealm.friend.offline": "صديقك %player% غير متصل الآن.",
+    "skyrealm.cloud.connecting_to_server": "الاتصال بالخادم: <color:#FFD700>%server%</color>",
+    "skyrealm.general.tpohere.cannot_self_teleport": "لا يمكنك نقل نفسك إلى هنا.",
+    "player.levelup": "لقد وصلت إلى المستوى <color:#FFD700>%level%</color>!",
+    "skyrealm.cloud.server_stopping": "الملقم <color:#FFD700>%server%</color> يتوقف في <color:#FFD700>%delay%</color> ثانية."
+}
