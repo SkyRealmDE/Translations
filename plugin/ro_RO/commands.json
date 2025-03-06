@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "Timp total AFK: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "AFK pe acest domeniu: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Timp total AFK pentru <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "Timpul curent AFK pentru <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "AFK pe acest tărâm pentru <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green>Invitație trimisă cu succes la <yellow>%player%</yellow>!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Momentan nu ai nicio invitație în așteptare.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Invitații de ieșire</gold>",
