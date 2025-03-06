@@ -1,5 +1,17 @@
 {
     "broadcast.tips.hoe": "🔔 <color:#FCE7C8>Wusstest du schon? Eine Hacke wird deine Ernte automatisch umpflanzen!",
     "broadcast.bugs": "🐛 Fehler gefunden? Melden Sie ihn auf <color:#FCE7C8><click:open_url:'https://github.com/SkyRealmDE/bugreports/issues'><hover:show_text:'Click me'>GitHub!</hover></click></color>",
-    "broadcast.feedback": "💬 Feedback erhalten? Treten Sie dem <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord bei!</hover></click></color>"
+    "broadcast.feedback": "💬 Feedback erhalten? Treten Sie dem <color:#FCE7C8><click:open_url:'https://discord.gg/RHky8tfJZr'><hover:show_text:'Click me'>Discord bei!</hover></click></color>",
+    "broadcast.tips.trypremium": "🔑 <color:#FCE7C8>Probieren Sie Premium-Funktionen mit <white>/Premium</white>aus! Schalten Sie noch mehr Perks auf <click:open_url:'https://store.sky-realm.com'><hover:show_text:'Click to open store'><white>unserem Shop</white></hover></click>frei!</color>",
+    "broadcast.tips.generator": "⚒️ <color:#FCE7C8>Upgrade deinen Generator über <white>/realms</white> → <white>aktualisiert</white> → <white>Generator</white> und steigert deine Ressourcenproduktion!</color>",
+    "broadcast.tips.automation": "🚀 <color:#FCE7C8>Master Automatisierung, um Ihre Gewinne zu steigern. Eine kleine Planung kann zu enormen Gewinnen führen!</color>",
+    "broadcast.tips.inviteFriends": "🤝 <color:#FCE7C8>Du kannst Freunde mit <white>/realm laden \\<name></white>. Spiele zusammen und teile den Spaß!</color>",
+    "broadcast.tips.shadyNpcs": "💸 <color:#FCE7C8>Einige NPCs sind schattig und zahlen weniger für den gleichen Gegenstand. Vergleiche Preise vor dem Verkauf!</color>",
+    "broadcast.tips.dirtSmelt": "🔥 <color:#FCE7C8>Du kannst Schmutz in Sand schmelzen. Wer sagt, du kannst Erde nicht in etwas Nützliches verwandeln?</color>",
+    "broadcast.tips.crushCobble": "🔨 <color:#FCE7C8>Bruch Kopfsteinpflaster in Kies zum Herstellen, Bauen oder Handel!</color>",
+    "broadcast.tips.crushGravel": "🔨 <color:#FCE7C8>Kies in Sand zerkleinern, um zu fertigen, zu bauen oder zu handeln!</color>",
+    "broadcast.tips.mud": "🌀 <color:#FCE7C8>Mischen Sie Wasser mit Sand oder Schmutz um Schlamm zu erstellen—es ist ein wichtiger Bestandteil für verschiedene Rezepte!</color>",
+    "broadcast.tips.dryMud": "🌞 <color:#FCE7C8>Trockener Schlamm im Ofen, um sich zu verdrehen. Es ist eine clevere Methode, Ressourcen zu wechseln!</color>",
+    "broadcast.tips.mcCrafter": "🔧 <color:#FCE7C8>Ab Minecraft 1.21 kann der neue Handwerksblock automatisch jedes Rezept für dich herstellen!</color>",
+    "broadcast.tips.bamboo": "🎋 <color:#FCE7C8>Bambus ist eine schnelle alternative Quelle für Holz. Baue es schnell her!</color>"
 }
