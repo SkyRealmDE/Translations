@@ -5,7 +5,7 @@
     "skyrealm.commands.onlinetime.afkTotal": "AFK時間の合計： <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.afkCurrent": "この領域のAFK: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "<color:#FFD700>%player%</color>: <color:#FFD700>%total%</color> のAFK時間",
-    "skyrealm.commands.onlinetime.other.afkCurrent": "<color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color> の現在のAFK時間",
+    "skyrealm.commands.onlinetime.other.afkCurrent": "<color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
     "commands.invite.success": "<green> <yellow>%player%</yellow>に招待が送信されました!</green>",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>現在保留中の招待状はありません。</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>送信招待</gold>",
