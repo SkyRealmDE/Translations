@@ -1,0 +1,14 @@
+{
+    "deathScreen.quit.confirm": "Oletko varma, että haluat lopettaa sen jälkeen?",
+    "deathScreen.respawn": "Yritä uudelleen",
+    "menu.disconnect": "☠️ Olen väsynyt pelaa",
+    "connect.transferring": "Siirretään toiseen instanssiin...",
+    "skyrealm.messages.link.open": "Avaa linkki napsauttamalla",
+    "skyrealm.messages.command.run": "Suorita komento napsauttamalla",
+    "soundCategory.voice": "SkyRealmin Äänet",
+    "cosmetics.old_hat": "Vanha Hattu",
+    "cosmetics.old_hat.lore": "Hattu menneisyydestä alkaen",
+    "cosmetics.farmer_hat": "Maanviljelijän Hattu",
+    "cosmetics.farmer_hat.lore": "Maanviljelijän hattu",
+    "cosmetics.farmer_hat.lore.2": "-2 sekuntia Twerk jäähdytys"
+}
