@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Δοκιμάστε τα premium χαρακτηριστικά για δωρεάν, περιορισμένη χρήση!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>Μπορείτε να δοκιμάσετε το premium ξανά σε <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Έχετε ενεργοποιήσει με επιτυχία τη δοκιμή πριμοδότησης!",
-    "gui.premium.try.use.too-frequent": "Παρακαλώ περιμένετε <color:#FFD700>%next%</color> πριν χρησιμοποιήσετε ξανά την δοκιμαστική έκδοση premium."
+    "gui.premium.try.use.too-frequent": "Παρακαλώ περιμένετε <color:#FFD700>%next%</color> πριν χρησιμοποιήσετε ξανά την δοκιμαστική έκδοση premium.",
+    "afk.no-afk-effect-active": "Δεν έχετε ενεργό αντι-AFK αποτέλεσμα.",
+    "afk.no-afk-until": "Έχετε ένα ενεργό αντι-AFK εφέ για <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Δεν μπορείτε να επεκτείνετε το εφέ Anti-AFK περαιτέρω. Μέγιστος χρόνος που επιτεύχθηκε."
 }
