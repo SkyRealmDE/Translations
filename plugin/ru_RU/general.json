@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Test out premium features for free, limited usage!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>You can try premium again in <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Вы успешно активировали премиум-пробную версию!",
-    "gui.premium.try.use.too-frequent": "Пожалуйста, подождите <color:#FFD700>%next%</color> перед использованием премиум-пробной версии."
+    "gui.premium.try.use.too-frequent": "Пожалуйста, подождите <color:#FFD700>%next%</color> перед использованием премиум-пробной версии.",
+    "afk.no-afk-effect-active": "Вы не активировали Анти-AFK эффект.",
+    "afk.no-afk-until": "У вас есть активный Анти-AFK эффект для <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Дальнейшее продление действия Анти-AFK невозможно. Максимальное количество времени."
 }
