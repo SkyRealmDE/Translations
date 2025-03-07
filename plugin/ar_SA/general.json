@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>اختبار ميزات متميزة مجاناً، الاستخدام المحدود!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>يمكنك تجربة النسخة المميزة مرة أخرى في <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "لقد قمت بتفعيل التجربة المتميزة بنجاح!",
-    "gui.premium.try.use.too-frequent": "الرجاء الانتظار <color:#FFD700>%next%</color> قبل استخدام التجربة المميزة مرة أخرى."
+    "gui.premium.try.use.too-frequent": "الرجاء الانتظار <color:#FFD700>%next%</color> قبل استخدام التجربة المميزة مرة أخرى.",
+    "afk.no-afk-effect-active": "ليس لديك تأثير مضاد AFK النشط.",
+    "afk.no-afk-until": "لديك تأثير مضاد نشط لـ <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "لا يمكنك تمديد تأثير مضاد AFK الخاص بك أكثر من ذلك. تم بلوغ الحد الأقصى للوقت."
 }
