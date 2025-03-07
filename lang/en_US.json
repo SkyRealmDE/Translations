@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "A hat from the past",
     "cosmetics.farmer_hat": "Farmer Hat",
     "cosmetics.farmer_hat.lore": "The farmer's hat\n \n- 2 seconds twerk cooldown",
-    "cosmetics.farmer_hat.lore.2": "- 2 seconds twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "- 2 seconds twerk cooldown",
+    "item.potion.afk": "Anti-AFK Potion",
+    "item.potion.afk.lore.1": "A potion that will make you immune to AFK",
+    "item.potion.afk.lore.2": "Effect lasts for 15 minutes",
+    "item.potion.afk.lore.3": "You can extend the effect by using the potion again"
 }
