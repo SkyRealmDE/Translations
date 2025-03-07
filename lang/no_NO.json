@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "En hatt fra fortiden",
     "cosmetics.farmer_hat": "Bonde Hatt",
     "cosmetics.farmer_hat.lore": "Gårdbrukerens hatt",
-    "cosmetics.farmer_hat.lore.2": "-2 sekunders twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "-2 sekunders twerk cooldown",
+    "item.potion.afk": "Anti-AFK Eliksir",
+    "item.potion.afk.lore.1": "En eliksir som vil gjøre deg immune mot AFK",
+    "item.potion.afk.lore.2": "Effekten varer i 15 minutter",
+    "item.potion.afk.lore.3": "Du kan utvide effekten ved å bruke eliksiren igjen"
 }
