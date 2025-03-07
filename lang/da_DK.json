@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "En hat fra fortiden",
     "cosmetics.farmer_hat": "Landmand Hat",
     "cosmetics.farmer_hat.lore": "Landmandens hat",
-    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown",
+    "item.potion.afk": "Anti-AFK Eliksir",
+    "item.potion.afk.lore.1": "En eliksir der vil gøre dig immun over for AFK",
+    "item.potion.afk.lore.2": "Effekten varer 15 minutter",
+    "item.potion.afk.lore.3": "Du kan forlænge effekten ved at bruge eliksiren igen"
 }
