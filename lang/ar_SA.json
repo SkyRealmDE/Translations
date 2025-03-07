@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "قبعة من الماضي",
     "cosmetics.farmer_hat": "قبعة مزارع",
     "cosmetics.farmer_hat.lore": "قبعة المزارع",
-    "cosmetics.farmer_hat.lore.2": "2 ثواني تبريد"
+    "cosmetics.farmer_hat.lore.2": "2 ثواني تبريد",
+    "item.potion.afk": "جرعة مضادة لـ AFK",
+    "item.potion.afk.lore.1": "جرعة تجعلك مناعة ضد AFK",
+    "item.potion.afk.lore.2": "التأثير يدوم لمدة 15 دقيقة",
+    "item.potion.afk.lore.3": "يمكنك تمديد التأثير باستخدام الجرعة مرة أخرى"
 }
