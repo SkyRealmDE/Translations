@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Vyzkoušejte prémiové funkce pro bezplatné a omezené použití!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>Můžete zkusit premium znovu v <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Úspěšně jste aktivovali prémiový test!",
-    "gui.premium.try.use.too-frequent": "Počkejte prosím <color:#FFD700>%next%</color> před dalším použitím prémiové zkušební verze."
+    "gui.premium.try.use.too-frequent": "Počkejte prosím <color:#FFD700>%next%</color> před dalším použitím prémiové zkušební verze.",
+    "afk.no-afk-effect-active": "Nemáte aktivní anti-AFK efekt.",
+    "afk.no-afk-until": "Máte aktivní efekt proti AFK pro <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Nemůžete dále prodlužovat svůj efekt anti-AFK. Dosažen maximální čas."
 }
