@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Перевірте преміум-функції для безкоштовного обмеженого використання!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>Ви можете спробувати преміум знову в <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Ви успішно активували свою преміум пробну версію!",
-    "gui.premium.try.use.too-frequent": "Будь ласка, зачекайте <color:#FFD700>%next%</color> перед використанням преміум версії знову."
+    "gui.premium.try.use.too-frequent": "Будь ласка, зачекайте <color:#FFD700>%next%</color> перед використанням преміум версії знову.",
+    "afk.no-afk-effect-active": "У вас немає активного антиAFK ефекту.",
+    "afk.no-afk-until": "У вас є активний антиAFK-ефект для <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Не можна розширити антиAFK-ефект далі. Досягнуто максимальної кількості часу."
 }
