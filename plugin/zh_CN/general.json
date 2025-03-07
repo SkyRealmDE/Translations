@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>免费测试高级功能，限制使用！</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>您可以在 <color:#FFD700>%next%</color>重试高级版。</color>",
     "gui.premium.try.use.success": "您已成功激活您的高级试用！",
-    "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again."
+    "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again.",
+    "afk.no-afk-effect-active": "您没有有效的反AFK效果。",
+    "afk.no-afk-until": "You have an active Anti-AFK effect for <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "您不能再延长您的反AFK效果。达到的最大时间限制。"
 }
