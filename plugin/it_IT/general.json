@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Prova le funzionalità premium gratuitamente, utilizzo limitato!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>Puoi riprovare il premio in <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Hai attivato con successo la prova premium!",
-    "gui.premium.try.use.too-frequent": "Attendere <color:#FFD700>%next%</color> prima di utilizzare nuovamente la prova premium."
+    "gui.premium.try.use.too-frequent": "Attendere <color:#FFD700>%next%</color> prima di utilizzare nuovamente la prova premium.",
+    "afk.no-afk-effect-active": "Non hai alcun effetto anti-AFK attivo.",
+    "afk.no-afk-until": "Hai un effetto Anti-AFK attivo per <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Non puoi estendere ulteriormente il tuo effetto Anti-AFK. Tempo massimo raggiunto."
 }
