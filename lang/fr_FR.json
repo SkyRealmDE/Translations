@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Un chapeau du passé",
     "cosmetics.farmer_hat": "Chapeau de fermier",
     "cosmetics.farmer_hat.lore": "Le chapeau du fermier",
-    "cosmetics.farmer_hat.lore.2": "Refroidissement de twerk de -2 secondes"
+    "cosmetics.farmer_hat.lore.2": "Refroidissement de twerk de -2 secondes",
+    "item.potion.afk": "Potion anti-AFK",
+    "item.potion.afk.lore.1": "Une potion qui vous immunisera contre les AFK",
+    "item.potion.afk.lore.2": "L'effet dure 15 minutes",
+    "item.potion.afk.lore.3": "Vous pouvez prolonger l'effet en réutilisant la potion"
 }
