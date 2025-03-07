@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Шляпа прошлого",
     "cosmetics.farmer_hat": "Шляпа фермера",
     "cosmetics.farmer_hat.lore": "Шляпа фермера",
-    "cosmetics.farmer_hat.lore.2": "-2 секунды перезарядки"
+    "cosmetics.farmer_hat.lore.2": "-2 секунды перезарядки",
+    "item.potion.afk": "Анти-AFK зелье",
+    "item.potion.afk.lore.1": "Зелье, которое сделает вас свободным к AFK",
+    "item.potion.afk.lore.2": "Эффект длится 15 минут",
+    "item.potion.afk.lore.3": "Эффект можно продлевать, используя зелье снова"
 }
