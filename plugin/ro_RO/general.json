@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>Testează caracteristici premium gratuit, cu utilizare limitată!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9>Puteţi încerca Premium din nou în <color:#FFD700>%next%</color>.</color>",
     "gui.premium.try.use.success": "Ați activat cu succes perioada de probă premium!",
-    "gui.premium.try.use.too-frequent": "Vă rugăm să aşteptaţi <color:#FFD700>%next%</color> înainte de a utiliza din nou trial-ul premium."
+    "gui.premium.try.use.too-frequent": "Vă rugăm să aşteptaţi <color:#FFD700>%next%</color> înainte de a utiliza din nou trial-ul premium.",
+    "afk.no-afk-effect-active": "Nu ai niciun efect anti-AFK activ.",
+    "afk.no-afk-until": "Aveți un efect anti-AFK activ pentru <color:#FFD700>%until%</color>.",
+    "afk.consume.max-time-reached": "Nu puteți prelungi efectul anti-AFK mai mult. Timpul maxim atins."
 }
