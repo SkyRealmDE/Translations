@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Um chapéu do passado",
     "cosmetics.farmer_hat": "Chapéu de Agricultor",
     "cosmetics.farmer_hat.lore": "O chapéu do fazendeiro",
-    "cosmetics.farmer_hat.lore.2": "-2 segundos recarga intermitente"
+    "cosmetics.farmer_hat.lore.2": "-2 segundos recarga intermitente",
+    "item.potion.afk": "Poção Anti-AFK",
+    "item.potion.afk.lore.1": "Uma poção que o tornará imune a AFK",
+    "item.potion.afk.lore.2": "Efeito dura 15 minutos",
+    "item.potion.afk.lore.3": "Você pode estender o efeito usando a poção novamente"
 }
