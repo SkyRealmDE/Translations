@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Un cappello del passato",
     "cosmetics.farmer_hat": "Cappello Contadino",
     "cosmetics.farmer_hat.lore": "Cappello del contadino",
-    "cosmetics.farmer_hat.lore.2": "-2 secondi twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "-2 secondi twerk cooldown",
+    "item.potion.afk": "Pozione Anti-AFK",
+    "item.potion.afk.lore.1": "Una pozione che ti renderà immune a AFK",
+    "item.potion.afk.lore.2": "Effetto dura 15 minuti",
+    "item.potion.afk.lore.3": "È possibile estendere l'effetto utilizzando nuovamente la pozione"
 }
