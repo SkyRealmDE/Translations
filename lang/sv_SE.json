@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "En hatt från det förflutna",
     "cosmetics.farmer_hat": "Bondens Hatt",
     "cosmetics.farmer_hat.lore": "Bondens hatt",
-    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "-2 sekunder twerk cooldown",
+    "item.potion.afk": "Anti-AFK brygd",
+    "item.potion.afk.lore.1": "En brygd som gör dig immun mot AFK",
+    "item.potion.afk.lore.2": "Effekten varar i 15 minuter",
+    "item.potion.afk.lore.3": "Du kan förlänga effekten genom att använda brygden igen"
 }
