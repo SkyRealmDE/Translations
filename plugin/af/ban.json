@@ -1,0 +1,10 @@
+{
+    "adminshop.error.not-enough-coins": "",
+    "adminshop.success.buy-item": "",
+    "adminshop.error.not-enough-items": "",
+    "adminshop.success.sell-item": "",
+    "adminshop.buy-one": "",
+    "adminshop.sell-one": "",
+    "adminshop.buy-or-sell-stack": "",
+    "adminshop.drop-to-sell-all": ""
+}
