@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Ein Hut aus der Vergangenheit",
     "cosmetics.farmer_hat": "Bauer Hut",
     "cosmetics.farmer_hat.lore": "Der Hut des Landwirts",
-    "cosmetics.farmer_hat.lore.2": "-2 Sekunden twerk Abklingzeit"
+    "cosmetics.farmer_hat.lore.2": "-2 Sekunden twerk Abklingzeit",
+    "item.potion.afk": "Anti-AFK-Trank",
+    "item.potion.afk.lore.1": "Ein Trank, der dich immun gegen AFK macht",
+    "item.potion.afk.lore.2": "Effekt dauert 15 Minuten",
+    "item.potion.afk.lore.3": "Du kannst den Effekt verlängern, indem du den Trank erneut verwendest"
 }
