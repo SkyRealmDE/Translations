@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "過去の帽子",
     "cosmetics.farmer_hat": "農夫の帽子",
     "cosmetics.farmer_hat.lore": "農民の帽子",
-    "cosmetics.farmer_hat.lore.2": "-2 秒のクールダウン時間"
+    "cosmetics.farmer_hat.lore.2": "-2 秒のクールダウン時間",
+    "item.potion.afk": "対AFKポーション",
+    "item.potion.afk.lore.1": "AFKに免疫を持たせるポーション。",
+    "item.potion.afk.lore.2": "効果は15分間続きます。",
+    "item.potion.afk.lore.3": "ポーションをもう一度使用することで効果を拡張できます。"
 }
