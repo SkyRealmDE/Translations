@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Een hoed van het verleden",
     "cosmetics.farmer_hat": "Boeren Hoed",
     "cosmetics.farmer_hat.lore": "De hoed van de boer",
-    "cosmetics.farmer_hat.lore.2": "-2 seconden twerk afkoeltijd"
+    "cosmetics.farmer_hat.lore.2": "-2 seconden twerk afkoeltijd",
+    "item.potion.afk": "Anti-AFK Drank",
+    "item.potion.afk.lore.1": "Een drankje dat je immuun maakt voor AFK",
+    "item.potion.afk.lore.2": "Effect werkt gedurende 15 minuten",
+    "item.potion.afk.lore.3": "Je kunt het effect verlengen door het drankje opnieuw te gebruiken"
 }
