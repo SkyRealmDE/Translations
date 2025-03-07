@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Ένα καπέλο από το παρελθόν",
     "cosmetics.farmer_hat": "Καπέλο Αγρότη",
     "cosmetics.farmer_hat.lore": "Το καπέλο του αγρότη",
-    "cosmetics.farmer_hat.lore.2": "-2 δευτερόλεπτα επαναφόρτιση twerk"
+    "cosmetics.farmer_hat.lore.2": "-2 δευτερόλεπτα επαναφόρτιση twerk",
+    "item.potion.afk": "Φίλτρο Αντι-AFK",
+    "item.potion.afk.lore.1": "Ένα φίλτρο που θα σας κάνει απρόσβλητο στο AFK",
+    "item.potion.afk.lore.2": "Η επίδραση διαρκεί για 15 λεπτά",
+    "item.potion.afk.lore.3": "Μπορείτε να επεκτείνετε το εφέ χρησιμοποιώντας ξανά το φίλτρο"
 }
