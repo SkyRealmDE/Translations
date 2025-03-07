@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Klobouk z minulosti",
     "cosmetics.farmer_hat": "Farmářská klobouk",
     "cosmetics.farmer_hat.lore": "Zemědělská klobouk",
-    "cosmetics.farmer_hat.lore.2": "-2 sekundy twerk cooldown"
+    "cosmetics.farmer_hat.lore.2": "-2 sekundy twerk cooldown",
+    "item.potion.afk": "ProtiAFK lektvar.",
+    "item.potion.afk.lore.1": "lektvar, který vás učiní imunní vůči AFK",
+    "item.potion.afk.lore.2": "Efekt trvá 15 minut",
+    "item.potion.afk.lore.3": "Efekt můžete rozšířit pomocí lektvaru znovu"
 }
