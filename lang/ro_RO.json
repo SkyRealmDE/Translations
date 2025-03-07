@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "O pălărie din trecut",
     "cosmetics.farmer_hat": "Pălărie pentru fermieri",
     "cosmetics.farmer_hat.lore": "Pălăria fermierului",
-    "cosmetics.farmer_hat.lore.2": "-2 secunde de răcire"
+    "cosmetics.farmer_hat.lore.2": "-2 secunde de răcire",
+    "item.potion.afk": "Poţiune anti-AFK",
+    "item.potion.afk.lore.1": "O poţiune care vă va face imun la AFK",
+    "item.potion.afk.lore.2": "Efectul durează 15 minute",
+    "item.potion.afk.lore.3": "Puteţi extinde efectul folosind poţiunea din nou"
 }
