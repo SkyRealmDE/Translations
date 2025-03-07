@@ -71,5 +71,8 @@
     "gui.premium.try.lore": "<color:#dfe6e9>無料で限定使用できるプレミアム機能をテスト!</color>",
     "gui.premium.try.lore.too-frequent": "<color:#dfe6e9> <color:#FFD700>%next%</color>でもう一度プレミアムを試すことができます。</color>",
     "gui.premium.try.use.success": "プレミアムトライアルのアクティベートに成功しました！",
-    "gui.premium.try.use.too-frequent": "プレミアムトライアルを再度使用する前に、 <color:#FFD700>%next%</color> をお待ちください。"
+    "gui.premium.try.use.too-frequent": "プレミアムトライアルを再度使用する前に、 <color:#FFD700>%next%</color> をお待ちください。",
+    "afk.no-afk-effect-active": "有効なアンチAFK効果はありません。",
+    "afk.no-afk-until": "<color:#FFD700>%until%</color> に有効なアンチAFK効果があります。",
+    "afk.consume.max-time-reached": "これ以上アンチAFK効果を拡張することはできません。最大時間に達しました。"
 }
