@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Капелюх з минулого",
     "cosmetics.farmer_hat": "Головний убір фермера",
     "cosmetics.farmer_hat.lore": "Крізь капелюх фермера",
-    "cosmetics.farmer_hat.lore.2": "-2 секунди подвійного охолодження"
+    "cosmetics.farmer_hat.lore.2": "-2 секунди подвійного охолодження",
+    "item.potion.afk": "Зілля антиAFK",
+    "item.potion.afk.lore.1": "Зілля зробить вас імунітетом до AFK",
+    "item.potion.afk.lore.2": "Ефект триває 15 хвилин",
+    "item.potion.afk.lore.3": "Ви можете розширити ефект, знову використовуючи зілля"
 }
