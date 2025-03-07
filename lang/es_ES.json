@@ -10,5 +10,9 @@
     "cosmetics.old_hat.lore": "Un sombrero del pasado",
     "cosmetics.farmer_hat": "Sombrero Granjero",
     "cosmetics.farmer_hat.lore": "Sombrero del agricultor",
-    "cosmetics.farmer_hat.lore.2": "Tiempo de reutilización de -2 segundos"
+    "cosmetics.farmer_hat.lore.2": "Tiempo de reutilización de -2 segundos",
+    "item.potion.afk": "Poción Anti-AFK",
+    "item.potion.afk.lore.1": "Una poción que te hará inmune a AFK",
+    "item.potion.afk.lore.2": "El efecto dura 15 minutos",
+    "item.potion.afk.lore.3": "Puedes extender el efecto usando la poción de nuevo"
 }
