@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Dette element kan ikke sælges.",
     "skyrealm.realm.spawn.set": "Realm spawn placering er indstillet.",
     "shop.item.added": "Elementet blev tilføjet til butikken.",
-    "skyrealm.error.player_not_found": "Spiller ikke fundet."
+    "skyrealm.error.player_not_found": "Spiller ikke fundet.",
+    "sell.all.no.amount": "Intet beløb angivet.",
+    "realm.upgrade.not-enough-gems": "Ikke nok perler. Du har brug for <color:#FFD700>%amount%</color> perler.",
+    "skyrealm.realm.money.withdraw": "Pengeudtræk: <color:#FFD700>%money%</color>."
 }
