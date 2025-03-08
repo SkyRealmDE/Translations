@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Este item não pode ser vendido.",
     "skyrealm.realm.spawn.set": "O local de spawn do Realm foi definido.",
     "shop.item.added": "Item adicionado à loja.",
-    "skyrealm.error.player_not_found": "Jogador não encontrado."
+    "skyrealm.error.player_not_found": "Jogador não encontrado.",
+    "sell.all.no.amount": "Nenhum montante especificado.",
+    "realm.upgrade.not-enough-gems": "Não há gemas suficientes. Você precisa de <color:#FFD700>%amount%</color> gemas.",
+    "skyrealm.realm.money.withdraw": "Money withdrawn: <color:#FFD700>%money%</color>."
 }
