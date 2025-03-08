@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Denne varen kan ikke bli solgt.",
     "skyrealm.realm.spawn.set": "Startposisjon for realmen er blitt satt.",
     "shop.item.added": "Element lagt til i butikken.",
-    "skyrealm.error.player_not_found": "Spiller ikke funnet."
+    "skyrealm.error.player_not_found": "Spiller ikke funnet.",
+    "sell.all.no.amount": "Ingen beløp spesifisert.",
+    "realm.upgrade.not-enough-gems": "Ikke nok gemer. Du trenger <color:#FFD700>%amount%</color> gemer.",
+    "skyrealm.realm.money.withdraw": "Inndragninger: <color:#FFD700>%money%</color>."
 }
