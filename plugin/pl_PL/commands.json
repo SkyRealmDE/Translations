@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Ten przedmiot nie może zostać sprzedany.",
     "skyrealm.realm.spawn.set": "Lokalizacja spawnu Realms została ustawiona.",
     "shop.item.added": "Element dodany do sklepu.",
-    "skyrealm.error.player_not_found": "Nie znaleziono gracza."
+    "skyrealm.error.player_not_found": "Nie znaleziono gracza.",
+    "sell.all.no.amount": "Nie określono kwoty.",
+    "realm.upgrade.not-enough-gems": "Za mało klejnotów. Potrzebujesz klejnotów <color:#FFD700>%amount%</color>.",
+    "skyrealm.realm.money.withdraw": "Pieniądze wypłacone: <color:#FFD700>%money%</color>."
 }
