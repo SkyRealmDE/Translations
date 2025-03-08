@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Dieses Element kann nicht verkauft werden.",
     "skyrealm.realm.spawn.set": "Realm-Spawn-Position wurde gesetzt.",
     "shop.item.added": "Artikel zum Shop hinzugefügt.",
-    "skyrealm.error.player_not_found": "Spieler nicht gefunden."
+    "skyrealm.error.player_not_found": "Spieler nicht gefunden.",
+    "sell.all.no.amount": "Kein Betrag angegeben.",
+    "realm.upgrade.not-enough-gems": "Nicht genügend Juwelen. Du benötigst <color:#FFD700>%amount%</color> Juwelen.",
+    "skyrealm.realm.money.withdraw": "Geld zurückgezogen: <color:#FFD700>%money%</color>."
 }
