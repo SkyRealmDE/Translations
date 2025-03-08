@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "此项目不能出售。",
     "skyrealm.realm.spawn.set": "领域生成位置已设置。",
     "shop.item.added": "项目已添加到店铺。",
-    "skyrealm.error.player_not_found": "未找到玩家。"
+    "skyrealm.error.player_not_found": "未找到玩家。",
+    "sell.all.no.amount": "未指定金额。",
+    "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
+    "skyrealm.realm.money.withdraw": "Money withdrawn: <color:#FFD700>%money%</color>."
 }
