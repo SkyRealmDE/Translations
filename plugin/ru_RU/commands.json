@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Этот товар не может быть продан.",
     "skyrealm.realm.spawn.set": "Местоположение спавна реалма было установлено.",
     "shop.item.added": "Товар добавлен в магазин.",
-    "skyrealm.error.player_not_found": "Игрок не найден."
+    "skyrealm.error.player_not_found": "Игрок не найден.",
+    "sell.all.no.amount": "Не указана сумма.",
+    "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
+    "skyrealm.realm.money.withdraw": "Вывод денег: <color:#FFD700>%money%</color>."
 }
