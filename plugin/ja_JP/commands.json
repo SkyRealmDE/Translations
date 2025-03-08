@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "このアイテムは販売できません。",
     "skyrealm.realm.spawn.set": "Realm のスポーン場所が設定されました。",
     "shop.item.added": "商品をショップに追加しました。",
-    "skyrealm.error.player_not_found": "プレイヤーが見つかりません。"
+    "skyrealm.error.player_not_found": "プレイヤーが見つかりません。",
+    "sell.all.no.amount": "金額が指定されていません。",
+    "realm.upgrade.not-enough-gems": "ジェムが足りません。 <color:#FFD700>%amount%</color> ジェムが必要です。",
+    "skyrealm.realm.money.withdraw": "現金引き出し: <color:#FFD700>%money%</color>."
 }
