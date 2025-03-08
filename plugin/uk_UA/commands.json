@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Цей товар не може бути проданим.",
     "skyrealm.realm.spawn.set": "Розташування спавну реалму встановлено.",
     "shop.item.added": "Елемент додано до магазину.",
-    "skyrealm.error.player_not_found": "Гравець не знайдено."
+    "skyrealm.error.player_not_found": "Гравець не знайдено.",
+    "sell.all.no.amount": "Не вказано жодної суми.",
+    "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
+    "skyrealm.realm.money.withdraw": "Гроші знімають: <color:#FFD700>%money%</color>."
 }
