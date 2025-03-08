@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Dit item kan niet worden verkocht.",
     "skyrealm.realm.spawn.set": "Realm spawn locatie is ingesteld.",
     "shop.item.added": "Item toegevoegd aan de winkel.",
-    "skyrealm.error.player_not_found": "Speler niet gevonden."
+    "skyrealm.error.player_not_found": "Speler niet gevonden.",
+    "sell.all.no.amount": "Geen bedrag gespecificeerd.",
+    "realm.upgrade.not-enough-gems": "Niet genoeg edelstenen. Je hebt <color:#FFD700>%amount%</color> edelstenen nodig.",
+    "skyrealm.realm.money.withdraw": "Geld opgenomen: <color:#FFD700>%money%</color>."
 }
