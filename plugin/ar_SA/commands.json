@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "لا يمكن بيع هذا العنصر.",
     "skyrealm.realm.spawn.set": "تم تعيين موقع التوليد في المكان.",
     "shop.item.added": "تمت إضافة العنصر إلى المتجر.",
-    "skyrealm.error.player_not_found": "اللاعب غير موجود."
+    "skyrealm.error.player_not_found": "اللاعب غير موجود.",
+    "sell.all.no.amount": "لا يوجد مبلغ محدد.",
+    "realm.upgrade.not-enough-gems": "لا توجد جواهر كافية. تحتاج إلى الجواهر <color:#FFD700>%amount%</color>.",
+    "skyrealm.realm.money.withdraw": "الأموال المسحوبة: <color:#FFD700>%money%</color>."
 }
