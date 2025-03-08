@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Acest obiect nu poate fi vândut.",
     "skyrealm.realm.spawn.set": "Locatia spawn a fost setata.",
     "shop.item.added": "Articol adaugat in magazin.",
-    "skyrealm.error.player_not_found": "Jucătorul nu a fost găsit."
+    "skyrealm.error.player_not_found": "Jucătorul nu a fost găsit.",
+    "sell.all.no.amount": "Nicio sumă specificată.",
+    "realm.upgrade.not-enough-gems": "Nu sunt suficiente gemuri. Ai nevoie de <color:#FFD700>%amount%</color> gemuri.",
+    "skyrealm.realm.money.withdraw": "Monedă retrasă: <color:#FFD700>%money%</color>."
 }
