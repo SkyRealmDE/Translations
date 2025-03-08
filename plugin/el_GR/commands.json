@@ -53,5 +53,8 @@
     "sell.all.not.sellable": "Αυτό το στοιχείο δεν μπορεί να πωληθεί.",
     "skyrealm.realm.spawn.set": "Έχει οριστεί τοποθεσία δημιουργίας του Realm.",
     "shop.item.added": "Το στοιχείο προστέθηκε στο κατάστημα.",
-    "skyrealm.error.player_not_found": "Ο παίκτης δεν βρέθηκε."
+    "skyrealm.error.player_not_found": "Ο παίκτης δεν βρέθηκε.",
+    "sell.all.no.amount": "Δεν καθορίστηκε ποσό.",
+    "realm.upgrade.not-enough-gems": "Δεν είναι αρκετά πολύτιμους λίθους. Χρειάζεστε <color:#FFD700>%amount%</color> πολύτιμους λίθους.",
+    "skyrealm.realm.money.withdraw": "Ανάληψη χρημάτων: <color:#FFD700>%money%</color>."
 }
