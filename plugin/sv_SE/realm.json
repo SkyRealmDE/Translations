@@ -102,5 +102,7 @@
     "realm.settings.persistent_domain.lore": "Nuvarande domän: <color:#FFD700>%currentDomain%</color>",
     "realm.settings.persistent_domain.set": "Domänen satt till <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Svårighetsgrad stat: <color:#FFD700>%state%</color></color>",
-    "realm.features.difficulty.name": "Svårighetsgrad"
+    "realm.features.difficulty.name": "Svårighetsgrad",
+    "realm.bank.deposit.notification": "Spelare <color:#FFD700>%player%</color> satte in <color:#FFD700>%amount%</color> i realm <color:#FFD700>%realm%</color>.",
+    "realm.bank.withdraw.notification": "Spelare <color:#FFD700>%player%</color> drog tillbaka <color:#FFD700>%amount%</color> från realm <color:#FFD700>%realm%</color>."
 }
