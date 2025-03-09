@@ -14,5 +14,6 @@
     "item.potion.afk": "Anti-AFK Drank",
     "item.potion.afk.lore.1": "Een drankje dat je immuun maakt voor AFK",
     "item.potion.afk.lore.2": "Effect werkt gedurende 15 minuten",
-    "item.potion.afk.lore.3": "Je kunt het effect verlengen door het drankje opnieuw te gebruiken"
+    "item.potion.afk.lore.3": "Je kunt het effect verlengen door het drankje opnieuw te gebruiken",
+    "item.drill": "Boor"
 }
