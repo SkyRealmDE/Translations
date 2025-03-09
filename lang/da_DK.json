@@ -14,5 +14,6 @@
     "item.potion.afk": "Anti-AFK Eliksir",
     "item.potion.afk.lore.1": "En eliksir der vil gøre dig immun over for AFK",
     "item.potion.afk.lore.2": "Effekten varer 15 minutter",
-    "item.potion.afk.lore.3": "Du kan forlænge effekten ved at bruge eliksiren igen"
+    "item.potion.afk.lore.3": "Du kan forlænge effekten ved at bruge eliksiren igen",
+    "item.drill": "Bor"
 }
