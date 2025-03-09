@@ -14,5 +14,6 @@
     "item.potion.afk": "Anti-AFK brygd",
     "item.potion.afk.lore.1": "En brygd som gör dig immun mot AFK",
     "item.potion.afk.lore.2": "Effekten varar i 15 minuter",
-    "item.potion.afk.lore.3": "Du kan förlänga effekten genom att använda brygden igen"
+    "item.potion.afk.lore.3": "Du kan förlänga effekten genom att använda brygden igen",
+    "item.drill": "Borr"
 }
