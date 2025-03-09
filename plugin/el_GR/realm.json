@@ -103,6 +103,6 @@
     "realm.settings.persistent_domain.set": "Τομέας ρυθμισμένος σε <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Κατάσταση δυσκολίας: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Επίπεδο Δυσκολίας",
-    "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
+    "realm.bank.deposit.notification": "Ο παίκτης <color:#FFD700>%player%</color> κατατέθηκε <color:#FFD700>%amount%</color> σε realm <color:#FFD700>%realm%</color>.",
     "realm.bank.withdraw.notification": "Ο παίκτης <color:#FFD700>%player%</color> απέσυρε <color:#FFD700>%amount%</color> από το realm <color:#FFD700>%realm%</color>."
 }
