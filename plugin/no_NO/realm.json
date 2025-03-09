@@ -102,5 +102,7 @@
     "realm.settings.persistent_domain.lore": "Gjeldende dom: <color:#FFD700>%currentDomain%</color>",
     "realm.settings.persistent_domain.set": "Domene satt til <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Vanskelighetsgrad tilstand: <color:#FFD700>%state%</color></color>",
-    "realm.features.difficulty.name": "Vanskelighetsgrad Nivå"
+    "realm.features.difficulty.name": "Vanskelighetsgrad Nivå",
+    "realm.bank.deposit.notification": "Spiller <color:#FFD700>%player%</color> avsatt <color:#FFD700>%amount%</color> i realmen <color:#FFD700>%realm%</color>.",
+    "realm.bank.withdraw.notification": "Spiller <color:#FFD700>%player%</color> trakk seg tilbake <color:#FFD700>%amount%</color> fra realm <color:#FFD700>%realm%</color>."
 }
