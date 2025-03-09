@@ -102,5 +102,7 @@
     "realm.settings.persistent_domain.lore": "Huidig Domein: <color:#FFD700>%currentDomain%</color>",
     "realm.settings.persistent_domain.set": "Domein ingesteld op <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
-    "realm.features.difficulty.name": "Moeilijkheidsgraad"
+    "realm.features.difficulty.name": "Moeilijkheidsgraad",
+    "realm.bank.deposit.notification": "Speler <color:#FFD700>%player%</color> plaatste <color:#FFD700>%amount%</color> in realm <color:#FFD700>%realm%</color>.",
+    "realm.bank.withdraw.notification": "Speler <color:#FFD700>%player%</color> heeft <color:#FFD700>%amount%</color> ingetrokken uit realm <color:#FFD700>%realm%</color>."
 }
