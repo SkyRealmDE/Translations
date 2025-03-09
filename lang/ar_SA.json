@@ -14,5 +14,6 @@
     "item.potion.afk": "جرعة مضادة لـ AFK",
     "item.potion.afk.lore.1": "جرعة تجعلك مناعة ضد AFK",
     "item.potion.afk.lore.2": "التأثير يدوم لمدة 15 دقيقة",
-    "item.potion.afk.lore.3": "يمكنك تمديد التأثير باستخدام الجرعة مرة أخرى"
+    "item.potion.afk.lore.3": "يمكنك تمديد التأثير باستخدام الجرعة مرة أخرى",
+    "item.drill": "التدريب"
 }
