@@ -14,5 +14,6 @@
     "item.potion.afk": "Anti-AFK taikajuoma",
     "item.potion.afk.lore.1": "Juoma, joka tekee sinut immuuni AFK",
     "item.potion.afk.lore.2": "Efekti kestää 15 minuuttia",
-    "item.potion.afk.lore.3": "Voit laajentaa vaikutusta käyttämällä taikajuomaa uudelleen"
+    "item.potion.afk.lore.3": "Voit laajentaa vaikutusta käyttämällä taikajuomaa uudelleen",
+    "item.drill": "Pora"
 }
