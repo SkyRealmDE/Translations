@@ -102,5 +102,7 @@
     "realm.settings.persistent_domain.lore": "Domaine actuel : <color:#FFD700>%currentDomain%</color>",
     "realm.settings.persistent_domain.set": "Domaine défini à <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
-    "realm.features.difficulty.name": "Niveau de difficulté"
+    "realm.features.difficulty.name": "Niveau de difficulté",
+    "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
+    "realm.bank.withdraw.notification": "Le joueur <color:#FFD700>%player%</color> a retiré <color:#FFD700>%amount%</color> du royaume <color:#FFD700>%realm%</color>."
 }
