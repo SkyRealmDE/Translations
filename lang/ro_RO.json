@@ -14,5 +14,6 @@
     "item.potion.afk": "Poţiune anti-AFK",
     "item.potion.afk.lore.1": "O poţiune care vă va face imun la AFK",
     "item.potion.afk.lore.2": "Efectul durează 15 minute",
-    "item.potion.afk.lore.3": "Puteţi extinde efectul folosind poţiunea din nou"
+    "item.potion.afk.lore.3": "Puteţi extinde efectul folosind poţiunea din nou",
+    "item.drill": "Exerciție"
 }
