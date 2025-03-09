@@ -18,5 +18,6 @@
     "skyrealm.cloud.connecting_to_server": "サーバーに接続中: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "ここではテレポートできません。",
     "player.levelup": "レベル <color:#FFD700>%level%</color> に達しました！",
-    "skyrealm.cloud.server_stopping": "サーバー <color:#FFD700>%server%</color> は <color:#FFD700>%delay%</color> 秒で停止しています。"
+    "skyrealm.cloud.server_stopping": "サーバー <color:#FFD700>%server%</color> は <color:#FFD700>%delay%</color> 秒で停止しています。",
+    "skyrealm.cloud.player_transfer": "<color:#FFD700>%player%</color> をサーバ <color:#FFD700>%server%</color> に転送しています。"
 }
