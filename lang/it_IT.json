@@ -14,5 +14,6 @@
     "item.potion.afk": "Pozione Anti-AFK",
     "item.potion.afk.lore.1": "Una pozione che ti renderà immune a AFK",
     "item.potion.afk.lore.2": "Effetto dura 15 minuti",
-    "item.potion.afk.lore.3": "È possibile estendere l'effetto utilizzando nuovamente la pozione"
+    "item.potion.afk.lore.3": "È possibile estendere l'effetto utilizzando nuovamente la pozione",
+    "item.drill": "Drill"
 }
