@@ -14,5 +14,6 @@
     "item.potion.afk": "Anti-AFK-Trank",
     "item.potion.afk.lore.1": "Ein Trank, der dich immun gegen AFK macht",
     "item.potion.afk.lore.2": "Effekt dauert 15 Minuten",
-    "item.potion.afk.lore.3": "Du kannst den Effekt verlängern, indem du den Trank erneut verwendest"
+    "item.potion.afk.lore.3": "Du kannst den Effekt verlängern, indem du den Trank erneut verwendest",
+    "item.drill": "Bohrung"
 }
