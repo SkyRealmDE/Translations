@@ -14,5 +14,6 @@
     "item.potion.afk": "Mikstura antyAFK",
     "item.potion.afk.lore.1": "Mikstura, która sprawi, że jesteś odporny na AFK",
     "item.potion.afk.lore.2": "Efekt trwa 15 minut",
-    "item.potion.afk.lore.3": "Możesz przedłużyć efekt używając mikstury ponownie"
+    "item.potion.afk.lore.3": "Możesz przedłużyć efekt używając mikstury ponownie",
+    "item.drill": "Wiertło"
 }
