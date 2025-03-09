@@ -103,6 +103,6 @@
     "realm.settings.persistent_domain.set": "Doména nastavena na <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>Obtížný stát: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Úroveň potíží",
-    "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
+    "realm.bank.deposit.notification": "Hráč <color:#FFD700>%player%</color> vložil <color:#FFD700>%amount%</color> do říše <color:#FFD700>%realm%</color>.",
     "realm.bank.withdraw.notification": "Hráč <color:#FFD700>%player%</color> stáhl <color:#FFD700>%amount%</color> z říše <color:#FFD700>%realm%</color>."
 }
