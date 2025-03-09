@@ -14,5 +14,6 @@
     "item.potion.afk": "抗AFK 药水",
     "item.potion.afk.lore.1": "一瓶药水让你免受AFK",
     "item.potion.afk.lore.2": "特效持续15分钟",
-    "item.potion.afk.lore.3": "您可以再次使用药水来扩展效果"
+    "item.potion.afk.lore.3": "您可以再次使用药水来扩展效果",
+    "item.drill": "钻机"
 }
