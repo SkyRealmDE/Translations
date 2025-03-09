@@ -18,5 +18,6 @@
     "skyrealm.cloud.connecting_to_server": "Підключення до сервера: <color:#FFD700>%server%</color>",
     "skyrealm.general.tpohere.cannot_self_teleport": "Ви не можете переміщуватися тут.",
     "player.levelup": "You have reached level <color:#FFD700>%level%</color>!",
-    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> is stopping in <color:#FFD700>%delay%</color> seconds."
+    "skyrealm.cloud.server_stopping": "Server <color:#FFD700>%server%</color> is stopping in <color:#FFD700>%delay%</color> seconds.",
+    "skyrealm.cloud.player_transfer": "Передача <color:#FFD700>%player%</color> на сервер <color:#FFD700>%server%</color>."
 }
