@@ -102,5 +102,7 @@
     "realm.settings.persistent_domain.lore": "現在のドメイン： <color:#FFD700>%currentDomain%</color>",
     "realm.settings.persistent_domain.set": "Domain set to <color:#FFD700>%domain%</color>.",
     "realm.features.difficulty.lore": "<color:#dfe6e9>難易度： <color:#FFD700>%state%</color></color>",
-    "realm.features.difficulty.name": "難易度レベル"
+    "realm.features.difficulty.name": "難易度レベル",
+    "realm.bank.deposit.notification": "プレイヤー <color:#FFD700>%player%</color> は、 <color:#FFD700>%amount%</color> を領域 <color:#FFD700>%realm%</color> に堆積させました。",
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
 }
