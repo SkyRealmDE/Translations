@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Pelaajaa ei löytynyt.",
     "sell.all.no.amount": "Määriä ei ole määritelty.",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
-    "skyrealm.realm.money.withdraw": "Money withdrawn: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
