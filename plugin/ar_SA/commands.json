@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "اللاعب غير موجود.",
     "sell.all.no.amount": "لا يوجد مبلغ محدد.",
     "realm.upgrade.not-enough-gems": "لا توجد جواهر كافية. تحتاج إلى الجواهر <color:#FFD700>%amount%</color>.",
-    "skyrealm.realm.money.withdraw": "الأموال المسحوبة: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
