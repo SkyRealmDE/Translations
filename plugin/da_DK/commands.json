@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Spiller ikke fundet.",
     "sell.all.no.amount": "Intet beløb angivet.",
     "realm.upgrade.not-enough-gems": "Ikke nok perler. Du har brug for <color:#FFD700>%amount%</color> perler.",
-    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
+    "skyrealm.realm.money.withdraw": "Du har trukket <color:#FFD700>%money%</color> mønter ud af realm bank."
 }
