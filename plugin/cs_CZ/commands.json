@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Hráč nebyl nalezen.",
     "sell.all.no.amount": "Není zadána žádná částka.",
     "realm.upgrade.not-enough-gems": "Nedostatek dárek. Potřebuješ <color:#FFD700>%amount%</color> dárek.",
-    "skyrealm.realm.money.withdraw": "Peníze vybrány: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
