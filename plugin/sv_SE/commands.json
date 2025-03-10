@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Spelaren hittades inte.",
     "sell.all.no.amount": "Inget belopp angivet.",
     "realm.upgrade.not-enough-gems": "Inte tillräckligt med pärlor. Du behöver <color:#FFD700>%amount%</color> pärlor.",
-    "skyrealm.realm.money.withdraw": "Pengar utbetalade: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
