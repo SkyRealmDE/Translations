@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Spiller ikke funnet.",
     "sell.all.no.amount": "Ingen beløp spesifisert.",
     "realm.upgrade.not-enough-gems": "Ikke nok gemer. Du trenger <color:#FFD700>%amount%</color> gemer.",
-    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
+    "skyrealm.realm.money.withdraw": "Du har trukket tilbake <color:#FFD700>%money%</color> mynter fra realmbanken."
 }
