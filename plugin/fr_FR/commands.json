@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Lecteur introuvable.",
     "sell.all.no.amount": "Aucun montant spécifié.",
     "realm.upgrade.not-enough-gems": "Pas assez de gemmes. Vous avez besoin de gemmes <color:#FFD700>%amount%</color>.",
-    "skyrealm.realm.money.withdraw": "Argent retiré: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "Vous avez retiré des pièces <color:#FFD700>%money%</color> de la banque du royaume."
 }
