@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Jogador não encontrado.",
     "sell.all.no.amount": "Nenhum montante especificado.",
     "realm.upgrade.not-enough-gems": "Não há gemas suficientes. Você precisa de <color:#FFD700>%amount%</color> gemas.",
-    "skyrealm.realm.money.withdraw": "Money withdrawn: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
