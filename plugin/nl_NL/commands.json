@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Speler niet gevonden.",
     "sell.all.no.amount": "Geen bedrag gespecificeerd.",
     "realm.upgrade.not-enough-gems": "Niet genoeg edelstenen. Je hebt <color:#FFD700>%amount%</color> edelstenen nodig.",
-    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
+    "skyrealm.realm.money.withdraw": "Je hebt <color:#FFD700>%money%</color> munten van de Realm bank ingetrokken."
 }
