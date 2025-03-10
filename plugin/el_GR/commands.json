@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Ο παίκτης δεν βρέθηκε.",
     "sell.all.no.amount": "Δεν καθορίστηκε ποσό.",
     "realm.upgrade.not-enough-gems": "Δεν είναι αρκετά πολύτιμους λίθους. Χρειάζεστε <color:#FFD700>%amount%</color> πολύτιμους λίθους.",
-    "skyrealm.realm.money.withdraw": "Ανάληψη χρημάτων: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
