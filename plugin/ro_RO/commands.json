@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Jucătorul nu a fost găsit.",
     "sell.all.no.amount": "Nicio sumă specificată.",
     "realm.upgrade.not-enough-gems": "Nu sunt suficiente gemuri. Ai nevoie de <color:#FFD700>%amount%</color> gemuri.",
-    "skyrealm.realm.money.withdraw": "Monedă retrasă: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "Ați retras <color:#FFD700>%money%</color> monede din banca pentru tărâm."
 }
