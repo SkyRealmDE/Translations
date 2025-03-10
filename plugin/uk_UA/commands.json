@@ -56,5 +56,5 @@
     "skyrealm.error.player_not_found": "Гравець не знайдено.",
     "sell.all.no.amount": "Не вказано жодної суми.",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
-    "skyrealm.realm.money.withdraw": "Гроші знімають: <color:#FFD700>%money%</color>."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
 }
