@@ -6,7 +6,7 @@
     "skyrealm.commands.onlinetime.afkCurrent": "AFK auf diesem Bereich: <color:#FFD700>%servertime%</color>",
     "skyrealm.commands.onlinetime.other.afkTotal": "Gesamte AFK Zeit für <color:#FFD700>%player%</color>: <color:#FFD700>%total%</color>",
     "skyrealm.commands.onlinetime.other.afkCurrent": "AFK auf diesem Realm für <color:#FFD700>%player%</color>: <color:#FFD700>%servertime%</color>",
-    "commands.invite.success": "<green>Einladung erfolgreich an <yellow>%player%</yellow>gesendet!</green>",
+    "commands.invite.success": "Einladung erfolgreich an <yellow>%player%</yellow> gesendet!",
     "commands.invite.list-incoming.no-pending-invites": "<dark_gray>Sie haben derzeit keine ausstehenden Einladungen.</dark_gray>",
     "commands.invite.list-outgoing.header": "<gold>Ausgehende Einladungen</gold>",
     "commands.invite.list-realm.entry": "<gray>Realm: <aqua>%realm%</aqua> (ID: <white>%realmId%</white>)</gray>",
