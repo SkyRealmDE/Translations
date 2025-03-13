@@ -116,5 +116,6 @@
     "lock.role-set": "The lock role has been set to <color:#FFD700>%role%</color>.",
     "lock.password-set": "A new password has been set for this lock.",
     "lock.no-block-found": "No lockable block found nearby.",
-    "lock.password-input-set": "You have provided the lock password. You can now use it to open the locked block."
+    "lock.password-input-set": "You have provided the lock password. You can now use it to open the locked block.",
+    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>."
 }
