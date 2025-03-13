@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Schwierigkeitsgrad: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Schwierigkeitsgrad",
     "realm.bank.deposit.notification": "Spieler <color:#FFD700>%player%</color> hat <color:#FFD700>%amount%</color> auf Realm <color:#FFD700>%realm%</color> hinterlegt.",
-    "realm.bank.withdraw.notification": "Spieler <color:#FFD700>%player%</color> zurückgezogen <color:#FFD700>%amount%</color> vom Realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Spieler <color:#FFD700>%player%</color> zurückgezogen <color:#FFD700>%amount%</color> vom Realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Es gibt hier keine Sperre.",
+    "lock.member-added": "<color:#FFD700>%member%</color> zu dieser Sperre hinzugefügt.",
+    "lock.info": "Sperrinfo: Eigentum von <color:#FFD700>%owner%</color>. Schlüssel: <color:#FFD700>%key%</color>. Mitglieder: <color:#FFD700>%members%</color>. Rollen: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Die Sperre wurde entfernt.",
+    "lock.member-removed": "<color:#FFD700>%member%</color> aus dieser Sperre entfernt.",
+    "lock.role-set": "Die Sperrrolle wurde auf <color:#FFD700>%role%</color> gesetzt.",
+    "lock.password-set": "Für diese Sperre wurde ein neues Passwort festgelegt.",
+    "lock.no-block-found": "Kein sperrbarer Block in der Nähe gefunden.",
+    "lock.password-input-set": "Du hast das Sperrpasswort angegeben. Du kannst es jetzt verwenden, um den gesperrten Block zu öffnen.",
+    "lock.locked": "Die <color:#FFD700>%block%</color> ist gesperrt. Wenn Sie das Passwort besitzen, verwenden Sie bitte <white>/unlock \\<password></white>."
 }
