@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Difficulty Level",
     "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "There is no lock set here.",
+    "lock.member-added": "Added <color:#FFD700>%member%</color> to this lock.",
+    "lock.info": "Lock Info: Owned by <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Members: <color:#FFD700>%members%</color>. Roles: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "The lock has been removed.",
+    "lock.member-removed": "Removed <color:#FFD700>%member%</color> from this lock.",
+    "lock.role-set": "The lock role has been set to <color:#FFD700>%role%</color>.",
+    "lock.password-set": "A new password has been set for this lock.",
+    "lock.no-block-found": "No lockable block found nearby.",
+    "lock.password-input-set": "You have provided the lock password. You can now use it to open the locked block.",
+    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>."
 }
