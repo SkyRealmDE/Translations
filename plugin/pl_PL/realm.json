@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Stan trudności: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Poziom trudności",
     "realm.bank.deposit.notification": "Gracz <color:#FFD700>%player%</color> wpłacił <color:#FFD700>%amount%</color> w domenę <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Gracz <color:#FFD700>%player%</color> wycofał <color:#FFD700>%amount%</color> z domeny <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Gracz <color:#FFD700>%player%</color> wycofał <color:#FFD700>%amount%</color> z domeny <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Nie ma tutaj ustawionej blokady.",
+    "lock.member-added": "Dodano <color:#FFD700>%member%</color> do tej blokady.",
+    "lock.info": "Blokada: jest własnością <color:#FFD700>%owner%</color>. Klucz: <color:#FFD700>%key%</color>. Członkowie: <color:#FFD700>%members%</color>. Role: <color:#FFD700>%roles%</color>",
+    "lock.removed": "Blokada została usunięta.",
+    "lock.member-removed": "Usunięto <color:#FFD700>%member%</color> z tej blokady.",
+    "lock.role-set": "Rola blokady została ustawiona na <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Dla tej blokady ustawiono nowe hasło.",
+    "lock.no-block-found": "Nie znaleziono bloków blokowanych w pobliżu.",
+    "lock.password-input-set": "Podałeś hasło blokady. Możesz go teraz użyć, aby otworzyć blok zablokowany.",
+    "lock.locked": "<color:#FFD700>%block%</color> jest zablokowany. Jeśli masz hasło, użyj <white>/odblokuj \\<password></white>."
 }
