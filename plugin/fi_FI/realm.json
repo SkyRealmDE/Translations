@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Vaikeustaso",
     "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Täällä ei ole lukitusta.",
+    "lock.member-added": "Added <color:#FFD700>%member%</color> to this lock.",
+    "lock.info": "Lock Info: Owned by <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Members: <color:#FFD700>%members%</color>. Roles: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Lukko on poistettu.",
+    "lock.member-removed": "Removed <color:#FFD700>%member%</color> from this lock.",
+    "lock.role-set": "The lock role has been set to <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Uusi salasana on asetettu tälle lukolle.",
+    "lock.no-block-found": "Lähistöllä ei löytynyt lukittavaa lohkoa.",
+    "lock.password-input-set": "Olet antanut lukituksen salasanan. Voit nyt käyttää sitä avataksesi lukitun lohkon.",
+    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>."
 }
