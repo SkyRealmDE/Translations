@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Erfolgreich</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>auf ein Limit</color> <color:#FFD700>%limit%</color><color:#dfe6e9>aktualisiert.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Realmgröße:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Sie haben das Limit von <color:#FFD700>%limit%</color> für <color:#FFD700>%entityLimit%</color> erreicht.",
+    "realm.entities.limit.error.size": "Du musst eine Realmgröße von <color:#FFD700>%size%</color> haben, um ein Entitätslimit von <color:#FFD700>%entityLimit%</color> zu haben.",
     "skyrealm.realm.money.bank": "Deine Realmbank hält derzeit <color:#FFD700>%money%</color> Münzen.",
     "skyrealm.realm.money.deposit": "Du hast <color:#FFD700>%money%</color> Münzen in die Realmbank eingezahlt.",
     "realm.size.upgrade.success": "Du hast deine Realmgröße erfolgreich verbessert.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Für diese Sperre wurde ein neues Passwort festgelegt.",
     "lock.no-block-found": "Kein sperrbarer Block in der Nähe gefunden.",
     "lock.password-input-set": "Du hast das Sperrpasswort angegeben. Du kannst es jetzt verwenden, um den gesperrten Block zu öffnen.",
-    "lock.locked": "Die <color:#FFD700>%block%</color> ist gesperrt. Wenn Sie das Passwort besitzen, verwenden Sie bitte <white>/unlock \\<password></white>."
+    "lock.locked": "Die <color:#FFD700>%block%</color> ist gesperrt. Wenn Sie das Passwort besitzen, verwenden Sie bitte <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Dieser Block kann nicht gesperrt werden."
 }
