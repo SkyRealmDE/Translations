@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Vanskelighetsgrad tilstand: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Vanskelighetsgrad Nivå",
     "realm.bank.deposit.notification": "Spiller <color:#FFD700>%player%</color> avsatt <color:#FFD700>%amount%</color> i realmen <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Spiller <color:#FFD700>%player%</color> trakk seg tilbake <color:#FFD700>%amount%</color> fra realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Spiller <color:#FFD700>%player%</color> trakk seg tilbake <color:#FFD700>%amount%</color> fra realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Det er ikke noen lås satt her.",
+    "lock.member-added": "La til <color:#FFD700>%member%</color> for denne låsen.",
+    "lock.info": "Lock Info: Eies av <color:#FFD700>%owner%</color>. Nøkkel: <color:#FFD700>%key%</color>. Medlemmer: <color:#FFD700>%members%</color>. Roller: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Låsen har blitt fjernet.",
+    "lock.member-removed": "Fjernet <color:#FFD700>%member%</color> fra denne låsen.",
+    "lock.role-set": "Låserollen er satt til <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Et nytt passord er angitt for denne låsen.",
+    "lock.no-block-found": "Ingen låsbar blokk funnet i nærheten.",
+    "lock.password-input-set": "Du har oppgitt passordet for lås. Du kan nå bruke det til å åpne den låste blokken.",
+    "lock.locked": "<color:#FFD700>%block%</color> er låst. Hvis du har passordet, kan du bruke <white>/unlock \\<password></white>."
 }
