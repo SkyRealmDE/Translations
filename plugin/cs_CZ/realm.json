@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Obtížný stát: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Úroveň potíží",
     "realm.bank.deposit.notification": "Hráč <color:#FFD700>%player%</color> vložil <color:#FFD700>%amount%</color> do říše <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Hráč <color:#FFD700>%player%</color> stáhl <color:#FFD700>%amount%</color> z říše <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Hráč <color:#FFD700>%player%</color> stáhl <color:#FFD700>%amount%</color> z říše <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Není zde žádná uzamykací sada.",
+    "lock.member-added": "Přidán <color:#FFD700>%member%</color> do tohoto zámku.",
+    "lock.info": "Informace o zamknutí: vlastněné <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Členi: <color:#FFD700>%members%</color>. Role: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Zámek byl odstraněn.",
+    "lock.member-removed": "Odstraněno <color:#FFD700>%member%</color> z tohoto zámku.",
+    "lock.role-set": "Úloha zámku byla nastavena na <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Pro tento zámek bylo nastaveno nové heslo.",
+    "lock.no-block-found": "V okolí nebyl nalezen žádný uzamčený blok.",
+    "lock.password-input-set": "Zadali jste heslo k zamknutí. Nyní jej můžete použít k otevření uzamčeného bloku.",
+    "lock.locked": "<color:#FFD700>%block%</color> je uzamčen. Pokud máte heslo, použijte <white>/odemkněte \\<password></white>."
 }
