@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>ανανεώθηκε επιτυχώς</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>σε όριο</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Μέγεθος Realm:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Έχετε φτάσει το όριο <color:#FFD700>%limit%</color> για <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Πρέπει να έχετε ένα πραγματικό μέγεθος <color:#FFD700>%size%</color> για να έχετε ένα όριο οντότητας <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Η τράπεζα realm σας κατέχει νομίσματα <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "You have deposited <color:#FFD700>%money%</color> coins into the realm bank.",
     "realm.size.upgrade.success": "Έχετε αναβαθμίσει με επιτυχία το μέγεθος του realm σας.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Ένας νέος κωδικός πρόσβασης έχει οριστεί για αυτό το κλείδωμα.",
     "lock.no-block-found": "Κανένα μπλοκ που κλειδώνει βρίσκεται κοντά.",
     "lock.password-input-set": "Δώσατε τον κωδικό πρόσβασης κλειδώματος. Τώρα μπορείτε να τον χρησιμοποιήσετε για να ανοίξετε το μπλοκ κλειδώματος.",
-    "lock.locked": "Το <color:#FFD700>%block%</color> είναι κλειδωμένο. Εάν έχετε τον κωδικό πρόσβασης, χρησιμοποιήστε <white>/ξεκλείδωμα \\<password></white>."
+    "lock.locked": "Το <color:#FFD700>%block%</color> είναι κλειδωμένο. Εάν έχετε τον κωδικό πρόσβασης, χρησιμοποιήστε <white>/ξεκλείδωμα \\<password></white>.",
+    "lock.not-lockable": "Αυτό το μπλοκ δεν μπορεί να κλειδωθεί."
 }
