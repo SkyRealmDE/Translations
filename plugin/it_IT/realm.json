@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>aggiornato con successo</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>ad un limite di</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Dimensione Del Ream:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Hai raggiunto il limite di <color:#FFD700>%limit%</color> per <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Devi avere una dimensione reale di <color:#FFD700>%size%</color> per avere un limite di entità di <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "La tua banca realm attualmente detiene monete <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Hai depositato monete <color:#FFD700>%money%</color> nella banca del regno.",
     "realm.size.upgrade.success": "Hai aggiornato con successo la dimensione del tuo reame.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Una nuova password è stata impostata per questo blocco.",
     "lock.no-block-found": "Nessun blocco bloccabile trovato nelle vicinanze.",
     "lock.password-input-set": "Hai fornito la password di blocco. Ora puoi usarla per aprire il blocco bloccato.",
-    "lock.locked": "La <color:#FFD700>%block%</color> è bloccata. Se hai la password, usa <white>/unlock \\<password></white>."
+    "lock.locked": "La <color:#FFD700>%block%</color> è bloccata. Se hai la password, usa <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Questo blocco non può essere bloccato."
 }
