@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "مستوى الصعوبة",
     "realm.bank.deposit.notification": "اللاعب <color:#FFD700>%player%</color> أودعت <color:#FFD700>%amount%</color> في العالم <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "اللاعب <color:#FFD700>%player%</color> انسحب <color:#FFD700>%amount%</color> من العالم <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "اللاعب <color:#FFD700>%player%</color> انسحب <color:#FFD700>%amount%</color> من العالم <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "لم يتم تعيين قفل هنا.",
+    "lock.member-added": "أضيفت <color:#FFD700>%member%</color> إلى هذا القفل.",
+    "lock.info": "معلومات القفل: تملكها <color:#FFD700>%owner%</color>. المفتاح: <color:#FFD700>%key%</color>. الأعضاء: <color:#FFD700>%members%</color>. أدوار: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "تم إزالة القفل.",
+    "lock.member-removed": "تمت إزالة <color:#FFD700>%member%</color> من هذا القفل.",
+    "lock.role-set": "تم تعيين دور القفل إلى <color:#FFD700>%role%</color>.",
+    "lock.password-set": "تم تعيين كلمة مرور جديدة لهذا القفل.",
+    "lock.no-block-found": "لم يتم العثور على كتلة مقفلة قريبة.",
+    "lock.password-input-set": "لقد قدمت كلمة مرور القفل. يمكنك الآن استخدامها لفتح الكتلة المقفلة.",
+    "lock.locked": "<color:#FFD700>%block%</color> مقفل. إذا كان لديك كلمة المرور، استخدم <white>/unlock \\<password></white>."
 }
