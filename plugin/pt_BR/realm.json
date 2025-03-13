@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Atualizado com sucesso</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>a um limite de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Tamanho do Reino:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Você atingiu o limite de <color:#FFD700>%limit%</color> para <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Você deve ter um tamanho de realm de <color:#FFD700>%size%</color> para ter um limite de entidade de <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Seu banco no Reino atualmente possui moedas <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Você depositou <color:#FFD700>%money%</color> coins no Realm Bank.",
     "realm.size.upgrade.success": "Você atualizou com sucesso o seu reino.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Uma nova senha foi definida para este bloqueio.",
     "lock.no-block-found": "Nenhum bloco bloqueável encontrado por perto.",
     "lock.password-input-set": "Você forneceu a senha de bloqueio. Agora você pode usá-la para abrir o bloco bloqueado.",
-    "lock.locked": "O <color:#FFD700>%block%</color> está bloqueado. Se você tiver a senha, use <white>/unlock \\<password></white>."
+    "lock.locked": "O <color:#FFD700>%block%</color> está bloqueado. Se você tiver a senha, use <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Este bloco não pode ser bloqueado."
 }
