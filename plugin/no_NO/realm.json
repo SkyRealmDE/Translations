@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Realm størrelse:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Du har nådd grensen for <color:#FFD700>%limit%</color> for <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Du må ha en realm størrelse av <color:#FFD700>%size%</color> for å ha en enhetsgrense på <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Din realmbank har for tiden <color:#FFD700>%money%</color> mynter.",
     "skyrealm.realm.money.deposit": "Du har deponert <color:#FFD700>%money%</color> mynter i realmbanken.",
     "realm.size.upgrade.success": "Du har oppgradert realmens størrelsen.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Et nytt passord er angitt for denne låsen.",
     "lock.no-block-found": "Ingen låsbar blokk funnet i nærheten.",
     "lock.password-input-set": "Du har oppgitt passordet for lås. Du kan nå bruke det til å åpne den låste blokken.",
-    "lock.locked": "<color:#FFD700>%block%</color> er låst. Hvis du har passordet, kan du bruke <white>/unlock \\<password></white>."
+    "lock.locked": "<color:#FFD700>%block%</color> er låst. Hvis du har passordet, kan du bruke <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Denne blokken kan ikke låses."
 }
