@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Actualizat cu succes</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>până la limita de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Mărime Real:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Ați atins limita de <color:#FFD700>%limit%</color> pentru <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Trebuie să ai o dimensiune a tărâmului <color:#FFD700>%size%</color> pentru a avea o limită de entitate <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Banca ta din tărâm deține în prezent monede de la <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Ai depozitat <color:#FFD700>%money%</color> monede în banca pentru tărâm.",
     "realm.size.upgrade.success": "Ai actualizat cu succes dimensiunea tărâmului.",
@@ -117,5 +118,6 @@
     "lock.password-set": "A fost setată o nouă parolă pentru această blocare.",
     "lock.no-block-found": "Nici un bloc blocat în apropiere.",
     "lock.password-input-set": "Ați furnizat parola de blocare. Acum o puteți folosi pentru a deschide blocul blocat.",
-    "lock.locked": "<color:#FFD700>%block%</color> este blocat. Dacă aveţi parola, utilizaţi <white>/unlock \\<password></white>."
+    "lock.locked": "<color:#FFD700>%block%</color> este blocat. Dacă aveţi parola, utilizaţi <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Acest bloc nu poate fi blocat."
 }
