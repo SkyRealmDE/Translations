@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Realm Size:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Ви досягнули межі <color:#FFD700>%limit%</color> для <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "You must have a realm size of <color:#FFD700>%size%</color> to have an entity limit of <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Your realm bank currently holds <color:#FFD700>%money%</color> coins.",
     "skyrealm.realm.money.deposit": "Ви вклали <color:#FFD700>%money%</color> монет до банку реалму.",
     "realm.size.upgrade.success": "Ви успішно оновили розмір реалму.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Новий пароль установлений для цього замку.",
     "lock.no-block-found": "Не знайдено блок поблизу.",
     "lock.password-input-set": "Пароль замка. Тепер ви можете використовувати його, щоб відкрити заблокований блок.",
-    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>."
+    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Цей блок не може бути заблокований."
 }
