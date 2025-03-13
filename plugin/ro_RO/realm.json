@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Stare dificilă: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Nivel de dificultate",
     "realm.bank.deposit.notification": "Jucătorul <color:#FFD700>%player%</color> a depus <color:#FFD700>%amount%</color> în tărâmul <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Jucătorul <color:#FFD700>%player%</color> a retras <color:#FFD700>%amount%</color> din tărâmul <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Jucătorul <color:#FFD700>%player%</color> a retras <color:#FFD700>%amount%</color> din tărâmul <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Nu există nici o blocare setată aici.",
+    "lock.member-added": "A adăugat <color:#FFD700>%member%</color> la această blocare.",
+    "lock.info": "Informatii Lock: detinute de <color:#FFD700>%owner%</color>. Cheie: <color:#FFD700>%key%</color>. Membri: <color:#FFD700>%members%</color>. Roluri: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Blocarea a fost eliminată.",
+    "lock.member-removed": "A eliminat <color:#FFD700>%member%</color> din această blocare.",
+    "lock.role-set": "Rolul de blocare a fost setat la <color:#FFD700>%role%</color>.",
+    "lock.password-set": "A fost setată o nouă parolă pentru această blocare.",
+    "lock.no-block-found": "Nici un bloc blocat în apropiere.",
+    "lock.password-input-set": "Ați furnizat parola de blocare. Acum o puteți folosi pentru a deschide blocul blocat.",
+    "lock.locked": "<color:#FFD700>%block%</color> este blocat. Dacă aveţi parola, utilizaţi <white>/unlock \\<password></white>."
 }
