@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>A mis à jour avec succès</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>à une borne de</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Taille du Realm :</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "Vous avez atteint la limite de <color:#FFD700>%limit%</color> pour <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Vous devez avoir une taille de royaume <color:#FFD700>%size%</color> pour avoir une limite d'entité <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Your realm bank currently holds <color:#FFD700>%money%</color> coins.",
     "skyrealm.realm.money.deposit": "Vous avez déposé des pièces <color:#FFD700>%money%</color> dans la banque du royaume.",
     "realm.size.upgrade.success": "Vous avez réussi à améliorer la taille de votre royaume.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Un nouveau mot de passe a été défini pour ce verrou.",
     "lock.no-block-found": "Aucun bloc verrouillable trouvé à proximité.",
     "lock.password-input-set": "Vous avez fourni le mot de passe de verrouillage. Vous pouvez maintenant l'utiliser pour ouvrir le bloc verrouillé.",
-    "lock.locked": "La <color:#FFD700>%block%</color> est verrouillée. Si vous avez le mot de passe, utilisez <white>/unlock \\<password></white>."
+    "lock.locked": "La <color:#FFD700>%block%</color> est verrouillée. Si vous avez le mot de passe, utilisez <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "Ce bloc ne peut pas être verrouillé."
 }
