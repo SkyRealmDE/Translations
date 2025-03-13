@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• Realm Size:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "You have reached the limit of <color:#FFD700>%limit%</color> for <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "Musisz mieć rozmiar domeny <color:#FFD700>%size%</color> , aby mieć limit jednostek <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "Twój bank świata Realms posiada obecnie monety <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "Wpłaciłeś monety <color:#FFD700>%money%</color> do banku Realm.",
     "realm.size.upgrade.success": "Pomyślnie ulepszyłeś rozmiar świata Realms.",
@@ -117,5 +118,6 @@
     "lock.password-set": "Dla tej blokady ustawiono nowe hasło.",
     "lock.no-block-found": "Nie znaleziono bloków blokowanych w pobliżu.",
     "lock.password-input-set": "Podałeś hasło blokady. Możesz go teraz użyć, aby otworzyć blok zablokowany.",
-    "lock.locked": "<color:#FFD700>%block%</color> jest zablokowany. Jeśli masz hasło, użyj <white>/odblokuj \\<password></white>."
+    "lock.locked": "<color:#FFD700>%block%</color> jest zablokowany. Jeśli masz hasło, użyj <white>/odblokuj \\<password></white>.",
+    "lock.not-lockable": "Nie można zablokować tego bloku."
 }
