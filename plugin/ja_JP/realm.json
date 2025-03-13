@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>難易度： <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "難易度レベル",
     "realm.bank.deposit.notification": "プレイヤー <color:#FFD700>%player%</color> は、 <color:#FFD700>%amount%</color> を領域 <color:#FFD700>%realm%</color> に堆積させました。",
-    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "ここにはロックが設定されていません。",
+    "lock.member-added": "このロックに <color:#FFD700>%member%</color> を追加しました。",
+    "lock.info": "Lock Info: Owned by <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Members: <color:#FFD700>%members%</color>. Roles: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "ロックが削除されました。",
+    "lock.member-removed": "このロックから <color:#FFD700>%member%</color> を削除しました。",
+    "lock.role-set": "ロックロールが <color:#FFD700>%role%</color> に設定されました。",
+    "lock.password-set": "新しいパスワードがこのロックに設定されました。",
+    "lock.no-block-found": "近くにロック可能なブロックがありません。",
+    "lock.password-input-set": "ロックのパスワードを入力しました。これでロックされたブロックを開くことができます。",
+    "lock.locked": "<color:#FFD700>%block%</color> はロックされています。パスワードをお持ちの場合は、 <white>/unlock \\<password></white> を使用してください。"
 }
