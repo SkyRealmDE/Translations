@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "难度级别",
     "realm.bank.deposit.notification": "Player <color:#FFD700>%player%</color> deposited <color:#FFD700>%amount%</color> into realm <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "这里没有设置锁。",
+    "lock.member-added": "Added <color:#FFD700>%member%</color> to this lock.",
+    "lock.info": "锁定信息：由 <color:#FFD700>named@@1</color>拥有。Key： <color:#FFD700>%key%</color>成员： <color:#FFD700>%members%</color>角色： <color:#FFD700>%roles%</color>",
+    "lock.removed": "锁已被移除。",
+    "lock.member-removed": "Removed <color:#FFD700>%member%</color> from this lock.",
+    "lock.role-set": "The lock role has been set to <color:#FFD700>%role%</color>.",
+    "lock.password-set": "已为此锁定设置新密码。",
+    "lock.no-block-found": "附近没有找到可锁的方块。",
+    "lock.password-input-set": "您提供了锁定密码。您现在可以使用它来打开锁定的方块。",
+    "lock.locked": "The <color:#FFD700>%block%</color> is locked. If you have the password, use <white>/unlock \\<password></white>."
 }
