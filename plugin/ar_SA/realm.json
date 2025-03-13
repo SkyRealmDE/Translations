@@ -77,6 +77,7 @@
     "realm.entities.limit.success": "<color:#dfe6e9>Successfully updated</color> <color:#FFD700>%entityLimit%</color> <color:#dfe6e9>to a limit of</color> <color:#FFD700>%limit%</color><color:#dfe6e9>.</color>",
     "realm.entities.limit.lore.required.realm_size": "<color:#dfe6e9>• حجم المجال:</color> <color:#FFD700>%size%</color>",
     "realm.entitylimits.limitreached": "لقد وصلت إلى الحد الأقصى <color:#FFD700>%limit%</color> لـ <color:#FFD700>%entityLimit%</color>.",
+    "realm.entities.limit.error.size": "يجب أن يكون لديك حجم عالمي من <color:#FFD700>%size%</color> ليكون الحد الأقصى للكيان <color:#FFD700>%entityLimit%</color>.",
     "skyrealm.realm.money.bank": "البنك العالمي الخاص بك يحتوى حاليا على عملات <color:#FFD700>%money%</color>.",
     "skyrealm.realm.money.deposit": "لقد قمت بإيداع عملات <color:#FFD700>%money%</color> في البنك العالمي.",
     "realm.size.upgrade.success": "لقد قمت بترقية حجم المجال الخاص بك بنجاح.",
@@ -117,5 +118,6 @@
     "lock.password-set": "تم تعيين كلمة مرور جديدة لهذا القفل.",
     "lock.no-block-found": "لم يتم العثور على كتلة مقفلة قريبة.",
     "lock.password-input-set": "لقد قدمت كلمة مرور القفل. يمكنك الآن استخدامها لفتح الكتلة المقفلة.",
-    "lock.locked": "<color:#FFD700>%block%</color> مقفل. إذا كان لديك كلمة المرور، استخدم <white>/unlock \\<password></white>."
+    "lock.locked": "<color:#FFD700>%block%</color> مقفل. إذا كان لديك كلمة المرور، استخدم <white>/unlock \\<password></white>.",
+    "lock.not-lockable": "لا يمكن قفل هذه الكتلة."
 }
