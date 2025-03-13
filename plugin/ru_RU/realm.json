@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Уровень сложности",
     "realm.bank.deposit.notification": "Игрок <color:#FFD700>%player%</color> сдан на хранение <color:#FFD700>%amount%</color> в мире <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Игрок <color:#FFD700>%player%</color> снял <color:#FFD700>%amount%</color> с игры в Realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Игрок <color:#FFD700>%player%</color> снял <color:#FFD700>%amount%</color> с игры в Realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Блокировка не установлена.",
+    "lock.member-added": "Добавлено <color:#FFD700>%member%</color> к этому блокировке.",
+    "lock.info": "Информация о блокировке: Владелец <color:#FFD700>%owner%</color>. Ключ: <color:#FFD700>%key%</color>. Участники: <color:#FFD700>%members%</color>. Роли: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Блокировка была удалена.",
+    "lock.member-removed": "Удалено <color:#FFD700>%member%</color> из этого блокирования.",
+    "lock.role-set": "The lock role has been set to <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Для этого блокировки был установлен новый пароль.",
+    "lock.no-block-found": "Блоки не найдены рядом.",
+    "lock.password-input-set": "Вы ввели пароль блокировки. Теперь вы можете использовать его, чтобы открыть заблокированный блок.",
+    "lock.locked": "<color:#FFD700>%block%</color> заблокирован. Если у вас есть пароль, используйте <white>/unlock \\<password></white>."
 }
