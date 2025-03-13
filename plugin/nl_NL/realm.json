@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Moeilijkheidsgraad",
     "realm.bank.deposit.notification": "Speler <color:#FFD700>%player%</color> plaatste <color:#FFD700>%amount%</color> in realm <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Speler <color:#FFD700>%player%</color> heeft <color:#FFD700>%amount%</color> ingetrokken uit realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Speler <color:#FFD700>%player%</color> heeft <color:#FFD700>%amount%</color> ingetrokken uit realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Er is geen slot ingesteld.",
+    "lock.member-added": "Toegevoegd <color:#FFD700>%member%</color> aan dit slot.",
+    "lock.info": "Lock Info: Bezit door <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Leden: <color:#FFD700>%members%</color>. Rollen: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Het slot is verwijderd.",
+    "lock.member-removed": "Verwijderd <color:#FFD700>%member%</color> van deze vergrendeling.",
+    "lock.role-set": "De vergrendel rol is ingesteld op <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Er is een nieuw wachtwoord ingesteld voor deze vergrendeling.",
+    "lock.no-block-found": "Geen vergrendelbaar blok gevonden in de buurt.",
+    "lock.password-input-set": "U heeft het vergrendel wachtwoord opgegeven. U kunt het nu gebruiken om het vergrendelde blok te openen.",
+    "lock.locked": "De <color:#FFD700>%block%</color> is vergrendeld. Als je het wachtwoord hebt, gebruik dan <white>/unlock \\<password></white>."
 }
