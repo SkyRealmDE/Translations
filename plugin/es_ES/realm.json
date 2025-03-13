@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Difficulty state: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Nivel de Dificultad",
     "realm.bank.deposit.notification": "Jugador <color:#FFD700>%player%</color> ha depositado <color:#FFD700>%amount%</color> en el reino <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Player <color:#FFD700>%player%</color> withdrew <color:#FFD700>%amount%</color> from realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "No hay ningún bloqueo establecido aquí.",
+    "lock.member-added": "Added <color:#FFD700>%member%</color> to this lock.",
+    "lock.info": "Información de bloque: Poseído por <color:#FFD700>%owner%</color>. Key: <color:#FFD700>%key%</color>. Miembros: <color:#FFD700>%members%</color>. Roles: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "El bloqueo ha sido eliminado.",
+    "lock.member-removed": "Removed <color:#FFD700>%member%</color> from this lock.",
+    "lock.role-set": "El rol de bloqueo se ha establecido en <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Se ha establecido una nueva contraseña para este bloqueo.",
+    "lock.no-block-found": "No se ha encontrado ningún bloque cerca.",
+    "lock.password-input-set": "Has proporcionado la contraseña de bloqueo. Ahora puedes usarla para abrir el bloque bloqueado.",
+    "lock.locked": "La <color:#FFD700>%block%</color> está bloqueada. Si tienes la contraseña, usa <white>/unlock \\<password></white>."
 }
