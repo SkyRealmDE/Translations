@@ -107,5 +107,15 @@
     "realm.features.difficulty.lore": "<color:#dfe6e9>Κατάσταση δυσκολίας: <color:#FFD700>%state%</color></color>",
     "realm.features.difficulty.name": "Επίπεδο Δυσκολίας",
     "realm.bank.deposit.notification": "Ο παίκτης <color:#FFD700>%player%</color> κατατέθηκε <color:#FFD700>%amount%</color> σε realm <color:#FFD700>%realm%</color>.",
-    "realm.bank.withdraw.notification": "Ο παίκτης <color:#FFD700>%player%</color> απέσυρε <color:#FFD700>%amount%</color> από το realm <color:#FFD700>%realm%</color>."
+    "realm.bank.withdraw.notification": "Ο παίκτης <color:#FFD700>%player%</color> απέσυρε <color:#FFD700>%amount%</color> από το realm <color:#FFD700>%realm%</color>.",
+    "lock.no-lock": "Δεν υπάρχει κλείδωμα που να έχει οριστεί εδώ.",
+    "lock.member-added": "Προστέθηκε <color:#FFD700>%member%</color> σε αυτό το κλείδωμα.",
+    "lock.info": "Πληροφορίες κλειδώματος: Ιδιοκτησία <color:#FFD700>%owner%</color>. Κλειδί: <color:#FFD700>%key%</color>. Μέλη: <color:#FFD700>%members%</color>. Ρόλοι: <color:#FFD700>%roles%</color>.",
+    "lock.removed": "Το κλείδωμα έχει αφαιρεθεί.",
+    "lock.member-removed": "Αφαιρέθηκε <color:#FFD700>%member%</color> από αυτό το κλείδωμα.",
+    "lock.role-set": "Ο ρόλος κλειδώματος έχει οριστεί σε <color:#FFD700>%role%</color>.",
+    "lock.password-set": "Ένας νέος κωδικός πρόσβασης έχει οριστεί για αυτό το κλείδωμα.",
+    "lock.no-block-found": "Κανένα μπλοκ που κλειδώνει βρίσκεται κοντά.",
+    "lock.password-input-set": "Δώσατε τον κωδικό πρόσβασης κλειδώματος. Τώρα μπορείτε να τον χρησιμοποιήσετε για να ανοίξετε το μπλοκ κλειδώματος.",
+    "lock.locked": "Το <color:#FFD700>%block%</color> είναι κλειδωμένο. Εάν έχετε τον κωδικό πρόσβασης, χρησιμοποιήστε <white>/ξεκλείδωμα \\<password></white>."
 }
