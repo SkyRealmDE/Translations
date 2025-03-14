@@ -56,5 +56,10 @@
     "skyrealm.error.player_not_found": "Spiller ikke fundet.",
     "sell.all.no.amount": "Intet beløb angivet.",
     "realm.upgrade.not-enough-gems": "Ikke nok perler. Du har brug for <color:#FFD700>%amount%</color> perler.",
-    "skyrealm.realm.money.withdraw": "Du har trukket <color:#FFD700>%money%</color> mønter ud af realm bank."
+    "skyrealm.realm.money.withdraw": "Du har trukket <color:#FFD700>%money%</color> mønter ud af realm bank.",
+    "command.compress.inventory": "You have compressed all possible items in your inventory.",
+    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
+    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
+    "command.decompress.hand": "You have decompressed the items in your hand.",
+    "command.compress.hand": "You have compressed the items in your hand."
 }
