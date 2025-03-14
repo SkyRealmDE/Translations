@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Geen bedrag gespecificeerd.",
     "realm.upgrade.not-enough-gems": "Niet genoeg edelstenen. Je hebt <color:#FFD700>%amount%</color> edelstenen nodig.",
     "skyrealm.realm.money.withdraw": "Je hebt <color:#FFD700>%money%</color> munten van de Realm bank ingetrokken.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Je hebt alle mogelijke voorwerpen in je inventaris gecomprimeerd.",
+    "warning.cannot-place-compressed-block": "Je kunt geen gecomprimeerd blok plaatsen.",
+    "command.decompress.inventory": "Je hebt alle gecomprimeerde items in je inventaris gedecomprimeerd.",
+    "command.decompress.hand": "Je hebt de voorwerpen in je hand gedecomprimeerd.",
+    "command.compress.hand": "Je hebt de voorwerpen in je hand gecomprimeerd.",
+    "command.compress.ec": "Je hebt alle mogelijke voorwerpen in je ender kist gecomprimeerd.",
+    "command.compress.vault": "Je hebt alle mogelijke items in je kluis gecomprimeerd.",
+    "command.decompress.ec": "Je hebt alle mogelijke voorwerpen in je enderkist gedecomprimeerd.",
+    "command.decompress.vault": "Je hebt alle mogelijke items in je kluis gedecomprimeerd."
 }
