@@ -56,5 +56,10 @@
     "skyrealm.error.player_not_found": "Jucătorul nu a fost găsit.",
     "sell.all.no.amount": "Nicio sumă specificată.",
     "realm.upgrade.not-enough-gems": "Nu sunt suficiente gemuri. Ai nevoie de <color:#FFD700>%amount%</color> gemuri.",
-    "skyrealm.realm.money.withdraw": "Ați retras <color:#FFD700>%money%</color> monede din banca pentru tărâm."
+    "skyrealm.realm.money.withdraw": "Ați retras <color:#FFD700>%money%</color> monede din banca pentru tărâm.",
+    "command.compress.inventory": "You have compressed all possible items in your inventory.",
+    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
+    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
+    "command.decompress.hand": "You have decompressed the items in your hand.",
+    "command.compress.hand": "You have compressed the items in your hand."
 }
