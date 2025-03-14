@@ -57,9 +57,13 @@
     "sell.all.no.amount": "未指定金额。",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
     "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "您已经压缩了库存中所有可能的项目。",
+    "warning.cannot-place-compressed-block": "你不能放置一个压缩块。",
+    "command.decompress.inventory": "您已经解压了库存中的所有压缩项目。",
+    "command.decompress.hand": "你已经解压了你手中的物品。",
+    "command.compress.hand": "你已经压缩了手中的物品。",
+    "command.compress.ec": "你已经压缩了你的末影箱中所有可能的项目。",
+    "command.compress.vault": "您已经压缩了您保险库中所有可能的项目。",
+    "command.decompress.ec": "你已经解压了你的末影箱中所有可能的项目。",
+    "command.decompress.vault": "您已经解压了您保险库中所有可能的项目。"
 }
