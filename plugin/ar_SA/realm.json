@@ -98,6 +98,9 @@
     "realm.server.onlinetime.shuttingdown.tenseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 10 ثوان!",
     "realm.server.onlinetime.shuttingdown.threeseconds": "سيتم إعادة تشغيل خادم العالم الخاص بك في 3 ثوان...",
     "realm.features.sleepamount.locked": "<gradient:#FC427B:#FD7272>🔒 هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتح القفل",
+    "features.difficulty.toggled": "تم تبديل الصعوبة إلى <color:#FFD700>%difficulty%</color>.",
+    "realm.features.difficulty.locked": "<gradient:#FC427B:#FD7272>🔒 هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتح القفل",
+    "realm.settings.players.no-players": "لا يوجد لاعبين متاحين في هذا العالم!",
     "realm.features.keep_inventory.locked": "<gradient:#FC427B:#FD7272>🔒 هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتح القفل",
     "realm.features.biome.locked": "<gradient:#FC427B:#FD7272>🔒 هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتح القفل",
     "realm.features.fire_tick.locked": "<gradient:#FC427B:#FD7272>🔒 هذه الميزة مقفلة. قم بشراء رتبة مميزة لفتح القفل",
