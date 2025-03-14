@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Kein Betrag angegeben.",
     "realm.upgrade.not-enough-gems": "Nicht genügend Juwelen. Du benötigst <color:#FFD700>%amount%</color> Juwelen.",
     "skyrealm.realm.money.withdraw": "Du hast <color:#FFD700>%money%</color> Münzen von der Realmbank abgezogen.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Du hast alle möglichen Gegenstände in deinem Inventar komprimiert.",
+    "warning.cannot-place-compressed-block": "Sie können keinen komprimierten Block platzieren.",
+    "command.decompress.inventory": "Du hast alle komprimierten Gegenstände in deinem Inventar dekomprimiert.",
+    "command.decompress.hand": "Du hast die Gegenstände in deiner Hand dekomprimiert.",
+    "command.compress.hand": "Du hast die Gegenstände in deiner Hand komprimiert.",
+    "command.compress.ec": "Du hast alle möglichen Gegenstände in deiner Enderkiste komprimiert.",
+    "command.compress.vault": "Du hast alle möglichen Gegenstände in deinem Tresor komprimiert.",
+    "command.decompress.ec": "Du hast alle möglichen Gegenstände in deiner Enderkiste dekomprimiert.",
+    "command.decompress.vault": "Du hast alle möglichen Gegenstände in deinem Tresor dekomprimiert."
 }
