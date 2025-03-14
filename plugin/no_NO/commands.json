@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Ingen beløp spesifisert.",
     "realm.upgrade.not-enough-gems": "Ikke nok gemer. Du trenger <color:#FFD700>%amount%</color> gemer.",
     "skyrealm.realm.money.withdraw": "Du har trukket tilbake <color:#FFD700>%money%</color> mynter fra realmbanken.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Du har komprimert alle mulige gjenstander i inventaret ditt.",
+    "warning.cannot-place-compressed-block": "Du kan ikke plassere en komprimert blokk.",
+    "command.decompress.inventory": "Du har delt ut alle komprimerte gjenstander i inventaret ditt.",
+    "command.decompress.hand": "Du har trukket deg ut elementene i hånden din.",
+    "command.compress.hand": "Du har komprimert tingene i hånden din.",
+    "command.compress.ec": "Du har komprimert alle mulige gjenstander i din ender kiste.",
+    "command.compress.vault": "Du har komprimert alle mulige gjenstander i hvelvet ditt.",
+    "command.decompress.ec": "Du har fordelt alle mulige elementer i ender kisten.",
+    "command.decompress.vault": "Du har tatt ut alle mulige gjenstander i hvelvet ditt."
 }
