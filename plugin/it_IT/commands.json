@@ -56,5 +56,10 @@
     "skyrealm.error.player_not_found": "Giocatore non trovato.",
     "sell.all.no.amount": "Nessun importo specificato.",
     "realm.upgrade.not-enough-gems": "Gemme insufficienti. Hai bisogno di gemme <color:#FFD700>%amount%</color>.",
-    "skyrealm.realm.money.withdraw": "Hai ritirato le monete <color:#FFD700>%money%</color> dalla banca del regno."
+    "skyrealm.realm.money.withdraw": "Hai ritirato le monete <color:#FFD700>%money%</color> dalla banca del regno.",
+    "command.compress.inventory": "You have compressed all possible items in your inventory.",
+    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
+    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
+    "command.decompress.hand": "You have decompressed the items in your hand.",
+    "command.compress.hand": "You have compressed the items in your hand."
 }
