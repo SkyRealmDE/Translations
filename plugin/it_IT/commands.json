@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Nessun importo specificato.",
     "realm.upgrade.not-enough-gems": "Gemme insufficienti. Hai bisogno di gemme <color:#FFD700>%amount%</color>.",
     "skyrealm.realm.money.withdraw": "Hai ritirato le monete <color:#FFD700>%money%</color> dalla banca del regno.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Hai compresso tutti gli oggetti possibili nel tuo inventario.",
+    "warning.cannot-place-compressed-block": "Non puoi piazzare un blocco compresso.",
+    "command.decompress.inventory": "Hai decompresso tutti gli oggetti compressi nel tuo inventario.",
+    "command.decompress.hand": "Hai decompresso gli oggetti in mano.",
+    "command.compress.hand": "Hai compresso gli oggetti in mano.",
+    "command.compress.ec": "Hai compresso tutti gli oggetti possibili nella cassa del tuo ender.",
+    "command.compress.vault": "Hai compresso tutti gli elementi possibili nella tua cassaforte.",
+    "command.decompress.ec": "Hai decompresso tutti gli oggetti possibili nella cassa del tuo ender.",
+    "command.decompress.vault": "Hai decompresso tutti gli elementi possibili nella tua cassaforte."
 }
