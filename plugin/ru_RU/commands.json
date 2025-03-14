@@ -61,5 +61,9 @@
     "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
     "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
     "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.hand": "Вы сжали предметы в своей руке.",
+    "command.compress.ec": "Вы сжали все возможные предметы в Вашем тендерном сундуке.",
+    "command.compress.vault": "Вы сжали все возможные элементы в вашем хранилище.",
+    "command.decompress.ec": "Вы распаковали все возможные вещи в Вашем тендерном сундуке.",
+    "command.decompress.vault": "Вы распаковали все возможные предметы в своём хранилище."
 }
