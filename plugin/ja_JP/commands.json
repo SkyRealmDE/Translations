@@ -57,9 +57,13 @@
     "sell.all.no.amount": "金額が指定されていません。",
     "realm.upgrade.not-enough-gems": "ジェムが足りません。 <color:#FFD700>%amount%</color> ジェムが必要です。",
     "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "インベントリ内のすべての可能なアイテムを圧縮しました。",
+    "warning.cannot-place-compressed-block": "圧縮されたブロックは配置できません。",
+    "command.decompress.inventory": "インベントリ内のすべての圧縮アイテムを解凍しました。",
+    "command.decompress.hand": "手に持っているアイテムを解凍しました。",
+    "command.compress.hand": "手に持っているアイテムを圧縮しました。",
+    "command.compress.ec": "エンダーチェストのすべての可能な項目を圧縮しました。",
+    "command.compress.vault": "保管庫のすべての可能なアイテムを圧縮しました。",
+    "command.decompress.ec": "エンダーチェスト内のすべての可能なアイテムを解凍しました。",
+    "command.decompress.vault": "保管庫のすべてのアイテムを解凍しました。"
 }
