@@ -57,9 +57,13 @@
     "sell.all.no.amount": "لا يوجد مبلغ محدد.",
     "realm.upgrade.not-enough-gems": "لا توجد جواهر كافية. تحتاج إلى الجواهر <color:#FFD700>%amount%</color>.",
     "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "لقد قمت بالضغط على جميع العناصر الممكنة في المخزون الخاص بك.",
+    "warning.cannot-place-compressed-block": "لا يمكنك وضع كتلة مضغوطة.",
+    "command.decompress.inventory": "لقد قمت بفك ضغط جميع العناصر المضغوطة في المخزون الخاص بك.",
+    "command.decompress.hand": "لقد قمت بفك ضغط العناصر في يدك.",
+    "command.compress.hand": "لقد قمت بالضغط على العناصر الموجودة في يدك.",
+    "command.compress.ec": "لقد قمت بضغط جميع العناصر الممكنة في صندوقك القديم.",
+    "command.compress.vault": "لقد قمت بالضغط على جميع العناصر الممكنة في الخزن الخاص بك.",
+    "command.decompress.ec": "لقد قمت بفك ضغط جميع العناصر الممكنة في صندوقك.",
+    "command.decompress.vault": "لقد قمت بفك الضغط على جميع العناصر الممكنة في خزينك."
 }
