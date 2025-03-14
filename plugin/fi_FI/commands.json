@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Määriä ei ole määritelty.",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
     "skyrealm.realm.money.withdraw": "Olet poistanut <color:#FFD700>%money%</color> kolikkoa valtakunnan pankista.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Olet pakannut kaikki mahdolliset esineet tavaraluettelostasi.",
+    "warning.cannot-place-compressed-block": "Et voi asettaa pakattua lohkoa.",
+    "command.decompress.inventory": "Olet puristanut kaikki pakatut esineet tavaraluettelostasi.",
+    "command.decompress.hand": "Olet puristanut kohteet kädessäsi.",
+    "command.compress.hand": "Olet pakannut esineitä kädessäsi.",
+    "command.compress.ec": "Olet pakannut kaikki mahdolliset kohteet ender rinnassa.",
+    "command.compress.vault": "Olet pakannut kaikki mahdolliset esineet holvissasi.",
+    "command.decompress.ec": "Olet puristanut kaikki mahdolliset kohteet ender rinnassa.",
+    "command.decompress.vault": "Olet puristanut kaikki mahdolliset kohteet holvissasi."
 }
