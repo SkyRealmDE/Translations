@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Intet beløb angivet.",
     "realm.upgrade.not-enough-gems": "Ikke nok perler. Du har brug for <color:#FFD700>%amount%</color> perler.",
     "skyrealm.realm.money.withdraw": "Du har trukket <color:#FFD700>%money%</color> mønter ud af realm bank.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Du har komprimeret alle mulige varer i dit inventar.",
+    "warning.cannot-place-compressed-block": "Du kan ikke placere en komprimeret blok.",
+    "command.decompress.inventory": "Du har dekomprimeret alle komprimerede varer i dit inventar.",
+    "command.decompress.hand": "Du har dekomprimeret genstandene i din hånd.",
+    "command.compress.hand": "Du har komprimeret elementerne i din hånd.",
+    "command.compress.ec": "Du har komprimeret alle mulige elementer i din ender kiste.",
+    "command.compress.vault": "Du har komprimeret alle mulige elementer i din boks.",
+    "command.decompress.ec": "Du har dekomprimeret alle mulige elementer i din ender kiste.",
+    "command.decompress.vault": "Du har dekomprimeret alle mulige elementer i din boks."
 }
