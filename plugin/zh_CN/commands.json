@@ -56,5 +56,10 @@
     "skyrealm.error.player_not_found": "未找到玩家。",
     "sell.all.no.amount": "未指定金额。",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
-    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank."
+    "skyrealm.realm.money.withdraw": "You have withdrawn <color:#FFD700>%money%</color> coins from the realm bank.",
+    "command.compress.inventory": "You have compressed all possible items in your inventory.",
+    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
+    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
+    "command.decompress.hand": "You have decompressed the items in your hand.",
+    "command.compress.hand": "You have compressed the items in your hand."
 }
