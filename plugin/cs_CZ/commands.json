@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Není zadána žádná částka.",
     "realm.upgrade.not-enough-gems": "Nedostatek dárek. Potřebuješ <color:#FFD700>%amount%</color> dárek.",
     "skyrealm.realm.money.withdraw": "Vybrali jste <color:#FFD700>%money%</color> mince z banky říše.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Komprimovali jste všechny možné předměty v inventáři.",
+    "warning.cannot-place-compressed-block": "Nelze umístit komprimovaný blok.",
+    "command.decompress.inventory": "V inventáři jste dekomprimovali všechny komprimované předměty.",
+    "command.decompress.hand": "Položky jste dekomprimovali v ruce.",
+    "command.compress.hand": "Komprimovali jste předměty v ruce.",
+    "command.compress.ec": "Komprimovali jste všechny možné položky ve své truhle.",
+    "command.compress.vault": "Komprimovali jste všechny možné položky ve vašem trezoru.",
+    "command.decompress.ec": "Ve své truhle jste dekomprimovali všechny možné předměty.",
+    "command.decompress.vault": "Ve svém trezoru jste dekomprimovali všechny možné předměty."
 }
