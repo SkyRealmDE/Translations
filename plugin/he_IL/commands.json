@@ -61,5 +61,9 @@
     "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
     "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
     "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.hand": "You have compressed the items in your hand.",
+    "command.compress.ec": "You have compressed all possible items in your ender chest.",
+    "command.compress.vault": "You have compressed all possible items in your vault.",
+    "command.decompress.ec": "You have decompressed all possible items in your ender chest.",
+    "command.decompress.vault": "You have decompressed all possible items in your vault."
 }
