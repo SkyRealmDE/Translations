@@ -57,9 +57,13 @@
     "sell.all.no.amount": "Не вказано жодної суми.",
     "realm.upgrade.not-enough-gems": "Not enough gems. You need <color:#FFD700>%amount%</color> gems.",
     "skyrealm.realm.money.withdraw": "Ви зняли <color:#FFD700>%money%</color> монет з банку реалму.",
-    "command.compress.inventory": "You have compressed all possible items in your inventory.",
-    "warning.cannot-place-compressed-block": "You cannot place a compressed block.",
-    "command.decompress.inventory": "You have decompressed all compressed items in your inventory.",
-    "command.decompress.hand": "You have decompressed the items in your hand.",
-    "command.compress.hand": "You have compressed the items in your hand."
+    "command.compress.inventory": "Ви стиснули всі можливі предмети з вашого інвентарю.",
+    "warning.cannot-place-compressed-block": "Ви не можете розмістити стиснутий блок.",
+    "command.decompress.inventory": "Ви розкладали всі стиснуті предмети у вашому інвентарі.",
+    "command.decompress.hand": "Ви розклали предмети в руці.",
+    "command.compress.hand": "Ви стиснули елементи в руці.",
+    "command.compress.ec": "Ви стиснули всі можливі елементи у вашій скрині.",
+    "command.compress.vault": "Ви стиснули всі можливі записи вашого сховища.",
+    "command.decompress.ec": "Ви видалили всі можливі елементи в вашій скрині.",
+    "command.decompress.vault": "Ви видалили всі можливі предмети вашого сховища."
 }
