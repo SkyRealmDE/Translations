@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Vennligst vent <color:#FFD700>%next%</color> før du bruker premiumprøven igjen.",
     "afk.no-afk-effect-active": "Du har ingen aktiv anti-AFK-effekt.",
     "afk.no-afk-until": "Du har en aktiv anti-AFK effekt for <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Du kan ikke utvide din anti-AFK-effekt noe mer. Maksimal tid er nådd."
+    "afk.consume.max-time-reached": "Du kan ikke utvide din anti-AFK-effekt noe mer. Maksimal tid er nådd.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Fremhev monstre</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Aktiver eller deaktiver fremheving av monstre i spillet.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Allow Friend Requests</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Aktiver eller deaktiver mottak av venneforespørsler.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Tillat private meldinger</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Aktiver eller deaktiver mottak av private meldinger fra andre spillere.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Venne-online-varsling</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Motta varsler når vennene dine kommer online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>"
 }
