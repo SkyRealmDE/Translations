@@ -19,6 +19,9 @@
     "skyrealm.general.xp.modify.other": "Ai modificat XP lui %player%cu %amount%",
     "skyrealm.error.cooldown": "Trebuie să așteptați <yellow>%cooldown%</yellow> înainte de a utiliza această comandă din nou.",
     "badge.obtained": "Ați obținut insigna: <bold><color:#FFD700>%badge%</color></bold>",
+    "badge.description": "<color:#FFD700>Sezon: </color>%season% \n<color:#FFD700>Primit pe: </color><color:#dfe6e9><i>%received%</i></color>",
+    "badge.given": "Ați dat insigna <bold><color:#FFD700>%badge%</color></bold> lui <color:#FFD700>%player%</color>.",
+    "badge.selected": "Ați selectat insigna: <bold><color:#FFD700>%badge%</color></bold>.",
     "skyrealm.cosmetic.given": "Vi s-a dat cosmeticul: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Mulțumim pentru achiziționarea gemurilor! Ai primit <color:#61e95f>%gems%</color> gemuri.",
     "store.rank": "Mulțumim că ai achiziționat un rank! Acum ai <color:#FFD700>%rank%</color>.",
@@ -83,8 +86,8 @@
     "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Stare curentă:</color> <color:#FFD700>%value%</color>",
     "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>permite mesajele private</b></color>",
     "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Activează sau dezactivează primirea de mesaje private de la alți jucători.</color>",
-    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
-    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
-    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Stare curentă:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Prieten Online Notificare</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Primește notificări când prietenii tăi vin online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Stare curentă:</color> <color:#FFD700>%value%</color>"
 }
