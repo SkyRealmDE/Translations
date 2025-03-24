@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Počkejte prosím <color:#FFD700>%next%</color> před dalším použitím prémiové zkušební verze.",
     "afk.no-afk-effect-active": "Nemáte aktivní anti-AFK efekt.",
     "afk.no-afk-until": "Máte aktivní efekt proti AFK pro <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Nemůžete dále prodlužovat svůj efekt anti-AFK. Dosažen maximální čas."
+    "afk.consume.max-time-reached": "Nemůžete dále prodlužovat svůj efekt anti-AFK. Dosažen maximální čas.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Zvýraznit monstra</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Povolit nebo zakázat zvýraznění příšer ve hře.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Povolit žádosti o přátelství</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Povolit nebo zakázat přijímání žádostí o přátelství.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Povolit soukromé zprávy</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Povolit nebo zakázat přijímání soukromých zpráv od ostatních hráčů.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Přítel online oznámení</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Dostávejte oznámení, když se tví přátelé připojí.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>"
 }
