@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again.",
     "afk.no-afk-effect-active": "U heeft geen actief anti-AFK effect.",
     "afk.no-afk-until": "U heeft een actief anti-AFK effect voor <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "U kunt uw Anti-AFK-effect niet verder uitbreiden, Maximale tijd bereikt."
+    "afk.consume.max-time-reached": "U kunt uw Anti-AFK-effect niet verder uitbreiden, Maximale tijd bereikt.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Highlight Monsters</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Schakel de markering van monsters in of uit.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Vriendschapsverzoeken toestaan</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Vriendschapsverzoeken in- of uitschakelen.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Privé Berichten toestaan</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Enable or disable receiving private messages from other players.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Online kennisgeving door vrienden</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Ontvang meldingen wanneer je vrienden online komen.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>"
 }
