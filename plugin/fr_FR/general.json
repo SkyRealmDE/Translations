@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Veuillez attendre <color:#FFD700>%next%</color> avant d'utiliser à nouveau la version d'essai premium.",
     "afk.no-afk-effect-active": "Vous n'avez pas d'effet anti-AFK actif.",
     "afk.no-afk-until": "Vous avez un effet anti-AFK actif pour <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Vous ne pouvez pas prolonger davantage votre effet anti-AFK. Temps maximum atteint."
+    "afk.consume.max-time-reached": "Vous ne pouvez pas prolonger davantage votre effet anti-AFK. Temps maximum atteint.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>surligner les monstres</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Enable or disable the highlighting of monsters in the game.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Autoriser les demandes d'amis</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Enable or disable receiving friend requests.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Autoriser les messages privés</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Enable or disable receiving private messages from other players.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
