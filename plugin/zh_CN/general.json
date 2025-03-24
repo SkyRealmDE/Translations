@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again.",
     "afk.no-afk-effect-active": "您没有有效的反AFK效果。",
     "afk.no-afk-until": "You have an active Anti-AFK effect for <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "您不能再延长您的反AFK效果。达到的最大时间限制。"
+    "afk.consume.max-time-reached": "您不能再延长您的反AFK效果。达到的最大时间限制。",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>高亮怪物</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Enable or disable the highlighting of monsters in the game.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Allow Friend Requests</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Enable or disable receiving friend requests.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Allow Private Messages</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Enable or disable receiving private messages from other players.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
