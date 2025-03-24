@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Por favor, aguarde <color:#FFD700>%next%</color> antes de usar o teste premium novamente.",
     "afk.no-afk-effect-active": "Você não tem efeito Anti-AFK ativo.",
     "afk.no-afk-until": "Você tem um efeito Anti-AFK ativo para <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Você não pode estender o seu efeito Anti-AFK mais. Tempo máximo atingido."
+    "afk.consume.max-time-reached": "Você não pode estender o seu efeito Anti-AFK mais. Tempo máximo atingido.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Destacar Monstros</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Ative ou desative o destaque dos monstros no jogo.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Estado atual:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Permitir solicitações de amizade</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Ativar ou desativar solicitações de amizade recebidas.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Estado atual:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Permitir Mensagens Privadas</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Enable or disable receiving private messages from other players.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Estado atual:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Amigo Notificação online</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receber notificações quando seus amigos estiverem online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Estado atual:</color> <color:#FFD700>%value%</color>"
 }
