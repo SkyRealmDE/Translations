@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "プレミアムトライアルを再度使用する前に、 <color:#FFD700>%next%</color> をお待ちください。",
     "afk.no-afk-effect-active": "有効なアンチAFK効果はありません。",
     "afk.no-afk-until": "<color:#FFD700>%until%</color> に有効なアンチAFK効果があります。",
-    "afk.consume.max-time-reached": "これ以上アンチAFK効果を拡張することはできません。最大時間に達しました。"
+    "afk.consume.max-time-reached": "これ以上アンチAFK効果を拡張することはできません。最大時間に達しました。",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>モンスター</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>ゲーム内のモンスターの強調表示を有効または無効にします。</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>現在の状態:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Allow Friend Requests</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>フレンドリクエストの受信を有効または無効にします。</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>現在の状態:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>プライベートメッセージ</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>他のプレイヤーからのプライベートメッセージの受信を有効または無効にします。</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>現在の状態:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>フレンドオンライン通知</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>友達がオンラインになったときに通知を受け取ります。</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>現在の状態:</color> <color:#FFD700>%value%</color>"
 }
