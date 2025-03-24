@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Будь ласка, зачекайте <color:#FFD700>%next%</color> перед використанням преміум версії знову.",
     "afk.no-afk-effect-active": "У вас немає активного антиAFK ефекту.",
     "afk.no-afk-until": "У вас є активний антиAFK-ефект для <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Не можна розширити антиAFK-ефект далі. Досягнуто максимальної кількості часу."
+    "afk.consume.max-time-reached": "Не можна розширити антиAFK-ефект далі. Досягнуто максимальної кількості часу.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Highlight Monsters</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Увімкніть або вимкніть підсвічування монстрів в грі.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Allow Friend Requests</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Увімкнути або вимкнути отримання запитів дружби.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Дозволити приватні повідомлення</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Увімкнути або вимкнути отримання приватних повідомлень від інших гравців.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Отримувати повідомлення, коли ваші друзі приходять в мережу.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
