@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Vänligen vänta <color:#FFD700>%next%</color> innan du använder premiumtestet igen.",
     "afk.no-afk-effect-active": "Du har ingen aktiv anti-AFK effekt.",
     "afk.no-afk-until": "Du har en aktiv anti-AFK effekt för <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Du kan inte förlänga din anti-AFK-effekt ytterligare. Maximal tid har nåtts."
+    "afk.consume.max-time-reached": "Du kan inte förlänga din anti-AFK-effekt ytterligare. Maximal tid har nåtts.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>markerar monster</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Aktivera eller inaktivera markeringen av monster i spelet.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Nuvarande tillstånd:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Tillåt vänförfrågningar</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Aktivera eller inaktivera mottagande av vänförfrågningar.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Nuvarande tillstånd:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Tillåt privata meddelanden</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Aktivera eller inaktivera mottagande av privata meddelanden från andra spelare.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Nuvarande tillstånd:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Vän online notifiering</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Få aviseringar när dina vänner kommer online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Nuvarande tillstånd:</color> <color:#FFD700>%value%</color>"
 }
