@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "الرجاء الانتظار <color:#FFD700>%next%</color> قبل استخدام التجربة المميزة مرة أخرى.",
     "afk.no-afk-effect-active": "ليس لديك تأثير مضاد AFK النشط.",
     "afk.no-afk-until": "لديك تأثير مضاد نشط لـ <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "لا يمكنك تمديد تأثير مضاد AFK الخاص بك أكثر من ذلك. تم بلوغ الحد الأقصى للوقت."
+    "afk.consume.max-time-reached": "لا يمكنك تمديد تأثير مضاد AFK الخاص بك أكثر من ذلك. تم بلوغ الحد الأقصى للوقت.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>أبرز الوحوش</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>تمكين أو تعطيل تسليط الضوء على الوحوش في اللعبة.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>الحالة الحالية:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>السماح بطلبات الصداقة</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>تمكين أو تعطيل طلبات الصداقة المتلقية.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>الحالة الحالية:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>السماح للرسائل الخاصة</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>تمكين أو تعطيل تلقي الرسائل الخاصة من اللاعبين الآخرين.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>الحالة الحالية:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>إشعار صديق على الإنترنت</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>تلقي إشعارات عندما يأتي أصدقاؤك على الإنترنت.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>الحالة الحالية:</color> <color:#FFD700>%value%</color>"
 }
