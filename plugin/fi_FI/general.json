@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Please wait <color:#FFD700>%next%</color> before using the premium trial again.",
     "afk.no-afk-effect-active": "Sinulla ei ole aktiivista AFK-vaikutusta.",
     "afk.no-afk-until": "You have an active Anti-AFK effect for <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Et voi laajentaa Anti-AFK -vaikutustasi pidemmälle. Suurin mahdollinen aika on saavutettu."
+    "afk.consume.max-time-reached": "Et voi laajentaa Anti-AFK -vaikutustasi pidemmälle. Suurin mahdollinen aika on saavutettu.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Korosta Hirviöt</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Ota käyttöön tai poista käytöstä hirviöiden korostus pelissä.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Salli Ystäväpyynnöt</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Ota käyttöön tai poista käytöstä kaveripyyntöjen vastaanottaminen.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Salli Yksityisviestit</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Ota käyttöön tai poista käytöstä yksityisviestien vastaanottaminen muilta pelaajilta.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online -ilmoitus</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Vastaanota ilmoituksia, kun ystäväsi tulevat verkossa.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
