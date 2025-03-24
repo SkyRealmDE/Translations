@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Παρακαλώ περιμένετε <color:#FFD700>%next%</color> πριν χρησιμοποιήσετε ξανά την δοκιμαστική έκδοση premium.",
     "afk.no-afk-effect-active": "Δεν έχετε ενεργό αντι-AFK αποτέλεσμα.",
     "afk.no-afk-until": "Έχετε ένα ενεργό αντι-AFK εφέ για <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Δεν μπορείτε να επεκτείνετε το εφέ Anti-AFK περαιτέρω. Μέγιστος χρόνος που επιτεύχθηκε."
+    "afk.consume.max-time-reached": "Δεν μπορείτε να επεκτείνετε το εφέ Anti-AFK περαιτέρω. Μέγιστος χρόνος που επιτεύχθηκε.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Επισήμανση Τέρατα</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Ενεργοποιήστε ή απενεργοποιήστε την προβολή τέρατα στο παιχνίδι.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Τρέχουσα κατάσταση:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Allow Friend Requests</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Ενεργοποίηση ή απενεργοποίηση λήψης αιτήσεων φιλίας.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Τρέχουσα κατάσταση:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Να Επιτρέπεται Ιδιωτικά Μηνύματα</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Ενεργοποίηση ή απενεργοποίηση λήψης ιδιωτικών μηνυμάτων από άλλους παίκτες.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Τρέχουσα κατάσταση:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Online Ειδοποίηση Φίλου</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Τρέχουσα κατάσταση:</color> <color:#FFD700>%value%</color>"
 }
