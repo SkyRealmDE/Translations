@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Attendere <color:#FFD700>%next%</color> prima di utilizzare nuovamente la prova premium.",
     "afk.no-afk-effect-active": "Non hai alcun effetto anti-AFK attivo.",
     "afk.no-afk-until": "Hai un effetto Anti-AFK attivo per <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Non puoi estendere ulteriormente il tuo effetto Anti-AFK. Tempo massimo raggiunto."
+    "afk.consume.max-time-reached": "Non puoi estendere ulteriormente il tuo effetto Anti-AFK. Tempo massimo raggiunto.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Evidenzia Mostri</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Abilita o disabilita l'evidenziazione dei mostri nel gioco.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Consenti Richieste Di Amico</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Abilita o disabilita le richieste di amicizia ricevute.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Consenti Messaggi Privati</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Abilita o disabilita la ricezione di messaggi privati da altri giocatori.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Amico Notifica Online</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Ricevi notifiche quando i tuoi amici vengono online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>"
 }
