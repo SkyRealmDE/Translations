@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Vă rugăm să aşteptaţi <color:#FFD700>%next%</color> înainte de a utiliza din nou trial-ul premium.",
     "afk.no-afk-effect-active": "Nu ai niciun efect anti-AFK activ.",
     "afk.no-afk-until": "Aveți un efect anti-AFK activ pentru <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Nu puteți prelungi efectul anti-AFK mai mult. Timpul maxim atins."
+    "afk.consume.max-time-reached": "Nu puteți prelungi efectul anti-AFK mai mult. Timpul maxim atins.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Evidenţiază monştrii</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Activează sau dezactivează evidențierea monștrilor în joc.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Stare curentă:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Permite Cereri de Prietenie</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Activează sau dezactivează primirea cererilor de prietenie.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Stare curentă:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>permite mesajele private</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Activează sau dezactivează primirea de mesaje private de la alți jucători.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
