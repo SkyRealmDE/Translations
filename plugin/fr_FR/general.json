@@ -19,6 +19,9 @@
     "skyrealm.general.xp.modify.other": "Vous avez modifié l'XP de %player%par %amount%",
     "skyrealm.error.cooldown": "Vous devez attendre <yellow>%cooldown%</yellow> avant d'utiliser cette commande à nouveau.",
     "badge.obtained": "Vous avez obtenu le badge : <bold><color:#FFD700>%badge%</color></bold>",
+    "badge.description": "<color:#FFD700>Saison :format@@1%season% \n<color:#FFD700>Reçu sur: </color><color:#dfe6e9><i>%received%</i></color>",
+    "badge.given": "Vous avez donné l'insigne <bold><color:#FFD700>%badge%</color></bold> à <color:#FFD700>%player%</color>.",
+    "badge.selected": "Vous avez sélectionné le badge : <bold><color:#FFD700>%badge%</color></bold>.",
     "skyrealm.cosmetic.given": "Vous avez reçu le cosmétique: <color:#FFD700>%cosmetic%</color>",
     "store.gems": "Merci d'avoir acheté des gemmes ! Vous avez reçu des gemmes <color:#61e95f>%gems%</color>.",
     "store.rank": "Merci d'avoir acheté un rang ! Vous avez maintenant <color:#FFD700>%rank%</color>.",
@@ -83,8 +86,8 @@
     "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>",
     "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Autoriser les messages privés</b></color>",
     "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Enable or disable receiving private messages from other players.</color>",
-    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
-    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Amis en ligne Notification</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>"
 }
