@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Vent venligst <color:#FFD700>%next%</color> før du bruger premiumundersøgelsen igen.",
     "afk.no-afk-effect-active": "De har ingen aktiv anti-AFK effekt.",
     "afk.no-afk-until": "Du har en aktiv anti-AFK effekt for <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Du kan ikke forlænge din Anti-AFK effekt yderligere. Maksimal tid nået."
+    "afk.consume.max-time-reached": "Du kan ikke forlænge din Anti-AFK effekt yderligere. Maksimal tid nået.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Fremhæv Monsters</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Aktiver eller deaktiver fremhævningen af monstre i spillet.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Nuværende tilstand:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Tillad Venneanmodninger</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Aktiver eller deaktiver modtagelse af venneanmodninger.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Nuværende tilstand:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Tillad Private Beskeder</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Aktiver eller deaktiver modtagelse af private beskeder fra andre spillere.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Nuværende tilstand:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Ven Online Notification</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Modtag notifikationer, når dine venner kommer online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Nuværende tilstand:</color> <color:#FFD700>%value%</color>"
 }
