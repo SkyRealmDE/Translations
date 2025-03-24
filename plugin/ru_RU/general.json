@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Пожалуйста, подождите <color:#FFD700>%next%</color> перед использованием премиум-пробной версии.",
     "afk.no-afk-effect-active": "Вы не активировали Анти-AFK эффект.",
     "afk.no-afk-until": "У вас есть активный Анти-AFK эффект для <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Дальнейшее продление действия Анти-AFK невозможно. Максимальное количество времени."
+    "afk.consume.max-time-reached": "Дальнейшее продление действия Анти-AFK невозможно. Максимальное количество времени.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Highlight Monsters</b></color>",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Enable or disable the highlighting of monsters in the game.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Разрешить запросы дружбы</b></color>",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Включить или отключить получение запросов на добавление в друзья.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Разрешить личные сообщения</b></color>",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Включить или отключить получение личных сообщений от других игроков.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Уведомление друзей в режиме онлайн</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
 }
