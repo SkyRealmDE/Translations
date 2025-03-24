@@ -74,5 +74,17 @@
     "gui.premium.try.use.too-frequent": "Bitte warten Sie <color:#FFD700>%next%</color> bevor Sie die Premium-Testversion erneut nutzen.",
     "afk.no-afk-effect-active": "Sie haben keinen aktiven Anti-AFK-Effekt.",
     "afk.no-afk-until": "Sie haben einen aktiven Anti-AFK-Effekt für <color:#FFD700>%until%</color>.",
-    "afk.consume.max-time-reached": "Du kannst deinen Anti-AFK-Effekt nicht weiter verlängern. Maximale Zeit erreicht."
+    "afk.consume.max-time-reached": "Du kannst deinen Anti-AFK-Effekt nicht weiter verlängern. Maximale Zeit erreicht.",
+    "user.preferences.highlightMonsters": "<color:#BAD8B6><b>Monster</b></color> hervorheben",
+    "user.preferences.highlightMonsters.description": "<color:#FCE7C8>Aktiviere oder deaktiviere die Hervorhebung von Monstern im Spiel.</color>",
+    "user.preferences.highlightMonsters.current": "<color:#dfe6e9>Aktueller Status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowFriendRequests": "<color:#BAD8B6><b>Freundschaftsanfragen</b></color> erlauben",
+    "user.preferences.allowFriendRequests.description": "<color:#FCE7C8>Freundschaftsanfragen aktivieren oder deaktivieren.</color>",
+    "user.preferences.allowFriendRequests.current": "<color:#dfe6e9>Aktueller Status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.allowPrivateMessages": "<color:#BAD8B6><b>Private Nachrichten</b></color> zulassen",
+    "user.preferences.allowPrivateMessages.description": "<color:#FCE7C8>Aktivieren oder deaktivieren Sie das Empfangen von privaten Nachrichten von anderen Spielern.</color>",
+    "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Aktueller Status:</color> <color:#FFD700>%value%</color>",
+    "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Freunde Online Benachrichtigung</b></color>",
+    "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Erhalte Benachrichtigungen, wenn deine Freunde online sind.</color>",
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Aktueller Status:</color> <color:#FFD700>%value%</color>"
 }
