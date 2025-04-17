@@ -89,5 +89,9 @@
     "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>",
     "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Amico Notifica Online</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Ricevi notifiche quando i tuoi amici vengono online.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Stato attuale:</color> <color:#FFD700>%value%</color>",
+    "messages.confirm_gui.confirm": "<color:#1fff39>Conferma</color>",
+    "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Si prega di confermare la tua azione.</color>",
+    "messages.confirm_gui.cancel": "<color:#1fff39>Annulla</color>",
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>Se vuoi annullare, clicca qui.</color>"
 }
