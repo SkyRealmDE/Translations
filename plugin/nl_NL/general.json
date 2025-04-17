@@ -89,5 +89,9 @@
     "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
     "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Online kennisgeving door vrienden</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Ontvang meldingen wanneer je vrienden online komen.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
+    "messages.confirm_gui.confirm": "<color:#1fff39>Bevestigen</color>",
+    "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Bevestig uw actie.</color>",
+    "messages.confirm_gui.cancel": "<color:#1fff39>Annuleer</color>",
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>Als je wilt annuleren, klik hier.</color>"
 }
