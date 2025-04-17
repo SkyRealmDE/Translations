@@ -92,5 +92,9 @@
 
     "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Friend Online Notification</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Receive notifications when your friends come online.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Current state:</color> <color:#FFD700>%value%</color>",
+    "messages.confirm_gui.confirm": "<color:#1fff39>Confirm</color>",
+    "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Please confirm your action.</color>",
+    "messages.confirm_gui.cancel": "<color:#1fff39>Cancel</color>",
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>If you wish to cancel, click here.</color>"
 }
