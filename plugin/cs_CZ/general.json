@@ -89,5 +89,9 @@
     "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>",
     "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Přítel online oznámení</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Dostávejte oznámení, když se tví přátelé připojí.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Aktuální stav:</color> <color:#FFD700>%value%</color>",
+    "messages.confirm_gui.confirm": "<color:#1fff39>Potvrdit</color>",
+    "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Please confirm your action.</color>",
+    "messages.confirm_gui.cancel": "<color:#1fff39>Zrušit</color>",
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>Pokud chcete zrušit, klikněte zde.</color>"
 }
