@@ -89,5 +89,9 @@
     "user.preferences.allowPrivateMessages.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>",
     "user.preferences.friendOnlineNotification": "<color:#BAD8B6><b>Venne-online-varsling</b></color>",
     "user.preferences.friendOnlineNotification.description": "<color:#FCE7C8>Motta varsler når vennene dine kommer online.</color>",
-    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>"
+    "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Nåværende status:</color> <color:#FFD700>%value%</color>",
+    "messages.confirm_gui.confirm": "<color:#1fff39>Confirm</color>",
+    "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Vennligst bekreft handlingen.</color>",
+    "messages.confirm_gui.cancel": "<color:#1fff39>Cancel</color>",
+    "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>Hvis du ønsker å avbryte, klikk her.</color>"
 }
