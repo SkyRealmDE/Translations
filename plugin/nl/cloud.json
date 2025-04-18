@@ -1,0 +1,23 @@
+{
+    "network.transfer": "",
+    "network.transfer.incoming": "",
+    "skyrealm.cloud.no_servers": "",
+    "skyrealm.cloud.no_lobbies": "",
+    "skyrealm.cloud.available_servers": "",
+    "skyrealm.cloud.server_entry": "",
+    "skyrealm.cloud.players.on.servers": "",
+    "skyrealm.report.bug_abuse.name": "",
+    "skyrealm.report.success": "",
+    "skyrealm.report.notify.message": "",
+    "skyrealm.server.queued": "",
+    "skyrealm.server.transferring": "",
+    "skyrealm.cloud.connecting_to_hub": "",
+    "skyrealm.server.running": "",
+    "skyrealm.friend.online": "",
+    "skyrealm.friend.offline": "",
+    "skyrealm.cloud.connecting_to_server": "",
+    "skyrealm.general.tpohere.cannot_self_teleport": "",
+    "player.levelup": "",
+    "skyrealm.cloud.server_stopping": "",
+    "skyrealm.cloud.player_transfer": ""
+}
