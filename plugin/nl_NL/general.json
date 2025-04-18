@@ -92,6 +92,6 @@
     "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>Huidige status:</color> <color:#FFD700>%value%</color>",
     "messages.confirm_gui.confirm": "<color:#1fff39>Bevestigen</color>",
     "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Bevestig uw actie.</color>",
-    "messages.confirm_gui.cancel": "<color:#1fff39>Annuleer</color>",
+    "messages.confirm_gui.cancel": "<color:#ED254E>Cancel</color>",
     "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>Als je wilt annuleren, klik hier.</color>"
 }
