@@ -92,6 +92,6 @@
     "user.preferences.friendOnlineNotification.current": "<color:#dfe6e9>État actuel :</color> <color:#FFD700>%value%</color>",
     "messages.confirm_gui.confirm": "<color:#1fff39>Confirmer</color>",
     "messages.confirm_gui.confirm_lore": "<color:#dfe6e9>Please confirm your action.</color>",
-    "messages.confirm_gui.cancel": "<color:#1fff39>Annuler</color>",
+    "messages.confirm_gui.cancel": "<color:#ED254E>Cancel</color>",
     "messages.confirm_gui.cancel_lore": "<color:#dfe6e9>If you wish to cancel, click here.</color>"
 }
