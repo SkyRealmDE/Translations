@@ -19,7 +19,7 @@
     "skyrealm.general.xp.modify.other": "Sie haben %player%'s XP von %amount% geändert",
     "skyrealm.error.cooldown": "Sie müssen <yellow>%cooldown%</yellow> warten, bevor Sie diesen Befehl erneut verwenden können.",
     "badge.obtained": "Sie haben das Abzeichen erhalten: <bold><color:#FFD700>%badge%</color></bold>",
-    "badge.description": "<color:#FFD700>Season: </color>%season% \n<color:#FFD700>Received on: </color><color:#dfe6e9><i>%received%</i></color>",
+    "badge.description": "<color:#FFD700>Saison: </color>%season% \n<color:#FFD700>Erhalten am: </color><color:#dfe6e9><i>%received%</i></color>",
     "badge.given": "Sie haben das Abzeichen <bold><color:#FFD700>%badge%</color></bold> bis <color:#FFD700>%player%</color> gegeben.",
     "badge.selected": "Sie haben das Abzeichen ausgewählt: <bold><color:#FFD700>%badge%</color></bold>.",
     "skyrealm.cosmetic.given": "Ihnen wurde die Kosmetik verliehen: <color:#FFD700>%cosmetic%</color>",
